@@ -429,7 +429,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
                       >
                         {item.repo}
                       </a>
-                      <p className="mt-2 line-clamp-4 min-h-[112px] text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
+                      <p className="mt-2 line-clamp-4 min-h-[112px] text-center text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
                     </div>
                     <span
                       className={clsx(
