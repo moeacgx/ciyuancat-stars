@@ -308,8 +308,8 @@ export function StarExplorer({ data }: { data: StarPayload }) {
         <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
           <div className="min-w-0">
             <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-brand-700">CIYUANCAT STARS</div>
-            <div className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-1">
-              <h1 className="text-xl font-black tracking-tight text-slate-950 sm:text-2xl">Github项目收藏夹</h1>
+            <h1 className="mt-1 text-xl font-black tracking-tight text-slate-950 sm:text-2xl">Github项目收藏夹</h1>
+            <div className="mt-3 flex flex-wrap items-center gap-2">
               <span className="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600">{data.total} 个项目</span>
               <span className="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600">{Object.keys(data.categories).length} 个分类</span>
             </div>
@@ -362,7 +362,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
           <button
             type="button"
             onClick={() => setMobileFiltersOpen(true)}
-            className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-semibold text-slate-700 shadow-card transition hover:bg-slate-50"
+            className="inline-flex h-11 w-full items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-semibold text-slate-700 shadow-card transition hover:bg-slate-50"
           >
             打开左侧筛选栏{activeFilterCount > 0 ? ` · ${activeFilterCount}` : ''}
           </button>
@@ -396,7 +396,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
         )}
 
         <div className="min-w-0">
-          <div className="mb-4 flex flex-wrap items-center justify-end gap-3">
+          <div className="mb-4 hidden flex-wrap items-center justify-end gap-3 sm:flex">
             <div className="text-sm text-slate-500">向下滚动自动加载更多</div>
           </div>
 
@@ -409,9 +409,9 @@ export function StarExplorer({ data }: { data: StarPayload }) {
               {visibleItems.map((item) => (
                 <article
                   key={item.repo}
-                  className="group flex h-full min-h-[360px] flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:p-5"
+                  className="group flex h-full min-h-[320px] flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:min-h-[360px] sm:p-5"
                 >
-                  <div className="mb-4 flex min-h-[150px] items-start justify-between gap-3">
+                  <div className="mb-4 flex min-h-[132px] items-start justify-between gap-3 sm:min-h-[150px]">
                     <div className="min-w-0 flex-1">
                       <a
                         href={item.url}
@@ -421,7 +421,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
                       >
                         {item.repo}
                       </a>
-                      <p className="mt-2 line-clamp-4 min-h-[112px] text-center text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
+                      <p className="mt-2 line-clamp-4 min-h-[96px] text-center text-sm leading-7 text-slate-600 sm:min-h-[112px]">{item.description || '暂无描述'}</p>
                     </div>
                     <span
                       className={clsx(
