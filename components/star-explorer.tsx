@@ -5,17 +5,18 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import type { StarItem, StarPayload } from '@/lib/types';
 
 type SortKey = 'stars-desc' | 'stars-asc' | 'recent-starred' | 'repo-asc' | 'repo-desc';
+type IconName = 'sparkles' | 'cloud' | 'satellite' | 'message' | 'bot' | 'globe' | 'wrench' | 'server' | 'play';
 
-const CATEGORY_META: Record<string, { icon: string; tone: string }> = {
-  '全部': { icon: '✨', tone: 'bg-slate-900 text-white border-slate-900' },
-  'Cloudflare 生态': { icon: '☁️', tone: 'bg-orange-50 text-orange-700 border-orange-200' },
-  '逆向2API/AI网关': { icon: '🛰️', tone: 'bg-pink-50 text-pink-700 border-pink-200' },
-  'Bot/消息桥接': { icon: '💬', tone: 'bg-cyan-50 text-cyan-700 border-cyan-200' },
-  'AI/Agents/Skills': { icon: '🤖', tone: 'bg-violet-50 text-violet-700 border-violet-200' },
-  '网站/CMS/博客': { icon: '🌐', tone: 'bg-emerald-50 text-emerald-700 border-emerald-200' },
-  '开发工具/自动化': { icon: '🛠️', tone: 'bg-amber-50 text-amber-700 border-amber-200' },
-  '部署运维/网络': { icon: '🧩', tone: 'bg-sky-50 text-sky-700 border-sky-200' },
-  '媒体下载/存储': { icon: '🎬', tone: 'bg-rose-50 text-rose-700 border-rose-200' },
+const CATEGORY_META: Record<string, { icon: IconName; tone: string }> = {
+  '全部': { icon: 'sparkles', tone: 'bg-slate-900 text-white border-slate-900' },
+  'Cloudflare 生态': { icon: 'cloud', tone: 'bg-orange-50 text-orange-700 border-orange-200' },
+  '逆向2API/AI网关': { icon: 'satellite', tone: 'bg-pink-50 text-pink-700 border-pink-200' },
+  'Bot/消息桥接': { icon: 'message', tone: 'bg-cyan-50 text-cyan-700 border-cyan-200' },
+  'AI/Agents/Skills': { icon: 'bot', tone: 'bg-violet-50 text-violet-700 border-violet-200' },
+  '网站/CMS/博客': { icon: 'globe', tone: 'bg-emerald-50 text-emerald-700 border-emerald-200' },
+  '开发工具/自动化': { icon: 'wrench', tone: 'bg-amber-50 text-amber-700 border-amber-200' },
+  '部署运维/网络': { icon: 'server', tone: 'bg-sky-50 text-sky-700 border-sky-200' },
+  '媒体下载/存储': { icon: 'play', tone: 'bg-rose-50 text-rose-700 border-rose-200' },
 };
 
 const CATEGORY_BADGE: Record<string, string> = {
@@ -79,6 +80,40 @@ function getStep() {
   if (window.innerWidth < 640) return 8;
   if (window.innerWidth < 1024) return 12;
   return 15;
+}
+
+function CategoryIcon({ name, className }: { name: IconName; className?: string }) {
+  const base = {
+    fill: 'none',
+    stroke: 'currentColor',
+    strokeWidth: 1.9,
+    strokeLinecap: 'round' as const,
+    strokeLinejoin: 'round' as const,
+    viewBox: '0 0 24 24',
+    className,
+  };
+
+  switch (name) {
+    case 'cloud':
+      return <svg {...base}><path d="M7 18a4 4 0 1 1 .8-7.92A5.5 5.5 0 0 1 18.5 12H19a3 3 0 1 1 0 6H7Z" /></svg>;
+    case 'satellite':
+      return <svg {...base}><path d="m14 10 4-4" /><path d="m15 3 6 6" /><path d="M7 14a5 5 0 0 0 3 3" /><path d="M4 17l3-3" /><path d="M2 22l4-4" /><rect x="9" y="9" width="6" height="6" rx="1.2" transform="rotate(45 12 12)" /></svg>;
+    case 'message':
+      return <svg {...base}><path d="M6 18 3 21V6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6Z" /><path d="M8 9h8" /><path d="M8 13h5" /></svg>;
+    case 'bot':
+      return <svg {...base}><path d="M12 3v3" /><rect x="5" y="8" width="14" height="10" rx="3" /><path d="M8 8V7a4 4 0 1 1 8 0v1" /><path d="M9 12h.01" /><path d="M15 12h.01" /><path d="M9 16h6" /></svg>;
+    case 'globe':
+      return <svg {...base}><circle cx="12" cy="12" r="9" /><path d="M3 12h18" /><path d="M12 3a15 15 0 0 1 0 18" /><path d="M12 3a15 15 0 0 0 0 18" /></svg>;
+    case 'wrench':
+      return <svg {...base}><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L4 17v3h3l5.3-5.3a4 4 0 0 0 5.4-5.4l-2.4 2.4-2-2 2.4-2.4Z" /></svg>;
+    case 'server':
+      return <svg {...base}><rect x="4" y="4" width="16" height="6" rx="2" /><rect x="4" y="14" width="16" height="6" rx="2" /><path d="M8 7h.01" /><path d="M8 17h.01" /><path d="M12 7h5" /><path d="M12 17h5" /></svg>;
+    case 'play':
+      return <svg {...base}><rect x="4" y="5" width="16" height="14" rx="2.5" /><path d="m10 9 5 3-5 3V9Z" /></svg>;
+    case 'sparkles':
+    default:
+      return <svg {...base}><path d="M12 3l1.6 4.4L18 9l-4.4 1.6L12 15l-1.6-4.4L6 9l4.4-1.6L12 3Z" /><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8L19 15Z" /><path d="M5 14l.8 2.2L8 17l-2.2.8L5 20l-.8-2.2L2 17l2.2-.8L5 14Z" /></svg>;
+  }
 }
 
 export function StarExplorer({ data }: { data: StarPayload }) {
@@ -203,7 +238,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
                     active ? meta.tone : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
                   )}
                 >
-                  <span>{meta.icon}</span>
+                  <CategoryIcon name={meta.icon} className="h-4 w-4" />
                   <span>{item.key}</span>
                 </button>
               );
