@@ -122,10 +122,14 @@ def main():
         'items': items,
     }
     payload_text = json.dumps(payload, ensure_ascii=False, indent=2)
+    public_dir = ROOT / 'public'
+    public_dir.mkdir(parents=True, exist_ok=True)
     (ROOT / 'data.json').write_text(payload_text)
     (ROOT / 'data.js').write_text('window.__STAR_PAGE_DATA__ = ' + payload_text + ';\n')
+    (public_dir / 'data.json').write_text(payload_text)
     print(f'wrote {ROOT / "data.json"} with {len(items)} items')
     print(f'wrote {ROOT / "data.js"} with {len(items)} items')
+    print(f'wrote {public_dir / "data.json"} with {len(items)} items')
 
 
 if __name__ == '__main__':
