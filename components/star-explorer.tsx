@@ -121,9 +121,10 @@ export function StarExplorer({ data }: { data: StarPayload }) {
   const [activeCategory, setActiveCategory] = useState('全部');
   const [activeTags, setActiveTags] = useState<string[]>([]);
   const [sortBy, setSortBy] = useState<SortKey>('stars-desc');
-  const [filtersOpen, setFiltersOpen] = useState(false);
   const [visibleCount, setVisibleCount] = useState(18);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
+  const categoryBarRef = useRef<HTMLDivElement | null>(null);
+  const dragStateRef = useRef<{ dragging: boolean; startX: number; startScrollLeft: number }>({ dragging: false, startX: 0, startScrollLeft: 0 });
 
   useEffect(() => {
     setVisibleCount(getInitialBatch());
@@ -193,6 +194,25 @@ export function StarExplorer({ data }: { data: StarPayload }) {
     setActiveTags((prev) => (prev.includes(tag) ? prev.filter((item) => item !== tag) : [...prev, tag]));
   };
 
+  const handleCategoryDragStart = (event: React.MouseEvent<HTMLDivElement>) => {
+    if (!categoryBarRef.current) return;
+    dragStateRef.current = {
+      dragging: true,
+      startX: event.clientX,
+      startScrollLeft: categoryBarRef.current.scrollLeft,
+    };
+  };
+
+  const handleCategoryDragMove = (event: React.MouseEvent<HTMLDivElement>) => {
+    if (!dragStateRef.current.dragging || !categoryBarRef.current) return;
+    const delta = event.clientX - dragStateRef.current.startX;
+    categoryBarRef.current.scrollLeft = dragStateRef.current.startScrollLeft - delta;
+  };
+
+  const handleCategoryDragEnd = () => {
+    dragStateRef.current.dragging = false;
+  };
+
   return (
     <div className="mx-auto min-h-screen w-full max-w-[1400px] px-4 pb-10 pt-4 sm:px-6 lg:px-8">
       <header className="mb-4 flex w-full flex-col gap-3 rounded-[24px] border border-white/70 bg-white/90 px-4 py-4 shadow-soft backdrop-blur sm:px-5">
@@ -223,7 +243,14 @@ export function StarExplorer({ data }: { data: StarPayload }) {
       </header>
 
       <section className="sticky top-3 z-20 mb-4 w-full rounded-[24px] border border-white/70 bg-[#f7fdfbcc]/90 px-4 py-3 shadow-soft backdrop-blur sm:px-5">
-        <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1">
+        <div
+          ref={categoryBarRef}
+          onMouseDown={handleCategoryDragStart}
+          onMouseMove={handleCategoryDragMove}
+          onMouseUp={handleCategoryDragEnd}
+          onMouseLeave={handleCategoryDragEnd}
+          className="no-scrollbar flex cursor-grab gap-2 overflow-x-auto pb-1 active:cursor-grabbing"
+        >
           {categories.map((item) => {
             const meta = CATEGORY_META[item.key] ?? CATEGORY_META['全部'];
             const active = activeCategory === item.key;
@@ -283,18 +310,9 @@ export function StarExplorer({ data }: { data: StarPayload }) {
               </div>
 
               <div className="flex gap-2">
-                <button
-                  type="button"
-                  onClick={() => setFiltersOpen((prev) => !prev)}
-                  className={clsx(
-                    'inline-flex h-11 flex-1 items-center justify-center rounded-2xl border px-4 text-sm font-semibold transition',
-                    filtersOpen || activeTags.length
-                      ? 'border-brand-200 bg-brand-50 text-brand-700'
-                      : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
-                  )}
-                >
-                  标签筛选{activeTags.length ? ` · ${activeTags.length}` : ''}
-                </button>
+                <div className="inline-flex h-11 flex-1 items-center rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm font-medium text-slate-600">
+                  标签直接展示{activeTags.length ? ` · 已选 ${activeTags.length}` : ''}
+                </div>
                 <button
                   type="button"
                   onClick={clearFilters}
@@ -313,34 +331,32 @@ export function StarExplorer({ data }: { data: StarPayload }) {
             </div>
           </div>
 
-          {(filtersOpen || activeTags.length > 0 || activeFilterCount > 0) && (
-            <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
-              <div className="mb-4 flex items-center justify-between gap-3">
-                <div>
-                  <div className="text-sm font-semibold text-slate-900">热门标签</div>
-                  <div className="mt-1 text-xs text-slate-500">支持多选，自动缩小结果范围。</div>
-                </div>
-              </div>
-              <div className="flex flex-wrap gap-2">
-                {tags.map((item) => {
-                  const active = activeTags.includes(item.key);
-                  return (
-                    <button
-                      key={item.key}
-                      type="button"
-                      onClick={() => toggleTag(item.key)}
-                      className={clsx(
-                        'rounded-full px-3 py-1.5 text-xs font-medium transition',
-                        active ? 'bg-slate-900 text-white' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
-                      )}
-                    >
-                      #{item.key} · {item.count}
-                    </button>
-                  );
-                })}
+          <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
+            <div className="mb-4 flex items-center justify-between gap-3">
+              <div>
+                <div className="text-sm font-semibold text-slate-900">热门标签</div>
+                <div className="mt-1 text-xs text-slate-500">直接展示，支持多选，自动缩小结果范围。</div>
               </div>
             </div>
-          )}
+            <div className="flex flex-wrap gap-2">
+              {tags.map((item) => {
+                const active = activeTags.includes(item.key);
+                return (
+                  <button
+                    key={item.key}
+                    type="button"
+                    onClick={() => toggleTag(item.key)}
+                    className={clsx(
+                      'rounded-full px-3 py-1.5 text-xs font-medium transition',
+                      active ? 'bg-slate-900 text-white' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                    )}
+                  >
+                    #{item.key} · {item.count}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
         </aside>
 
         <div className="min-w-0">
