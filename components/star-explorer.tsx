@@ -194,8 +194,8 @@ export function StarExplorer({ data }: { data: StarPayload }) {
   };
 
   return (
-    <div className="mx-auto flex min-h-screen w-full max-w-7xl flex-col px-4 pb-10 pt-4 sm:px-6 lg:px-8">
-      <header className="mb-4 flex flex-col gap-3 rounded-[24px] border border-white/70 bg-white/90 px-4 py-4 shadow-soft backdrop-blur sm:px-5">
+    <div className="mx-auto min-h-screen w-full max-w-[1400px] px-4 pb-10 pt-4 sm:px-6 lg:px-8">
+      <header className="mb-4 flex w-full flex-col gap-3 rounded-[24px] border border-white/70 bg-white/90 px-4 py-4 shadow-soft backdrop-blur sm:px-5">
         <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
           <div className="min-w-0">
             <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-brand-700">CIYUANCAT STARS</div>
@@ -222,7 +222,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
         </div>
       </header>
 
-      <section className="sticky top-0 z-20 -mx-4 border-y border-white/60 bg-[#f7fdfbcc]/90 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
+      <section className="sticky top-3 z-20 mb-4 w-full rounded-[24px] border border-white/70 bg-[#f7fdfbcc]/90 px-4 py-3 shadow-soft backdrop-blur sm:px-5">
         <div className="flex flex-col gap-3">
           <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1">
             {categories.map((item) => {
@@ -318,7 +318,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
         </div>
       </section>
 
-      <section className="py-4">
+      <section className="w-full py-4">
         <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
           <div className="flex flex-wrap items-center gap-2 text-sm text-slate-600">
             <span className="rounded-full bg-white px-3 py-1.5 shadow-card">当前展示 {visibleItems.length} / {filtered.length}</span>
