@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-安全版页面增强：
+安全版页面增强:
 - 英文 description 自动翻成中文
 - 缺失 description 时基于 README 提炼一句中文描述
 - topics 太少时基于 README/description 自动补标签
-- 不调用 openclaw agent，不向当前聊天冒泡内部 prompt
+- 不调用 openclaw agent,不向当前聊天冒泡内部 prompt
 """
 import json
 import re
@@ -101,7 +101,7 @@ def pick_summary_source(repo: str, raw_desc: str, readme: str) -> str:
     if not text:
         return ''
     # split into candidate sentences
-    candidates = re.split(r'(?<=[.!?。！？])\s+|\n+', text)
+    candidates = re.split(r'(?<=[.!?。!?])\s+|\n+', text)
     bad = re.compile(r'^(installation|install|usage|license|mit|apache|contributing|roadmap|todo|changelog|features?)\b', re.I)
     repo_words = set(re.findall(r'[a-z0-9]+', repo.lower()))
     for c in candidates:
@@ -118,15 +118,15 @@ def pick_summary_source(repo: str, raw_desc: str, readme: str) -> str:
     return text[:260]
 
 
-def trim_zh(text: str, limit: int = 28) -> str:
+def trim_zh(text: str, limit: int = 80) -> str:
     text = normalize_space(text)
     if len(text) <= limit:
         return text.rstrip('。；，、 ')
     cut = text[:limit]
-    pos = max(cut.rfind(p) for p in '。；，、！？”》')
-    if pos >= 10:
+    pos = max(cut.rfind(p) for p in '。；，、！？"》')
+    if pos >= 15:
         cut = cut[:pos]
-    return cut.rstrip('。；，、 ') + '…'
+    return cut.rstrip('。；，、 ')
 
 
 def translate_to_zh(text: str) -> str:
