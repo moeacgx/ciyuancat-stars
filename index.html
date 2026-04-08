@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>次元猫的 GitHub Star 收藏</title>
+  <meta name="description" content="次元猫的 GitHub Star 收藏页：按分类、标签、Star 数浏览所有收藏项目。" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">CIYUANCAT · GITHUB STARS</p>
+        <h1>次元猫的 GitHub Star 收藏</h1>
+        <p class="sub">把 Star 项目整理成更适合浏览的卡片墙：支持 <strong>分类筛选</strong>、<strong>标签筛选</strong>、<strong>关键词搜索</strong>、<strong>按 Star 数排序</strong>。</p>
+        <div class="hero-actions">
+          <a class="hero-link" href="https://github.com/moeacgx?tab=stars" target="_blank" rel="noreferrer">查看 GitHub Star 原始页</a>
+          <span class="hero-tip">数据由自动分类流程每日更新</span>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-card accent-blue">
+          <span class="stat-label">项目总数</span>
+          <strong id="totalCount">--</strong>
+        </div>
+        <div class="stat-card accent-purple">
+          <span class="stat-label">分类数量</span>
+          <strong id="categoryCount">--</strong>
+        </div>
+        <div class="stat-card accent-green wide">
+          <span class="stat-label">数据更新时间</span>
+          <strong id="generatedAt">--</strong>
+        </div>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <label class="search-box panel-card">
+        <span>搜索项目</span>
+        <input id="searchInput" type="search" placeholder="搜索 repo / 描述 / 标签 / 分类" />
+      </label>
+      <label class="sort-box panel-card">
+        <span>排序方式</span>
+        <select id="sortSelect">
+          <option value="stars-desc">按 Star 数从高到低</option>
+          <option value="stars-asc">按 Star 数从低到高</option>
+          <option value="recent-starred">按收藏时间最新</option>
+          <option value="repo-asc">按仓库名 A-Z</option>
+          <option value="repo-desc">按仓库名 Z-A</option>
+        </select>
+      </label>
+      <div class="summary panel-card" id="summaryText">加载中…</div>
+    </section>
+
+    <section class="panel-card section-block">
+      <div class="section-head">
+        <h2>分类筛选</h2>
+        <p>按 Star 分类快速筛选</p>
+      </div>
+      <div id="categoryFilters" class="chips"></div>
+    </section>
+
+    <section class="panel-card section-block">
+      <div class="section-head">
+        <h2>热门标签</h2>
+        <p>从 topics 里挑高频标签继续细筛</p>
+      </div>
+      <div id="tagFilters" class="chips"></div>
+    </section>
+
+    <section class="grid" id="repoGrid"></section>
+  </div>
+
+  <template id="repoCardTemplate">
+    <article class="repo-card">
+      <div class="repo-glow"></div>
+      <div class="repo-head">
+        <div class="repo-title-group">
+          <a class="repo-name" target="_blank" rel="noreferrer"></a>
+          <p class="repo-desc"></p>
+        </div>
+        <span class="category-badge"></span>
+      </div>
+      <div class="meta-row">
+        <span class="meta-pill repo-stars"></span>
+        <span class="meta-pill repo-lang"></span>
+        <span class="meta-pill repo-starred-at"></span>
+      </div>
+      <div class="tag-row repo-tags"></div>
+    </article>
+  </template>
+
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
