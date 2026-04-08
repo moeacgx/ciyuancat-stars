@@ -1,13 +1,13 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-08T16:02:18",
-  "total": 582,
+  "generatedAt": "2026-04-09T05:03:54",
+  "total": 583,
   "categories": {
+    "Bot/消息桥接": 41,
     "AI/Agents/Skills": 106,
     "开发工具/自动化": 83,
     "Cloudflare 生态": 26,
     "逆向2API/AI网关": 36,
-    "Bot/消息桥接": 40,
     "部署运维/网络": 95,
     "网站/CMS/博客": 87,
     "媒体下载/存储": 109
@@ -26,7 +26,7 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 140097,
+      "stars": 141329,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -57,7 +57,7 @@ window.__STAR_PAGE_DATA__ = {
         "agentic-workflow"
       ],
       "language": "TypeScript",
-      "stars": 136686,
+      "stars": 136767,
       "starredAt": "2025-06-01T17:17:47Z"
     },
     {
@@ -83,7 +83,7 @@ window.__STAR_PAGE_DATA__ = {
         "openapi"
       ],
       "language": "Python",
-      "stars": 130601,
+      "stars": 130722,
       "starredAt": "2025-10-19T05:08:22Z"
     },
     {
@@ -113,7 +113,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 60985,
+      "stars": 61336,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -128,7 +128,7 @@ window.__STAR_PAGE_DATA__ = {
         "openmanus"
       ],
       "language": "Python",
-      "stars": 55648,
+      "stars": 55655,
       "starredAt": "2025-03-18T17:11:58Z"
     },
     {
@@ -154,7 +154,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Python",
-      "stars": 51999,
+      "stars": 52175,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -177,7 +177,7 @@ window.__STAR_PAGE_DATA__ = {
         "awesome-lists"
       ],
       "language": "",
-      "stars": 44929,
+      "stars": 45043,
       "starredAt": "2026-02-07T16:03:07Z"
     },
     {
@@ -193,7 +193,7 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "JavaScript",
-      "stars": 43932,
+      "stars": 44006,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
@@ -214,7 +214,7 @@ window.__STAR_PAGE_DATA__ = {
         "deep-search"
       ],
       "language": "Python",
-      "stars": 40260,
+      "stars": 40278,
       "starredAt": "2025-10-06T03:38:34Z"
     },
     {
@@ -241,7 +241,7 @@ window.__STAR_PAGE_DATA__ = {
         "react-components"
       ],
       "language": "JavaScript",
-      "stars": 37707,
+      "stars": 37724,
       "starredAt": "2025-06-04T08:48:34Z"
     },
     {
@@ -261,7 +261,7 @@ window.__STAR_PAGE_DATA__ = {
         "quantitative-trading"
       ],
       "language": "Python",
-      "stars": 28486,
+      "stars": 28628,
       "starredAt": "2026-01-11T11:53:18Z"
     },
     {
@@ -274,7 +274,7 @@ window.__STAR_PAGE_DATA__ = {
         "phone-use-agent"
       ],
       "language": "Python",
-      "stars": 24754,
+      "stars": 24768,
       "starredAt": "2025-12-25T02:21:54Z"
     },
     {
@@ -291,7 +291,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 21913,
+      "stars": 21947,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -315,7 +315,7 @@ window.__STAR_PAGE_DATA__ = {
         "opencode"
       ],
       "language": "Python",
-      "stars": 21565,
+      "stars": 21656,
       "starredAt": "2026-02-19T09:50:24Z"
     },
     {
@@ -342,7 +342,7 @@ window.__STAR_PAGE_DATA__ = {
         "selenium"
       ],
       "language": "Python",
-      "stars": 21082,
+      "stars": 21081,
       "starredAt": "2025-04-19T19:37:34Z"
     },
     {
@@ -362,7 +362,7 @@ window.__STAR_PAGE_DATA__ = {
         "deep-research"
       ],
       "language": "Python",
-      "stars": 18620,
+      "stars": 18621,
       "starredAt": "2025-07-18T16:27:18Z"
     },
     {
@@ -377,7 +377,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 17702,
+      "stars": 17742,
       "starredAt": "2026-01-01T11:55:23Z"
     },
     {
@@ -393,7 +393,7 @@ window.__STAR_PAGE_DATA__ = {
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 14199,
+      "stars": 14214,
       "starredAt": "2025-06-03T12:04:09Z"
     },
     {
@@ -409,7 +409,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 12773,
+      "stars": 12925,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -438,7 +438,7 @@ window.__STAR_PAGE_DATA__ = {
         "x402-agent"
       ],
       "language": "Go",
-      "stars": 11848,
+      "stars": 11861,
       "starredAt": "2025-11-02T21:43:46Z"
     },
     {
@@ -465,7 +465,7 @@ window.__STAR_PAGE_DATA__ = {
         "glue-coding"
       ],
       "language": "Python",
-      "stars": 11358,
+      "stars": 11381,
       "starredAt": "2025-12-17T18:43:42Z"
     },
     {
@@ -487,7 +487,7 @@ window.__STAR_PAGE_DATA__ = {
         "agent"
       ],
       "language": "TypeScript",
-      "stars": 11208,
+      "stars": 11214,
       "starredAt": "2025-04-29T09:46:24Z"
     },
     {
@@ -503,7 +503,7 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "TypeScript",
-      "stars": 11117,
+      "stars": 11131,
       "starredAt": "2025-08-05T11:09:33Z"
     },
     {
@@ -516,7 +516,7 @@ window.__STAR_PAGE_DATA__ = {
         "proxy"
       ],
       "language": "TypeScript",
-      "stars": 10505,
+      "stars": 10512,
       "starredAt": "2025-03-22T07:20:15Z"
     },
     {
@@ -532,7 +532,7 @@ window.__STAR_PAGE_DATA__ = {
         "dify"
       ],
       "language": "",
-      "stars": 10353,
+      "stars": 10359,
       "starredAt": "2025-06-01T13:23:10Z"
     },
     {
@@ -576,7 +576,7 @@ window.__STAR_PAGE_DATA__ = {
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 9516,
+      "stars": 9573,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
@@ -622,7 +622,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai"
       ],
       "language": "TypeScript",
-      "stars": 5884,
+      "stars": 5889,
       "starredAt": "2025-10-15T12:14:58Z"
     },
     {
@@ -641,7 +641,7 @@ window.__STAR_PAGE_DATA__ = {
         "text2sql"
       ],
       "language": "JavaScript",
-      "stars": 5858,
+      "stars": 5863,
       "starredAt": "2025-10-01T10:36:52Z"
     },
     {
@@ -671,7 +671,7 @@ window.__STAR_PAGE_DATA__ = {
         "claudecode"
       ],
       "language": "Python",
-      "stars": 5793,
+      "stars": 5795,
       "starredAt": "2025-07-31T22:45:54Z"
     },
     {
@@ -694,7 +694,7 @@ window.__STAR_PAGE_DATA__ = {
         "vue"
       ],
       "language": "Python",
-      "stars": 5102,
+      "stars": 5106,
       "starredAt": "2025-12-28T14:15:48Z"
     },
     {
@@ -710,7 +710,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 4552,
+      "stars": 4579,
       "starredAt": "2026-03-20T03:29:26Z"
     },
     {
@@ -725,7 +725,7 @@ window.__STAR_PAGE_DATA__ = {
         "novelgenerator"
       ],
       "language": "Python",
-      "stars": 4230,
+      "stars": 4236,
       "starredAt": "2025-10-10T12:30:32Z"
     },
     {
@@ -739,7 +739,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 4169,
+      "stars": 4188,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
@@ -756,7 +756,7 @@ window.__STAR_PAGE_DATA__ = {
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 3933,
+      "stars": 3936,
       "starredAt": "2025-06-03T15:50:29Z"
     },
     {
@@ -780,7 +780,7 @@ window.__STAR_PAGE_DATA__ = {
         "web-ui"
       ],
       "language": "Kotlin",
-      "stars": 3824,
+      "stars": 3831,
       "starredAt": "2025-07-06T17:27:22Z"
     },
     {
@@ -796,8 +796,26 @@ window.__STAR_PAGE_DATA__ = {
         "enhanced"
       ],
       "language": "JavaScript",
-      "stars": 3708,
+      "stars": 3709,
       "starredAt": "2025-06-08T08:09:31Z"
+    },
+    {
+      "repo": "VoltAgent/awesome-codex-subagents",
+      "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+      "description": "130 多个专业 Codex 子代理的集合，涵盖广泛的开发用例",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "awesome-list",
+        "chatgpt",
+        "codex",
+        "codex-skills",
+        "codex-subagents",
+        "subagents",
+        "ai-agents"
+      ],
+      "language": "",
+      "stars": 3657,
+      "starredAt": "2026-03-20T11:31:54Z"
     },
     {
       "repo": "wwwzhouhui/dify-for-dsl",
@@ -808,7 +826,7 @@ window.__STAR_PAGE_DATA__ = {
         "dify"
       ],
       "language": "Python",
-      "stars": 3655,
+      "stars": 3656,
       "starredAt": "2025-06-02T07:50:32Z"
     },
     {
@@ -828,26 +846,8 @@ window.__STAR_PAGE_DATA__ = {
         "xiaohongshu"
       ],
       "language": "Vue",
-      "stars": 3652,
+      "stars": 3655,
       "starredAt": "2025-09-01T12:45:26Z"
-    },
-    {
-      "repo": "VoltAgent/awesome-codex-subagents",
-      "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-      "description": "130 多个专业 Codex 子代理的集合，涵盖广泛的开发用例",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "awesome-list",
-        "chatgpt",
-        "codex",
-        "codex-skills",
-        "codex-subagents",
-        "subagents",
-        "ai-agents"
-      ],
-      "language": "",
-      "stars": 3621,
-      "starredAt": "2026-03-20T11:31:54Z"
     },
     {
       "repo": "golutra/golutra",
@@ -877,7 +877,7 @@ window.__STAR_PAGE_DATA__ = {
         "developer-tools"
       ],
       "language": "Rust",
-      "stars": 2979,
+      "stars": 2986,
       "starredAt": "2026-03-15T08:44:20Z"
     },
     {
@@ -928,7 +928,7 @@ window.__STAR_PAGE_DATA__ = {
         "short-drama"
       ],
       "language": "TypeScript",
-      "stars": 2590,
+      "stars": 2615,
       "starredAt": "2026-03-24T00:14:40Z"
     },
     {
@@ -943,7 +943,7 @@ window.__STAR_PAGE_DATA__ = {
         "jetbrains"
       ],
       "language": "TypeScript",
-      "stars": 2408,
+      "stars": 2419,
       "starredAt": "2026-01-05T10:00:51Z"
     },
     {
@@ -959,7 +959,7 @@ window.__STAR_PAGE_DATA__ = {
         "webnovel"
       ],
       "language": "Python",
-      "stars": 2392,
+      "stars": 2415,
       "starredAt": "2026-01-18T11:02:32Z"
     },
     {
@@ -975,7 +975,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 2155,
+      "stars": 2156,
       "starredAt": "2025-10-18T10:19:53Z"
     },
     {
@@ -996,7 +996,7 @@ window.__STAR_PAGE_DATA__ = {
         "wispr-flow-alternative"
       ],
       "language": "JavaScript",
-      "stars": 2091,
+      "stars": 2093,
       "starredAt": "2025-09-25T10:17:16Z"
     },
     {
@@ -1028,7 +1028,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1861,
+      "stars": 1865,
       "starredAt": "2026-03-19T17:18:28Z"
     },
     {
@@ -1044,7 +1044,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1823,
+      "stars": 1844,
       "starredAt": "2026-03-22T07:16:24Z"
     },
     {
@@ -1058,7 +1058,7 @@ window.__STAR_PAGE_DATA__ = {
         "mobiagent"
       ],
       "language": "Python",
-      "stars": 1779,
+      "stars": 1781,
       "starredAt": "2025-11-23T05:39:24Z"
     },
     {
@@ -1079,7 +1079,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 1743,
+      "stars": 1751,
       "starredAt": "2025-11-01T06:00:35Z"
     },
     {
@@ -1094,7 +1094,7 @@ window.__STAR_PAGE_DATA__ = {
         "server"
       ],
       "language": "TypeScript",
-      "stars": 1599,
+      "stars": 1600,
       "starredAt": "2025-06-30T13:41:26Z"
     },
     {
@@ -1110,7 +1110,7 @@ window.__STAR_PAGE_DATA__ = {
         "burner"
       ],
       "language": "JavaScript",
-      "stars": 1546,
+      "stars": 1550,
       "starredAt": "2025-10-05T02:25:52Z"
     },
     {
@@ -1125,7 +1125,7 @@ window.__STAR_PAGE_DATA__ = {
         "installer"
       ],
       "language": "JavaScript",
-      "stars": 1520,
+      "stars": 1519,
       "starredAt": "2025-04-12T19:23:54Z"
     },
     {
@@ -1141,7 +1141,7 @@ window.__STAR_PAGE_DATA__ = {
         "ssh"
       ],
       "language": "JavaScript",
-      "stars": 1480,
+      "stars": 1483,
       "starredAt": "2025-10-15T12:40:32Z"
     },
     {
@@ -1170,7 +1170,7 @@ window.__STAR_PAGE_DATA__ = {
         "prompt"
       ],
       "language": "GCC Machine Description",
-      "stars": 1232,
+      "stars": 1233,
       "starredAt": "2026-02-12T15:59:56Z"
     },
     {
@@ -1201,7 +1201,7 @@ window.__STAR_PAGE_DATA__ = {
         "vibecoding"
       ],
       "language": "Python",
-      "stars": 1200,
+      "stars": 1218,
       "starredAt": "2026-04-07T20:34:08Z"
     },
     {
@@ -1217,7 +1217,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 1159,
+      "stars": 1171,
       "starredAt": "2026-02-06T03:07:35Z"
     },
     {
@@ -1247,7 +1247,7 @@ window.__STAR_PAGE_DATA__ = {
         "skillsmp"
       ],
       "language": "Go",
-      "stars": 1063,
+      "stars": 1075,
       "starredAt": "2026-03-23T00:56:44Z"
     },
     {
@@ -1270,7 +1270,7 @@ window.__STAR_PAGE_DATA__ = {
         "canvas"
       ],
       "language": "TypeScript",
-      "stars": 1037,
+      "stars": 1045,
       "starredAt": "2026-03-31T05:48:45Z"
     },
     {
@@ -1302,7 +1302,7 @@ window.__STAR_PAGE_DATA__ = {
         "aitradegame"
       ],
       "language": "Python",
-      "stars": 907,
+      "stars": 908,
       "starredAt": "2025-10-22T15:05:53Z"
     },
     {
@@ -1330,8 +1330,8 @@ window.__STAR_PAGE_DATA__ = {
         "typescript",
         "halowebui"
       ],
-      "language": "Svelte",
-      "stars": 664,
+      "language": "Python",
+      "stars": 675,
       "starredAt": "2026-01-16T10:33:57Z"
     },
     {
@@ -1382,7 +1382,7 @@ window.__STAR_PAGE_DATA__ = {
         "server"
       ],
       "language": "TypeScript",
-      "stars": 484,
+      "stars": 485,
       "starredAt": "2025-04-19T11:02:44Z"
     },
     {
@@ -1397,7 +1397,7 @@ window.__STAR_PAGE_DATA__ = {
         "social-media"
       ],
       "language": "Shell",
-      "stars": 375,
+      "stars": 376,
       "starredAt": "2026-03-11T05:23:55Z"
     },
     {
@@ -1430,7 +1430,7 @@ window.__STAR_PAGE_DATA__ = {
         "agentic-ai"
       ],
       "language": "Python",
-      "stars": 358,
+      "stars": 359,
       "starredAt": "2025-10-24T14:05:23Z"
     },
     {
@@ -1446,7 +1446,7 @@ window.__STAR_PAGE_DATA__ = {
         "browser-automation"
       ],
       "language": "TypeScript",
-      "stars": 353,
+      "stars": 355,
       "starredAt": "2026-01-20T17:20:50Z"
     },
     {
@@ -1501,7 +1501,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "TypeScript",
-      "stars": 254,
+      "stars": 255,
       "starredAt": "2026-03-21T06:16:34Z"
     },
     {
@@ -1517,7 +1517,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Zig",
-      "stars": 241,
+      "stars": 243,
       "starredAt": "2026-03-25T02:01:31Z"
     },
     {
@@ -1714,7 +1714,7 @@ window.__STAR_PAGE_DATA__ = {
         "artifacts"
       ],
       "language": "HTML",
-      "stars": 94,
+      "stars": 93,
       "starredAt": "2025-06-01T22:24:52Z"
     },
     {
@@ -1728,7 +1728,7 @@ window.__STAR_PAGE_DATA__ = {
         "ssh"
       ],
       "language": "Python",
-      "stars": 91,
+      "stars": 92,
       "starredAt": "2026-03-11T07:44:01Z"
     },
     {
@@ -1851,7 +1851,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow"
       ],
       "language": "Python",
-      "stars": 32,
+      "stars": 33,
       "starredAt": "2026-03-23T10:42:49Z"
     },
     {
@@ -1974,7 +1974,7 @@ window.__STAR_PAGE_DATA__ = {
         "llms"
       ],
       "language": "",
-      "stars": 41001,
+      "stars": 41019,
       "starredAt": "2024-06-14T02:30:08Z"
     },
     {
@@ -2002,7 +2002,7 @@ window.__STAR_PAGE_DATA__ = {
         "mqtt"
       ],
       "language": "Kotlin",
-      "stars": 25194,
+      "stars": 25200,
       "starredAt": "2024-06-03T02:57:49Z"
     },
     {
@@ -2019,8 +2019,24 @@ window.__STAR_PAGE_DATA__ = {
         "redteam"
       ],
       "language": "",
-      "stars": 9192,
+      "stars": 9194,
       "starredAt": "2025-05-19T03:35:04Z"
+    },
+    {
+      "repo": "chenhg5/cc-connect",
+      "url": "https://github.com/chenhg5/cc-connect",
+      "description": "连接本地人工智能编码代理（Claude Code、Cursor、Gemini CLI、Codex）与消息平台（飞书/Lark、钉钉、Slack",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "discord",
+        "discord-bot",
+        "wechat"
+      ],
+      "language": "Go",
+      "stars": 4597,
+      "starredAt": "2026-04-08T15:32:16Z"
     },
     {
       "repo": "tdlib/telegram-bot-api",
@@ -2032,7 +2048,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot"
       ],
       "language": "C++",
-      "stars": 4137,
+      "stars": 4136,
       "starredAt": "2026-01-01T20:38:14Z"
     },
     {
@@ -2049,7 +2065,7 @@ window.__STAR_PAGE_DATA__ = {
         "hacktoberfest"
       ],
       "language": "TypeScript",
-      "stars": 1979,
+      "stars": 1980,
       "starredAt": "2025-03-03T13:50:20Z"
     },
     {
@@ -2068,7 +2084,7 @@ window.__STAR_PAGE_DATA__ = {
         "clone"
       ],
       "language": "Python",
-      "stars": 1869,
+      "stars": 1870,
       "starredAt": "2022-09-24T22:59:51Z"
     },
     {
@@ -2144,7 +2160,7 @@ window.__STAR_PAGE_DATA__ = {
         "hacktoberfest"
       ],
       "language": "Python",
-      "stars": 1590,
+      "stars": 1589,
       "starredAt": "2023-09-05T20:26:49Z"
     },
     {
@@ -2165,7 +2181,7 @@ window.__STAR_PAGE_DATA__ = {
         "wechat"
       ],
       "language": "Go",
-      "stars": 1581,
+      "stars": 1582,
       "starredAt": "2025-11-06T05:28:27Z"
     },
     {
@@ -2351,7 +2367,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot-api"
       ],
       "language": "C#",
-      "stars": 237,
+      "stars": 238,
       "starredAt": "2025-09-30T12:05:14Z"
     },
     {
@@ -2382,7 +2398,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot"
       ],
       "language": "C#",
-      "stars": 171,
+      "stars": 172,
       "starredAt": "2023-09-17T23:12:50Z"
     },
     {
@@ -2433,6 +2449,21 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-07-03T09:52:17Z"
     },
     {
+      "repo": "akasls/TG-SignPulse",
+      "url": "https://github.com/akasls/TG-SignPulse",
+      "description": "Telegram自动签到面板",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "docker",
+        "signpulse"
+      ],
+      "language": "Python",
+      "stars": 111,
+      "starredAt": "2026-02-20T02:59:53Z"
+    },
+    {
       "repo": "surprise-tech/huoxing-links",
       "url": "https://github.com/surprise-tech/huoxing-links",
       "description": "火星外链 huoxing-links 开源抖音私信卡片外链系统，支持生成抖音卡片跳转到个人微信二维码、企业微信获客链接、企业微信客服、小程序等",
@@ -2464,21 +2495,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-06-29T06:16:11Z"
     },
     {
-      "repo": "akasls/TG-SignPulse",
-      "url": "https://github.com/akasls/TG-SignPulse",
-      "description": "Telegram自动签到面板",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "signpulse"
-      ],
-      "language": "Python",
-      "stars": 110,
-      "starredAt": "2026-02-20T02:59:53Z"
-    },
-    {
       "repo": "huliyoudiangou/TG_Chat_Bot-D1",
       "url": "https://github.com/huliyoudiangou/TG_Chat_Bot-D1",
       "description": "这是一个基于 Cloudflare Worker 和 D1 数据库 构建的高性能 Telegram 双向机器人",
@@ -2491,7 +2507,7 @@ window.__STAR_PAGE_DATA__ = {
         "chat"
       ],
       "language": "JavaScript",
-      "stars": 106,
+      "stars": 107,
       "starredAt": "2026-02-28T09:32:02Z"
     },
     {
@@ -2693,7 +2709,7 @@ window.__STAR_PAGE_DATA__ = {
         "browser-automation"
       ],
       "language": "",
-      "stars": 13361,
+      "stars": 13383,
       "starredAt": "2024-05-26T02:31:31Z"
     },
     {
@@ -2709,7 +2725,7 @@ window.__STAR_PAGE_DATA__ = {
         "free"
       ],
       "language": "TypeScript",
-      "stars": 8148,
+      "stars": 8169,
       "starredAt": "2023-08-25T20:39:39Z"
     },
     {
@@ -2724,7 +2740,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot"
       ],
       "language": "JavaScript",
-      "stars": 7203,
+      "stars": 7207,
       "starredAt": "2024-05-11T06:27:48Z"
     },
     {
@@ -2739,7 +2755,7 @@ window.__STAR_PAGE_DATA__ = {
         "mail"
       ],
       "language": "JavaScript",
-      "stars": 6180,
+      "stars": 6190,
       "starredAt": "2025-11-05T11:10:45Z"
     },
     {
@@ -2755,7 +2771,7 @@ window.__STAR_PAGE_DATA__ = {
         "cf2dns"
       ],
       "language": "Python",
-      "stars": 5119,
+      "stars": 5121,
       "starredAt": "2020-09-27T03:24:45Z"
     },
     {
@@ -2775,7 +2791,7 @@ window.__STAR_PAGE_DATA__ = {
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 4774,
+      "stars": 4778,
       "starredAt": "2025-02-11T05:11:41Z"
     },
     {
@@ -2797,7 +2813,7 @@ window.__STAR_PAGE_DATA__ = {
         "upload-images"
       ],
       "language": "HTML",
-      "stars": 4495,
+      "stars": 4497,
       "starredAt": "2022-11-01T07:56:28Z"
     },
     {
@@ -2838,7 +2854,7 @@ window.__STAR_PAGE_DATA__ = {
         "react"
       ],
       "language": "TypeScript",
-      "stars": 2574,
+      "stars": 2576,
       "starredAt": "2024-06-07T04:54:36Z"
     },
     {
@@ -2881,7 +2897,7 @@ window.__STAR_PAGE_DATA__ = {
         "password"
       ],
       "language": "TypeScript",
-      "stars": 1558,
+      "stars": 1565,
       "starredAt": "2026-04-01T19:58:38Z"
     },
     {
@@ -2897,7 +2913,7 @@ window.__STAR_PAGE_DATA__ = {
         "insight"
       ],
       "language": "JavaScript",
-      "stars": 1429,
+      "stars": 1430,
       "starredAt": "2025-12-03T17:41:50Z"
     },
     {
@@ -2911,7 +2927,7 @@ window.__STAR_PAGE_DATA__ = {
         "movecar"
       ],
       "language": "JavaScript",
-      "stars": 1087,
+      "stars": 1088,
       "starredAt": "2025-12-31T16:15:54Z"
     },
     {
@@ -2928,7 +2944,7 @@ window.__STAR_PAGE_DATA__ = {
         "workers"
       ],
       "language": "JavaScript",
-      "stars": 1030,
+      "stars": 1031,
       "starredAt": "2024-03-24T09:32:25Z"
     },
     {
@@ -3000,7 +3016,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 385,
+      "stars": 386,
       "starredAt": "2024-05-12T05:55:33Z"
     },
     {
@@ -3137,7 +3153,7 @@ window.__STAR_PAGE_DATA__ = {
         "realtime"
       ],
       "language": "Python",
-      "stars": 89306,
+      "stars": 89368,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -3168,7 +3184,7 @@ window.__STAR_PAGE_DATA__ = {
         "azure-files"
       ],
       "language": "Go",
-      "stars": 56529,
+      "stars": 56539,
       "starredAt": "2019-08-02T04:28:26Z"
     },
     {
@@ -3186,7 +3202,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 55252,
+      "stars": 55286,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -3212,7 +3228,7 @@ window.__STAR_PAGE_DATA__ = {
         "note-taking"
       ],
       "language": "TypeScript",
-      "stars": 54250,
+      "stars": 54265,
       "starredAt": "2023-10-24T02:04:22Z"
     },
     {
@@ -3229,7 +3245,7 @@ window.__STAR_PAGE_DATA__ = {
         "onedrive"
       ],
       "language": "Go",
-      "stars": 49260,
+      "stars": 49263,
       "starredAt": "2022-05-10T13:10:25Z"
     },
     {
@@ -3256,7 +3272,7 @@ window.__STAR_PAGE_DATA__ = {
         "voiceconversion"
       ],
       "language": "Python",
-      "stars": 35140,
+      "stars": 35148,
       "starredAt": "2025-04-13T10:29:19Z"
     },
     {
@@ -3285,7 +3301,7 @@ window.__STAR_PAGE_DATA__ = {
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 32723,
+      "stars": 32729,
       "starredAt": "2022-11-03T03:31:56Z"
     },
     {
@@ -3300,7 +3316,7 @@ window.__STAR_PAGE_DATA__ = {
         "openlist"
       ],
       "language": "Go",
-      "stars": 21790,
+      "stars": 21794,
       "starredAt": "2025-07-08T22:21:14Z"
     },
     {
@@ -3321,7 +3337,7 @@ window.__STAR_PAGE_DATA__ = {
         "realcugan"
       ],
       "language": "C++",
-      "stars": 19365,
+      "stars": 19373,
       "starredAt": "2025-06-09T09:41:59Z"
     },
     {
@@ -3352,7 +3368,7 @@ window.__STAR_PAGE_DATA__ = {
         "rich"
       ],
       "language": "Python",
-      "stars": 13917,
+      "stars": 13925,
       "starredAt": "2023-11-16T09:19:13Z"
     },
     {
@@ -3383,7 +3399,7 @@ window.__STAR_PAGE_DATA__ = {
         "baidupan"
       ],
       "language": "JavaScript",
-      "stars": 13885,
+      "stars": 13896,
       "starredAt": "2026-02-18T07:56:58Z"
     },
     {
@@ -3446,7 +3462,7 @@ window.__STAR_PAGE_DATA__ = {
         "subtile"
       ],
       "language": "Python",
-      "stars": 10116,
+      "stars": 10125,
       "starredAt": "2025-10-29T01:03:22Z"
     },
     {
@@ -3489,7 +3505,7 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "Python",
-      "stars": 9691,
+      "stars": 9695,
       "starredAt": "2024-01-30T01:20:00Z"
     },
     {
@@ -3524,7 +3540,7 @@ window.__STAR_PAGE_DATA__ = {
         "vue"
       ],
       "language": "Python",
-      "stars": 8206,
+      "stars": 8205,
       "starredAt": "2022-12-14T02:47:10Z"
     },
     {
@@ -3540,7 +3556,7 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "TypeScript",
-      "stars": 7914,
+      "stars": 7917,
       "starredAt": "2025-10-29T15:41:48Z"
     },
     {
@@ -3560,7 +3576,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-channel"
       ],
       "language": "Go",
-      "stars": 7349,
+      "stars": 7350,
       "starredAt": "2022-09-17T14:37:35Z"
     },
     {
@@ -3589,7 +3605,7 @@ window.__STAR_PAGE_DATA__ = {
         "compose"
       ],
       "language": "Kotlin",
-      "stars": 6497,
+      "stars": 6500,
       "starredAt": "2023-12-06T07:09:16Z"
     },
     {
@@ -3616,7 +3632,7 @@ window.__STAR_PAGE_DATA__ = {
         "moneyprinterplus"
       ],
       "language": "Python",
-      "stars": 6027,
+      "stars": 6033,
       "starredAt": "2025-02-03T06:09:04Z"
     },
     {
@@ -3652,7 +3668,7 @@ window.__STAR_PAGE_DATA__ = {
         "jmcomic"
       ],
       "language": "Python",
-      "stars": 5567,
+      "stars": 5569,
       "starredAt": "2026-02-12T03:07:53Z"
     },
     {
@@ -3670,7 +3686,7 @@ window.__STAR_PAGE_DATA__ = {
         "twitchtv"
       ],
       "language": "Go",
-      "stars": 5497,
+      "stars": 5499,
       "starredAt": "2022-09-20T05:49:04Z"
     },
     {
@@ -3690,7 +3706,7 @@ window.__STAR_PAGE_DATA__ = {
         "firefox-extension"
       ],
       "language": "TypeScript",
-      "stars": 5137,
+      "stars": 5144,
       "starredAt": "2023-10-30T21:36:44Z"
     },
     {
@@ -3726,7 +3742,7 @@ window.__STAR_PAGE_DATA__ = {
         "cosplatfrom"
       ],
       "language": "JavaScript",
-      "stars": 5062,
+      "stars": 5067,
       "starredAt": "2023-08-11T19:10:23Z"
     },
     {
@@ -3743,7 +3759,7 @@ window.__STAR_PAGE_DATA__ = {
         "wpf"
       ],
       "language": "C#",
-      "stars": 4626,
+      "stars": 4627,
       "starredAt": "2023-04-18T16:35:01Z"
     },
     {
@@ -3784,7 +3800,7 @@ window.__STAR_PAGE_DATA__ = {
         "video-generation"
       ],
       "language": "Python",
-      "stars": 3453,
+      "stars": 3472,
       "starredAt": "2026-01-13T16:45:45Z"
     },
     {
@@ -3809,7 +3825,7 @@ window.__STAR_PAGE_DATA__ = {
         "cross-platform"
       ],
       "language": "Python",
-      "stars": 3449,
+      "stars": 3452,
       "starredAt": "2025-08-31T17:07:59Z"
     },
     {
@@ -3826,7 +3842,7 @@ window.__STAR_PAGE_DATA__ = {
         "yt-dlp-gui"
       ],
       "language": "Python",
-      "stars": 3442,
+      "stars": 3441,
       "starredAt": "2025-10-03T12:19:00Z"
     },
     {
@@ -3843,7 +3859,7 @@ window.__STAR_PAGE_DATA__ = {
         "aria2c"
       ],
       "language": "Shell",
-      "stars": 3440,
+      "stars": 3441,
       "starredAt": "2019-08-02T05:12:53Z"
     },
     {
@@ -3872,7 +3888,7 @@ window.__STAR_PAGE_DATA__ = {
         "kvideo"
       ],
       "language": "TypeScript",
-      "stars": 3197,
+      "stars": 3209,
       "starredAt": "2025-11-24T08:59:40Z"
     },
     {
@@ -3891,7 +3907,7 @@ window.__STAR_PAGE_DATA__ = {
         "xml"
       ],
       "language": "Python",
-      "stars": 3179,
+      "stars": 3183,
       "starredAt": "2025-03-21T09:32:19Z"
     },
     {
@@ -3945,7 +3961,7 @@ window.__STAR_PAGE_DATA__ = {
         "save"
       ],
       "language": "Python",
-      "stars": 2752,
+      "stars": 2754,
       "starredAt": "2024-07-04T10:43:50Z"
     },
     {
@@ -3998,7 +4014,7 @@ window.__STAR_PAGE_DATA__ = {
         "sharelist"
       ],
       "language": "TypeScript",
-      "stars": 2684,
+      "stars": 2685,
       "starredAt": "2019-08-19T09:15:14Z"
     },
     {
@@ -4014,7 +4030,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 2586,
+      "stars": 2587,
       "starredAt": "2019-08-01T15:22:46Z"
     },
     {
@@ -4043,7 +4059,7 @@ window.__STAR_PAGE_DATA__ = {
         "synctv"
       ],
       "language": "Go",
-      "stars": 2409,
+      "stars": 2411,
       "starredAt": "2024-06-15T07:16:05Z"
     },
     {
@@ -4065,7 +4081,7 @@ window.__STAR_PAGE_DATA__ = {
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 2255,
+      "stars": 2260,
       "starredAt": "2025-11-19T13:23:07Z"
     },
     {
@@ -4088,7 +4104,7 @@ window.__STAR_PAGE_DATA__ = {
         "to-webp-animation"
       ],
       "language": "JavaScript",
-      "stars": 2012,
+      "stars": 2011,
       "starredAt": "2024-10-14T11:58:40Z"
     },
     {
@@ -4165,7 +4181,7 @@ window.__STAR_PAGE_DATA__ = {
         "encrypt"
       ],
       "language": "JavaScript",
-      "stars": 1502,
+      "stars": 1503,
       "starredAt": "2024-10-13T01:15:59Z"
     },
     {
@@ -4194,7 +4210,7 @@ window.__STAR_PAGE_DATA__ = {
         "av1"
       ],
       "language": "C#",
-      "stars": 1422,
+      "stars": 1423,
       "starredAt": "2024-12-14T15:51:51Z"
     },
     {
@@ -4251,7 +4267,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-client"
       ],
       "language": "Python",
-      "stars": 1356,
+      "stars": 1355,
       "starredAt": "2024-03-25T05:42:43Z"
     },
     {
@@ -4264,7 +4280,7 @@ window.__STAR_PAGE_DATA__ = {
         "dongguatv"
       ],
       "language": "HTML",
-      "stars": 1347,
+      "stars": 1348,
       "starredAt": "2025-12-19T18:41:47Z"
     },
     {
@@ -4442,7 +4458,7 @@ window.__STAR_PAGE_DATA__ = {
         "download"
       ],
       "language": "Python",
-      "stars": 942,
+      "stars": 944,
       "starredAt": "2024-10-15T00:19:19Z"
     },
     {
@@ -4459,7 +4475,7 @@ window.__STAR_PAGE_DATA__ = {
         "cordova"
       ],
       "language": "HTML",
-      "stars": 851,
+      "stars": 850,
       "starredAt": "2019-10-16T21:02:48Z"
     },
     {
@@ -4598,7 +4614,7 @@ window.__STAR_PAGE_DATA__ = {
         "search"
       ],
       "language": "JavaScript",
-      "stars": 513,
+      "stars": 514,
       "starredAt": "2024-10-19T14:36:27Z"
     },
     {
@@ -4657,7 +4673,7 @@ window.__STAR_PAGE_DATA__ = {
         "file-server"
       ],
       "language": "TypeScript",
-      "stars": 421,
+      "stars": 420,
       "starredAt": "2024-10-15T00:36:42Z"
     },
     {
@@ -5033,7 +5049,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 182940,
+      "stars": 183039,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -5046,7 +5062,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "Python",
-      "stars": 53605,
+      "stars": 53615,
       "starredAt": "2025-09-25T10:29:06Z"
     },
     {
@@ -5072,7 +5088,7 @@ window.__STAR_PAGE_DATA__ = {
         "ws"
       ],
       "language": "",
-      "stars": 53422,
+      "stars": 53429,
       "starredAt": "2019-09-08T01:59:53Z"
     },
     {
@@ -5099,7 +5115,7 @@ window.__STAR_PAGE_DATA__ = {
         "llm"
       ],
       "language": "Python",
-      "stars": 51160,
+      "stars": 51221,
       "starredAt": "2025-12-03T17:41:12Z"
     },
     {
@@ -5119,7 +5135,7 @@ window.__STAR_PAGE_DATA__ = {
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 48482,
+      "stars": 48500,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
@@ -5140,7 +5156,7 @@ window.__STAR_PAGE_DATA__ = {
         "revokemsg"
       ],
       "language": "C#",
-      "stars": 37311,
+      "stars": 37321,
       "starredAt": "2023-12-28T02:04:27Z"
     },
     {
@@ -5153,7 +5169,7 @@ window.__STAR_PAGE_DATA__ = {
         "android"
       ],
       "language": "Kotlin",
-      "stars": 36740,
+      "stars": 36741,
       "starredAt": "2019-08-02T07:26:09Z"
     },
     {
@@ -5184,7 +5200,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 35025,
+      "stars": 35068,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -5212,7 +5228,7 @@ window.__STAR_PAGE_DATA__ = {
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 22677,
+      "stars": 22683,
       "starredAt": "2025-11-05T21:05:44Z"
     },
     {
@@ -5225,7 +5241,7 @@ window.__STAR_PAGE_DATA__ = {
         "java"
       ],
       "language": "",
-      "stars": 15210,
+      "stars": 15211,
       "starredAt": "2019-08-02T07:21:48Z"
     },
     {
@@ -5242,7 +5258,7 @@ window.__STAR_PAGE_DATA__ = {
         "security"
       ],
       "language": "Go",
-      "stars": 13567,
+      "stars": 13573,
       "starredAt": "2024-04-07T03:11:42Z"
     },
     {
@@ -5259,7 +5275,7 @@ window.__STAR_PAGE_DATA__ = {
         "fiddler"
       ],
       "language": "Dart",
-      "stars": 12879,
+      "stars": 12884,
       "starredAt": "2023-09-06T23:19:32Z"
     },
     {
@@ -5283,7 +5299,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai"
       ],
       "language": "Python",
-      "stars": 10800,
+      "stars": 10809,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
@@ -5299,7 +5315,7 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "Python",
-      "stars": 9802,
+      "stars": 9825,
       "starredAt": "2025-05-20T11:02:45Z"
     },
     {
@@ -5315,7 +5331,7 @@ window.__STAR_PAGE_DATA__ = {
         "help-wanted"
       ],
       "language": "Python",
-      "stars": 9529,
+      "stars": 9531,
       "starredAt": "2019-08-02T10:17:28Z"
     },
     {
@@ -5346,7 +5362,7 @@ window.__STAR_PAGE_DATA__ = {
         "chatgpt"
       ],
       "language": "Python",
-      "stars": 8587,
+      "stars": 8589,
       "starredAt": "2022-08-05T04:23:37Z"
     },
     {
@@ -5368,7 +5384,7 @@ window.__STAR_PAGE_DATA__ = {
         "outlook"
       ],
       "language": "Python",
-      "stars": 8194,
+      "stars": 8196,
       "starredAt": "2024-06-09T12:02:26Z"
     },
     {
@@ -5402,7 +5418,7 @@ window.__STAR_PAGE_DATA__ = {
         "livecontainer"
       ],
       "language": "Swift",
-      "stars": 7689,
+      "stars": 7692,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
@@ -5428,7 +5444,7 @@ window.__STAR_PAGE_DATA__ = {
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 5115,
+      "stars": 5116,
       "starredAt": "2025-08-31T17:07:45Z"
     },
     {
@@ -5442,7 +5458,7 @@ window.__STAR_PAGE_DATA__ = {
         "weibo-spider"
       ],
       "language": "Python",
-      "stars": 4439,
+      "stars": 4440,
       "starredAt": "2019-11-19T17:06:24Z"
     },
     {
@@ -5460,7 +5476,7 @@ window.__STAR_PAGE_DATA__ = {
         "edge-extension"
       ],
       "language": "TypeScript",
-      "stars": 4422,
+      "stars": 4421,
       "starredAt": "2025-06-28T23:17:49Z"
     },
     {
@@ -5489,7 +5505,7 @@ window.__STAR_PAGE_DATA__ = {
         "daily-hot"
       ],
       "language": "TypeScript",
-      "stars": 3721,
+      "stars": 3722,
       "starredAt": "2023-09-22T13:08:34Z"
     },
     {
@@ -5516,7 +5532,7 @@ window.__STAR_PAGE_DATA__ = {
         "register"
       ],
       "language": "Python",
-      "stars": 2691,
+      "stars": 2731,
       "starredAt": "2026-03-29T15:22:03Z"
     },
     {
@@ -5531,7 +5547,7 @@ window.__STAR_PAGE_DATA__ = {
         "mumuainovel"
       ],
       "language": "Python",
-      "stars": 2057,
+      "stars": 2061,
       "starredAt": "2025-10-30T10:49:33Z"
     },
     {
@@ -5544,7 +5560,7 @@ window.__STAR_PAGE_DATA__ = {
         "likeyun"
       ],
       "language": "JavaScript",
-      "stars": 1919,
+      "stars": 1921,
       "starredAt": "2022-11-06T09:18:13Z"
     },
     {
@@ -5558,7 +5574,7 @@ window.__STAR_PAGE_DATA__ = {
         "har"
       ],
       "language": "",
-      "stars": 1536,
+      "stars": 1537,
       "starredAt": "2024-05-13T11:20:56Z"
     },
     {
@@ -5588,7 +5604,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1495,
+      "stars": 1502,
       "starredAt": "2026-03-20T01:30:21Z"
     },
     {
@@ -5603,7 +5619,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "",
-      "stars": 1365,
+      "stars": 1367,
       "starredAt": "2025-10-17T09:55:39Z"
     },
     {
@@ -5643,7 +5659,7 @@ window.__STAR_PAGE_DATA__ = {
         "spider"
       ],
       "language": "TypeScript",
-      "stars": 1226,
+      "stars": 1227,
       "starredAt": "2024-04-07T02:56:33Z"
     },
     {
@@ -5659,7 +5675,7 @@ window.__STAR_PAGE_DATA__ = {
         "spider"
       ],
       "language": "JavaScript",
-      "stars": 1217,
+      "stars": 1219,
       "starredAt": "2024-09-25T15:19:59Z"
     },
     {
@@ -5682,7 +5698,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw-alternative"
       ],
       "language": "TypeScript",
-      "stars": 1137,
+      "stars": 1138,
       "starredAt": "2025-11-12T07:41:35Z"
     },
     {
@@ -5723,7 +5739,7 @@ window.__STAR_PAGE_DATA__ = {
         "kiro"
       ],
       "language": "Rust",
-      "stars": 879,
+      "stars": 880,
       "starredAt": "2026-01-06T12:49:36Z"
     },
     {
@@ -5736,7 +5752,7 @@ window.__STAR_PAGE_DATA__ = {
         "icp"
       ],
       "language": "Python",
-      "stars": 816,
+      "stars": 817,
       "starredAt": "2025-11-18T06:18:36Z"
     },
     {
@@ -5768,7 +5784,7 @@ window.__STAR_PAGE_DATA__ = {
         "api-gateway"
       ],
       "language": "JavaScript",
-      "stars": 693,
+      "stars": 698,
       "starredAt": "2026-03-04T09:32:34Z"
     },
     {
@@ -5840,7 +5856,7 @@ window.__STAR_PAGE_DATA__ = {
         "ipa-robots"
       ],
       "language": "",
-      "stars": 459,
+      "stars": 460,
       "starredAt": "2025-05-20T11:00:36Z"
     },
     {
@@ -5914,7 +5930,7 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "Rust",
-      "stars": 303,
+      "stars": 317,
       "starredAt": "2026-04-07T17:36:00Z"
     },
     {
@@ -5931,7 +5947,7 @@ window.__STAR_PAGE_DATA__ = {
         "adi1090x"
       ],
       "language": "Shell",
-      "stars": 241,
+      "stars": 242,
       "starredAt": "2019-08-02T03:48:26Z"
     },
     {
@@ -5973,7 +5989,7 @@ window.__STAR_PAGE_DATA__ = {
         "userscripts"
       ],
       "language": "JavaScript",
-      "stars": 207,
+      "stars": 206,
       "starredAt": "2023-04-05T11:33:17Z"
     },
     {
@@ -6396,7 +6412,7 @@ window.__STAR_PAGE_DATA__ = {
         "dujiaofaka"
       ],
       "language": "PHP",
-      "stars": 11978,
+      "stars": 11980,
       "starredAt": "2021-01-09T18:20:22Z"
     },
     {
@@ -6438,7 +6454,7 @@ window.__STAR_PAGE_DATA__ = {
         "survey"
       ],
       "language": "TypeScript",
-      "stars": 8668,
+      "stars": 8667,
       "starredAt": "2024-04-13T23:39:07Z"
     },
     {
@@ -6456,7 +6472,7 @@ window.__STAR_PAGE_DATA__ = {
         "dao-hang"
       ],
       "language": "CSS",
-      "stars": 7254,
+      "stars": 7252,
       "starredAt": "2019-09-22T10:31:02Z"
     },
     {
@@ -6468,7 +6484,7 @@ window.__STAR_PAGE_DATA__ = {
         "faka"
       ],
       "language": "PHP",
-      "stars": 4656,
+      "stars": 4662,
       "starredAt": "2022-10-25T10:10:50Z"
     },
     {
@@ -6487,7 +6503,7 @@ window.__STAR_PAGE_DATA__ = {
         "twitter"
       ],
       "language": "Go",
-      "stars": 4497,
+      "stars": 4496,
       "starredAt": "2022-05-28T11:54:22Z"
     },
     {
@@ -6517,7 +6533,7 @@ window.__STAR_PAGE_DATA__ = {
         "programming"
       ],
       "language": "",
-      "stars": 3370,
+      "stars": 3371,
       "starredAt": "2025-12-03T17:32:17Z"
     },
     {
@@ -6536,7 +6552,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai-awesome"
       ],
       "language": "TypeScript",
-      "stars": 3217,
+      "stars": 3215,
       "starredAt": "2024-12-14T17:03:14Z"
     },
     {
@@ -6595,7 +6611,7 @@ window.__STAR_PAGE_DATA__ = {
         "php"
       ],
       "language": "PHP",
-      "stars": 2365,
+      "stars": 2370,
       "starredAt": "2019-10-08T16:11:46Z"
     },
     {
@@ -6611,7 +6627,7 @@ window.__STAR_PAGE_DATA__ = {
         "issues-blog"
       ],
       "language": "Python",
-      "stars": 2314,
+      "stars": 2315,
       "starredAt": "2024-06-25T03:46:16Z"
     },
     {
@@ -6629,7 +6645,7 @@ window.__STAR_PAGE_DATA__ = {
         "vercel"
       ],
       "language": "JavaScript",
-      "stars": 2152,
+      "stars": 2151,
       "starredAt": "2020-12-04T06:23:57Z"
     },
     {
@@ -6737,7 +6753,7 @@ window.__STAR_PAGE_DATA__ = {
         "github-app"
       ],
       "language": "TypeScript",
-      "stars": 1440,
+      "stars": 1442,
       "starredAt": "2025-12-20T06:40:24Z"
     },
     {
@@ -6797,8 +6813,23 @@ window.__STAR_PAGE_DATA__ = {
         "tailwind"
       ],
       "language": "JavaScript",
-      "stars": 903,
+      "stars": 902,
       "starredAt": "2025-05-17T14:18:31Z"
+    },
+    {
+      "repo": "cworld1/astro-theme-pure",
+      "url": "https://github.com/cworld1/astro-theme-pure",
+      "description": "由 Astro 构建的简单、快速且功能强大的博客和文档主题",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "astro",
+        "astrojs",
+        "blog",
+        "blog-theme"
+      ],
+      "language": "Astro",
+      "stars": 880,
+      "starredAt": "2025-11-02T15:12:20Z"
     },
     {
       "repo": "LyLme/lylme_spage",
@@ -6815,21 +6846,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "PHP",
       "stars": 880,
       "starredAt": "2023-04-15T12:07:54Z"
-    },
-    {
-      "repo": "cworld1/astro-theme-pure",
-      "url": "https://github.com/cworld1/astro-theme-pure",
-      "description": "由 Astro 构建的简单、快速且功能强大的博客和文档主题",
-      "category": "网站/CMS/博客",
-      "topics": [
-        "astro",
-        "astrojs",
-        "blog",
-        "blog-theme"
-      ],
-      "language": "Astro",
-      "stars": 879,
-      "starredAt": "2025-11-02T15:12:20Z"
     },
     {
       "repo": "chengzhongxue/halo-theme-hao",
@@ -6982,7 +6998,7 @@ window.__STAR_PAGE_DATA__ = {
         "zustand"
       ],
       "language": "TypeScript",
-      "stars": 564,
+      "stars": 566,
       "starredAt": "2026-03-04T10:51:08Z"
     },
     {
@@ -7050,7 +7066,7 @@ window.__STAR_PAGE_DATA__ = {
         "vuepress-theme-hope"
       ],
       "language": "JavaScript",
-      "stars": 510,
+      "stars": 509,
       "starredAt": "2024-06-09T12:31:22Z"
     },
     {
@@ -7716,7 +7732,7 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Rust",
-      "stars": 27906,
+      "stars": 27945,
       "starredAt": "2025-12-23T02:32:14Z"
     },
     {
@@ -7734,7 +7750,7 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Go",
-      "stars": 23999,
+      "stars": 24159,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
@@ -7754,7 +7770,7 @@ window.__STAR_PAGE_DATA__ = {
         "crs2"
       ],
       "language": "Go",
-      "stars": 10912,
+      "stars": 11029,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
@@ -7774,7 +7790,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "Python",
-      "stars": 4466,
+      "stars": 4475,
       "starredAt": "2025-10-23T00:53:15Z"
     },
     {
@@ -7789,7 +7805,7 @@ window.__STAR_PAGE_DATA__ = {
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4187,
+      "stars": 4193,
       "starredAt": "2026-01-16T18:26:07Z"
     },
     {
@@ -7805,7 +7821,7 @@ window.__STAR_PAGE_DATA__ = {
         "token"
       ],
       "language": "TypeScript",
-      "stars": 3976,
+      "stars": 4001,
       "starredAt": "2026-03-14T23:54:12Z"
     },
     {
@@ -7821,7 +7837,7 @@ window.__STAR_PAGE_DATA__ = {
         "grok-4-20"
       ],
       "language": "Python",
-      "stars": 3945,
+      "stars": 3967,
       "starredAt": "2026-02-07T22:43:06Z"
     },
     {
@@ -7847,7 +7863,7 @@ window.__STAR_PAGE_DATA__ = {
         "deepseek"
       ],
       "language": "Go",
-      "stars": 2929,
+      "stars": 2936,
       "starredAt": "2025-11-11T13:50:07Z"
     },
     {
@@ -7860,7 +7876,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "TypeScript",
-      "stars": 2333,
+      "stars": 2338,
       "starredAt": "2025-10-24T12:01:49Z"
     },
     {
@@ -7880,7 +7896,7 @@ window.__STAR_PAGE_DATA__ = {
         "llm-gateway"
       ],
       "language": "TypeScript",
-      "stars": 1950,
+      "stars": 1952,
       "starredAt": "2025-12-19T18:52:59Z"
     },
     {
@@ -7895,7 +7911,7 @@ window.__STAR_PAGE_DATA__ = {
         "flow2api"
       ],
       "language": "Python",
-      "stars": 1880,
+      "stars": 1893,
       "starredAt": "2025-12-20T06:43:29Z"
     },
     {
@@ -7909,7 +7925,7 @@ window.__STAR_PAGE_DATA__ = {
         "metapi"
       ],
       "language": "TypeScript",
-      "stars": 1827,
+      "stars": 1859,
       "starredAt": "2026-03-07T11:40:53Z"
     },
     {
@@ -7925,7 +7941,7 @@ window.__STAR_PAGE_DATA__ = {
         "cursor"
       ],
       "language": "TypeScript",
-      "stars": 1738,
+      "stars": 1744,
       "starredAt": "2026-03-29T16:58:51Z"
     },
     {
@@ -7940,7 +7956,7 @@ window.__STAR_PAGE_DATA__ = {
         "manager"
       ],
       "language": "JavaScript",
-      "stars": 1299,
+      "stars": 1305,
       "starredAt": "2026-01-06T12:55:30Z"
     },
     {
@@ -7956,7 +7972,7 @@ window.__STAR_PAGE_DATA__ = {
         "javascript"
       ],
       "language": "Python",
-      "stars": 978,
+      "stars": 980,
       "starredAt": "2026-03-16T11:35:59Z"
     },
     {
@@ -7978,22 +7994,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-10-03T08:25:42Z"
     },
     {
-      "repo": "fawney19/Aether",
-      "url": "https://github.com/fawney19/Aether",
-      "description": "Aether 一站式 AI 基础设施平台 支持 Claude / OpenAI / Gemini 及其 CLI 客户端的统一接入、格式转换",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "claude-code",
-        "docker",
-        "api-gateway",
-        "cli",
-        "python"
-      ],
-      "language": "Python",
-      "stars": 940,
-      "starredAt": "2025-12-13T04:11:30Z"
-    },
-    {
       "repo": "CJackHwang/ds2api",
       "url": "https://github.com/CJackHwang/ds2api",
       "description": "Deepseek客户端对话转API全栈开源工具，高性能，多账号轮询，支持纯vercel、docker部署使用。Google、Claude",
@@ -8011,8 +8011,24 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Go",
-      "stars": 888,
+      "stars": 945,
       "starredAt": "2026-03-29T15:25:23Z"
+    },
+    {
+      "repo": "fawney19/Aether",
+      "url": "https://github.com/fawney19/Aether",
+      "description": "Aether 一站式 AI 基础设施平台 支持 Claude / OpenAI / Gemini 及其 CLI 客户端的统一接入、格式转换",
+      "category": "逆向2API/AI网关",
+      "topics": [
+        "claude-code",
+        "docker",
+        "api-gateway",
+        "cli",
+        "python"
+      ],
+      "language": "Python",
+      "stars": 945,
+      "starredAt": "2025-12-13T04:11:30Z"
     },
     {
       "repo": "caidaoli/kiro2api",
@@ -8057,7 +8073,7 @@ window.__STAR_PAGE_DATA__ = {
         "exafree"
       ],
       "language": "Python",
-      "stars": 506,
+      "stars": 507,
       "starredAt": "2025-12-24T08:50:36Z"
     },
     {
@@ -8073,7 +8089,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 459,
+      "stars": 464,
       "starredAt": "2026-03-18T01:19:34Z"
     },
     {
@@ -8309,7 +8325,7 @@ window.__STAR_PAGE_DATA__ = {
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 108616,
+      "stars": 108788,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -8332,7 +8348,7 @@ window.__STAR_PAGE_DATA__ = {
         "vpn"
       ],
       "language": "Kotlin",
-      "stars": 53470,
+      "stars": 53523,
       "starredAt": "2022-10-11T09:41:36Z"
     },
     {
@@ -8351,7 +8367,7 @@ window.__STAR_PAGE_DATA__ = {
         "virtualization"
       ],
       "language": "Shell",
-      "stars": 50829,
+      "stars": 50845,
       "starredAt": "2024-03-12T01:34:33Z"
     },
     {
@@ -8364,7 +8380,7 @@ window.__STAR_PAGE_DATA__ = {
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 36904,
+      "stars": 36948,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
@@ -8390,7 +8406,7 @@ window.__STAR_PAGE_DATA__ = {
         "nps"
       ],
       "language": "Go",
-      "stars": 34014,
+      "stars": 34015,
       "starredAt": "2022-11-07T09:53:39Z"
     },
     {
@@ -8420,7 +8436,7 @@ window.__STAR_PAGE_DATA__ = {
         "fail2ban"
       ],
       "language": "HTML",
-      "stars": 33426,
+      "stars": 33469,
       "starredAt": "2024-06-05T23:32:13Z"
     },
     {
@@ -8449,7 +8465,7 @@ window.__STAR_PAGE_DATA__ = {
         "wireguard"
       ],
       "language": "Dart",
-      "stars": 28344,
+      "stars": 28379,
       "starredAt": "2024-06-06T12:15:59Z"
     },
     {
@@ -8465,7 +8481,7 @@ window.__STAR_PAGE_DATA__ = {
         "http"
       ],
       "language": "Python",
-      "stars": 23262,
+      "stars": 23263,
       "starredAt": "2024-06-23T09:19:02Z"
     },
     {
@@ -8479,7 +8495,7 @@ window.__STAR_PAGE_DATA__ = {
         "python-spider"
       ],
       "language": "Python",
-      "stars": 21503,
+      "stars": 21505,
       "starredAt": "2019-11-14T19:17:13Z"
     },
     {
@@ -8510,7 +8526,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 21004,
+      "stars": 21006,
       "starredAt": "2025-01-01T12:19:08Z"
     },
     {
@@ -8541,7 +8557,7 @@ window.__STAR_PAGE_DATA__ = {
         "caddy"
       ],
       "language": "C",
-      "stars": 20393,
+      "stars": 20398,
       "starredAt": "2023-09-14T16:55:29Z"
     },
     {
@@ -8557,7 +8573,7 @@ window.__STAR_PAGE_DATA__ = {
         "xray-panel"
       ],
       "language": "JavaScript",
-      "stars": 18862,
+      "stars": 18871,
       "starredAt": "2022-09-21T04:13:44Z"
     },
     {
@@ -8593,7 +8609,7 @@ window.__STAR_PAGE_DATA__ = {
         "gfw"
       ],
       "language": "",
-      "stars": 11894,
+      "stars": 11900,
       "starredAt": "2022-10-08T01:13:29Z"
     },
     {
@@ -8623,7 +8639,7 @@ window.__STAR_PAGE_DATA__ = {
         "linux-distribution"
       ],
       "language": "Shell",
-      "stars": 11414,
+      "stars": 11421,
       "starredAt": "2024-11-27T04:34:01Z"
     },
     {
@@ -8640,7 +8656,7 @@ window.__STAR_PAGE_DATA__ = {
         "go"
       ],
       "language": "Go",
-      "stars": 10330,
+      "stars": 10329,
       "starredAt": "2024-11-23T06:54:10Z"
     },
     {
@@ -8655,7 +8671,7 @@ window.__STAR_PAGE_DATA__ = {
         "jsproxy"
       ],
       "language": "Shell",
-      "stars": 9354,
+      "stars": 9355,
       "starredAt": "2019-09-06T04:20:53Z"
     },
     {
@@ -8678,7 +8694,7 @@ window.__STAR_PAGE_DATA__ = {
         "ssr"
       ],
       "language": "JavaScript",
-      "stars": 9162,
+      "stars": 9173,
       "starredAt": "2024-06-23T12:36:40Z"
     },
     {
@@ -8695,7 +8711,7 @@ window.__STAR_PAGE_DATA__ = {
         "subscription-tracker"
       ],
       "language": "PHP",
-      "stars": 7663,
+      "stars": 7666,
       "starredAt": "2024-06-13T08:51:23Z"
     },
     {
@@ -8726,7 +8742,7 @@ window.__STAR_PAGE_DATA__ = {
         "goecs"
       ],
       "language": "Shell",
-      "stars": 6600,
+      "stars": 6610,
       "starredAt": "2024-04-20T04:45:18Z"
     },
     {
@@ -8742,7 +8758,7 @@ window.__STAR_PAGE_DATA__ = {
         "crawler"
       ],
       "language": "Python",
-      "stars": 6535,
+      "stars": 6539,
       "starredAt": "2025-10-27T09:59:25Z"
     },
     {
@@ -8764,7 +8780,7 @@ window.__STAR_PAGE_DATA__ = {
         "performance"
       ],
       "language": "Shell",
-      "stars": 6318,
+      "stars": 6322,
       "starredAt": "2023-11-25T03:14:04Z"
     },
     {
@@ -8780,7 +8796,7 @@ window.__STAR_PAGE_DATA__ = {
         "workervless2sub"
       ],
       "language": "JavaScript",
-      "stars": 5697,
+      "stars": 5699,
       "starredAt": "2024-12-30T06:19:43Z"
     },
     {
@@ -8831,7 +8847,7 @@ window.__STAR_PAGE_DATA__ = {
         "vless"
       ],
       "language": "PHP",
-      "stars": 4973,
+      "stars": 4976,
       "starredAt": "2022-09-20T09:06:48Z"
     },
     {
@@ -8912,7 +8928,7 @@ window.__STAR_PAGE_DATA__ = {
         "wireguard"
       ],
       "language": "Shell",
-      "stars": 4450,
+      "stars": 4452,
       "starredAt": "2024-05-28T05:52:34Z"
     },
     {
@@ -8943,7 +8959,7 @@ window.__STAR_PAGE_DATA__ = {
         "sap"
       ],
       "language": "Shell",
-      "stars": 4434,
+      "stars": 4449,
       "starredAt": "2025-11-05T09:21:40Z"
     },
     {
@@ -8959,7 +8975,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot"
       ],
       "language": "C#",
-      "stars": 4389,
+      "stars": 4388,
       "starredAt": "2026-03-02T12:18:52Z"
     },
     {
@@ -8979,7 +8995,7 @@ window.__STAR_PAGE_DATA__ = {
         "tunnel"
       ],
       "language": "Shell",
-      "stars": 4373,
+      "stars": 4374,
       "starredAt": "2025-07-08T22:31:17Z"
     },
     {
@@ -9010,7 +9026,7 @@ window.__STAR_PAGE_DATA__ = {
         "throne"
       ],
       "language": "Shell",
-      "stars": 4131,
+      "stars": 4134,
       "starredAt": "2024-05-10T17:02:51Z"
     },
     {
@@ -9023,7 +9039,7 @@ window.__STAR_PAGE_DATA__ = {
         "proxypool"
       ],
       "language": "Go",
-      "stars": 4016,
+      "stars": 4017,
       "starredAt": "2022-05-08T15:48:32Z"
     },
     {
@@ -9044,7 +9060,7 @@ window.__STAR_PAGE_DATA__ = {
         "two-factor"
       ],
       "language": "PHP",
-      "stars": 3862,
+      "stars": 3863,
       "starredAt": "2025-06-28T23:08:11Z"
     },
     {
@@ -9061,7 +9077,7 @@ window.__STAR_PAGE_DATA__ = {
         "libevent"
       ],
       "language": "C++",
-      "stars": 3841,
+      "stars": 3842,
       "starredAt": "2023-04-18T11:00:08Z"
     },
     {
@@ -9078,7 +9094,7 @@ window.__STAR_PAGE_DATA__ = {
         "dockerfiles"
       ],
       "language": "Svelte",
-      "stars": 3709,
+      "stars": 3720,
       "starredAt": "2026-02-25T03:51:13Z"
     },
     {
@@ -9095,7 +9111,7 @@ window.__STAR_PAGE_DATA__ = {
         "web"
       ],
       "language": "TypeScript",
-      "stars": 3635,
+      "stars": 3634,
       "starredAt": "2024-01-22T10:16:48Z"
     },
     {
@@ -9130,7 +9146,7 @@ window.__STAR_PAGE_DATA__ = {
         "golang"
       ],
       "language": "Go",
-      "stars": 2693,
+      "stars": 2713,
       "starredAt": "2023-08-03T22:47:04Z"
     },
     {
@@ -9159,7 +9175,7 @@ window.__STAR_PAGE_DATA__ = {
         "gitea"
       ],
       "language": "Go",
-      "stars": 2673,
+      "stars": 2674,
       "starredAt": "2024-06-23T12:20:48Z"
     },
     {
@@ -9199,7 +9215,7 @@ window.__STAR_PAGE_DATA__ = {
         "all-in-one"
       ],
       "language": "TypeScript",
-      "stars": 2217,
+      "stars": 2219,
       "starredAt": "2025-11-11T14:07:40Z"
     },
     {
@@ -9244,7 +9260,7 @@ window.__STAR_PAGE_DATA__ = {
         "ssh"
       ],
       "language": "Vue",
-      "stars": 1942,
+      "stars": 1943,
       "starredAt": "2022-06-09T08:23:40Z"
     },
     {
@@ -9258,7 +9274,7 @@ window.__STAR_PAGE_DATA__ = {
         "easygost"
       ],
       "language": "Shell",
-      "stars": 1934,
+      "stars": 1935,
       "starredAt": "2022-09-18T06:22:06Z"
     },
     {
@@ -9273,7 +9289,7 @@ window.__STAR_PAGE_DATA__ = {
         "xiuxian"
       ],
       "language": "JavaScript",
-      "stars": 1710,
+      "stars": 1711,
       "starredAt": "2024-10-02T00:17:17Z"
     },
     {
@@ -9289,7 +9305,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai-agent"
       ],
       "language": "JavaScript",
-      "stars": 1706,
+      "stars": 1708,
       "starredAt": "2025-10-27T13:51:41Z"
     },
     {
@@ -9362,7 +9378,7 @@ window.__STAR_PAGE_DATA__ = {
         "bepusdt"
       ],
       "language": "Vue",
-      "stars": 1361,
+      "stars": 1362,
       "starredAt": "2024-11-29T05:56:41Z"
     },
     {
@@ -9390,7 +9406,7 @@ window.__STAR_PAGE_DATA__ = {
         "v2board"
       ],
       "language": "PHP",
-      "stars": 1079,
+      "stars": 1082,
       "starredAt": "2024-06-23T06:09:02Z"
     },
     {
@@ -9405,7 +9421,7 @@ window.__STAR_PAGE_DATA__ = {
         "sublinkpro"
       ],
       "language": "Go",
-      "stars": 1062,
+      "stars": 1063,
       "starredAt": "2026-01-15T12:35:01Z"
     },
     {
@@ -9427,7 +9443,7 @@ window.__STAR_PAGE_DATA__ = {
         "zero-trust"
       ],
       "language": "Shell",
-      "stars": 991,
+      "stars": 1000,
       "starredAt": "2026-03-23T05:00:33Z"
     },
     {
@@ -9445,7 +9461,7 @@ window.__STAR_PAGE_DATA__ = {
         "vps"
       ],
       "language": "Shell",
-      "stars": 902,
+      "stars": 903,
       "starredAt": "2023-09-22T00:24:39Z"
     },
     {
@@ -9513,7 +9529,7 @@ window.__STAR_PAGE_DATA__ = {
         "miaomiaowu"
       ],
       "language": "TypeScript",
-      "stars": 625,
+      "stars": 626,
       "starredAt": "2025-10-21T12:51:54Z"
     },
     {
@@ -9536,7 +9552,7 @@ window.__STAR_PAGE_DATA__ = {
         "cron-go",
         "go-cron-panel"
       ],
-      "language": "Go",
+      "language": "Vue",
       "stars": 524,
       "starredAt": "2026-01-10T02:07:46Z"
     },
@@ -9567,7 +9583,7 @@ window.__STAR_PAGE_DATA__ = {
         "trafficcop"
       ],
       "language": "Shell",
-      "stars": 484,
+      "stars": 486,
       "starredAt": "2024-07-03T11:08:56Z"
     },
     {
@@ -9640,7 +9656,7 @@ window.__STAR_PAGE_DATA__ = {
         "tcp"
       ],
       "language": "Rust",
-      "stars": 343,
+      "stars": 344,
       "starredAt": "2023-08-29T20:17:49Z"
     },
     {

@@ -5375,5 +5375,15 @@
       "piyushgarg",
       "rclone"
     ]
+  },
+  "chenhg5/cc-connect": {
+    "zh_desc": "连接本地人工智能编码代理（Claude Code、Cursor、Gemini CLI、Codex）与消息平台（飞书/Lark、钉钉、Slack",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "discord",
+      "discord-bot",
+      "wechat"
+    ]
   }
 }
