@@ -1,0 +1,202 @@
+[
+  {
+    "repo": "donbarbos/telegram-bot-template",
+    "source_desc": "🤖 Template for telegram bot using postgres, pgbouncer, redis, docker, amplitude, prometheus, grafana, CI with admin panel",
+    "readme": ""
+  },
+  {
+    "repo": "Swiftgram/Telegram-iOS",
+    "source_desc": "Supercharged Telegram fork for iOS from original creator of Nicegram",
+    "readme": ""
+  },
+  {
+    "repo": "james-6-23/team-invite-kfc",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "hank9999/kiro.rs",
+    "source_desc": "A Kiro Client in Rust",
+    "readme": ""
+  },
+  {
+    "repo": "caidaoli/kiro2api",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "Haleclipse/Claudix",
+    "source_desc": "Gorgeous Claude Code Extend for VS Code.",
+    "readme": ""
+  },
+  {
+    "repo": "zhukunpenglinyutong/jetbrains-cc-gui",
+    "source_desc": "Jetbrains Claude Code and Codex GUI Plugin",
+    "readme": ""
+  },
+  {
+    "repo": "dyyz1993/script-gateway",
+    "source_desc": "🚀 ScriptGateway - A lightweight script hosting and API gateway platform for n8n workflow automation. Convert Python/JS scripts to REST APIs instantly with built-in dependency management.",
+    "readme": ""
+  },
+  {
+    "repo": "tdlib/telegram-bot-api",
+    "source_desc": "Telegram Bot API server",
+    "readme": ""
+  },
+  {
+    "repo": "czlonkowski/n8n-skills",
+    "source_desc": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "readme": ""
+  },
+  {
+    "repo": "czlonkowski/n8n-mcp",
+    "source_desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "readme": ""
+  },
+  {
+    "repo": "HisMax/RedInk",
+    "source_desc": "Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+    "readme": ""
+  },
+  {
+    "repo": "obra/superpowers",
+    "source_desc": "An agentic skills framework & software development methodology that works.",
+    "readme": ""
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "source_desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "readme": ""
+  },
+  {
+    "repo": "zai-org/Open-AutoGLM",
+    "source_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "readme": ""
+  },
+  {
+    "repo": "GuDaStudio/skills",
+    "source_desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.",
+    "readme": ""
+  },
+  {
+    "repo": "router-for-me/CLIProxyAPI",
+    "source_desc": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+    "readme": ""
+  },
+  {
+    "repo": "lfnovo/open-notebook",
+    "source_desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "readme": ""
+  },
+  {
+    "repo": "firecrawl/open-scouts",
+    "source_desc": "🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.",
+    "readme": ""
+  },
+  {
+    "repo": "Tansuo2021/OCRPDF-TO-PPT",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "fawney19/Aether",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "IPADS-SAI/MobiAgent",
+    "source_desc": "The Intelligent GUI Agent for Mobile Phones",
+    "readme": ""
+  },
+  {
+    "repo": "kuafuai/aipexbase",
+    "source_desc": "AipexBase is an AI-native BaaS platform. You only need to develop the frontend with vibe coding tools, and leave the backend to AipexBase!",
+    "readme": ""
+  },
+  {
+    "repo": "AIPexStudio/AIPex",
+    "source_desc": "AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser",
+    "readme": ""
+  },
+  {
+    "repo": "looplj/axonhub",
+    "source_desc": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
+    "readme": ""
+  },
+  {
+    "repo": "bmad-code-org/BMAD-METHOD",
+    "source_desc": "Breakthrough Method for Agile Ai Driven Development",
+    "readme": ""
+  },
+  {
+    "repo": "radishzzz/astro-theme-retypeset",
+    "source_desc": "Revive the beauty of typography.",
+    "readme": ""
+  },
+  {
+    "repo": "Shannon-x/sufe-shop-bot",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "ptbsare/mcp-proxy-server",
+    "source_desc": "This server acts as a central hub for Model Context Protocol (MCP) resource servers.",
+    "readme": ""
+  },
+  {
+    "repo": "apify/crawlee",
+    "source_desc": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "readme": ""
+  },
+  {
+    "repo": "NoFxAiOS/nofx",
+    "source_desc": "Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.",
+    "readme": ""
+  },
+  {
+    "repo": "cworld1/astro-theme-pure",
+    "source_desc": "⭐ A simple, fast and powerful blog & document theme built by Astro",
+    "readme": ""
+  },
+  {
+    "repo": "catlog22/Claude-Code-Workflow",
+    "source_desc": "JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution",
+    "readme": ""
+  },
+  {
+    "repo": "aisuyi065/alpha-okx-deepseek-qwen",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "nexmoe/VidBee",
+    "source_desc": "Download videos from almost any website worldwide",
+    "readme": ""
+  },
+  {
+    "repo": "wzdnzd/aggregator",
+    "source_desc": "One-stop Proxies Crawling and Aggregation Platform",
+    "readme": ""
+  },
+  {
+    "repo": "ChinaSiro/open-prompt-manager-for-prompub",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "chadyi/AITradeGame",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "XUANXUQAQ/gpt-api-sync",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "source_desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "readme": ""
+  }
+]

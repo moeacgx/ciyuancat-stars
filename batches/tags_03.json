@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "soluckysummer/n8n_workflows",
+    "source_desc": "此仓库存储我在YouTube频道分享的N8N工作流配置文件，用户可直接下载JSON文件导入N8N使用",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "benborla/mcp-server-mysql",
+    "source_desc": "A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "AMEINEKO/Auto-Brute-Force-Tool",
+    "source_desc": "基于GO，Python编写的混合爆破脚本  支持多种爆破模式，支持多线程、自动依赖安装环境、小内存环境爆破、自动安装后门、自动上传Telegram bot以及字典库等多种功能  root@localhost:~# python3 xui.py  请选择爆破模式：  1.XUI面板爆破 2.哪吒面板爆破  3.HUI面板爆破 4.咸蛋面板爆破  5.SUI面板爆破 6.SSH爆破  7.Sub Store爆破 8.OpenWrt/iStoreOS爆破",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "EBOLABOY/GridBNB-USDT",
+    "source_desc": "这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "tingxifa/okx-grid-bot",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "alhza/GPT-Load",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "YILING0013/AI_NovelGenerator",
+    "source_desc": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "nullskymc/tavernTranslator",
+    "source_desc": "SillyTavern character card translation tool 角色卡翻译工具",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Nicolana/generate-cover",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zhuchenyu2008/RSS-AI",
+    "source_desc": "Summarize RSS feeds with AI",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "BHznJNs/auto-discourse",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Feather-2/Burner-X",
+    "source_desc": "Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "hyb-oyqq/hajimi-king-pro",
+    "source_desc": "人人都是【超级】哈基米大王",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zhaoxiaozhao07/k2think2api",
+    "source_desc": "K2-Think模型代理，兼容OpenAI API，支持本地/Docker部署，加入工具调用",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wuqi-y/auto-cursor-releases",
+    "source_desc": "源代码(开源版本到0.8)，后续版本会继续更新但不会开源",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "CCRSRG/TG_ZF",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Zie619/n8n-workflows",
+    "source_desc": "all of the workflows of n8n i could find (also from the site itself)",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "DemoJ/memos-ai",
+    "source_desc": "基于个人 Memos 笔记的智能问答助手",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "li88iioo/Photonix",
+    "source_desc": "🤖 AI驱动的智能相册 | 双布局模式 | 移动端触摸优化 | Docker一键部署  一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换，集成AI画中密语、双指缩放拖拽、多数据库架构。开箱即用的Docker部署方案。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "LiveContainer/LiveContainer",
+    "source_desc": "Run iOS apps without actually installing them!",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "hangwin/mcp-chrome",
+    "source_desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "xiamuceer-j/AI-Gamble",
+    "source_desc": "这是一个基于大型语言模型（LLM）的动态互动小说游戏。它能够根据玩家选择的故事类型，实时生成独特的故事情节、人物、以及一个可视化的故事发展线路图，为玩家提供一个充满未知和选择的沉浸式阅读体验。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "naigoucn/ngdown",
+    "source_desc": "奶狗附件下载插件适用于大多数WordPress主题",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "leonardsellem/n8n-mcp-server",
+    "source_desc": "MCP server that provides tools and resources for interacting with n8n API",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Minidoracat/mcp-feedback-enhanced",
+    "source_desc": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "sanshao85/mcp-feedback-collector-web",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wwwzhouhui/dify-for-dsl",
+    "source_desc": "本项目是基于dify开源项目实现的dsl工作流脚本合集",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "svcvit/dify-plugin-artifacts",
+    "source_desc": "A DIFY plugin used to render the HTML code output of LLM",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "svcvit/Awesome-Dify-Workflow",
+    "source_desc": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "baranwang/mcp-trends-hub",
+    "source_desc": "基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "3ixi/BeeLine",
+    "source_desc": "A Web Scheduling Console For Windows。适用于无法安装Docker青龙面板的Windows系统，通过Web控制台调度（Cron）执行Python脚本，支持环境变量、依赖、日志管理。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "obiwan90/n8n_guide",
+    "source_desc": "n8n工作流与RAG技术实现指南",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ZubeidHendricks/youtube-mcp-server",
+    "source_desc": "MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "anaisbetts/mcp-installer",
+    "source_desc": "An MCP server that installs other MCP servers for you",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "liuyoshio/mcp-compass",
+    "source_desc": "MCP Discovery & Recommendation Service - Find the right MCP server for your needs",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "FoundationAgents/OpenManus",
+    "source_desc": "No fortress, purely open ground.  OpenManus is Coming.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "3269571135/tg_faka_bot",
+    "source_desc": "电报自动发卡",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "levywang/random_web_player",
+    "source_desc": "配合接口实现类似抖音效果的在线播放器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "levywang/avhub",
+    "source_desc": "R18 Resource Search & Management Tool",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "woniu336/vps-date",
+    "source_desc": "MJJ订阅追踪",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ddean2009/MoneyPrinterPlus",
+    "source_desc": "AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "samwafgo/SamWaf",
+    "source_desc": "SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "cmliu/WorkerVless2sub",
+    "source_desc": "自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "surprise-tech/huoxing-links",
+    "source_desc": "火星外链 huoxing-links 开源抖音私信卡片外链系统，支持生成抖音卡片跳转到个人微信二维码、企业微信获客链接、企业微信客服、小程序等，有效打通不同平台直接的流量壁垒，实现高质量的抖音外链私域引流获客！",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "KoriIku/luxirty-search",
+    "source_desc": "一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "v03413/BEpusdt",
+    "source_desc": "一款更好用的个人加密货币收款网关，兼容所有 Epusdt 插件，可无缝切换，支持动态汇率、支持Docker部署；支持独角数卡 彩虹易支付",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "iAJue/Articlesync",
+    "source_desc": "ArticleSync 是一个浏览器扩展，帮助用户轻松将文章同步发布到多个社交平台。它提供了一站式解决方案，让你在不同的社交媒体平台上同步文章变得简单高效。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "2418676646/duanju-api",
+    "source_desc": "短剧api",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "675061370/xinyue-search",
+    "source_desc": "心悦搜索-支持多网盘转存分享，支持夸克网盘、百度网盘、阿里云盘、UC网盘、迅雷云盘，网盘资源管理与索引工具！",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Xwudao/lzpan_search",
+    "source_desc": "懒盘搜索 短剧网盘搜索引擎源码：百度网盘、阿里云盘、夸克网盘、迅雷网盘",
+    "readme": "",
+    "topics": []
+  }
+]

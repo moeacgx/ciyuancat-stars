@@ -1,0 +1,202 @@
+[
+  {
+    "repo": "dockur/windows",
+    "source_desc": "Windows inside a Docker container.",
+    "readme": ""
+  },
+  {
+    "repo": "leptonai/search_with_lepton",
+    "source_desc": "Building a quick conversation-based search demo with Lepton AI.",
+    "readme": ""
+  },
+  {
+    "repo": "rejetto/hfs",
+    "source_desc": "HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.",
+    "readme": ""
+  },
+  {
+    "repo": "timvisee/send",
+    "source_desc": ":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send",
+    "readme": ""
+  },
+  {
+    "repo": "XayahSuSuSu/Android-DataBackup",
+    "source_desc": "DataBackup for Android 7.0+",
+    "readme": ""
+  },
+  {
+    "repo": "masonr/yet-another-bench-script",
+    "source_desc": "YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",
+    "readme": ""
+  },
+  {
+    "repo": "Tokinx/Adams",
+    "source_desc": "A set of simple and lightweight themes for WordPress",
+    "readme": ""
+  },
+  {
+    "repo": "bebound/pixivd",
+    "source_desc": "Pixiv Downloader - Batch download pictures from Pixiv",
+    "readme": ""
+  },
+  {
+    "repo": "laurent22/joplin",
+    "source_desc": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+    "readme": ""
+  },
+  {
+    "repo": "MinaMichita/AntiAntiDefraud",
+    "source_desc": "Stop uploading my installed app list! Miui!",
+    "readme": ""
+  },
+  {
+    "repo": "allinurl/goaccess",
+    "source_desc": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+    "readme": ""
+  },
+  {
+    "repo": "eastarpen/ping-charts",
+    "source_desc": "VPS latency visualization probe",
+    "readme": ""
+  },
+  {
+    "repo": "wanghongenpin/proxypin",
+    "source_desc": "Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems",
+    "readme": ""
+  },
+  {
+    "repo": "aahnik/tgcf",
+    "source_desc": "The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.",
+    "readme": ""
+  },
+  {
+    "repo": "cinit/TMoe",
+    "source_desc": "An Xposed module for Telegram clients",
+    "readme": ""
+  },
+  {
+    "repo": "luodaoyi/DomainScan",
+    "source_desc": "A domain name bulk search bot with support of over 200 top-level domains.",
+    "readme": ""
+  },
+  {
+    "repo": "rust-net/tcp2ws",
+    "source_desc": "TCP to WebSocket",
+    "readme": ""
+  },
+  {
+    "repo": "tindy2013/stairspeedtest-reborn",
+    "source_desc": "Proxy performance batch tester based on Shadowsocks(R) and V2Ray",
+    "readme": ""
+  },
+  {
+    "repo": "adamlui/chatgpt-auto-refresh",
+    "source_desc": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+    "readme": ""
+  },
+  {
+    "repo": "webp-sh/webp_server_go",
+    "source_desc": "Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.",
+    "readme": ""
+  },
+  {
+    "repo": "Tokinx/Wing",
+    "source_desc": "Simple, smooth, data-driven, responsive WordPress theme",
+    "readme": ""
+  },
+  {
+    "repo": "maintell/webBenchmark",
+    "source_desc": "a simple tool of website benchmark.",
+    "readme": ""
+  },
+  {
+    "repo": "tjsky/pikpak",
+    "source_desc": "pikpak web",
+    "readme": ""
+  },
+  {
+    "repo": "jbt/markdown-editor",
+    "source_desc": "Live (Github-flavored) Markdown Editor",
+    "readme": ""
+  },
+  {
+    "repo": "missuo/Telegraph-Image-Hosting",
+    "source_desc": "Build a free image hosting with Telegraph",
+    "readme": ""
+  },
+  {
+    "repo": "cf-pages/Telegraph-Image",
+    "source_desc": "Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.",
+    "readme": ""
+  },
+  {
+    "repo": "mmmdbybyd/CNS",
+    "source_desc": "CuteBi Network Server",
+    "readme": ""
+  },
+  {
+    "repo": "EverythingSuckz/TG-FileStreamBot",
+    "source_desc": "A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)",
+    "readme": ""
+  },
+  {
+    "repo": "2dust/v2rayNG",
+    "source_desc": "A V2Ray client for Android, support Xray core and v2fly core",
+    "readme": ""
+  },
+  {
+    "repo": "qkqpttgf/OneManager-php",
+    "source_desc": "An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.",
+    "readme": ""
+  },
+  {
+    "repo": "vasusen-code/SaveRestrictedContentBot",
+    "source_desc": "Stable telegram bot to save Restricted content with custom thumbnail support.",
+    "readme": ""
+  },
+  {
+    "repo": "xyTom/cf-page-func-proxy",
+    "source_desc": "Use Cloudflare Pages Functions as a reverse proxy with custom domain support.",
+    "readme": ""
+  },
+  {
+    "repo": "v2board/v2board",
+    "source_desc": "🚀A multiple proxy protocol manage panel application interface",
+    "readme": ""
+  },
+  {
+    "repo": "iyear/tdl",
+    "source_desc": "📥 A Telegram toolkit written in Golang",
+    "readme": ""
+  },
+  {
+    "repo": "jinwyp/one_click_script",
+    "source_desc": "install latest or LTS linux kernel and enable BBR or BBR plus",
+    "readme": ""
+  },
+  {
+    "repo": "mvscode/frps-onekey",
+    "source_desc": "Frp server one-click configuration script. The script obtains the latest Frp version by default",
+    "readme": ""
+  },
+  {
+    "repo": "LoveesYe/cdnflydadao",
+    "source_desc": "CDN",
+    "readme": ""
+  },
+  {
+    "repo": "midoks/mdserver-web",
+    "source_desc": "Simple Linux Panel",
+    "readme": ""
+  },
+  {
+    "repo": "zu1k/proxypool",
+    "source_desc": "Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes",
+    "readme": ""
+  },
+  {
+    "repo": "Har-Kuun/OneClickCDN",
+    "source_desc": "A one-click shell script to set up a CDN node for your websites.",
+    "readme": ""
+  }
+]

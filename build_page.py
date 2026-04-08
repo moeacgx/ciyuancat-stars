@@ -7,6 +7,7 @@ from pathlib import Path
 ROOT = Path('/root/.openclaw/workspace-team-a/data/ciyuancat-stars-page')
 CACHE = Path('/root/.openclaw/workspace-team-a/skills/github-star-auto/data/classification_cache.json')
 SEED = Path('/root/.openclaw/workspace-team-a/tmp/star-audit/stars_final_classified.json')
+DESC_CACHE = ROOT / 'desc_cache.json'
 
 
 def run(cmd):
@@ -62,19 +63,30 @@ def load_cache():
     return cache
 
 
+def load_desc_cache():
+    if DESC_CACHE.exists():
+        return json.loads(DESC_CACHE.read_text())
+    return {}
+
+
 def main():
     ROOT.mkdir(parents=True, exist_ok=True)
     stars = fetch_current_stars()
     cache = load_cache()
+    desc_cache = load_desc_cache()
 
     items = []
     categories = {}
     for row in stars:
         repo = row['nameWithOwner']
         cached = cache.get(repo, {})
+        desc_cached = desc_cache.get(repo, {})
         category = cached.get('category', '未分类')
-        one_liner = (row.get('description') or '').strip() or cached.get('reason') or '暂无描述'
+        raw_desc = (row.get('description') or '').strip()
+        one_liner = desc_cached.get('zh_desc') or raw_desc or '暂无公开描述'
         topics = [n['topic']['name'] for n in (((row.get('repositoryTopics') or {}).get('nodes')) or [])]
+        if len(topics) < 2 and desc_cached.get('auto_tags'):
+            topics = list(dict.fromkeys(topics + desc_cached.get('auto_tags', [])))[:8]
         item = {
             'repo': repo,
             'url': row['url'],

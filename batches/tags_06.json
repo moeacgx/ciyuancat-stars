@@ -1,0 +1,146 @@
+[
+  {
+    "repo": "unix/unix.bio",
+    "source_desc": "My static blog template.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "idealclover/UniTypecho",
+    "source_desc": "🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "dchijack/Travel-Mini-Program",
+    "source_desc": "基于 WordPress Mini Program API 插件创建的 WordPress 小程序之 Travel 主题，包括微信小程序、 QQ 小程序、百度智能小程序及今日头条小程序。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "yyuueexxiinngg/some-scripts",
+    "source_desc": "Some random scripts",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lzx8589561/oneindex2-in",
+    "source_desc": "国内版2.0世纪互联版",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Rhilip/AutoRclone",
+    "source_desc": "A project that allows you copy large folders to Shared Drives.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Tai7sy/OneDriveFly",
+    "source_desc": "OneDrive Index Anywhere (QCloud SCF/Aliyun FC/Cloudflare Workers/Google Cloud Functions etc.)",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "dollarshaveclub/cloudworker",
+    "source_desc": "Run Cloudflare Worker scripts locally",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "vcheckzen/FODI",
+    "source_desc": "Fast OneDrive Index，OneDrive 快速列表程序",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Ice-Hazymoon/idcard_generator",
+    "source_desc": "身份证生成器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "veip007/Linux-to-Google-Drive",
+    "source_desc": "Linux下谷歌网盘同步工具、自动备份VPS文件到Google Drive",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "EtherDream/jsproxy",
+    "source_desc": "An online proxy based on ServiceWorker",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Wildwizard404/qqzhpt-spider",
+    "source_desc": "情趣综合平台 美图爬虫/批量下载",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "TechnicalMujeeb/Termux-Login-v1.2",
+    "source_desc": "secure Your Termux app with username and password updated v.1.2",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Bhai4You/Termux-Sudo",
+    "source_desc": "Lazy Script For install Sudo in Termux",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "piyushgarg/rclone-mount",
+    "source_desc": "mount rclone via magisk",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "reruin/sharelist",
+    "source_desc": "快速分享 GoogleDrive OneDrive",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "0oVicero0/OneDrive",
+    "source_desc": "[Linux] OneDrive for Business",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "KitePig/FatRat-Collect",
+    "source_desc": "胖鼠采集 WordPress优秀开源采集插件",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "junchou9463/beautyimgdownload",
+    "source_desc": "妹子图网站爬虫",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Hackxiaoya/CuteOne",
+    "source_desc": "这大概是最好的onedrive挂载程序了吧，我猜。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "beatleuk/gdfl",
+    "source_desc": "Google Drive Folder List builds a html output file of a Google Drive folder",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "loadchange/amemv-crawler",
+    "source_desc": "🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Magisk-Modules-Repo/com.piyushgarg.rclone",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  }
+]

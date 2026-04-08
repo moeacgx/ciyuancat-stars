@@ -1,0 +1,306 @@
+[
+  {
+    "repo": "Dylanchouxd/Autojs_Douyin",
+    "source_desc": "AutoJs，AutoX，抖音养号助手(自动点赞、关注、评论)，快手好友互动助手(自动打招呼)，抖音脚本，快手脚本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "luodaoyi/DomainScan",
+    "source_desc": "A domain name bulk search bot with support of over 200 top-level domains.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "mulingyuer/Typecho_Theme_JJ",
+    "source_desc": "Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "LyLme/lylme_spage",
+    "source_desc": "六零导航页",
+    "readme": "",
+    "topics": [
+      "php"
+    ]
+  },
+  {
+    "repo": "zh66y/vmqpc",
+    "source_desc": "V免签PC某信某付宝的监控 更新时间2024.8.20  vmq监控 vmqpc监控 vmq微信监控 vmq支付宝监控 V免签监控 智慧66云 码支付 易支付 即时到账",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "maintell/webBenchmark",
+    "source_desc": "a simple tool of website benchmark.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "8838/btpanel-v7.7.0",
+    "source_desc": "宝塔v7.7.0官方原版备份",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "tsymq-live/web-stream-media",
+    "source_desc": "简单流媒体服务端",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "likeyun/liKeYun_ylb",
+    "source_desc": "引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "tjsky/pikpak",
+    "source_desc": "pikpak web",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "jbt/markdown-editor",
+    "source_desc": "Live (Github-flavored) Markdown Editor",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "joyqi/sfz",
+    "source_desc": "专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "greycodee/wechat-backup",
+    "source_desc": "微信聊天记录持久化备份本地硬盘，释放手机存储空间。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "mmmdbybyd/CNS",
+    "source_desc": "CuteBi Network Server",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lizhipay/acg-faka",
+    "source_desc": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "cppla/ServerStatus",
+    "source_desc": "云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zhenxun-org/zhenxun_bot-deploy",
+    "source_desc": "真寻bot一键部署脚本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "xyTom/cf-page-func-proxy",
+    "source_desc": "Use Cloudflare Pages Functions as a reverse proxy with custom domain support.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wangxinleo/wechat-public-account-push",
+    "source_desc": "✨微信公众号推送-给女朋友的浪漫",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "KANIKIG/Multi-EasyGost",
+    "source_desc": "致力于最简单好用的GOST小白脚本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wexuo/home",
+    "source_desc": "好看的个人主页，个人主页源码，博客主页模板",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Netflixxp/jcnfbesttrace",
+    "source_desc": "四网回程检测",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "xsidc/dnsmasq",
+    "source_desc": "一键安装和配置Dns流媒体解锁后端",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "clover1420/AutoSign",
+    "source_desc": "小黑盒，好游快爆，miui历史版本,天翼云盘自动签到脚本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "alittletry/alittlepay",
+    "source_desc": "完全免费带APP挂机支付系统,支持多设备同时支付宝和微信挂机支付轮训，带限额和自动浮动价格",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "gavin66/reader-web",
+    "source_desc": "Web 阅读器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "arloor/iptablesUtils",
+    "source_desc": "iptables转发ddns域名",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Aranxu/NodePanels",
+    "source_desc": "Nodepanels - 安全,私密,好用的云端服务器集群管理系统",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "LoveesYe/cdnflydadao",
+    "source_desc": "CDN",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "OsBelief/Cocos2d-JS-Game",
+    "source_desc": "HTML5小游戏",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Xxtyme/EatCxk",
+    "source_desc": "小游戏：吃掉小鹿乃",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "flucont/btcloud",
+    "source_desc": "PHP开发的宝塔面板第三方云端",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "chaos-zhu/easynode",
+    "source_desc": "一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Lymoo/H5-Mobile-Demo",
+    "source_desc": "H5小游戏 雍正去哪了",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "xfcf1/kunai",
+    "source_desc": "网红旋转飞刀手、口红机小游戏、egret h5 小游戏",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "newcastlecy/proxypool-1",
+    "source_desc": "自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess节点信息，聚合去重检测可用性后提供节点列表",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "sunpma/mtp",
+    "source_desc": "MTProxy TLS 绿色版一键安装脚本",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zwying0814/Brave",
+    "source_desc": "Typecho情侣主题Brave",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Pan-O/LOVE",
+    "source_desc": "简单的情侣单页",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "gogobody/onecircle",
+    "source_desc": "一款typecho 社交圈子 主题",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Har-Kuun/OneClickCDN",
+    "source_desc": "A one-click shell script to set up a CDN node for your websites.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wuruiwm/msautocreate",
+    "source_desc": "微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "kun775/douyinhelper",
+    "source_desc": "抖音批量下载助手",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "850552586/gridea-theme-fog",
+    "source_desc": "gridea静态博客主题，不适合追求简洁的博主使用",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "kallydev/privacy",
+    "source_desc": "个人隐私泄露检测工具。",
+    "readme": "",
+    "topics": [
+      "privacy"
+    ]
+  },
+  {
+    "repo": "liumingye/quarkHomePage",
+    "source_desc": "H5仿夸克浏览器主页",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ddgth/cf2dns",
+    "source_desc": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lovezzzxxx/liverecord",
+    "source_desc": "自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zdhxiong/mdclub",
+    "source_desc": "MDClub 社区系统后端代码",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Strrationalism/GiteeFS",
+    "source_desc": "用于将Gitee仓库作为文件系统使用的库。",
+    "readme": "",
+    "topics": []
+  }
+]

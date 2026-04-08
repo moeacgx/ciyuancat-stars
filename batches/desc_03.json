@@ -1,0 +1,202 @@
+[
+  {
+    "repo": "firecrawl/open-agent-builder",
+    "source_desc": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution",
+    "readme": ""
+  },
+  {
+    "repo": "benborla/mcp-server-mysql",
+    "source_desc": "A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.",
+    "readme": ""
+  },
+  {
+    "repo": "UfoMiao/zcf",
+    "source_desc": "Zero-Config Code Flow for Claude code & Codex",
+    "readme": ""
+  },
+  {
+    "repo": "tingxifa/okx-grid-bot",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "alhza/GPT-Load",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "Nicolana/generate-cover",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "zhuchenyu2008/RSS-AI",
+    "source_desc": "Summarize RSS feeds with AI",
+    "readme": ""
+  },
+  {
+    "repo": "BHznJNs/auto-discourse",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "aizhimou/pigeon-pod",
+    "source_desc": "Listen to YouTube & Bilibili. Anywhere.",
+    "readme": ""
+  },
+  {
+    "repo": "oop7/YTSage",
+    "source_desc": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+    "readme": ""
+  },
+  {
+    "repo": "CCRSRG/TG_ZF",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "Zie619/n8n-workflows",
+    "source_desc": "all of the workflows of n8n i could find (also from the site itself)",
+    "readme": ""
+  },
+  {
+    "repo": "rwv/chinese-dos-games",
+    "source_desc": "🎮 Chinese DOS games collections.",
+    "readme": ""
+  },
+  {
+    "repo": "LiveContainer/LiveContainer",
+    "source_desc": "Run iOS apps without actually installing them!",
+    "readme": ""
+  },
+  {
+    "repo": "hangwin/mcp-chrome",
+    "source_desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+    "readme": ""
+  },
+  {
+    "repo": "yangsoon/funny-bot",
+    "source_desc": "telegram bot fetch photo from gamersky",
+    "readme": ""
+  },
+  {
+    "repo": "blinkospace/blinko",
+    "source_desc": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+    "readme": ""
+  },
+  {
+    "repo": "Alibaba-NLP/DeepResearch",
+    "source_desc": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "readme": ""
+  },
+  {
+    "repo": "OpenListTeam/OpenList",
+    "source_desc": "A new AList Fork to Anti Trust Crisis",
+    "readme": ""
+  },
+  {
+    "repo": "rikkahub/rikkahub",
+    "source_desc": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+    "readme": ""
+  },
+  {
+    "repo": "leonardsellem/n8n-mcp-server",
+    "source_desc": "MCP server that provides tools and resources for interacting with n8n API",
+    "readme": ""
+  },
+  {
+    "repo": "Authenticator-Extension/Authenticator",
+    "source_desc": "Authenticator generates 2-Step Verification codes in your browser.",
+    "readme": ""
+  },
+  {
+    "repo": "Bubka/2FAuth",
+    "source_desc": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+    "readme": ""
+  },
+  {
+    "repo": "k4yt3x/video2x",
+    "source_desc": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+    "readme": ""
+  },
+  {
+    "repo": "Minidoracat/mcp-feedback-enhanced",
+    "source_desc": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
+    "readme": ""
+  },
+  {
+    "repo": "DavidHDev/react-bits",
+    "source_desc": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+    "readme": ""
+  },
+  {
+    "repo": "sanshao85/mcp-feedback-collector-web",
+    "source_desc": "",
+    "readme": ""
+  },
+  {
+    "repo": "antvis/mcp-server-chart",
+    "source_desc": "🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.",
+    "readme": ""
+  },
+  {
+    "repo": "GLips/Figma-Context-MCP",
+    "source_desc": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+    "readme": ""
+  },
+  {
+    "repo": "svcvit/dify-plugin-artifacts",
+    "source_desc": "A DIFY plugin used to render the HTML code output of LLM",
+    "readme": ""
+  },
+  {
+    "repo": "langgenius/dify",
+    "source_desc": "Production-ready platform for agentic workflow development.",
+    "readme": ""
+  },
+  {
+    "repo": "EvoAgentX/EvoAgentX",
+    "source_desc": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+    "readme": ""
+  },
+  {
+    "repo": "btahir/next-shopify-starter",
+    "source_desc": "Nextjs + Tailwind CSS + Shopify Starter",
+    "readme": ""
+  },
+  {
+    "repo": "codexu/note-gen",
+    "source_desc": "A cross-platform Markdown AI note-taking software.",
+    "readme": ""
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "source_desc": "Free, open source crypto trading bot",
+    "readme": ""
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "source_desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "readme": ""
+  },
+  {
+    "repo": "TheCaduceus/FileStreamBot",
+    "source_desc": "An open-source Python Telegram bot to transmit Telegram files over HTTP.",
+    "readme": ""
+  },
+  {
+    "repo": "dryeab/mcp-telegram",
+    "source_desc": "MCP Server for Telegram",
+    "readme": ""
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "source_desc": "Automate browser based workflows with AI",
+    "readme": ""
+  },
+  {
+    "repo": "ZubeidHendricks/youtube-mcp-server",
+    "source_desc": "MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics",
+    "readme": ""
+  }
+]

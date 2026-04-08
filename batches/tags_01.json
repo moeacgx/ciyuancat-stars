@@ -1,0 +1,306 @@
+[
+  {
+    "repo": "YuanQin99/ms-mail-fetcher",
+    "source_desc": "一个基于 \"FastAPI + Vue 3 + pywebview\" 的Outlook邮件账号管理与邮件查看工具",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "openai/codex-plugin-cc",
+    "source_desc": "Use Codex from Claude Code to review code or delegate tasks.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zc-zhangchen/any-auto-register",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "yanguo888/fakabot",
+    "source_desc": "Telegram自动发卡机器人 电报发卡机器人 - 支持支付宝/微信/USDT支付 自动发货 订单管理 虚拟商品 | Telegram Auto Card Delivery Bot Payment Shop",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "remorses/usecomputer",
+    "source_desc": "Fast computer automation CLI for AI agents. Control any desktop with screenshots, clicks, typing, scrolling, and more.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "dou-jiang/codex-console",
+    "source_desc": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "OpenKILab/ClawReverse",
+    "source_desc": "The native version-control plugin for OpenClaw. Avoid rework and save tokens with easy checkpoints, rollbacks, and safe trial-and-error branching.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "HKUDS/ClawTeam",
+    "source_desc": "\"ClawTeam: Agent Swarm Intelligence\" (One Command → Full Automation)",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "pasky/chrome-cdp-skill",
+    "source_desc": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "cnlimiter/codex-manager",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "deemoartisan/gateway-notify",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "JenkinWoo/CardVerse",
+    "source_desc": "CardVerse 是一个开箱即用的数字商品与卡密发货系统，包含后端 API、后台管理端和前台商城，支持订单创建、卡密自动/手动发货、优惠券、支付通道、邮件通知和系统配置。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "0x5uo2hen/codex_register",
+    "source_desc": "OpenAI / ChatGPT 全自动注册机 & Token 提取器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "linzixuanzz/daidai-panel",
+    "source_desc": "Lightweight scheduled task management panel, similar to Qinglong Panel. 轻量级定时任务管理面板",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "tibbar213/team-manage",
+    "source_desc": "gpt team管理和自动邀请",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "wzxklm/rss-aggregator",
+    "source_desc": "An RSS aggregator with AI-powered summarization and translation. Web UI + CLI for AI agents.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "linuxhsj/openclaw-zero-token",
+    "source_desc": "OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ZhangWY0724/apitest",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "jikssha/openclaw-dae-skills",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "caiwuu/web2api",
+    "source_desc": "把网页AI转api，如claude2api",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "cita-777/metapi",
+    "source_desc": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "EchoHS/GeekezBrowser",
+    "source_desc": "A professional anti-detect browser built on Electron and Puppeteer, integrated with the powerful Xray-core.  一款基于xray-core代理的指纹浏览器",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "cmliu/SubsCheck-Win-GUI",
+    "source_desc": "SubsCheck 为 Windows 用户设计的 GUI 程序界面。",
+    "readme": "",
+    "topics": [
+      "proxypool"
+    ]
+  },
+  {
+    "repo": "huliyoudiangou/TG_Chat_Bot-D1",
+    "source_desc": "这是一个基于 Cloudflare Worker 和 D1 数据库 构建的高性能 Telegram 双向机器人。它不仅能将用户的私聊消息转发到管理员群组的话题中，还内置了完整的 CRM（客户关系管理）、防骚扰系统 和 自动化工作流。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "akasls/TG-SignPulse",
+    "source_desc": "Telegram自动签到面板",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "longyq20/rikkahub",
+    "source_desc": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "NeekChaw/awesome-prompt",
+    "source_desc": "让你一眼惊艳的prompt",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "samqin123/MoonTV",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "syy1212/GeminiBusiness-auto-free",
+    "source_desc": "用于批量或快速完成 Gemini Enterprise 账号注册",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "WordPress/agent-skills",
+    "source_desc": "Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lza6/NooMiNav-optimization",
+    "source_desc": "Cloudflare Workers/Pages 部署、D1 数据库统计、环境变量配置、毛玻璃特效 UI、主题切换功能、智能搜索过滤、数据与代码解耦、响应式设计、本地测试模拟环境、双线备份链接、实时数据看板、密码保护后台、日志记录系统",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lza6/Cloudflare-Navihive-optimization",
+    "source_desc": "NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。。Cloudflare Workers 部署、PWA 支持、React 前端、TypeScript、TailwindCSS、Material-UI、ECharts 数据可视化、智能搜索、拖拽排序、离线缓存、性能监控、错误处理、数据导入导出、主题定制、无障碍访问、响应式设计",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "dyndynjyxa/aio-coding-hub",
+    "source_desc": "一个All In One的本地AI工具, 支持Win/Mac/Linux",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "lingfengQAQ/webnovel-writer",
+    "source_desc": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "AnkRoot/Augment-BYOK",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "LigphiDonk/team-project",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "chatgptuk/ldc-shop",
+    "source_desc": "Linux DO Credit Virtual Goods Shop",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ztx888/HaloWebUI",
+    "source_desc": "基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "ZeroDeng01/sublinkPro",
+    "source_desc": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "BeCrafter/PromptCraft",
+    "source_desc": "一个精心设计的 AI 提示词库展示平台，帮助开发者、创作者和 AI 爱好者发现、管 理和使用高质量的 AI 提示词。",
+    "readme": "",
+    "topics": [
+      "prompts"
+    ]
+  },
+  {
+    "repo": "qicfan/qmediasync",
+    "source_desc": "基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "sky22333/epay-bot",
+    "source_desc": "轻量级易支付订单通知 Telegram 机器人，旨在提供稳定、高性能、低资源占用的订单通知。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "huangzijian888/GeekFaka",
+    "source_desc": "GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "james-6-23/team-invite-kfc",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "hj01857655/kiro-account-manager",
+    "source_desc": "🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "hank9999/kiro.rs",
+    "source_desc": "A Kiro Client in Rust",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "caidaoli/kiro2api",
+    "source_desc": "",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "Haleclipse/Claudix",
+    "source_desc": "Gorgeous Claude Code Extend for VS Code.",
+    "readme": "",
+    "topics": []
+  },
+  {
+    "repo": "zhukunpenglinyutong/jetbrains-cc-gui",
+    "source_desc": "Jetbrains Claude Code and Codex GUI Plugin",
+    "readme": "",
+    "topics": []
+  }
+]
