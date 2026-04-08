@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-安全版页面增强:
+安全版页面增强：
 - 英文 description 自动翻成中文
 - 缺失 description 时基于 README 提炼一句中文描述
 - topics 太少时基于 README/description 自动补标签
-- 不调用 openclaw agent,不向当前聊天冒泡内部 prompt
+- 不调用 openclaw agent，不向当前聊天冒泡内部 prompt
 """
+import html
 import json
 import re
+import subprocess
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -45,7 +47,7 @@ KEYWORD_TAGS = [
     (r'cli', ['cli']),
     (r'rag', ['rag']),
     (r'rust', ['rust']),
-    (r'golang|\bgo\b', ['golang']),
+    (r'golang|\bgolang\b|\bgo\b', ['golang']),
     (r'python', ['python']),
     (r'typescript', ['typescript']),
     (r'javascript', ['javascript']),
@@ -72,56 +74,99 @@ def save_json(path, data):
     Path(path).write_text(json.dumps(data, ensure_ascii=False, indent=2))
 
 
+def run(cmd):
+    p = subprocess.run(cmd, text=True, capture_output=True)
+    if p.returncode != 0:
+        raise RuntimeError(p.stderr.strip() or p.stdout.strip() or 'command failed')
+    return p.stdout
+
+
+def fetch_current_stars():
+    query = '''query($endCursor: String) {
+      viewer {
+        starredRepositories(first: 100, after: $endCursor, orderBy: {field: STARRED_AT, direction: DESC}) {
+          edges {
+            starredAt
+            node {
+              nameWithOwner
+              description
+              repositoryTopics(first: 20) { nodes { topic { name } } }
+            }
+          }
+          pageInfo { hasNextPage endCursor }
+        }
+      }
+    }'''
+    out = run(['gh', 'api', 'graphql', '--paginate', '-f', f'query={query}', '--jq', '.data.viewer.starredRepositories.edges[]'])
+    rows = []
+    for line in out.splitlines():
+        if not line.strip():
+            continue
+        edge = json.loads(line)
+        node = edge['node']
+        node['starredAt'] = edge.get('starredAt')
+        rows.append(node)
+    return rows
+
+
 def has_cjk(text: str) -> bool:
     return bool(re.search(r'[\u4e00-\u9fff]', text or ''))
 
 
 def normalize_space(text: str) -> str:
-    text = (text or '').replace('\r', '\n')
+    text = html.unescape((text or '').replace('\r', '\n'))
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
 
 def clean_markdown(text: str) -> str:
-    text = text or ''
+    text = html.unescape(text or '')
     text = re.sub(r'```[\s\S]*?```', ' ', text)
     text = re.sub(r'`[^`]*`', ' ', text)
     text = re.sub(r'!\[[^\]]*\]\([^)]*\)', ' ', text)
     text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
     text = re.sub(r'<[^>]+>', ' ', text)
     text = re.sub(r'[#>*_~\-|]+', ' ', text)
+    text = re.sub(r'\b(stars|forks|issues|license|mit|apache-2.0)\b', ' ', text, flags=re.I)
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
 
 def pick_summary_source(repo: str, raw_desc: str, readme: str) -> str:
     if raw_desc:
-        return raw_desc.strip()
+        return normalize_space(raw_desc)[:220]
     text = clean_markdown(readme)
     if not text:
         return ''
-    # split into candidate sentences
-    candidates = re.split(r'(?<=[.!?。!?])\s+|\n+', text)
-    bad = re.compile(r'^(installation|install|usage|license|mit|apache|contributing|roadmap|todo|changelog|features?)\b', re.I)
+    candidates = re.split(r'(?<=[.!?。！？])\s+|\n+', text)
+    bad = re.compile(
+        r'^(english|中文|table of contents|toc|installation|install|usage|license|mit|apache|contributing|roadmap|todo|changelog|features?|screenshots?)\b',
+        re.I,
+    )
     repo_words = set(re.findall(r'[a-z0-9]+', repo.lower()))
     for c in candidates:
         c = normalize_space(c)
-        if len(c) < 20:
+        if len(c) < 24:
             continue
         if bad.search(c):
             continue
-        # skip lines that are basically the repo name repeated
+        if re.search(r'^(🇬🇧|🇨🇳|⚡|✨|🚀|🧑|🎯|🕷️|⭐|▶)', c):
+            continue
+        if re.search(r'^(if you like|sponsor|donate|buy me a coffee|support)', c, re.I):
+            continue
+        if re.search(r'&(nbsp|amp|lt|gt);', c, re.I):
+            continue
         words = set(re.findall(r'[a-z0-9]+', c.lower()))
-        if words and len(words - repo_words) <= 1 and len(c) < 80:
+        if words and len(words - repo_words) <= 1 and len(c) < 100:
             continue
         return c[:260]
     return text[:260]
 
 
 def trim_zh(text: str, limit: int = 80) -> str:
-    text = normalize_space(text)
+    text = normalize_space(text).rstrip('。；，、 ')
     if len(text) <= limit:
-        return text.rstrip('。；，、 ')
+        return text
     cut = text[:limit]
     pos = max(cut.rfind(p) for p in '。；，、！？"》')
     if pos >= 15:
@@ -134,16 +179,15 @@ def translate_to_zh(text: str) -> str:
     if not text:
         return '暂无公开描述'
     if has_cjk(text):
-        return trim_zh(text, 30)
+        return trim_zh(text, 80)
     url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=' + quote(text[:800])
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     with urlopen(req, timeout=20) as resp:
         body = resp.read().decode('utf-8', 'ignore')
     data = json.loads(body)
     translated = ''.join(part[0] for part in data[0] if part and part[0])
-    translated = re.sub(r'\s+', '', translated)
-    translated = translated.replace('GitHub', 'GitHub ')
-    return trim_zh(translated, 28)
+    translated = normalize_space(translated)
+    return trim_zh(translated, 80)
 
 
 def infer_tags(repo: str, raw_desc: str, readme: str, existing_topics):
@@ -156,7 +200,6 @@ def infer_tags(repo: str, raw_desc: str, readme: str, existing_topics):
             for v in vals:
                 if v not in tags:
                     tags.append(v)
-    # fallback from repo name tokens
     for tok in re.findall(r'[a-z0-9]+', repo.lower().split('/')[-1]):
         if len(tok) >= 4 and tok not in {'github', 'repo', 'tool', 'utils', 'skills', 'skill', 'awesome'}:
             if tok not in tags:
@@ -172,45 +215,32 @@ def main():
     readmes = {}
     for p in README_PATHS:
         readmes.update(load_json(p, {}))
-
-    stars_data = load_json(PAGE_DIR / 'data.json', {})
-    items = stars_data.get('items') or []
-    if not items:
-        raise SystemExit('data/ciyuancat-stars-page/data.json not found or empty; run build_page.py first')
+    stars = fetch_current_stars()
 
     work = []
-    for item in items:
-        repo = item['repo']
-        entry = cache.get(repo, {})
-        raw_desc = (item.get('description') or '').strip()
-        # if current page description is already a cached zh_desc from previous run, keep source empty and rely on cache
-        source_desc = '' if has_cjk(raw_desc) else raw_desc
-        existing_topics = item.get('topics') or []
-        if entry.get('zh_desc') and (len(existing_topics) >= 2 or entry.get('auto_tags')):
-            continue
+    for row in stars:
+        repo = row['nameWithOwner']
+        raw_desc = normalize_space(row.get('description') or '')
+        topics = [n['topic']['name'] for n in (((row.get('repositoryTopics') or {}).get('nodes')) or [])]
         work.append({
             'repo': repo,
-            'raw_desc': source_desc,
+            'raw_desc': raw_desc,
             'readme': readmes.get(repo, ''),
-            'topics': existing_topics,
+            'topics': topics,
         })
 
-    print({'total': len(items), 'need_enrich': len(work)})
+    print({'total': len(work), 'need_enrich': len(work)})
 
     def process(item):
         repo = item['repo']
         raw_desc = item['raw_desc']
         readme = item['readme']
-        zh_desc = cache.get(repo, {}).get('zh_desc')
-        if not zh_desc:
-            src = pick_summary_source(repo, raw_desc, readme)
-            try:
-                zh_desc = translate_to_zh(src) if src else '暂无公开描述'
-            except Exception:
-                zh_desc = trim_zh(src or '暂无公开描述', 28) if has_cjk(src) else '暂无公开描述'
-        auto_tags = cache.get(repo, {}).get('auto_tags')
-        if not auto_tags or len(auto_tags) < 2:
-            auto_tags = infer_tags(repo, raw_desc, readme, item['topics'])
+        src = pick_summary_source(repo, raw_desc, readme)
+        try:
+            zh_desc = translate_to_zh(src) if src else '暂无公开描述'
+        except Exception:
+            zh_desc = trim_zh(src or '暂无公开描述', 80) if has_cjk(src) else '暂无公开描述'
+        auto_tags = infer_tags(repo, raw_desc, readme, item['topics'])
         return repo, {'zh_desc': zh_desc, 'auto_tags': auto_tags}
 
     done = 0

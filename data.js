@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-08T10:39:51",
+  "generatedAt": "2026-04-08T11:38:08",
   "total": 582,
   "categories": {
     "AI/Agents/Skills": 106,
@@ -16,7 +16,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "description": "SuperpowersSuperpowers是为您的编码",
+      "description": "有效的代理技能框架和软件开发方法",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -26,13 +26,13 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 139523,
+      "stars": 139643,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
       "repo": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "description": "Dify云·自托管·文档·Dify版本概述Dify是一个",
+      "description": "用于代理工作流程开发的生产就绪平台",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -57,13 +57,13 @@ window.__STAR_PAGE_DATA__ = {
         "agentic-workflow"
       ],
       "language": "TypeScript",
-      "stars": 136639,
+      "stars": 136650,
       "starredAt": "2025-06-01T17:17:47Z"
     },
     {
       "repo": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "description": "OpenWebUI👋OpenWebUI是一个可扩展",
+      "description": "用户友好的 AI 界面（支持 Ollama、OpenAI API...）",
       "category": "AI/Agents/Skills",
       "topics": [
         "ollama",
@@ -83,13 +83,13 @@ window.__STAR_PAGE_DATA__ = {
         "openapi"
       ],
       "language": "Python",
-      "stars": 130558,
+      "stars": 130569,
       "starredAt": "2025-10-19T05:08:22Z"
     },
     {
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "description": "UIUXProMax一种人工智能技能",
+      "description": "为构建专业 UI/UX 多平台提供设计智能的 AI 技能",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-skills",
@@ -113,13 +113,13 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 60791,
+      "stars": 60840,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
       "repo": "FoundationAgents/OpenManus",
       "url": "https://github.com/FoundationAgents/OpenManus",
-      "description": "English 中文 한국어 日本語 &ensp; &ens",
+      "description": "没有堡垒，纯粹的空地。 OpenManus 即将推出",
       "category": "AI/Agents/Skills",
       "topics": [
         "discord",
@@ -128,13 +128,13 @@ window.__STAR_PAGE_DATA__ = {
         "openmanus"
       ],
       "language": "Python",
-      "stars": 55644,
+      "stars": 55645,
       "starredAt": "2025-03-18T17:11:58Z"
     },
     {
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "很棒的Claude技能精选的实用Claude技能列表",
+      "description": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude",
@@ -154,13 +154,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Python",
-      "stars": 51929,
+      "stars": 51941,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
       "repo": "VoltAgent/awesome-openclaw-skills",
       "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
-      "description": "发现5200多个社区构建的OpenClaw技能（按类别组",
+      "description": "OpenClaw 技能的精彩集合。从官方 OpenClaw 技能注册表中筛选和分类的 5,400 多种技能。🦞",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent-skills",
@@ -177,13 +177,13 @@ window.__STAR_PAGE_DATA__ = {
         "awesome-lists"
       ],
       "language": "",
-      "stars": 44867,
+      "stars": 44878,
       "starredAt": "2026-02-07T16:03:07Z"
     },
     {
       "repo": "bmad-code-org/BMAD-METHOD",
       "url": "https://github.com/bmad-code-org/BMAD-METHOD",
-      "description": "构建更多架构师梦想-BMad方法模块生态系统的人工智能驱",
+      "description": "敏捷人工智能驱动开发的突破性方法",
       "category": "AI/Agents/Skills",
       "topics": [
         "discord",
@@ -193,13 +193,13 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "JavaScript",
-      "stars": 43908,
+      "stars": 43910,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
       "repo": "666ghj/BettaFish",
       "url": "https://github.com/666ghj/BettaFish",
-      "description": "&ensp; English 中文文档 [!IMPORTAN",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent-framework",
@@ -220,7 +220,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "DavidHDev/react-bits",
       "url": "https://github.com/DavidHDev/react-bits",
-      "description": "最大且最具创意的动画React组件库",
+      "description": "动画、交互式和完全可定制的 React 组件的开源集合，用于构建令人难忘的网站",
       "category": "AI/Agents/Skills",
       "topics": [
         "animations",
@@ -241,13 +241,13 @@ window.__STAR_PAGE_DATA__ = {
         "react-components"
       ],
       "language": "JavaScript",
-      "stars": 37693,
+      "stars": 37695,
       "starredAt": "2025-06-04T08:48:34Z"
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "📈 股票智能分析系统 🤖 基于 AI 大模型的 A股/港股/",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -261,26 +261,26 @@ window.__STAR_PAGE_DATA__ = {
         "quantitative-trading"
       ],
       "language": "Python",
-      "stars": 28427,
+      "stars": 28438,
       "starredAt": "2026-01-11T11:53:18Z"
     },
     {
       "repo": "zai-org/Open-AutoGLM",
       "url": "https://github.com/zai-org/Open-AutoGLM",
-      "description": "Open AutoGLM Readme in English",
+      "description": "开放电话代理模型和框架。为所有人解锁AI手机",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
         "phone-use-agent"
       ],
       "language": "Python",
-      "stars": 24744,
+      "stars": 24745,
       "starredAt": "2025-12-25T02:21:54Z"
     },
     {
       "repo": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
-      "description": "[![Forks][forksshield]][fork",
+      "description": "Notebook LM 的开源实现，具有更多灵活性和功能",
       "category": "AI/Agents/Skills",
       "topics": [
         "assistant",
@@ -291,13 +291,13 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 21898,
+      "stars": 21900,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
       "repo": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
-      "description": "OpenViking: The Context Databa",
+      "description": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库",
       "category": "AI/Agents/Skills",
       "topics": [
         "context-engineering",
@@ -315,13 +315,13 @@ window.__STAR_PAGE_DATA__ = {
         "opencode"
       ],
       "language": "Python",
-      "stars": 21516,
+      "stars": 21527,
       "starredAt": "2026-02-19T09:50:24Z"
     },
     {
       "repo": "Skyvern-AI/skyvern",
       "url": "https://github.com/Skyvern-AI/skyvern",
-      "description": "🐉使用法学硕士和计算机视觉自动化基于浏览器的工作流程🐉S",
+      "description": "利用 AI 自动化基于浏览器的工作流程",
       "category": "AI/Agents/Skills",
       "topics": [
         "api",
@@ -348,7 +348,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
-      "description": "🤗 HuggingFace ｜ ModelScope 💬 W",
+      "description": "统一深度研究，领先的开源深度研究代理",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -368,7 +368,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "czlonkowski/n8n-mcp",
       "url": "https://github.com/czlonkowski/n8n-mcp",
-      "description": "n8nMCP模型上下文协议(MCP)服务器",
+      "description": "用于 Claude Desktop / Claude Code / Windsurf / Cursor 的 MCP，为您构建 n8n 工作流程",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -377,13 +377,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 17688,
+      "stars": 17692,
       "starredAt": "2026-01-01T11:55:23Z"
     },
     {
       "repo": "GLips/Figma-Context-MCP",
       "url": "https://github.com/GLips/Figma-Context-MCP",
-      "description": "FramelinkMCPforFigma使您的编码代理能",
+      "description": "MCP 服务器向 Cursor 等 AI 编码代理提供 Figma 布局信息",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -399,7 +399,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "ClaudeCode的Codex插件使用ClaudeCo",
+      "description": "使用 Claude Code 的 Codex 来审查代码或委派任务",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -409,13 +409,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 12698,
+      "stars": 12713,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
       "repo": "NoFxAiOS/nofx",
       "url": "https://github.com/NoFxAiOS/nofx",
-      "description": "NOFX您的私人人工智能交易助手",
+      "description": "您的私人人工智能交易助手。任何市场。任何型号。使用 USDC 支付，而不是 API 密钥",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-trading",
@@ -438,13 +438,13 @@ window.__STAR_PAGE_DATA__ = {
         "x402-agent"
       ],
       "language": "Go",
-      "stars": 11831,
+      "stars": 11836,
       "starredAt": "2025-11-02T21:43:46Z"
     },
     {
       "repo": "tukuaiai/vibe-coding-cn",
       "url": "https://github.com/tukuaiai/vibe-coding-cn",
-      "description": "Vibe Coding 指南 一个通过与 AI 结对编程",
+      "description": "Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -465,13 +465,13 @@ window.__STAR_PAGE_DATA__ = {
         "glue-coding"
       ],
       "language": "Python",
-      "stars": 11340,
+      "stars": 11347,
       "starredAt": "2025-12-17T18:43:42Z"
     },
     {
       "repo": "codexu/note-gen",
       "url": "https://github.com/codexu/note-gen",
-      "description": "NoteGen Sponsor 感谢 优云智算 赞助了本项目",
+      "description": "一款跨平台的 Markdown AI 笔记软件",
       "category": "AI/Agents/Skills",
       "topics": [
         "markdown",
@@ -493,7 +493,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hangwin/mcp-chrome",
       "url": "https://github.com/hangwin/mcp-chrome",
-      "description": "ChromeMCP服务器🚀🌟将您的Chrome浏览器变成",
+      "description": "Chrome MCP Server 是一款基于 Chrome 扩展的模型上下文协议 (MCP) 服务器",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -503,13 +503,13 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "TypeScript",
-      "stars": 11113,
+      "stars": 11115,
       "starredAt": "2025-08-05T11:09:33Z"
     },
     {
       "repo": "jina-ai/reader",
       "url": "https://github.com/jina-ai/reader",
-      "description": "读者您的法学硕士值得更好的建议",
+      "description": "使用简单的前缀 https://r.jina.ai/ 将任何 URL 转换为 LLM 友好的输入",
       "category": "AI/Agents/Skills",
       "topics": [
         "llm",
@@ -522,7 +522,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "svcvit/Awesome-Dify-Workflow",
       "url": "https://github.com/svcvit/Awesome-Dify-Workflow",
-      "description": "很棒的Dify工作流程🚀分享和发现有用的Dify工作流程",
+      "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -532,13 +532,13 @@ window.__STAR_PAGE_DATA__ = {
         "dify"
       ],
       "language": "",
-      "stars": 10353,
+      "stars": 10352,
       "starredAt": "2025-06-01T13:23:10Z"
     },
     {
       "repo": "blinkospace/blinko",
       "url": "https://github.com/blinkospace/blinko",
-      "description": "Blinko Live Demo • Official Si",
+      "description": "一个开源、自托管的个人 AI 笔记工具，优先考虑隐私，使用 TypeScript 构建",
       "category": "AI/Agents/Skills",
       "topics": [
         "markdown",
@@ -557,7 +557,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "teng-lin/notebooklm-py",
       "url": "https://github.com/teng-lin/notebooklm-py",
-      "description": "notebooklmpy全面的NotebookLM技能和",
+      "description": "Google NotebookLM 的非官方 Python API 和代理技能。通过 Python、CLI 和 AI 代理（例如 Claude Code",
       "category": "AI/Agents/Skills",
       "topics": [
         "api",
@@ -576,13 +576,13 @@ window.__STAR_PAGE_DATA__ = {
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 9489,
+      "stars": 9493,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
       "repo": "leptonai/search_with_lepton",
       "url": "https://github.com/leptonai/search_with_lepton",
-      "description": "使用Lepton进行搜索使用不到500行代码构建您自己的",
+      "description": "使用 Lepton AI 构建基于对话的快速搜索演示",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -597,7 +597,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "UfoMiao/zcf",
       "url": "https://github.com/UfoMiao/zcf",
-      "description": "[![npm版本][npm版本src]][npm版本hr",
+      "description": "Claude 代码和 Codex 的零配置代码流程",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -628,7 +628,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dataease/SQLBot",
       "url": "https://github.com/dataease/SQLBot",
-      "description": "基于大模型和 RAG 的智能问数系统 SQLBot 是一款基",
+      "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
       "category": "AI/Agents/Skills",
       "topics": [
         "deepseek",
@@ -641,13 +641,13 @@ window.__STAR_PAGE_DATA__ = {
         "text2sql"
       ],
       "language": "JavaScript",
-      "stars": 5855,
+      "stars": 5856,
       "starredAt": "2025-10-01T10:36:52Z"
     },
     {
       "repo": "ikaijua/Awesome-AITools",
       "url": "https://github.com/ikaijua/Awesome-AITools",
-      "description": "Awesome AI Tools English 中文 Th",
+      "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -677,7 +677,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HisMax/RedInk",
       "url": "https://github.com/HisMax/RedInk",
-      "description": "中文 English Official Site → Red",
+      "description": "Red Ink - 基于🍌Nano Banana Pro🍌的一站式小红书图文生成器，《一句话一张图：生成小红书文字和图像》",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -700,7 +700,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HKUDS/ClawTeam",
       "url": "https://github.com/HKUDS/ClawTeam",
-      "description": "ClawTeam：智能体群体智能AI智能体的演变🚀：独奏",
+      "description": "“ClawTeam：特工群智能”（一个命令 → 完全自动化）",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -710,13 +710,13 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 4535,
+      "stars": 4540,
       "starredAt": "2026-03-20T03:29:26Z"
     },
     {
       "repo": "YILING0013/AI_NovelGenerator",
       "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "description": "AI Novel Generator 中文文档 Englis",
+      "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
       "category": "AI/Agents/Skills",
       "topics": [
         "api-gateway",
@@ -731,7 +731,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "czlonkowski/n8n-skills",
       "url": "https://github.com/czlonkowski/n8n-skills",
-      "description": "n8n技能Claude专家代码技能",
+      "description": "Claude Code 的 n8n 技能组可构建完美的 n8n 工作流程",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agents",
@@ -739,13 +739,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 4161,
+      "stars": 4162,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
       "repo": "antvis/mcp-server-chart",
       "url": "https://github.com/antvis/mcp-server-chart",
-      "description": "MCP服务器图表用于使用AntV生成图表的模型上下文协议",
+      "description": "🤖 可视化 mcp & Skills 包含 25 个以上使用 @antvis 的可视化图表。用于图表生成和数据分析",
       "category": "AI/Agents/Skills",
       "topics": [
         "antv",
@@ -762,7 +762,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "rikkahub/rikkahub",
       "url": "https://github.com/rikkahub/rikkahub",
-      "description": "RikkaHub A native Android LLM",
+      "description": "RikkaHub是一款支持多个LLM提供商的Android应用程序",
       "category": "AI/Agents/Skills",
       "topics": [
         "android",
@@ -780,13 +780,13 @@ window.__STAR_PAGE_DATA__ = {
         "web-ui"
       ],
       "language": "Kotlin",
-      "stars": 3822,
+      "stars": 3821,
       "starredAt": "2025-07-06T17:27:22Z"
     },
     {
       "repo": "Minidoracat/mcp-feedback-enhanced",
       "url": "https://github.com/Minidoracat/mcp-feedback-enhanced",
-      "description": "MCP Feedback Enhanced 🌐 Langua",
+      "description": "增强型MCP服务器，用于人工智能辅助开发中的交互式用户反馈和命令执行，具有双界面支持（Web UI和桌面应用程序），具有智能环境检测和跨平台功能",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -802,7 +802,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wwwzhouhui/dify-for-dsl",
       "url": "https://github.com/wwwzhouhui/dify-for-dsl",
-      "description": "分享一些好用的 Dify 工作流程，自用、学习两相宜",
+      "description": "本项目是基于dify开源项目实现的dsl工作流脚本合集",
       "category": "AI/Agents/Skills",
       "topics": [
         "dify"
@@ -814,7 +814,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hanshuaikang/AI-Media2Doc",
       "url": "https://github.com/hanshuaikang/AI-Media2Doc",
-      "description": "📖 简介 AI 视频图文创作助手是一款 Web 工具, 基于",
+      "description": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -834,7 +834,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "VoltAgent/awesome-codex-subagents",
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-      "description": "涵盖10个类别的136多个Codex子代理的精彩集合",
+      "description": "130 多个专业 Codex 子代理的集合，涵盖广泛的开发用例",
       "category": "AI/Agents/Skills",
       "topics": [
         "awesome-list",
@@ -846,7 +846,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai-agents"
       ],
       "language": "",
-      "stars": 3601,
+      "stars": 3605,
       "starredAt": "2026-03-20T11:31:54Z"
     },
     {
@@ -877,13 +877,13 @@ window.__STAR_PAGE_DATA__ = {
         "developer-tools"
       ],
       "language": "Rust",
-      "stars": 2967,
+      "stars": 2969,
       "starredAt": "2026-03-15T08:44:20Z"
     },
     {
       "repo": "pasky/chrome-cdp-skill",
       "url": "https://github.com/pasky/chrome-cdp-skill",
-      "description": "chromecdp让您的AI代理查看您的实时Chrome",
+      "description": "让您的 AI 代理访问您的实时 Chrome 会话 - 开箱即用，连接到您已打开的选项卡",
       "category": "AI/Agents/Skills",
       "topics": [
         "cloudflare",
@@ -899,7 +899,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "EvoAgentX/EvoAgentX",
       "url": "https://github.com/EvoAgentX/EvoAgentX",
-      "description": "Building a Self Evolving Ecosy",
+      "description": "🚀 EvoAgentX：构建人工智能代理的自我进化生态系统",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -921,20 +921,20 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Forget-C/Jellyfish",
       "url": "https://github.com/Forget-C/Jellyfish",
-      "description": "Jellyfish AI短剧工厂 / AI Short Dr",
+      "description": "一站式 AI 生成短剧（竖屏短剧 / 微短剧）的生产工具 , 从剧本输入 → 智能分镜 → 角色/场景/道具一致性管理 → AI 视频生成 → 后期剪辑 → 一",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
         "short-drama"
       ],
       "language": "TypeScript",
-      "stars": 2566,
+      "stars": 2574,
       "starredAt": "2026-03-24T00:14:40Z"
     },
     {
       "repo": "zhukunpenglinyutong/jetbrains-cc-gui",
       "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-      "description": "CC GUI（Claude or Codex） Origin",
+      "description": "Jetbrains Claude Code 和 Codex GUI 插件",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -943,13 +943,13 @@ window.__STAR_PAGE_DATA__ = {
         "jetbrains"
       ],
       "language": "TypeScript",
-      "stars": 2403,
+      "stars": 2405,
       "starredAt": "2026-01-05T10:00:51Z"
     },
     {
       "repo": "lingfengQAQ/webnovel-writer",
       "url": "https://github.com/lingfengQAQ/webnovel-writer",
-      "description": "Webnovel Writer 项目简单介绍 是基于 Cla",
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -965,7 +965,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "firecrawl/open-agent-builder",
       "url": "https://github.com/firecrawl/open-agent-builder",
-      "description": "OpenAgentBuilder使用可视化无代码界面构建",
+      "description": "🔥 由 Firecrawl 提供支持的 AI 代理可视化工作流程构建器 - 拖放式网页抓取管道并实时执行",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -981,7 +981,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yan5xu/ququ",
       "url": "https://github.com/yan5xu/ququ",
-      "description": "蛐蛐 (QuQu) 开源免费的 Wispr Flow 替代方",
+      "description": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流",
       "category": "AI/Agents/Skills",
       "topics": [
         "chinese-speech-recognition",
@@ -1002,7 +1002,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "GuDaStudio/skills",
       "url": "https://github.com/GuDaStudio/skills",
-      "description": "Agent Skills 集合 —— 让 Claude 与多",
+      "description": "该存储库包含由 GudaStudio 开发的代理技能集合，可实现 Claude 与其他 AI 模型和工具之间的无缝协作",
       "category": "AI/Agents/Skills",
       "topics": [
         "telegram",
@@ -1018,7 +1018,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cnlimiter/codex-manager",
       "url": "https://github.com/cnlimiter/codex-manager",
-      "description": "OpenAI 账号管理系统 v2 管理 OpenAI 账号的",
+      "description": "OpenAI 账号管理系统 v2 管理 OpenAI 账号的 Web UI 系统，支持多种邮箱服务、并发批量注册、代理管理和账号管理",
       "category": "AI/Agents/Skills",
       "topics": [
         "cloudflare",
@@ -1028,13 +1028,13 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1854,
+      "stars": 1858,
       "starredAt": "2026-03-19T17:18:28Z"
     },
     {
       "repo": "dou-jiang/codex-console",
       "url": "https://github.com/dou-jiang/codex-console",
-      "description": "codex console 基于 cnlimiter/cod",
+      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持",
       "category": "AI/Agents/Skills",
       "topics": [
         "telegram",
@@ -1044,13 +1044,13 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1810,
+      "stars": 1815,
       "starredAt": "2026-03-22T07:16:24Z"
     },
     {
       "repo": "IPADS-SAI/MobiAgent",
       "url": "https://github.com/IPADS-SAI/MobiAgent",
-      "description": "MobiAgent: A Systematic Framew",
+      "description": "手机智能GUI代理",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agent",
@@ -1064,7 +1064,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "catlog22/Claude-Code-Workflow",
       "url": "https://github.com/catlog22/Claude-Code-Workflow",
-      "description": "English 中文 ✨ Key Features 🎯 Sk",
+      "description": "JSON 驱动的多代理节奏团队开发框架，具有智能 CLI 编排 (Gemini/Qwen/Codex)、上下文优先架构和自动化工作流程执行",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude",
@@ -1079,13 +1079,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 1736,
+      "stars": 1737,
       "starredAt": "2025-11-01T06:00:35Z"
     },
     {
       "repo": "leonardsellem/n8n-mcp-server",
       "url": "https://github.com/leonardsellem/n8n-mcp-server",
-      "description": "n8nMCP服务器模型上下文协议(MCP)服务器",
+      "description": "MCP 服务器提供与 n8n API 交互的工具和资源",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -1100,7 +1100,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Feather-2/Burner-X",
       "url": "https://github.com/Feather-2/Burner-X",
-      "description": "Paper Burner X AI文献识别、翻译",
+      "description": "Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agent",
@@ -1116,7 +1116,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "anaisbetts/mcp-installer",
       "url": "https://github.com/anaisbetts/mcp-installer",
-      "description": "mcp安装程序用于安装MCP服务器的MCP服务器此服务器",
+      "description": "为您安装其他 MCP 服务器的 MCP 服务器",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1131,7 +1131,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "benborla/mcp-server-mysql",
       "url": "https://github.com/benborla/mcp-server-mysql",
-      "description": "MCPServerforMySQLClaudeCodeE",
+      "description": "提供对 MySQL 数据库的只读访问的模型上下文协议服务器。该服务器使法学硕士能够检查数据库模式并执行只读查询",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1147,7 +1147,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kuafuai/aipexbase",
       "url": "https://github.com/kuafuai/aipexbase",
-      "description": "AIPEXBASEAI时代的后端即服务基础设施使开发人员",
+      "description": "AipexBase 是一个 AI 原生 BaaS 平台。您只需使用vibe编码工具开发前端，后端交给AipexBase！",
       "category": "AI/Agents/Skills",
       "topics": [
         "cloudflare",
@@ -1162,7 +1162,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "NeekChaw/awesome-prompt",
       "url": "https://github.com/NeekChaw/awesome-prompt",
-      "description": "Awesome Prompts ✨ 让你一眼惊艳的提示词合集",
+      "description": "让你一眼惊艳的prompt",
       "category": "AI/Agents/Skills",
       "topics": [
         "wechat",
@@ -1170,13 +1170,13 @@ window.__STAR_PAGE_DATA__ = {
         "prompt"
       ],
       "language": "GCC Machine Description",
-      "stars": 1228,
+      "stars": 1229,
       "starredAt": "2026-02-12T15:59:56Z"
     },
     {
       "repo": "foryourhealth111-pixel/Vibe-Skills",
       "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
-      "description": "🇬🇧 English &nbsp; &nbsp; 🇨🇳 中文",
+      "description": "无论您的 AI 在哪里支持技能，VibeSkills 都可以发挥作用。 340 多种受管技能，涵盖编码、研究、自动化和创意工作",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agents",
@@ -1201,13 +1201,13 @@ window.__STAR_PAGE_DATA__ = {
         "vibecoding"
       ],
       "language": "Python",
-      "stars": 1169,
+      "stars": 1173,
       "starredAt": "2026-04-07T20:34:08Z"
     },
     {
       "repo": "WordPress/agent-skills",
       "url": "https://github.com/WordPress/agent-skills",
-      "description": "WordPress代理技能教AI编码助手如何以正确的方式",
+      "description": "适用于 AI 编码助手的专家级 WordPress 知识 - 块、主题、插件和最佳实践",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -1223,7 +1223,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "samber/cc-skills-golang",
       "url": "https://github.com/samber/cc-skills-golang",
-      "description": "适用于生产就绪的Golang项目的代理技能AI代理技能是",
+      "description": "🧑‍🎨 有效的 Golang 代理技能集合",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -1251,9 +1251,25 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-23T00:56:44Z"
     },
     {
+      "repo": "Haleclipse/Claudix",
+      "url": "https://github.com/Haleclipse/Claudix",
+      "description": "适用于 VS Code 的华丽 Claude Code 扩展",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "ai-agent",
+        "cli",
+        "typescript",
+        "terminal"
+      ],
+      "language": "Vue",
+      "stars": 1033,
+      "starredAt": "2026-01-05T10:08:30Z"
+    },
+    {
       "repo": "DeadWaveWave/opencove",
       "url": "https://github.com/DeadWaveWave/opencove",
-      "description": "OpenCove🌌ClaudeCode、Codex",
+      "description": "您的无限画布工作空间，用于代理、任务、知识和研究。克劳德代码、Codex、终端、任务和注释的无限画布",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -1274,25 +1290,9 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-31T05:48:45Z"
     },
     {
-      "repo": "Haleclipse/Claudix",
-      "url": "https://github.com/Haleclipse/Claudix",
-      "description": "Claudix English 简体中文 A VSCode",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "claude-code",
-        "ai-agent",
-        "cli",
-        "typescript",
-        "terminal"
-      ],
-      "language": "Vue",
-      "stars": 1031,
-      "starredAt": "2026-01-05T10:08:30Z"
-    },
-    {
       "repo": "chadyi/AITradeGame",
       "url": "https://github.com/chadyi/AITradeGame",
-      "description": "AITradeGame开源人工智能交易…",
+      "description": "AITradeGame Open Source AI Trading Simulator English 中文 AITradeGame is an AI tra",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1308,7 +1308,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "qy527145/acemcp",
       "url": "https://github.com/qy527145/acemcp",
-      "description": "简体中文 English Acemcp 代码库索引和语义搜索",
+      "description": "一个将ACE(Augment Context Engine) 做成MCP的项目",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1322,7 +1322,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ztx888/HaloWebUI",
       "url": "https://github.com/ztx888/HaloWebUI",
-      "description": "HaloWebUI 自托管 AI 平台 · 多模型路由 ·",
+      "description": "基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1337,7 +1337,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "someu/aigotools",
       "url": "https://github.com/someu/aigotools",
-      "description": "AigoTools 简体中文 日本語 AigoTools h",
+      "description": "AigoTools可以帮助用户快速创建和管理网站目录，内置网站自动爬虫功能，还提供国际化、SEO、图片存储等功能。它可以让用户快速",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -1355,7 +1355,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HuiResearch/FlashTTS",
       "url": "https://github.com/HuiResearch/FlashTTS",
-      "description": "📘 Documentation 📚 Deepwiki 中文",
+      "description": "基于SparkTTS、OrpheusTTS等模型，提供高质量中文语音合成与声音克隆服务",
       "category": "AI/Agents/Skills",
       "topics": [
         "llamacpp-python",
@@ -1374,7 +1374,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ZubeidHendricks/youtube-mcp-server",
       "url": "https://github.com/ZubeidHendricks/youtube-mcp-server",
-      "description": "YouTubeMCP服务器YouTube的模型上下文协议",
+      "description": "适用于 YouTube API 的 MCP 服务器，支持视频管理、Shorts 创建和高级分析",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -1388,7 +1388,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jihe520/social-push",
       "url": "https://github.com/jihe520/social-push",
-      "description": "Social Push Skill 中文 English 一",
+      "description": "🤖 AI social-media automation skill | Self-evolution workflows | AI 社交媒体自动化 skill",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -1403,7 +1403,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "aahl/mcp-aktools",
       "url": "https://github.com/aahl/mcp-aktools",
-      "description": "📈 AkTools MCP Server 基于 akshar",
+      "description": "📈 提供股票、加密货币的数据查询和分析功能MCP服务器",
       "category": "AI/Agents/Skills",
       "topics": [
         "akshare",
@@ -1423,7 +1423,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "liangdabiao/claude-data-analysis",
       "url": "https://github.com/liangdabiao/claude-data-analysis",
-      "description": "ClaudeDataAnalysisAssistant一",
+      "description": "Create a data analysis AI agent with Claude Code. Make data analysis as simple a",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -1436,7 +1436,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dyndynjyxa/aio-coding-hub",
       "url": "https://github.com/dyndynjyxa/aio-coding-hub",
-      "description": "AIO Coding Hub 本地 AI CLI 统一网关",
+      "description": "一个All In One的本地AI工具, 支持Win/Mac/Linux",
       "category": "AI/Agents/Skills",
       "topics": [
         "codex",
@@ -1446,13 +1446,13 @@ window.__STAR_PAGE_DATA__ = {
         "browser-automation"
       ],
       "language": "TypeScript",
-      "stars": 351,
+      "stars": 353,
       "starredAt": "2026-01-20T17:20:50Z"
     },
     {
       "repo": "OVINC-CN/OpenWebUI",
       "url": "https://github.com/OVINC-CN/OpenWebUI",
-      "description": "Open WebUI (OVINC CN) 基于 Open",
+      "description": "基于 Open WebUI 的增强版：集成计费、支付与企业级用户管理",
       "category": "AI/Agents/Skills",
       "topics": [
         "openwebui"
@@ -1464,7 +1464,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lc2panda/AITradingSimulator",
       "url": "https://github.com/lc2panda/AITradingSimulator",
-      "description": "AI交易模拟器 🚀 专业级AI驱动的加密货币交易模拟平台 基",
+      "description": "基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏",
       "category": "AI/Agents/Skills",
       "topics": [
         "python",
@@ -1477,7 +1477,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "open-gitagent/clawless",
       "url": "https://github.com/open-gitagent/clawless",
-      "description": "ClawLess运行ClawAgents不需要服务器",
+      "description": "ClawLess — 基于浏览器的无服务器运行时，用于由 WebContainers 提供支持的 Claw AI 代理",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent-runtime",
@@ -1507,7 +1507,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "remorses/usecomputer",
       "url": "https://github.com/remorses/usecomputer",
-      "description": "usecomputer是用于AI代理的桌面自动化CLI",
+      "description": "适用于 AI 代理的快速计算机自动化 CLI。通过屏幕截图、单击、打字、滚动等控制任何桌面",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1523,7 +1523,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "baranwang/mcp-trends-hub",
       "url": "https://github.com/baranwang/mcp-trends-hub",
-      "description": "🔥 Trends Hub 基于 Model Context",
+      "description": "基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1537,7 +1537,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "liuyoshio/mcp-compass",
       "url": "https://github.com/liuyoshio/mcp-compass",
-      "description": "MCPCompass🧭MCP发现和推荐体验MCPComp",
+      "description": "MCP 发现和推荐服务 - 找到适合您需求的 MCP 服务器",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -1550,7 +1550,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Menghuan1918/drawio2go",
       "url": "https://github.com/Menghuan1918/drawio2go",
-      "description": "DrawIO2Go人工智能驱动，人类人工智能……",
+      "description": "A modern DrawIO editor application. AI-Powered, Human-AI Collaboration | AI 加持",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai",
@@ -1566,7 +1566,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ptbsare/mcp-proxy-server",
       "url": "https://github.com/ptbsare/mcp-proxy-server",
-      "description": "MCP Proxy Server 简体中文 ✨ Key Fe",
+      "description": "该服务器充当模型上下文协议 (MCP) 资源服务器的中央集线器",
       "category": "AI/Agents/Skills",
       "topics": [
         "http",
@@ -1588,7 +1588,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xiamuceer-j/AI-Gamble",
       "url": "https://github.com/xiamuceer-j/AI-Gamble",
-      "description": "📖 AI 互动小说生成器 这是一个基于大型语言模型（LLM）",
+      "description": "这是一个基于大型语言模型（LLM）的动态互动小说游戏。它能够根据玩家选择的故事类型，实时生成独特的故事情节、人物、以及一个可视化的故事发展线路图",
       "category": "AI/Agents/Skills",
       "topics": [
         "python",
@@ -1602,7 +1602,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sanshao85/mcp-feedback-collector-web",
       "url": "https://github.com/sanshao85/mcp-feedback-collector-web",
-      "description": "🎯 MCP Feedback Collector 基于Nod",
+      "description": "将上述配置添加到Cursor的MCP设置中 3.",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -1618,7 +1618,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "gbessoni/seobuild-onpage",
       "url": "https://github.com/gbessoni/seobuild-onpage",
-      "description": "seobuildonpagev1.5.0一个命令",
+      "description": "SEOBuild Onpage - 第一个编写 Google 排名和法学硕士引用页面的 AI 代理。一个命令输入，排名页出。基于 DeerFlow 构建",
       "category": "AI/Agents/Skills",
       "topics": [
         "aeo",
@@ -1637,13 +1637,13 @@ window.__STAR_PAGE_DATA__ = {
         "seo-tools"
       ],
       "language": "Python",
-      "stars": 163,
+      "stars": 164,
       "starredAt": "2026-03-20T11:49:31Z"
     },
     {
       "repo": "hubeiqiao/apple-bento-grid",
       "url": "https://github.com/hubeiqiao/apple-bento-grid",
-      "description": "AppleBentoGrid人工智能编码代理的一项技能",
+      "description": "生成受苹果启发的便当网格演示卡的代理技能。适用于 Claude Code、Codex 和任何 AI 编码代理",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent-skills",
@@ -1661,7 +1661,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "copialot/auto-phone-scheduler",
       "url": "https://github.com/copialot/auto-phone-scheduler",
-      "description": "自动电话调度程序自述文件...",
+      "description": "基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作",
       "category": "AI/Agents/Skills",
       "topics": [
         "telegram",
@@ -1677,7 +1677,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zhuchenyu2008/RSS-AI",
       "url": "https://github.com/zhuchenyu2008/RSS-AI",
-      "description": "RSS‑AI 一个 RSS 助手：定时抓取多个 RSS 源",
+      "description": "使用 AI 总结 RSS 提要",
       "category": "AI/Agents/Skills",
       "topics": [
         "telegram",
@@ -1691,7 +1691,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/Prompt-APP-optimization",
       "url": "https://github.com/lza6/Prompt-APP-optimization",
-      "description": "先用计划指南plan跑一下具体的项目规划和这个算法改进等等之",
+      "description": "面向全语言编程零基础大架构等等所有通用项目审查优化的提示词优化（中文友好，随缘更新）",
       "category": "AI/Agents/Skills",
       "topics": [
         "prompt",
@@ -1704,7 +1704,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "svcvit/dify-plugin-artifacts",
       "url": "https://github.com/svcvit/dify-plugin-artifacts",
-      "description": "ArtifactsRepository：dify插件ar",
+      "description": "一个DIFY插件，用于渲染LLM的HTML代码输出",
       "category": "AI/Agents/Skills",
       "topics": [
         "plugin",
@@ -1720,7 +1720,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jikssha/openclaw-dae-skills",
       "url": "https://github.com/jikssha/openclaw-dae-skills",
-      "description": "OpenClaw 搜索技能集 这是一组面向 OpenClaw",
+      "description": "OpenClaw 搜索技能集 这是一组面向 OpenClaw 的搜索技能仓库",
       "category": "AI/Agents/Skills",
       "topics": [
         "openclaw",
@@ -1734,7 +1734,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wb-hwang/AIAnswerer-Android",
       "url": "https://github.com/wb-hwang/AIAnswerer-Android",
-      "description": "﻿ AI答题助手 (AIAnswerer) 中文 Engli",
+      "description": "智能答题助手 - Android平台AI答题应用，通过截图识别和AI分析为各类题目提供答案解析",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-assistant",
@@ -1752,7 +1752,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shellus/mj-studio",
       "url": "https://github.com/shellus/mj-studio",
-      "description": "MJ Studio 轻量级多模型 AI 工作台 —— 绘图与",
+      "description": "多模型 AI 绘图工作台，支持 Midjourney、Gemini、Flux、DALL-E、GPT-4o、Grok、通义万相等主流图像生成模型",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-art",
@@ -1773,7 +1773,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "guangxiangdebizi/MySQL_MCP",
       "url": "https://github.com/guangxiangdebizi/MySQL_MCP",
-      "description": "MySQL MCP Server 🚀 v4.0.0 全新架构",
+      "description": "这是一个功能强大且易用的MySQL数据库MCP（Model Context Protocol）服务器，让你的AI助手可以安全地进行完整的数据库操作",
       "category": "AI/Agents/Skills",
       "topics": [
         "llm2sql",
@@ -1791,7 +1791,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ChinaSiro/open-prompt-manager-for-prompub",
       "url": "https://github.com/ChinaSiro/open-prompt-manager-for-prompub",
-      "description": "项目地址 线上 Demo : https://prompub",
+      "description": "项目地址 线上 Demo : https://prompub.com 开源仓库 : https://github.com/ChinaSiro/open prom",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1807,7 +1807,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "nullskymc/tavernTranslator",
       "url": "https://github.com/nullskymc/tavernTranslator",
-      "description": "Tavern Translator 一个用于在中文和英文之间",
+      "description": "SillyTavern character card translation tool 角色卡翻译工具",
       "category": "AI/Agents/Skills",
       "topics": [
         "docker",
@@ -1821,7 +1821,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "snakeying/Synapse",
       "url": "https://github.com/snakeying/Synapse",
-      "description": "基于SynapseCodex的多模式...",
+      "description": "Multi-model AI workflow: Claude & Gemini draft code, Codex reviews and applies—s",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1836,7 +1836,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AIPMAndy/goskill",
       "url": "https://github.com/AIPMAndy/goskill",
-      "description": "English 简体中文 不是魔法 Agent",
+      "description": "🎯 目标驱动的执行助手，用于长期运行的任务和明确的成功标准",
       "category": "AI/Agents/Skills",
       "topics": [
         "agents",
@@ -1857,7 +1857,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sunjackson/claude-code-proxy",
       "url": "https://github.com/sunjackson/claude-code-proxy",
-      "description": "ClaudeCodeProxy 跨平台桌面应用 管理 Cla",
+      "description": "一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务",
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
@@ -1873,7 +1873,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "OpenKILab/ClawReverse",
       "url": "https://github.com/OpenKILab/ClawReverse",
-      "description": "ClawReverse English 简体中文 Check",
+      "description": "OpenClaw 的本机版本控制插件。通过简单的检查点、回滚和安全的试错分支，避免返工并保存令牌",
       "category": "AI/Agents/Skills",
       "topics": [
         "openclaw",
@@ -1888,7 +1888,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "obiwan90/n8n_guide",
       "url": "https://github.com/obiwan90/n8n_guide",
-      "description": "工作流 1: Crawl4AI Data Extractio",
+      "description": "n8n工作流与RAG技术实现指南",
       "category": "AI/Agents/Skills",
       "topics": [
         "scraping",
@@ -1903,7 +1903,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "longyq20/rikkahub",
       "url": "https://github.com/longyq20/rikkahub",
-      "description": "﻿RikkaHubWebDist中文英文该分支提供Rik",
+      "description": "RikkaHub是一款支持多个LLM提供商的Android应用程序",
       "category": "AI/Agents/Skills",
       "topics": [
         "docker",
@@ -1917,7 +1917,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "BeCrafter/PromptCraft",
       "url": "https://github.com/BeCrafter/PromptCraft",
-      "description": "PromptCraft 提示词工坊 一个优雅",
+      "description": "一个精心设计的 AI 提示词库展示平台，帮助开发者、创作者和 AI 爱好者发现、管 理和使用高质量的 AI 提示词",
       "category": "AI/Agents/Skills",
       "topics": [
         "prompts",
@@ -1933,7 +1933,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wzxklm/rss-aggregator",
       "url": "https://github.com/wzxklm/rss-aggregator",
-      "description": "RSS聚合器具有AI支持的摘要和翻译功能的RSS聚合器",
+      "description": "具有 AI 支持的摘要和翻译功能的 RSS 聚合器。用于 AI 代理的 Web UI + CLI",
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agent",
@@ -1949,7 +1949,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HG-ha/itdog_mcp",
       "url": "https://github.com/HG-ha/itdog_mcp",
-      "description": "ITDog MCP 服务器 ITDog MCP 是一个使用",
+      "description": "通过自动化操作itdog.cn来实现网络质量测试的mcp服务器，使用Qwen3-Coder指导开发",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
@@ -1965,7 +1965,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "LC044/WeChatMsg",
       "url": "https://github.com/LC044/WeChatMsg",
-      "description": "我的数据我做主 前言 我深信有意义的不是微信",
+      "description": "我的数据我做主 前言 我深信有意义的不是微信，而是隐藏在对话框背后的一个个 深刻故事 。未来，每个人都能拥有AI的陪伴",
       "category": "Bot/消息桥接",
       "topics": [
         "wechat",
@@ -1974,13 +1974,13 @@ window.__STAR_PAGE_DATA__ = {
         "llms"
       ],
       "language": "",
-      "stars": 40989,
+      "stars": 40994,
       "starredAt": "2024-06-14T02:30:08Z"
     },
     {
       "repo": "huiyadanli/RevokeMsgPatcher",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
-      "description": "👀微信/QQ/TIM防撤回补丁 适用于 Windows 下",
+      "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
       "category": "Bot/消息桥接",
       "topics": [
         "patch",
@@ -1995,13 +1995,13 @@ window.__STAR_PAGE_DATA__ = {
         "revokemsg"
       ],
       "language": "C#",
-      "stars": 37304,
+      "stars": 37303,
       "starredAt": "2023-12-28T02:04:27Z"
     },
     {
       "repo": "pppscn/SmsForwarder",
       "url": "https://github.com/pppscn/SmsForwarder",
-      "description": "SmsForwarder 短信转发器 English Ver",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人",
       "category": "Bot/消息桥接",
       "topics": [
         "sms",
@@ -2029,7 +2029,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sjzar/chatlog",
       "url": "https://github.com/sjzar/chatlog",
-      "description": "项目移除通知 更新日期: 2025年10月20日 发生了什么",
+      "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
       "category": "Bot/消息桥接",
       "topics": [
         "chat",
@@ -2040,13 +2040,13 @@ window.__STAR_PAGE_DATA__ = {
         "redteam"
       ],
       "language": "",
-      "stars": 9192,
+      "stars": 9191,
       "starredAt": "2025-05-19T03:35:04Z"
     },
     {
       "repo": "tdlib/telegram-bot-api",
       "url": "https://github.com/tdlib/telegram-bot-api",
-      "description": "TelegramBotAPITelegramBotAPI",
+      "description": "Telegram Bot API 服务器",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2059,7 +2059,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "miantiao-me/BroadcastChannel",
       "url": "https://github.com/miantiao-me/BroadcastChannel",
-      "description": "BroadcastChannel将您的Telegram频",
+      "description": "将您的 Telegram 频道变成微博",
       "category": "Bot/消息桥接",
       "topics": [
         "astro",
@@ -2076,7 +2076,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "vasusen-code/SaveRestrictedContentBot",
       "url": "https://github.com/vasusen-code/SaveRestrictedContentBot",
-      "description": "保存受限内容机器人联系人：Telegram一个稳定的电报",
+      "description": "稳定的电报机器人可通过自定义缩略图支持保存受限内容",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2095,7 +2095,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wangxinleo/wechat-public-account-push",
       "url": "https://github.com/wangxinleo/wechat-public-account-push",
-      "description": "公告｜项目过时说明 wechat public accoun",
+      "description": "✨微信公众号推送-给女朋友的浪漫",
       "category": "Bot/消息桥接",
       "topics": [
         "wechat",
@@ -2110,7 +2110,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "EverythingSuckz/TG-FileStreamBot",
       "url": "https://github.com/EverythingSuckz/TG-FileStreamBot",
-      "description": "TelegramFileStreamBot一个Teleg",
+      "description": "电报机器人将提供电报文件的即时流链接，而无需等待下载完成。 （电报文件流机器人）",
       "category": "Bot/消息桥接",
       "topics": [
         "pyrogram",
@@ -2141,7 +2141,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "aahnik/tgcf",
       "url": "https://github.com/aahnik/tgcf",
-      "description": "tgcf自动自定义电报消息转发的终极工具",
+      "description": "自动转发自定义电报消息的终极工具。实时同步器、自动海报、备份机器人、克隆器、聊天转发器、复制器……无论您喜欢怎么称呼它！ tgcf 可以满足您的定制需求",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram-bot",
@@ -2171,7 +2171,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yincongcyincong/MuseBot",
       "url": "https://github.com/yincongcyincong/MuseBot",
-      "description": "🚀将您的通讯连接...",
+      "description": "supports Telegram, Discord, Slack, Lark（飞书）",
       "category": "Bot/消息桥接",
       "topics": [
         "deepseek",
@@ -2192,7 +2192,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cinit/TMoe",
       "url": "https://github.com/cinit/TMoe",
-      "description": "TMoe TMoe 是一个兼容若干第三方开源 Telegra",
+      "description": "Telegram 客户端的 Xposed 模块",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2207,7 +2207,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Heavrnl/TelegramForwarder",
       "url": "https://github.com/Heavrnl/TelegramForwarder",
-      "description": "Telegram 转发器 Telegram Forwarde",
+      "description": "一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2223,7 +2223,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "amchii/tg-signer",
       "url": "https://github.com/amchii/tg-signer",
-      "description": "Telegram每日自动签到/个人、群组",
+      "description": "电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2236,7 +2236,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tgscan/tgscan",
       "url": "https://github.com/tgscan/tgscan",
-      "description": "English 中文 Streamline Your Tel",
+      "description": "简化您的 Telegram 搜索：轻松查找频道、群组和聊天历史记录",
       "category": "Bot/消息桥接",
       "topics": [
         "elasticsearch",
@@ -2251,7 +2251,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "polyrabbit/WeCron",
       "url": "https://github.com/polyrabbit/WeCron",
-      "description": "WeCron 微信上的定时提醒 Cron on WeChat",
+      "description": ":heavy_check_mark: 微信上的定时提醒 - Cron on WeChat",
       "category": "Bot/消息桥接",
       "topics": [
         "weixin",
@@ -2272,7 +2272,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Swiftgram/Telegram-iOS",
       "url": "https://github.com/Swiftgram/Telegram-iOS",
-      "description": "SwiftgramSuperchargedTelegra",
+      "description": "来自 Nicegram 原创者的 iOS 版 Telegram 分叉",
       "category": "Bot/消息桥接",
       "topics": [
         "ios",
@@ -2290,7 +2290,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "donbarbos/telegram-bot-template",
       "url": "https://github.com/donbarbos/telegram-bot-template",
-      "description": "Telegram机器人模板创建具有分析功能的可扩展电报机",
+      "description": "🤖 使用 postgres、pgbouncer、redis、docker、amplitude、prometheus、grafana",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram-bot",
@@ -2321,7 +2321,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xiaomaoJT/TgBot",
       "url": "https://github.com/xiaomaoJT/TgBot",
-      "description": "TgBot@XiaoMaohttps://github.",
+      "description": "telegram机器人，基于Google Apps Script实现。【功能描述】 ❶ 超级群管功能❷ 广告词/敏感词过滤、自动删除/警告❸ 多样化接口查询",
       "category": "Bot/消息桥接",
       "topics": [
         "bot",
@@ -2339,7 +2339,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dryeab/mcp-telegram",
       "url": "https://github.com/dryeab/mcp-telegram",
-      "description": "让法学硕士能够控制您的Telegram通过模型上下文协议",
+      "description": "用于电报的 MCP 服务器",
       "category": "Bot/消息桥接",
       "topics": [
         "claude",
@@ -2364,7 +2364,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Riniba/TelegramMonitor",
       "url": "https://github.com/Riniba/TelegramMonitor",
-      "description": "AD 机场推广 机场 老百姓自己的机场 ：https://老",
+      "description": "Telegram监听关键词｜TG抓需求｜实时监测频道｜telegram关键词监控｜电报｜tg关键词监控｜telegram监控机器人｜主动获取｜消息订阅｜tele",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2378,7 +2378,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "assimon/captcha-bot",
       "url": "https://github.com/assimon/captcha-bot",
-      "description": "captcha bot 用于Telegram 加群验证机器人",
+      "description": "用于Telegram 加群验证机器人",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2394,7 +2394,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chr233/XinjingdailyBot",
       "url": "https://github.com/chr233/XinjingdailyBot",
-      "description": "Xinjingdaily Bot Telegram 投稿机器",
+      "description": "Telegram投稿机器人，支持多图与权限管理",
       "category": "Bot/消息桥接",
       "topics": [
         "csharp",
@@ -2409,7 +2409,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zhenxun-org/zhenxun_bot-deploy",
       "url": "https://github.com/zhenxun-org/zhenxun_bot-deploy",
-      "description": "zhenxun bot deploy 真寻 bot 一键部署",
+      "description": "真寻bot一键部署脚本",
       "category": "Bot/消息桥接",
       "topics": [
         "zhenxun",
@@ -2422,7 +2422,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TheCaduceus/FileStreamBot",
       "url": "https://github.com/TheCaduceus/FileStreamBot",
-      "description": "🌐FileStreamBot一个开源PythonTele",
+      "description": "一个开源 Python Telegram 机器人，用于通过 HTTP 传输 Telegram 文件",
       "category": "Bot/消息桥接",
       "topics": [
         "bot",
@@ -2441,7 +2441,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yuimoi/tg_faka",
       "url": "https://github.com/yuimoi/tg_faka",
-      "description": "Telegram 发卡机器人 一个方便部署的Telegram",
+      "description": "一个方便部署的Telegram发卡机器人，用户支付成功后会发送货物内容",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2456,7 +2456,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "surprise-tech/huoxing-links",
       "url": "https://github.com/surprise-tech/huoxing-links",
-      "description": "火星快链 火星快链全开源，项目基于laravel10",
+      "description": "火星外链 huoxing-links 开源抖音私信卡片外链系统，支持生成抖音卡片跳转到个人微信二维码、企业微信获客链接、企业微信客服、小程序等",
       "category": "Bot/消息桥接",
       "topics": [
         "wechat",
@@ -2472,7 +2472,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yuimoi/tg_pay_gate",
       "url": "https://github.com/yuimoi/tg_pay_gate",
-      "description": "Telegram 付费进群机器人 一个方便部署的Telegr",
+      "description": "一个方便部署的Telegram付费机器人，用户支付成功后会发送邀请链接给用户进入群组",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2485,9 +2485,24 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-06-29T06:16:11Z"
     },
     {
+      "repo": "akasls/TG-SignPulse",
+      "url": "https://github.com/akasls/TG-SignPulse",
+      "description": "Telegram自动签到面板",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "docker",
+        "signpulse"
+      ],
+      "language": "Python",
+      "stars": 107,
+      "starredAt": "2026-02-20T02:59:53Z"
+    },
+    {
       "repo": "huliyoudiangou/TG_Chat_Bot-D1",
       "url": "https://github.com/huliyoudiangou/TG_Chat_Bot-D1",
-      "description": "🚀 Telegram 双向机器人 Cloudflare Wo",
+      "description": "这是一个基于 Cloudflare Worker 和 D1 数据库 构建的高性能 Telegram 双向机器人",
       "category": "Bot/消息桥接",
       "topics": [
         "cloudflare",
@@ -2501,24 +2516,9 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-02-28T09:32:02Z"
     },
     {
-      "repo": "akasls/TG-SignPulse",
-      "url": "https://github.com/akasls/TG-SignPulse",
-      "description": "TGSignPulse英文自述文件TG…",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "signpulse"
-      ],
-      "language": "Python",
-      "stars": 104,
-      "starredAt": "2026-02-20T02:59:53Z"
-    },
-    {
       "repo": "jiaopianjun/wepython",
       "url": "https://github.com/jiaopianjun/wepython",
-      "description": "公众号 【执行上下文】 有问题加微信 【jiaopianbo",
+      "description": "🔥 微信机器人/微信自动加好友/微信群/微信/微信防撤回 个人博客：",
       "category": "Bot/消息桥接",
       "topics": [
         "python",
@@ -2533,7 +2533,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yanguo888/fakabot",
       "url": "https://github.com/yanguo888/fakabot",
-      "description": "🤖 Fakabot 专业的 Telegram 自动发卡机器人",
+      "description": "Telegram自动发卡机器人 电报发卡机器人 - 支持支付宝/微信/USDT支付 自动发货 订单管理 虚拟商品 | Telegram Auto Card De",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2549,7 +2549,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "deanxv/telegram-dice-bot",
       "url": "https://github.com/deanxv/telegram-dice-bot",
-      "description": "telegram dice bot 免费且开源的Telegr",
+      "description": "Telegram骰子娱乐机器人",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2564,7 +2564,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "k1p1l0/claude-telegram-supercharged",
       "url": "https://github.com/k1p1l0/claude-telegram-supercharged",
-      "description": "官方的ClaudeCodeTelegram插件很好",
+      "description": "超级强大的 Claude Code 官方 Telegram 插件 — 线程、2 种语音消息、贴纸、GIF、反应、MarkdownV2 等。直接替换",
       "category": "Bot/消息桥接",
       "topics": [
         "ai-tools",
@@ -2595,7 +2595,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Shannon-x/sufe-shop-bot",
       "url": "https://github.com/Shannon-x/sufe-shop-bot",
-      "description": "Telegram Shop Bot 电报商城机器人 苏菲家宽",
+      "description": "Telegram Shop Bot 电报商城机器人 苏菲家宽 — 提供极度纯净的家宽代理： sufe.pro 一个功能完善的 Telegram 电商机器人系统",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2611,7 +2611,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "deemoartisan/gateway-notify",
       "url": "https://github.com/deemoartisan/gateway-notify",
-      "description": "网关通知OpenClaw网关重新启动时自动通知",
+      "description": "网关通知 OpenClaw 网关重新启动时自动通知",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2621,13 +2621,13 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Shell",
-      "stars": 59,
+      "stars": 61,
       "starredAt": "2026-03-19T10:54:28Z"
     },
     {
       "repo": "snokin/tgposter",
       "url": "https://github.com/snokin/tgposter",
-      "description": "Telegram 频道自动发布机器人 这是啥 Telegra",
+      "description": "Telegram 频道自动发布机器人",
       "category": "Bot/消息桥接",
       "topics": [
         "shell-script",
@@ -2643,7 +2643,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yangsoon/funny-bot",
       "url": "https://github.com/yangsoon/funny-bot",
-      "description": "telegram bot 部署前请看 https://git",
+      "description": "telegram 机器人从 gamersky 获取照片",
       "category": "Bot/消息桥接",
       "topics": [
         "asyncio",
@@ -2658,7 +2658,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sky22333/epay-bot",
       "url": "https://github.com/sky22333/epay-bot",
-      "description": "功能特性 无侵入性 ：无需修改易支付，无需服务端权限",
+      "description": "轻量级易支付订单通知 Telegram 机器人，旨在提供稳定、高性能、低资源占用的订单通知",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2674,7 +2674,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "CCRSRG/TG_ZF",
       "url": "https://github.com/CCRSRG/TG_ZF",
-      "description": "Telegram 消息转发与频道群组导出备份工具 (TG Z",
+      "description": "Telegram 消息转发与频道群组导出备份工具 (TG ZF) 一个功能强大的 Telegram 工具，支持 频道消息转发 （多账号轮换、智能过滤",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2689,7 +2689,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "3269571135/tg_faka_bot",
       "url": "https://github.com/3269571135/tg_faka_bot",
-      "description": "介绍 这是一个Telegram 发卡机器人",
+      "description": "电报自动发卡",
       "category": "Bot/消息桥接",
       "topics": [
         "telegram",
@@ -2705,7 +2705,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zhuima/awesome-cloudflare",
       "url": "https://github.com/zhuima/awesome-cloudflare",
-      "description": "Awesome Cloudflare 本仓库只收录基于Clo",
+      "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2720,7 +2720,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dreamhunter2333/cloudflare_temp_email",
       "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-      "description": "Cloudflare 临时邮箱 免费搭建临时邮件服务 中文文",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare-email",
@@ -2730,13 +2730,13 @@ window.__STAR_PAGE_DATA__ = {
         "free"
       ],
       "language": "TypeScript",
-      "stars": 8133,
+      "stars": 8137,
       "starredAt": "2023-08-25T20:39:39Z"
     },
     {
       "repo": "cmliu/CF-Workers-SUB",
       "url": "https://github.com/cmliu/CF-Workers-SUB",
-      "description": "[!CAUTION] 汇聚订阅非base64订阅时",
+      "description": "这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2751,7 +2751,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "maillab/cloud-mail",
       "url": "https://github.com/maillab/cloud-mail",
-      "description": "Cloud Mail 基于 Cloudflare 的简约响应",
+      "description": "A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mai",
       "category": "Cloudflare 生态",
       "topics": [
         "email",
@@ -2760,13 +2760,13 @@ window.__STAR_PAGE_DATA__ = {
         "mail"
       ],
       "language": "JavaScript",
-      "stars": 6168,
+      "stars": 6171,
       "starredAt": "2025-11-05T11:10:45Z"
     },
     {
       "repo": "ddgth/cf2dns",
       "url": "https://github.com/ddgth/cf2dns",
-      "description": "cloudflare 明文禁止：优选IP 和 CF代理节点",
+      "description": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2782,7 +2782,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MarSeventh/CloudFlare-ImgBed",
       "url": "https://github.com/MarSeventh/CloudFlare-ImgBed",
-      "description": "🗂️开源文件托管解决方案，支持Docker和无服务器部署",
+      "description": "Open-source file hosting solution based on CloudFlare (Image hosting/File storag",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare-pages",
@@ -2796,13 +2796,13 @@ window.__STAR_PAGE_DATA__ = {
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 4772,
+      "stars": 4773,
       "starredAt": "2025-02-11T05:11:41Z"
     },
     {
       "repo": "cf-pages/Telegraph-Image",
       "url": "https://github.com/cf-pages/Telegraph-Image",
-      "description": "TelegraphImage免费图像托管解决方案",
+      "description": "图像托管解决方案（Flickr/imgur 替代方案）使用户可以轻松共享图像。使用 Cloudflare Pages 和 Telegraph",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2824,7 +2824,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "P3TERX/warp.sh",
       "url": "https://github.com/P3TERX/warp.sh",
-      "description": "English 中文 Cloudflare WARP Ins",
+      "description": "Cloudflare WARP Installer | WARP 一键安装脚本",
       "category": "Cloudflare 生态",
       "topics": [
         "warp",
@@ -2846,7 +2846,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "openRin/Rin",
       "url": "https://github.com/openRin/Rin",
-      "description": "English 简体中文 Introduction Rin",
+      "description": "借助由 Cloudflare Workers、D1 和 R2 提供支持的边缘原生博客，发布速度更快",
       "category": "Cloudflare 生态",
       "topics": [
         "blog",
@@ -2865,7 +2865,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "beilunyang/moemail",
       "url": "https://github.com/beilunyang/moemail",
-      "description": "MoeMail一个可爱的临时电子邮件...",
+      "description": "A cute temporary email service built with NextJS + Cloudflare technology stack 🎉",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2880,7 +2880,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shuaiplus/nodewarden",
       "url": "https://github.com/shuaiplus/nodewarden",
-      "description": "运行在 Cloudflare Workers 上的第三方 B",
+      "description": "在 Cloudflare Workers 上运行的第三方 Bitwarden 服务器",
       "category": "Cloudflare 生态",
       "topics": [
         "bitwarden",
@@ -2908,7 +2908,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "justlovemaki/CloudFlare-AI-Insight-Daily",
       "url": "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily",
-      "description": "AI 资讯日报 是一个基于 Cloudflare Worke",
+      "description": "AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目",
       "category": "Cloudflare 生态",
       "topics": [
         "aicoding",
@@ -2918,13 +2918,13 @@ window.__STAR_PAGE_DATA__ = {
         "insight"
       ],
       "language": "JavaScript",
-      "stars": 1427,
+      "stars": 1428,
       "starredAt": "2025-12-03T17:41:50Z"
     },
     {
       "repo": "lesnolie/movecar",
       "url": "https://github.com/lesnolie/movecar",
-      "description": "﻿ MoveCar 挪车通知系统 基于 Cloudflare",
+      "description": "🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2938,7 +2938,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "0-RTT/telegraph",
       "url": "https://github.com/0-RTT/telegraph",
-      "description": "🎉基于R2储存的图床/视频床/文件床项目已完成",
+      "description": "基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！",
       "category": "Cloudflare 生态",
       "topics": [
         "telegraph",
@@ -2955,7 +2955,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dollarshaveclub/cloudworker",
       "url": "https://github.com/dollarshaveclub/cloudworker",
-      "description": "⚠️DollarShaveClub不再积极维护Cloud",
+      "description": "在本地运行 Cloudflare Worker 脚本",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2970,7 +2970,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "realByg/office-user-auto-create",
       "url": "https://github.com/realByg/office-user-auto-create",
-      "description": "🐈 用 cloudflare worker 自助创建 off",
+      "description": "用 cloudflare worker 自助创建 office 账号",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare-worker",
@@ -2983,7 +2983,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TangSY/edge-next-starter",
       "url": "https://github.com/TangSY/edge-next-starter",
-      "description": "English 简体中文 Next.js + Cloudfl",
+      "description": "An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runti",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -2999,7 +2999,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "x-dr/short",
       "url": "https://github.com/x-dr/short",
-      "description": "介绍 一个使用 Cloudflare Pages 创建的 U",
+      "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages",
       "category": "Cloudflare 生态",
       "topics": [
         "short",
@@ -3013,7 +3013,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "EzXxY/CF-IP",
       "url": "https://github.com/EzXxY/CF-IP",
-      "description": "期望目标： ① 使用开源的 masscan 工具寻找好线路",
+      "description": "任意查询你想要的第三方CloudFlare反代IP及端口号",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3027,7 +3027,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "woaiqjj/FileWorker",
       "url": "https://github.com/woaiqjj/FileWorker",
-      "description": "FileWorker FileWorker 是一个轻量级的文",
+      "description": "运行在边缘函数上的在线剪贴板/文件共享",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3042,7 +3042,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xyTom/cf-page-func-proxy",
       "url": "https://github.com/xyTom/cf-page-func-proxy",
-      "description": "cfpagefuncproxy使用CloudflareP",
+      "description": "使用 Cloudflare Pages Functions 作为具有自定义域支持的反向代理",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3058,7 +3058,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lu0b0/cloudflare-manager",
       "url": "https://github.com/lu0b0/cloudflare-manager",
-      "description": "Cloudflare Workers Manager 一个强",
+      "description": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3074,7 +3074,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "mangguo02/domain-check",
       "url": "https://github.com/mangguo02/domain-check",
-      "description": "域名到期监控系统 对原有的 worker版 进行模块化重构",
+      "description": "域名监控：domain-check是基于 Cloudflare Worker 和 Worker KV 构建的域名到期监控仪表盘，支持自动 WHOIS 查询",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3090,7 +3090,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TonnyWong1052/temp-email",
       "url": "https://github.com/TonnyWong1052/temp-email",
-      "description": "Cloudflare 临时邮箱服务 (Temporary E",
+      "description": "This is a Cloudflare-based temporary email service that can automatically genera",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3105,7 +3105,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lixiaofei123/image-hosting-cfworkers",
       "url": "https://github.com/lixiaofei123/image-hosting-cfworkers",
-      "description": "安装说明 基于Cloudflare R2对象存储和Worke",
+      "description": "基于 Cloudflare Workers 和 R2 对象存储的零成本图像托管解决方案允许您在 Cloudflare 的免费套餐限制内免费使用它",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3121,7 +3121,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "enweny/My-IP-Information",
       "url": "https://github.com/enweny/My-IP-Information",
-      "description": "My IP Information 利用Cloudflare",
+      "description": "利用Cloudflare进行查询自己IP的信息",
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
@@ -3135,7 +3135,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hacksider/Deep-Live-Cam",
       "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "DeepLiveCam2.1只需单击一下即可实现实时换脸",
+      "description": "仅使用单个图像进行实时换脸和一键视频深度换脸",
       "category": "媒体下载/存储",
       "topics": [
         "ai-face",
@@ -3158,13 +3158,13 @@ window.__STAR_PAGE_DATA__ = {
         "realtime"
       ],
       "language": "Python",
-      "stars": 89272,
+      "stars": 89282,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
       "repo": "rclone/rclone",
       "url": "https://github.com/rclone/rclone",
-      "description": "网站文档下载贡献更新日志安装论坛RcloneRclone",
+      "description": "“用于云存储的 rsync” - Google Drive、S3、Dropbox、Backblaze B2、One Drive、Swift、Hubic",
       "category": "媒体下载/存储",
       "topics": [
         "golang",
@@ -3195,7 +3195,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "MoneyPrinterTurbo 💸 简体中文 Engli",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "category": "媒体下载/存储",
       "topics": [
         "shortvideo",
@@ -3207,13 +3207,13 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 55225,
+      "stars": 55230,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
       "repo": "laurent22/joplin",
       "url": "https://github.com/laurent22/joplin",
-      "description": "Joplin是一款免费、开源的笔记和待办事项应用程序",
+      "description": "Joplin - 一款注重隐私的笔记应用程序，具有适用于 Windows、macOS、Linux、Android 和 iOS 的同步功能",
       "category": "媒体下载/存储",
       "topics": [
         "react-native",
@@ -3239,7 +3239,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AlistGo/alist",
       "url": "https://github.com/AlistGo/alist",
-      "description": "🗂️一个支持多种存储的文件列表程序",
+      "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and",
       "category": "媒体下载/存储",
       "topics": [
         "golang",
@@ -3256,7 +3256,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
       "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
-      "description": "Retrieval based Voice Conversi",
+      "description": "使用语音数据轻松训练一个好的 VC 模型 <= 10 分钟！",
       "category": "媒体下载/存储",
       "topics": [
         "change",
@@ -3277,13 +3277,13 @@ window.__STAR_PAGE_DATA__ = {
         "voiceconversion"
       ],
       "language": "Python",
-      "stars": 35136,
+      "stars": 35137,
       "starredAt": "2025-04-13T10:29:19Z"
     },
     {
       "repo": "qier222/YesPlayMusic",
       "url": "https://github.com/qier222/YesPlayMusic",
-      "description": "特别感谢：Warp正在建设中……",
+      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:",
       "category": "媒体下载/存储",
       "topics": [
         "vue",
@@ -3306,13 +3306,13 @@ window.__STAR_PAGE_DATA__ = {
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 32718,
+      "stars": 32719,
       "starredAt": "2022-11-03T03:31:56Z"
     },
     {
       "repo": "OpenListTeam/OpenList",
       "url": "https://github.com/OpenListTeam/OpenList",
-      "description": "OpenList是AList的一个有弹性、长期治理",
+      "description": "反信任危机的新 AList 分叉",
       "category": "媒体下载/存储",
       "topics": [
         "alist",
@@ -3321,13 +3321,13 @@ window.__STAR_PAGE_DATA__ = {
         "openlist"
       ],
       "language": "Go",
-      "stars": 21788,
+      "stars": 21789,
       "starredAt": "2025-07-08T22:21:14Z"
     },
     {
       "repo": "k4yt3x/video2x",
       "url": "https://github.com/k4yt3x/video2x",
-      "description": "🌟版本6.0.0Video2X6.0.0亮点：用C/C+",
+      "description": "基于机器学习的视频超分辨率和帧插值框架。预计。黑客山谷 II，2018",
       "category": "媒体下载/存储",
       "topics": [
         "machine-learning",
@@ -3342,13 +3342,13 @@ window.__STAR_PAGE_DATA__ = {
         "realcugan"
       ],
       "language": "C++",
-      "stars": 19360,
+      "stars": 19361,
       "starredAt": "2025-06-09T09:41:59Z"
     },
     {
       "repo": "JoeanAmier/TikTokDownloader",
       "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "description": "DouK Downloader 简体中文 English 🔥",
+      "description": "TikTok 发布/喜欢/合辑/直播/视频/图集/音乐",
       "category": "媒体下载/存储",
       "topics": [
         "douyin",
@@ -3373,13 +3373,13 @@ window.__STAR_PAGE_DATA__ = {
         "rich"
       ],
       "language": "Python",
-      "stars": 13911,
+      "stars": 13912,
       "starredAt": "2023-11-16T09:19:13Z"
     },
     {
       "repo": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "[!IMPORTANT] 如果您是从 GreasyFork",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改",
       "category": "媒体下载/存储",
       "topics": [
         "aliyun-drive",
@@ -3404,13 +3404,13 @@ window.__STAR_PAGE_DATA__ = {
         "baidupan"
       ],
       "language": "JavaScript",
-      "stars": 13876,
+      "stars": 13879,
       "starredAt": "2026-02-18T07:56:58Z"
     },
     {
       "repo": "xiandanin/magnetW",
       "url": "https://github.com/xiandanin/magnetW",
-      "description": "[已失效，不再维护] [[中文文档]](https://gi",
+      "description": "[已失效，不再维护]",
       "category": "媒体下载/存储",
       "topics": [
         "electron",
@@ -3424,7 +3424,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jxxghp/MoviePilot",
       "url": "https://github.com/jxxghp/MoviePilot",
-      "description": "仅用于学习交流使用，请勿在任何国内平台宣传该项目",
+      "description": "NAS媒体库自动化管理工具",
       "category": "媒体下载/存储",
       "topics": [
         "mcp",
@@ -3440,7 +3440,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zfile-dev/zfile",
       "url": "https://github.com/zfile-dev/zfile",
-      "description": "ZFile 是一个适用于个人或小团队的在线网盘程序",
+      "description": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载",
       "category": "媒体下载/存储",
       "topics": [
         "h5ai",
@@ -3457,7 +3457,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "YaoFANGUK/video-subtitle-remover",
       "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
-      "description": "简体中文 English 项目简介 Video subtit",
+      "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现",
       "category": "媒体下载/存储",
       "topics": [
         "ai",
@@ -3467,13 +3467,13 @@ window.__STAR_PAGE_DATA__ = {
         "subtile"
       ],
       "language": "Python",
-      "stars": 10110,
+      "stars": 10111,
       "starredAt": "2025-10-29T01:03:22Z"
     },
     {
       "repo": "rwv/chinese-dos-games",
       "url": "https://github.com/rwv/chinese-dos-games",
-      "description": "🎮 中文 DOS 游戏 网址： https://dos.lo",
+      "description": "🎮中文DOS游戏合集",
       "category": "媒体下载/存储",
       "topics": [
         "dos",
@@ -3486,7 +3486,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ihmily/DouyinLiveRecorder",
       "url": "https://github.com/ihmily/DouyinLiveRecorder",
-      "description": "😺已支持平台 [x] 抖音 [x] TikTok [x] 快",
+      "description": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv",
       "category": "媒体下载/存储",
       "topics": [
         "douyin-live",
@@ -3510,13 +3510,13 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "Python",
-      "stars": 9687,
+      "stars": 9689,
       "starredAt": "2024-01-30T01:20:00Z"
     },
     {
       "repo": "Johnserf-Seed/TikTokDownload",
       "url": "https://github.com/Johnserf-Seed/TikTokDownload",
-      "description": "✨ 抖音去水印作品下载 ✨ English 简体中文 🚀 环",
+      "description": "抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频",
       "category": "媒体下载/存储",
       "topics": [
         "douyin",
@@ -3534,7 +3534,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "vastsa/FileCodeBox",
       "url": "https://github.com/vastsa/FileCodeBox",
-      "description": "FileCodeBox 文件快递柜 匿名口令分享文本和文件",
+      "description": "文件快递柜-匿名口令分享文本，文件",
       "category": "媒体下载/存储",
       "topics": [
         "python",
@@ -3551,7 +3551,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "nexmoe/VidBee",
       "url": "https://github.com/nexmoe/VidBee",
-      "description": "VidBeeVidBee是一款现代化的开源视频下载器",
+      "description": "从全球几乎所有网站下载视频",
       "category": "媒体下载/存储",
       "topics": [
         "downloader",
@@ -3567,7 +3567,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "iyear/tdl",
       "url": "https://github.com/iyear/tdl",
-      "description": "tdl 📥 Telegram Downloader, but",
+      "description": "📥 用 Golang 编写的 Telegram 工具包",
       "category": "媒体下载/存储",
       "topics": [
         "telegram",
@@ -3587,7 +3587,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Momo707577045/m3u8-downloader",
       "url": "https://github.com/Momo707577045/m3u8-downloader",
-      "description": "欢迎加入社区交流群 群已满员，请添加 mjw70757704",
+      "description": "m3u8 视频在线提取工具",
       "category": "媒体下载/存储",
       "topics": [
         "m3u8",
@@ -3600,7 +3600,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "XayahSuSuSu/Android-DataBackup",
       "url": "https://github.com/XayahSuSuSu/Android-DataBackup",
-      "description": "English DataBackup Free and op",
+      "description": "适用于 Android 7.0+ 的数据备份",
       "category": "媒体下载/存储",
       "topics": [
         "backup",
@@ -3616,7 +3616,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yuantuo666/baiduwp-php",
       "url": "https://github.com/yuantuo666/baiduwp-php",
-      "description": "Baiduwp PHP ENGLISH 中文 ⚠️ Disc",
+      "description": "A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具",
       "category": "媒体下载/存储",
       "topics": [
         "baidunetdisk",
@@ -3630,19 +3630,20 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ddean2009/MoneyPrinterPlus",
       "url": "https://github.com/ddean2009/MoneyPrinterPlus",
-      "description": "它可以：一键混剪短视频，批量生成短视频不是梦",
+      "description": "AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fast",
       "category": "媒体下载/存储",
       "topics": [
+        "cli",
         "moneyprinterplus"
       ],
       "language": "Python",
-      "stars": 6027,
+      "stars": 6026,
       "starredAt": "2025-02-03T06:09:04Z"
     },
     {
       "repo": "timvisee/send",
       "url": "https://github.com/timvisee/send",
-      "description": "发送[![GitLabCI上的构建状态][gitlabc",
+      "description": ":mailbox_with_mail：简单、私密的文件共享。 https://gitlab.com/timvisee/send 的镜像",
       "category": "媒体下载/存储",
       "topics": [
         "firefox-send",
@@ -3659,7 +3660,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hect0x7/JMComic-Crawler-Python",
       "url": "https://github.com/hect0x7/JMComic-Crawler-Python",
-      "description": "Python API for JMComic 简体中文 •",
+      "description": "Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀",
       "category": "媒体下载/存储",
       "topics": [
         "18comic",
@@ -3678,7 +3679,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "bililive-go/bililive-go",
       "url": "https://github.com/bililive-go/bililive-go",
-      "description": "Bililive go Bililive go是一个支持多种",
+      "description": "一个直播录制工具",
       "category": "媒体下载/存储",
       "topics": [
         "golang",
@@ -3690,13 +3691,13 @@ window.__STAR_PAGE_DATA__ = {
         "twitchtv"
       ],
       "language": "Go",
-      "stars": 5495,
+      "stars": 5496,
       "starredAt": "2022-09-20T05:49:04Z"
     },
     {
       "repo": "xuejianxianzun/PixivBatchDownloader",
       "url": "https://github.com/xuejianxianzun/PixivBatchDownloader",
-      "description": "English 繁體中文 日本語 韩国语 Russian D",
+      "description": "浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等",
       "category": "媒体下载/存储",
       "topics": [
         "pixiv",
@@ -3716,7 +3717,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "XPoet/picx",
       "url": "https://github.com/XPoet/picx",
-      "description": "PicX PicX 是一款基于 GitHub API 开发的",
+      "description": "🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务",
       "category": "媒体下载/存储",
       "topics": [
         "github-api",
@@ -3735,7 +3736,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tangyoha/telegram_media_downloader",
       "url": "https://github.com/tangyoha/telegram_media_downloader",
-      "description": "Telegram Media Downloader 中文 ·",
+      "description": "基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载",
       "category": "媒体下载/存储",
       "topics": [
         "media-downloader",
@@ -3752,7 +3753,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "BililiveRecorder/BililiveRecorder",
       "url": "https://github.com/BililiveRecorder/BililiveRecorder",
-      "description": "mikufans录播姬 简体中文 README Simpli",
+      "description": "录播姬 | mikufans 生放送录制",
       "category": "媒体下载/存储",
       "topics": [
         "bilibili",
@@ -3769,7 +3770,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "qkqpttgf/OneManager-php",
       "url": "https://github.com/qkqpttgf/OneManager-php",
-      "description": "中文readme NOTICE: The Releases",
+      "description": "基于 Serverless 的 Onedrive 索引和管理器。可以部署到 Vercel/Heroku/SCF/FG/FC/CFC/PHP 虚拟主机/VPS",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -3794,7 +3795,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ihmily/StreamCap",
       "url": "https://github.com/ihmily/StreamCap",
-      "description": "简体中文 / English StreamCap 是一个基于",
+      "description": "Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg ·",
       "category": "媒体下载/存储",
       "topics": [
         "douyin",
@@ -3819,7 +3820,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AIDC-AI/Pixelle-Video",
       "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "description": "🎬 Pixelle Video —— AI 全自动短视频引擎",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "category": "媒体下载/存储",
       "topics": [
         "aigc",
@@ -3835,7 +3836,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "P3TERX/aria2.conf",
       "url": "https://github.com/P3TERX/aria2.conf",
-      "description": "Aria2 完美配置 一套 Aria2 配置方案",
+      "description": "Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存",
       "category": "媒体下载/存储",
       "topics": [
         "aria2",
@@ -3852,7 +3853,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "oop7/YTSage",
       "url": "https://github.com/oop7/YTSage",
-      "description": "一个现代的YouTube下载器",
+      "description": "现代 YouTube 下载器，具有干净的 PySide6 界面。下载任何质量的视频、提取音频、获取字幕、sponsorBlock 以及查看视频元数据",
       "category": "媒体下载/存储",
       "topics": [
         "python",
@@ -3869,7 +3870,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "greycodee/wechat-backup",
       "url": "https://github.com/greycodee/wechat-backup",
-      "description": "由于DMCA删除通知，该项目已被删除",
+      "description": "微信聊天记录持久化备份本地硬盘，释放手机存储空间",
       "category": "媒体下载/存储",
       "topics": [
         "wechat",
@@ -3882,7 +3883,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "KuekHaoYang/KVideo",
       "url": "https://github.com/KuekHaoYang/KVideo",
-      "description": "Buy Me A Coffee 视频聚合平台 (KVideo",
+      "description": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 \"Liquid Glass\" 设计语言，提供流畅的视觉体验和强大的视频搜索功能",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -3898,7 +3899,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "timerring/bilive",
       "url": "https://github.com/timerring/bilive",
-      "description": "bilibili智能直播我...",
+      "description": "极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种模态模型，兼容超低配置机器",
       "category": "媒体下载/存储",
       "topics": [
         "bilibili",
@@ -3917,7 +3918,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Rudloff/alltube",
       "url": "https://github.com/Rudloff/alltube",
-      "description": "AllTube从发行包下载youtubedl安装程序的H",
+      "description": "youtube-dl 的 Web GUI",
       "category": "媒体下载/存储",
       "topics": [
         "php",
@@ -3935,7 +3936,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "P3TERX/aria2.sh",
       "url": "https://github.com/P3TERX/aria2.sh",
-      "description": "Aria2 一键安装管理脚本 增强版 Aria2 是目前最强",
+      "description": "Aria2 一键安装管理脚本 增强版",
       "category": "媒体下载/存储",
       "topics": [
         "aria2",
@@ -3957,7 +3958,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Cp0204/quark-auto-save",
       "url": "https://github.com/Cp0204/quark-auto-save",
-      "description": "夸克网盘自动转存 夸克网盘签到、自动转存、命名整理",
+      "description": "夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙",
       "category": "媒体下载/存储",
       "topics": [
         "quark",
@@ -3971,7 +3972,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "0xDkd/auxpi",
       "url": "https://github.com/0xDkd/auxpi",
-      "description": "AUXPI 集合多家 API 的新一代图床 功能 特色 支持",
+      "description": "🍭 集合多家 API 的新一代图床",
       "category": "媒体下载/存储",
       "topics": [
         "golang",
@@ -3993,7 +3994,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "levywang/avhub",
       "url": "https://github.com/levywang/avhub",
-      "description": "AvHubR18资源搜索和管理工具AvHub是一个致力于",
+      "description": "R18 资源搜索和管理工具",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4008,7 +4009,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "reruin/sharelist",
       "url": "https://github.com/reruin/sharelist",
-      "description": "ShareList ShareList 是一个易用的网盘工具",
+      "description": "快速分享 GoogleDrive OneDrive",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4024,7 +4025,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "loadchange/amemv-crawler",
       "url": "https://github.com/loadchange/amemv-crawler",
-      "description": "amemv爬虫==============...",
+      "description": "🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
       "category": "媒体下载/存储",
       "topics": [
         "wechat",
@@ -4040,7 +4041,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "YouROK/TorrServer",
       "url": "https://github.com/YouROK/TorrServer",
-      "description": "简单而强大的种子流工具",
+      "description": "种子流服务器",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4055,7 +4056,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "synctv-org/synctv",
       "url": "https://github.com/synctv-org/synctv",
-      "description": "👫A program that allows you to",
+      "description": "同步观看、影院、直播、视频",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4069,7 +4070,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ling-drag0n/CloudPaste",
       "url": "https://github.com/ling-drag0n/CloudPaste",
-      "description": "CloudPaste 📋 中文 English Españo",
+      "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive",
       "category": "媒体下载/存储",
       "topics": [
         "markdown",
@@ -4085,13 +4086,13 @@ window.__STAR_PAGE_DATA__ = {
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 2252,
+      "stars": 2253,
       "starredAt": "2025-11-19T13:23:07Z"
     },
     {
       "repo": "renzhezhilu/webp2jpg-online",
       "url": "https://github.com/renzhezhilu/webp2jpg-online",
-      "description": "English 简体中文 日本語 Webp2jpg onli",
+      "description": "Use the browser's online image format converter, no need to upload files, you ca",
       "category": "媒体下载/存储",
       "topics": [
         "picture-converter",
@@ -4114,7 +4115,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "samqin123/MoonTV",
       "url": "https://github.com/samqin123/MoonTV",
-      "description": "MoonTV 🎬 MoonTV 是一个开箱即用的",
+      "description": "MoonTV 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4130,7 +4131,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "maple3142/GDIndex",
       "url": "https://github.com/maple3142/GDIndex",
-      "description": "GDIndex 繁體中文 简体中文 GDIndex is s",
+      "description": "使用在 CloudFlare Workers 上运行的 Vue 构建的 Google Drive 索引",
       "category": "媒体下载/存储",
       "topics": [
         "google-drive",
@@ -4145,7 +4146,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "codehub666/94list",
       "url": "https://github.com/codehub666/94list",
-      "description": "开源声明 本程序是免费开源项目，核心代码均未加密",
+      "description": "百度网盘分享链接分析渲染列表辅助下载开源程序",
       "category": "媒体下载/存储",
       "topics": [
         "filelist",
@@ -4160,7 +4161,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "YAWAsau/backup_script",
       "url": "https://github.com/YAWAsau/backup_script",
-      "description": "由於本人是台灣人所以發布的版本為繁體版 (CN系統將自動翻譯",
+      "description": "備份數據腳本",
       "category": "媒体下载/存储",
       "topics": [
         "backup-data",
@@ -4176,7 +4177,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "traceless/alist-encrypt",
       "url": "https://github.com/traceless/alist-encrypt",
-      "description": "Alist encrypt 这个项目主要是对 alist 的",
+      "description": "这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4191,7 +4192,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "eibols/ffmpeg_batch",
       "url": "https://github.com/eibols/ffmpeg_batch",
-      "description": "FFmpegBatchAVConverterFFmpeg",
+      "description": "FFmpeg 批量 AV 转换器",
       "category": "媒体下载/存储",
       "topics": [
         "video",
@@ -4220,7 +4221,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "px-org/PanIndex",
       "url": "https://github.com/px-org/PanIndex",
-      "description": "PanIndex English 中文 Features [",
+      "description": "Network disk directory index / 网盘目录索引",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4236,7 +4237,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xyou365/AutoRclone",
       "url": "https://github.com/xyou365/AutoRclone",
-      "description": "AutoRclone：rclone与服务帐户复制/移动/",
+      "description": "AutoRclone：与数千个服务帐户进行 rclone 复制/移动/同步（自动）",
       "category": "媒体下载/存储",
       "topics": [
         "rclone",
@@ -4259,7 +4260,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Nekmo/telegram-upload",
       "url": "https://github.com/Nekmo/telegram-upload",
-      "description": "图片::https://raw.githubuserco",
+      "description": "使用您的帐户从 Telegram 上传和下载最多 4 GiB 的文件",
       "category": "媒体下载/存储",
       "topics": [
         "telegram",
@@ -4277,7 +4278,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Minerchu/dongguaTV",
       "url": "https://github.com/Minerchu/dongguaTV",
-      "description": "冬瓜TV (dongguaTV) 🎬 打造你的私人 Netf",
+      "description": "冬瓜TV —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4290,7 +4291,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "likeflyme/cloudbak",
       "url": "https://github.com/likeflyme/cloudbak",
-      "description": "项目移除与不再维护 这对您意味着什么",
+      "description": "微信云备份，备份到服务器、Docker、NAS，Web访问",
       "category": "媒体下载/存储",
       "topics": [
         "wechat",
@@ -4303,7 +4304,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "besscroft/PicImpact",
       "url": "https://github.com/besscroft/PicImpact",
-      "description": "PicImpact 简体中文 English 日本語 简体中",
+      "description": "自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！",
       "category": "媒体下载/存储",
       "topics": [
         "photo-gallery",
@@ -4327,7 +4328,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ihmily/QuarkPanTool",
       "url": "https://github.com/ihmily/QuarkPanTool",
-      "description": "功能特点 运行稳定：基于playwright支持网页登录夸克",
+      "description": "一个批量转存、分享和下载夸克网盘文件的工具，可以快速地将大量分享文件转存到到自己的网盘内，或者将网盘文件批量生成分享链接",
       "category": "媒体下载/存储",
       "topics": [
         "python",
@@ -4344,7 +4345,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Mapaler/PixivUserBatchDownload",
       "url": "https://github.com/Mapaler/PixivUserBatchDownload",
-      "description": "PixivUserBatchDownload 中文名：“P站",
+      "description": "P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载",
       "category": "媒体下载/存储",
       "topics": [
         "pixiv-downloader",
@@ -4360,7 +4361,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "LeoHaoVIP/AListLiteAndroid",
       "url": "https://github.com/LeoHaoVIP/AListLiteAndroid",
-      "description": "AListLite 在 Android 上一键启动 Open",
+      "description": "OpenList 即装即用 · 一款专为 Android 打造的 AList 安卓服务端 | 支持 Android 5.0",
       "category": "媒体下载/存储",
       "topics": [
         "golang",
@@ -4373,7 +4374,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "moyada/stealer",
       "url": "https://github.com/moyada/stealer",
-      "description": "Sealer 抖音、快手、BiliBili、皮皮虾",
+      "description": "抖音、快手、火山、皮皮虾，视频去水印程序",
       "category": "媒体下载/存储",
       "topics": [
         "douyin",
@@ -4391,7 +4392,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "csznet/tgState",
       "url": "https://github.com/csznet/tgState",
-      "description": "tgState == English 一款以Telegram",
+      "description": "使用Telegram作为存储的文件外链系统，不限制文件大小和格式",
       "category": "媒体下载/存储",
       "topics": [
         "go",
@@ -4420,7 +4421,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Xinrea/bili-shadowreplay",
       "url": "https://github.com/Xinrea/bili-shadowreplay",
-      "description": "哔哩哔哩ShadowReplay哔哩哔哩…",
+      "description": "bilibili 直播实时切片工具",
       "category": "媒体下载/存储",
       "topics": [
         "bilibili",
@@ -4435,7 +4436,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "aizhimou/pigeon-pod",
       "url": "https://github.com/aizhimou/pigeon-pod",
-      "description": "随时随地收听YouTube和Bilibili",
+      "description": "收听 YouTube 和 Bilibili。任何地方",
       "category": "媒体下载/存储",
       "topics": [
         "mantine-v8",
@@ -4454,7 +4455,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "caolvchong-top/twitter_download",
       "url": "https://github.com/caolvchong-top/twitter_download",
-      "description": "推特图片下载 &nbsp; (๑¯◡¯๑) 推特 图片 &",
+      "description": "推特 图片 视频 爬虫;一键下载",
       "category": "媒体下载/存储",
       "topics": [
         "cli",
@@ -4468,7 +4469,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Xmader/aria-ng-gui-android",
       "url": "https://github.com/Xmader/aria-ng-gui-android",
-      "description": "AriaNg GUI for Android 一个 Aria",
+      "description": "一个 Aria2 图形界面安卓客户端 | An Aria2 GUI Android App",
       "category": "媒体下载/存储",
       "topics": [
         "aria2",
@@ -4485,7 +4486,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "OriX6/liveRecordAuto",
       "url": "https://github.com/OriX6/liveRecordAuto",
-      "description": "liveRecordAuto 【永久免费】 当前版本【1.1",
+      "description": "基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式",
       "category": "媒体下载/存储",
       "topics": [
         "liverecordauto"
@@ -4497,7 +4498,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Hackxiaoya/CuteOne",
       "url": "https://github.com/Hackxiaoya/CuteOne",
-      "description": "CuteOne 更新框架版本到3.x",
+      "description": "这大概是最好的onedrive挂载程序了吧，我猜",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -4510,7 +4511,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "vcheckzen/FODI",
       "url": "https://github.com/vcheckzen/FODI",
-      "description": "FODI快速OneDrive索引/FOD...",
+      "description": "Fast OneDrive Index，OneDrive 快速列表程序",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4526,7 +4527,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Xwudao/lzpan_search",
       "url": "https://github.com/Xwudao/lzpan_search",
-      "description": "网盘搜索导航 📋 项目简介 这是网盘搜索导航的源码.",
+      "description": "懒盘搜索 短剧网盘搜索引擎源码：百度网盘、阿里云盘、夸克网盘、迅雷网盘",
       "category": "媒体下载/存储",
       "topics": [
         "seo",
@@ -4541,7 +4542,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "googlearchive/drive-music-player",
       "url": "https://github.com/googlearchive/drive-music-player",
-      "description": "已弃用不再维护该示例",
+      "description": "适用于 Google Drive 的完全客户端音乐播放器",
       "category": "媒体下载/存储",
       "topics": [
         "gsuite",
@@ -4555,7 +4556,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lovezzzxxx/liverecord",
       "url": "https://github.com/lovezzzxxx/liverecord",
-      "description": "功能介绍 record new.sh为自动录播脚本 支持yo",
+      "description": "自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -4569,7 +4570,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Johnserf-Seed/TikTokWeb",
       "url": "https://github.com/Johnserf-Seed/TikTokWeb",
-      "description": "TikTokWeb Show dycookie配置 视频和原",
+      "description": "TikTokTool 网页版",
       "category": "媒体下载/存储",
       "topics": [
         "docker",
@@ -4582,7 +4583,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zaxtyson/LanZouCloud-CMD",
       "url": "https://github.com/zaxtyson/LanZouCloud-CMD",
-      "description": "蓝奏云CMD 界面 仅供参考, 请以实物为准😁 (这是KDE",
+      "description": "🚀 蓝奏云 CMD | 无限制上传",
       "category": "媒体下载/存储",
       "topics": [
         "lanzou",
@@ -4596,7 +4597,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "f4team-cn/f4pan",
       "url": "https://github.com/f4team-cn/f4pan",
-      "description": "，是一个获取下载链接的工具 ⚠ 免责声明 (下称本项目)使用",
+      "description": "为无法安装客户端的用户提供网盘下载链接的网站",
       "category": "媒体下载/存储",
       "topics": [
         "cli",
@@ -4609,7 +4610,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "675061370/xinyue-search",
       "url": "https://github.com/675061370/xinyue-search",
-      "description": "❤️ 网盘资源管理系统 支持多网盘转存分享，支持夸克网盘",
+      "description": "心悦搜索-支持多网盘转存分享，支持夸克网盘、百度网盘、阿里云盘、UC网盘、迅雷云盘，网盘资源管理与索引工具！",
       "category": "媒体下载/存储",
       "topics": [
         "wechat",
@@ -4624,7 +4625,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "qicfan/qmediasync",
       "url": "https://github.com/qicfan/qmediasync",
-      "description": "QMediaSync 讨论方式 电报群：http://t.m",
+      "description": "基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等",
       "category": "媒体下载/存储",
       "topics": [
         "telegram",
@@ -4640,7 +4641,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "googlearchive/drive-zipextractor",
       "url": "https://github.com/googlearchive/drive-zipextractor",
-      "description": "已弃用不再维护该示例",
+      "description": "使用 Google Drive API 将 ZIP 文件提取（解压缩）到 Google Drive 中",
       "category": "媒体下载/存储",
       "topics": [
         "gsuite",
@@ -4653,7 +4654,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "x-dr/tts",
       "url": "https://github.com/x-dr/tts",
-      "description": "已失效 微软azure文本转语音 音频下载 Demo : h",
+      "description": "微软azure文本转语音 音频下载",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4668,7 +4669,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jianjianai/FList",
       "url": "https://github.com/jianjianai/FList",
-      "description": "FList 一个简洁的在线文件列表 将 GitHub Rel",
+      "description": "将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片",
       "category": "媒体下载/存储",
       "topics": [
         "vuepress",
@@ -4683,7 +4684,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yuudi/rclone-webui-angular",
       "url": "https://github.com/yuudi/rclone-webui-angular",
-      "description": "RcloneWebuiAngular该项目是rclone",
+      "description": "Rclone 的另一个 Web GUI",
       "category": "媒体下载/存储",
       "topics": [
         "rclone",
@@ -4696,7 +4697,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yumusb/autoPicCdn",
       "url": "https://github.com/yumusb/autoPicCdn",
-      "description": "选择Github 白嫖Github的存储空间",
+      "description": "选择Github 白嫖Github的存储空间，通过jsdelivr全球加速(含有国内节点)。实现图床的目的",
       "category": "媒体下载/存储",
       "topics": [
         "jsdelivr",
@@ -4711,7 +4712,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ArdiArtani/Google-Drive-Player-Script",
       "url": "https://github.com/ArdiArtani/Google-Drive-Player-Script",
-      "description": "GoogleDrive播放器脚本入门获取GoogleDr",
+      "description": "抓取谷歌驱动器流链接（redirector.googlevideo.com/videoplayback？..）",
       "category": "媒体下载/存储",
       "topics": [
         "php",
@@ -4727,7 +4728,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "maysrp/yunBT",
       "url": "https://github.com/maysrp/yunBT",
-      "description": "YunBT 基于ThinkCMS的YunBT的多用户下载程序",
+      "description": "Aria2 FFmpeg 的多用户下载视频转码",
       "category": "媒体下载/存储",
       "topics": [
         "offline",
@@ -4740,7 +4741,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "missuo/Telegraph-Image-Hosting",
       "url": "https://github.com/missuo/Telegraph-Image-Hosting",
-      "description": "Telegraph图片托管使用Telegraph构建免费",
+      "description": "使用 Telegraph 构建免费图像托管",
       "category": "媒体下载/存储",
       "topics": [
         "php",
@@ -4760,7 +4761,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Gentlesprite/Telegram_Restricted_Media_Downloader",
       "url": "https://github.com/Gentlesprite/Telegram_Restricted_Media_Downloader",
-      "description": "TelegramRestrictedMedia下载...",
+      "description": "💎💎💎支持断点续传的Telegram下载器💎💎💎支持向机器人发送链接下载、转发、监听下载、监听转发、上传、下载后上传。电报任意群组中不可下载的内容",
       "category": "媒体下载/存储",
       "topics": [
         "pyrogram",
@@ -4780,13 +4781,13 @@ window.__STAR_PAGE_DATA__ = {
         "telegrambot"
       ],
       "language": "Python",
-      "stars": 288,
+      "stars": 287,
       "starredAt": "2025-03-03T18:31:08Z"
     },
     {
       "repo": "levywang/random_web_player",
       "url": "https://github.com/levywang/random_web_player",
-      "description": "Random Web Player 配合接口实现类似抖音效果",
+      "description": "配合接口实现类似抖音效果的在线播放器",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4802,7 +4803,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Tai7sy/OneDriveFly",
       "url": "https://github.com/Tai7sy/OneDriveFly",
-      "description": "OneDriveIndexAnywhere（QCloud",
+      "description": "OneDrive Index Anywhere（QCloud SCF/Aliyun FC/Cloudflare Workers/Google Cloud Fun",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4817,7 +4818,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Magisk-Modules-Repo/com.piyushgarg.rclone",
       "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
-      "description": "RcloneRemountv1.8在启动过程中通过rcl",
+      "description": "Rclone Remount v1.8 在启动过程中通过 rclone 和 fusionmount 直接在 Android 驱动的智能设备上本地重新安装云存储",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -4833,7 +4834,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "0oVicero0/OneDrive",
       "url": "https://github.com/0oVicero0/OneDrive",
-      "description": "[OneDrive for Business on Bash",
+      "description": "[Linux] OneDrive 商业版",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive"
@@ -4845,7 +4846,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tjsky/pikpak",
       "url": "https://github.com/tjsky/pikpak",
-      "description": "PikPak 个人网页版 官方地址 PikPak官网 Pik",
+      "description": "皮克帕克网",
       "category": "媒体下载/存储",
       "topics": [
         "pikpak"
@@ -4857,7 +4858,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "bebound/pixivd",
       "url": "https://github.com/bebound/pixivd",
-      "description": "PixivD一个从Pixiv下载插图的简单工具",
+      "description": "Pixiv Downloader - 批量下载Pixiv图片",
       "category": "媒体下载/存储",
       "topics": [
         "pixiv",
@@ -4871,7 +4872,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Rhilip/AutoRclone",
       "url": "https://github.com/Rhilip/AutoRclone",
-      "description": "Autorclone一个基于folderclone的py",
+      "description": "允许您将大型文件夹复制到共享驱动器的项目",
       "category": "媒体下载/存储",
       "topics": [
         "cli",
@@ -4885,7 +4886,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "piyushgarg/rclone-mount",
       "url": "https://github.com/piyushgarg/rclone-mount",
-      "description": "适用于Android的rclone安装通过rclone和",
+      "description": "通过magisk挂载rclone",
       "category": "媒体下载/存储",
       "topics": [
         "rag",
@@ -4901,7 +4902,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "gavin66/reader-web",
       "url": "https://github.com/gavin66/reader-web",
-      "description": "Reader 阅读器(客户端) Web 版网络小说与漫画阅读",
+      "description": "Web 阅读器",
       "category": "媒体下载/存储",
       "topics": [
         "reader"
@@ -4913,7 +4914,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lzx8589561/oneindex2-in",
       "url": "https://github.com/lzx8589561/oneindex2-in",
-      "description": "OnedriveDirector中的oneindex2.",
+      "description": "国内版2.0世纪互联版",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -4927,7 +4928,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HG-ha/Parrot",
       "url": "https://github.com/HG-ha/Parrot",
-      "description": "Parrot English 简体中文 使用 UI框架",
+      "description": "基于Cosyvoice2-0.5B模型实现的多角色语音克隆项目，使用flet开发，支持多音色管理、历史记录管理、一键克隆，仅需短短几秒的人声音频即可快速生成",
       "category": "媒体下载/存储",
       "topics": [
         "onedrive",
@@ -4940,7 +4941,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "thshu/onelist",
       "url": "https://github.com/thshu/onelist",
-      "description": "onelist 一个类似emby的专注于刮削alist聚合网",
+      "description": "一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序",
       "category": "媒体下载/存储",
       "topics": [
         "automation",
@@ -4950,13 +4951,13 @@ window.__STAR_PAGE_DATA__ = {
         "onelist"
       ],
       "language": "Go",
-      "stars": 39,
+      "stars": 40,
       "starredAt": "2024-01-19T07:53:30Z"
     },
     {
       "repo": "veip007/Linux-to-Google-Drive",
       "url": "https://github.com/veip007/Linux-to-Google-Drive",
-      "description": "Linux to Google Drive Linux下谷歌",
+      "description": "Linux下谷歌网盘同步工具、自动备份VPS文件到Google Drive",
       "category": "媒体下载/存储",
       "topics": [
         "cli",
@@ -4972,7 +4973,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tsymq-live/web-stream-media",
       "url": "https://github.com/tsymq-live/web-stream-media",
-      "description": "简单的服务端转码服务 0x0 1.如何安装",
+      "description": "简单流媒体服务端",
       "category": "媒体下载/存储",
       "topics": [
         "cloudflare",
@@ -4988,7 +4989,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "beatleuk/gdfl",
       "url": "https://github.com/beatleuk/gdfl",
-      "description": "gdflGoogleDrive文件夹列表构建Google",
+      "description": "Google Drive文件夹列表构建Google Drive文件夹的html输出文件",
       "category": "媒体下载/存储",
       "topics": [
         "cli",
@@ -5003,7 +5004,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "2418676646/duanju-api",
       "url": "https://github.com/2418676646/duanju-api",
-      "description": "最新修复版v1.2 https://pan.quark.cn",
+      "description": "短剧api",
       "category": "媒体下载/存储",
       "topics": [
         "duanju"
@@ -5015,7 +5016,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "junchou9463/beautyimgdownload",
       "url": "https://github.com/junchou9463/beautyimgdownload",
-      "description": "环境、架构 开发语言: Python3 开发环境: Wind",
+      "description": "妹子图网站爬虫",
       "category": "媒体下载/存储",
       "topics": [
         "python",
@@ -5028,7 +5029,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "description": "n8n为技术团队提供安全的工作流程自动化n8n是一个工作",
+      "description": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合",
       "category": "开发工具/自动化",
       "topics": [
         "automation",
@@ -5053,26 +5054,26 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 182899,
+      "stars": 182905,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
       "repo": "Zie619/n8n-workflows",
       "url": "https://github.com/Zie619/n8n-workflows",
-      "description": "n8n工作流程集合n8n自动化工作流程的终极集合在线浏览",
+      "description": "我能找到的 n8n 的所有工作流程（也来自网站本身）",
       "category": "开发工具/自动化",
       "topics": [
         "workflow-automation",
         "workflows"
       ],
       "language": "Python",
-      "stars": 53596,
+      "stars": 53599,
       "starredAt": "2025-09-25T10:29:06Z"
     },
     {
       "repo": "ngosang/trackerslist",
       "url": "https://github.com/ngosang/trackerslist",
-      "description": "ngosang/trackerslist更新了公共Bit",
+      "description": "更新的公共 BitTorrent 跟踪器列表",
       "category": "开发工具/自动化",
       "topics": [
         "trackers",
@@ -5098,7 +5099,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
-      "description": "最快 30秒 部署的热点助手 —— 告别无效刷屏",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS,",
       "category": "开发工具/自动化",
       "topics": [
         "data-analysis",
@@ -5119,13 +5120,13 @@ window.__STAR_PAGE_DATA__ = {
         "llm"
       ],
       "language": "Python",
-      "stars": 51121,
+      "stars": 51131,
       "starredAt": "2025-12-03T17:41:12Z"
     },
     {
       "repo": "freqtrade/freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
-      "description": "Freqtrade是一个用Python编写的免费开源加密",
+      "description": "免费、开源的加密货币交易机器人",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -5139,13 +5140,13 @@ window.__STAR_PAGE_DATA__ = {
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 48472,
+      "stars": 48473,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
       "repo": "shadowsocks/shadowsocks-android",
       "url": "https://github.com/shadowsocks/shadowsocks-android",
-      "description": "ShadowsocksforAndroidforAndr",
+      "description": "适用于 Android 的 Shadowsocks 客户端",
       "category": "开发工具/自动化",
       "topics": [
         "shadowsocks",
@@ -5158,7 +5159,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "Effortless Web Scraping for th",
+      "description": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！",
       "category": "开发工具/自动化",
       "topics": [
         "crawler",
@@ -5183,13 +5184,13 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 35003,
+      "stars": 35006,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
       "repo": "apify/crawlee",
       "url": "https://github.com/apify/crawlee",
-      "description": "网络抓取和浏览器自动化库Crawlee涵盖了端到端的抓取",
+      "description": "Crawlee——一个用于 Node.js 的网络抓取和浏览器自动化库，用于构建可靠的爬虫。在 JavaScript 和 TypeScript 中。提取 AI",
       "category": "开发工具/自动化",
       "topics": [
         "web-scraping",
@@ -5211,13 +5212,13 @@ window.__STAR_PAGE_DATA__ = {
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 22677,
+      "stars": 22676,
       "starredAt": "2025-11-05T21:05:44Z"
     },
     {
       "repo": "open-android/Android",
       "url": "https://github.com/open-android/Android",
-      "description": "github最大的痛点在于，拿到开源项目不会用",
+      "description": "GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频",
       "category": "开发工具/自动化",
       "topics": [
         "android",
@@ -5230,7 +5231,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shadow1ng/fscan",
       "url": "https://github.com/shadow1ng/fscan",
-      "description": "Fscan[英文][urldocen]0x0…",
+      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描",
       "category": "开发工具/自动化",
       "topics": [
         "fscan",
@@ -5247,7 +5248,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wanghongenpin/proxypin",
       "url": "https://github.com/wanghongenpin/proxypin",
-      "description": "ProxyPin English 中文 Open sourc",
+      "description": "开源免费捕获HTTP(S)流量软件ProxyPin，支持全平台系统",
       "category": "开发工具/自动化",
       "topics": [
         "proxy",
@@ -5258,13 +5259,13 @@ window.__STAR_PAGE_DATA__ = {
         "fiddler"
       ],
       "language": "Dart",
-      "stars": 12875,
+      "stars": 12877,
       "starredAt": "2023-09-06T23:19:32Z"
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "闲鱼智能监控机器人 English README 基于 Pl",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品",
       "category": "开发工具/自动化",
       "topics": [
         "ai",
@@ -5282,13 +5283,13 @@ window.__STAR_PAGE_DATA__ = {
         "openai"
       ],
       "language": "Python",
-      "stars": 10788,
+      "stars": 10791,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
       "repo": "dreammis/social-auto-upload",
       "url": "https://github.com/dreammis/social-auto-upload",
-      "description": "项目实现了对 、 、 、 、 、 以及 等平台的视频上传",
+      "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
       "category": "开发工具/自动化",
       "topics": [
         "bilibili",
@@ -5298,13 +5299,13 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "Python",
-      "stars": 9793,
+      "stars": 9794,
       "starredAt": "2025-05-20T11:02:45Z"
     },
     {
       "repo": "dataabc/weiboSpider",
       "url": "https://github.com/dataabc/weiboSpider",
-      "description": "Weibo Spider 本程序可以连续爬取 一个 或 多个",
+      "description": "新浪微博爬虫，用python爬取新浪微博数据",
       "category": "开发工具/自动化",
       "topics": [
         "weibo",
@@ -5314,13 +5315,13 @@ window.__STAR_PAGE_DATA__ = {
         "help-wanted"
       ],
       "language": "Python",
-      "stars": 9530,
+      "stars": 9529,
       "starredAt": "2019-08-02T10:17:28Z"
     },
     {
       "repo": "Sitoi/dailycheckin",
       "url": "https://github.com/Sitoi/dailycheckin",
-      "description": "DailyCheckIn 基于「Docker」/「青龙面板」",
+      "description": "基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcF",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -5351,7 +5352,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kangvcar/InfoSpider",
       "url": "https://github.com/kangvcar/InfoSpider",
-      "description": "👉⚡ 使用说明 ⚡ 视频演示 English 获取最新维护版",
+      "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub",
       "category": "开发工具/自动化",
       "topics": [
         "python3",
@@ -5373,7 +5374,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ikuaitu/vue-fabric-editor",
       "url": "https://github.com/ikuaitu/vue-fabric-editor",
-      "description": "English 中文 开源图片编辑器 · 插件化架构 · 拖",
+      "description": "快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板",
       "category": "开发工具/自动化",
       "topics": [
         "svg-editor",
@@ -5393,7 +5394,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "LiveContainer/LiveContainer",
       "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "LiveContainer一个应用程序启动器",
+      "description": "无需实际安装即可运行 iOS 应用程序！",
       "category": "开发工具/自动化",
       "topics": [
         "automation",
@@ -5401,13 +5402,13 @@ window.__STAR_PAGE_DATA__ = {
         "livecontainer"
       ],
       "language": "Swift",
-      "stars": 7684,
+      "stars": 7686,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
       "repo": "vikiboss/60s",
       "url": "https://github.com/vikiboss/60s",
-      "description": "⏰ 60s API 一系列 高质量、开源、可靠",
+      "description": "⏰ 60s API 免费接口。每天 60 秒看世界、奥运会奖牌榜 🏅、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码",
       "category": "开发工具/自动化",
       "topics": [
         "60s",
@@ -5433,7 +5434,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dataabc/weibo-crawler",
       "url": "https://github.com/dataabc/weibo-crawler",
-      "description": "Weibo Crawler Weibo Crawler 功能",
+      "description": "新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频",
       "category": "开发工具/自动化",
       "topics": [
         "weibo",
@@ -5447,7 +5448,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Authenticator-Extension/Authenticator",
       "url": "https://github.com/Authenticator-Extension/Authenticator",
-      "description": "身份验证器身份验证器在您的浏览器中生成两步验证码",
+      "description": "身份验证器在您的浏览器中生成两步验证码",
       "category": "开发工具/自动化",
       "topics": [
         "authenticator",
@@ -5465,7 +5466,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Ice-Hazymoon/MikuTools",
       "url": "https://github.com/Ice-Hazymoon/MikuTools",
-      "description": "Miku Tools 一个轻量的工具集合 备用域名 如网站出",
+      "description": "一个轻量的工具集合",
       "category": "开发工具/自动化",
       "topics": [
         "mikutools",
@@ -5478,7 +5479,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "imsyy/DailyHotApi",
       "url": "https://github.com/imsyy/DailyHotApi",
-      "description": "今日热榜 一个聚合热门数据的 API 接口 🚩 特性 极快响",
+      "description": "🔥 今日热榜 API，一个聚合热门数据的 API 接口",
       "category": "开发工具/自动化",
       "topics": [
         "api",
@@ -5488,13 +5489,13 @@ window.__STAR_PAGE_DATA__ = {
         "daily-hot"
       ],
       "language": "TypeScript",
-      "stars": 3720,
+      "stars": 3721,
       "starredAt": "2023-09-22T13:08:34Z"
     },
     {
       "repo": "jbt/markdown-editor",
       "url": "https://github.com/jbt/markdown-editor",
-      "description": "Live（GitHub 风格）Markdown编辑器用法",
+      "description": "实时（Github 风格）Markdown 编辑器",
       "category": "开发工具/自动化",
       "topics": [
         "markdown",
@@ -5507,7 +5508,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zc-zhangchen/any-auto-register",
       "url": "https://github.com/zc-zhangchen/any-auto-register",
-      "description": "多平台账号自动注册与管理系统，支持插件化扩展",
+      "description": "多平台账号自动注册与管理系统，支持插件化扩展、Web UI 管理、批量注册、状态同步，以及本地 Turnstile Solver 自动拉起",
       "category": "开发工具/自动化",
       "topics": [
         "docker",
@@ -5515,13 +5516,13 @@ window.__STAR_PAGE_DATA__ = {
         "register"
       ],
       "language": "Python",
-      "stars": 2671,
+      "stars": 2675,
       "starredAt": "2026-03-29T15:22:03Z"
     },
     {
       "repo": "xiamuceer-j/MuMuAINovel",
       "url": "https://github.com/xiamuceer-j/MuMuAINovel",
-      "description": "MuMuAINovel 📚✨ 基于 AI 的智能小说创作助手",
+      "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事",
       "category": "开发工具/自动化",
       "topics": [
         "claude-code",
@@ -5530,13 +5531,13 @@ window.__STAR_PAGE_DATA__ = {
         "mumuainovel"
       ],
       "language": "Python",
-      "stars": 2052,
+      "stars": 2054,
       "starredAt": "2025-10-30T10:49:33Z"
     },
     {
       "repo": "likeyun/liKeYun_ylb",
       "url": "https://github.com/likeyun/liKeYun_ylb",
-      "description": "🚀 私域引流宝 👋 私域引流宝致力于为个人",
+      "description": "引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发",
       "category": "开发工具/自动化",
       "topics": [
         "wechat",
@@ -5549,7 +5550,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "qd-today/templates",
       "url": "https://github.com/qd-today/templates",
-      "description": "项目中的模板均为开源模板, 仅供学习参考使用, 请勿用于商业",
+      "description": "基于开源新版 QD 框架站发布的公共har模板库，仅供示例",
       "category": "开发工具/自动化",
       "topics": [
         "qiandao",
@@ -5563,7 +5564,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "airob0t/idcardgenerator",
       "url": "https://github.com/airob0t/idcardgenerator",
-      "description": "idcardgenerator 【仅做研究使用",
+      "description": "身份证图片生成工具 generate an id card picture",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -5577,7 +5578,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lxf746/any-auto-register",
       "url": "https://github.com/lxf746/any-auto-register",
-      "description": "多平台账号自动注册与管理系统，支持插件化扩展",
+      "description": "多平台账号自动注册与管理系统，支持插件化扩展，内置 Web UI",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -5587,13 +5588,13 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 1494,
+      "stars": 1495,
       "starredAt": "2026-03-20T01:30:21Z"
     },
     {
       "repo": "soluckysummer/n8n_workflows",
       "url": "https://github.com/soluckysummer/n8n_workflows",
-      "description": "N8N工作流仓库 此仓库存储我在YouTube频道分享的N8",
+      "description": "此仓库存储我在YouTube频道分享的N8N工作流配置文件，用户可直接下载JSON文件导入N8N使用",
       "category": "开发工具/自动化",
       "topics": [
         "mcp",
@@ -5602,13 +5603,13 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "",
-      "stars": 1363,
+      "stars": 1364,
       "starredAt": "2025-10-17T09:55:39Z"
     },
     {
       "repo": "firecrawl/open-scouts",
       "url": "https://github.com/firecrawl/open-scouts",
-      "description": "开放侦察兵创建人工智能侦察兵，持续搜索网络",
+      "description": "🔥 由人工智能驱动的网络监控平台。创建自动侦察员，搜索网络并在找到您要查找的内容时发送电子邮件警报",
       "category": "开发工具/自动化",
       "topics": [
         "ai-agents",
@@ -5636,7 +5637,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MiningCattiva/x-spider",
       "url": "https://github.com/MiningCattiva/x-spider",
-      "description": "【停止维护说明】 由于个人规划，该软件停止维护",
+      "description": "X 的蜘蛛（Twitter）",
       "category": "开发工具/自动化",
       "topics": [
         "spider"
@@ -5648,7 +5649,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cv-cat/DouYin_Spider",
       "url": "https://github.com/cv-cat/DouYin_Spider",
-      "description": "🎶DouYin Spider ✨ 专业的抖音数据采集解决方案",
+      "description": "抖音逆向，抖音爬虫，抖音全部api、直播间监听",
       "category": "开发工具/自动化",
       "topics": [
         "api-gateway",
@@ -5664,7 +5665,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AIPexStudio/AIPex",
       "url": "https://github.com/AIPexStudio/AIPex",
-      "description": "您的浏览器已经可以运行了！",
+      "description": "AIPex：AI浏览器自动化助手，无需迁移，隐私至上。 Manus Browser Operator",
       "category": "开发工具/自动化",
       "topics": [
         "chrome-extension",
@@ -5687,7 +5688,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kallydev/privacy",
       "url": "https://github.com/kallydev/privacy",
-      "description": "隐私更新：https://github...",
+      "description": "个人隐私泄露检测工具",
       "category": "开发工具/自动化",
       "topics": [
         "privacy"
@@ -5699,7 +5700,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "maintell/webBenchmark",
       "url": "https://github.com/maintell/webBenchmark",
-      "description": "webBenchmarkhttp基准测试工具会耗尽您的服",
+      "description": "一个简单的网站基准测试工具",
       "category": "开发工具/自动化",
       "topics": [
         "ai-agent",
@@ -5712,7 +5713,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hank9999/kiro.rs",
       "url": "https://github.com/hank9999/kiro.rs",
-      "description": "kiro rs 一个用 Rust 编写的 Anthropic",
+      "description": "Rust 中的 Kiro 客户端",
       "category": "开发工具/自动化",
       "topics": [
         "claude-code",
@@ -5722,13 +5723,13 @@ window.__STAR_PAGE_DATA__ = {
         "kiro"
       ],
       "language": "Rust",
-      "stars": 874,
+      "stars": 876,
       "starredAt": "2026-01-06T12:49:36Z"
     },
     {
       "repo": "HG-ha/ICP_Query",
       "url": "https://github.com/HG-ha/ICP_Query",
-      "description": "ICP Query 注意： 开源目的仅学习交流逆向与验证码识",
+      "description": "查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API",
       "category": "开发工具/自动化",
       "topics": [
         "domain",
@@ -5741,7 +5742,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "EBOLABOY/GridBNB-USDT",
       "url": "https://github.com/EBOLABOY/GridBNB-USDT",
-      "description": "GridBNB 多币种自动化网格交易机器人 [!IMPORT",
+      "description": "这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策",
       "category": "开发工具/自动化",
       "topics": [
         "docker",
@@ -5751,13 +5752,13 @@ window.__STAR_PAGE_DATA__ = {
         "usdt"
       ],
       "language": "Python",
-      "stars": 749,
+      "stars": 750,
       "starredAt": "2025-10-12T12:47:16Z"
     },
     {
       "repo": "EchoHS/GeekezBrowser",
       "url": "https://github.com/EchoHS/GeekezBrowser",
-      "description": "GeekEZ浏览器指纹识别...",
+      "description": "A professional anti-detect browser built on Electron and Puppeteer, integrated w",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -5767,13 +5768,13 @@ window.__STAR_PAGE_DATA__ = {
         "api-gateway"
       ],
       "language": "JavaScript",
-      "stars": 692,
+      "stars": 693,
       "starredAt": "2026-03-04T09:32:34Z"
     },
     {
       "repo": "yyuueexxiinngg/some-scripts",
       "url": "https://github.com/yyuueexxiinngg/some-scripts",
-      "description": "一些脚本只是一些随机脚本",
+      "description": "一些随机脚本",
       "category": "开发工具/自动化",
       "topics": [
         "some",
@@ -5786,7 +5787,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Har-Kuun/OneClickCDN",
       "url": "https://github.com/Har-Kuun/OneClickCDN",
-      "description": "OneClickCDN用于为您的网站设置CDN节点的一键",
+      "description": "用于为您的网站设置 CDN 节点的一键式 shell 脚本",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -5802,7 +5803,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chenjiandongx/mmjpg",
       "url": "https://github.com/chenjiandongx/mmjpg",
-      "description": "美女写真套图爬虫（一） 传送门：美女写真套图爬虫（二） 爬取",
+      "description": "👩 美女写真套图爬虫（一）",
       "category": "开发工具/自动化",
       "topics": [
         "meinv",
@@ -5815,7 +5816,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Dylanchouxd/Autojs_Douyin",
       "url": "https://github.com/Dylanchouxd/Autojs_Douyin",
-      "description": "概述 项目有两个软件， 和 ，支持的功能不一样",
+      "description": "AutoJs，AutoX，抖音养号助手(自动点赞、关注、评论)，快手好友互动助手(自动打招呼)，抖音脚本，快手脚本",
       "category": "开发工具/自动化",
       "topics": [
         "autojs",
@@ -5828,7 +5829,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Jici-Zeroten/XiaoFeiShu",
       "url": "https://github.com/Jici-Zeroten/XiaoFeiShu",
-      "description": "💕小飞薯RPA基本介绍 『简体中文』介绍 『正體中文』介紹",
+      "description": "小飞薯RPA是一款紧贴小红书优质用户规则开发的自动化运营软件",
       "category": "开发工具/自动化",
       "topics": [
         "rpa",
@@ -5845,7 +5846,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Ice-Hazymoon/idcard_generator",
       "url": "https://github.com/Ice-Hazymoon/idcard_generator",
-      "description": "idcard generator 使用 nodejs 生成身",
+      "description": "身份证生成器",
       "category": "开发工具/自动化",
       "topics": [
         "javascript",
@@ -5859,7 +5860,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Tansuo2021/OCRPDF-TO-PPT",
       "url": "https://github.com/Tansuo2021/OCRPDF-TO-PPT",
-      "description": "English 中文 OCRPDF TO PPT (Powe",
+      "description": "核心思想：每张幻灯片都使用原始图像（或修复的“干净背景”图像）作为背景",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -5875,7 +5876,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kun775/douyinhelper",
       "url": "https://github.com/kun775/douyinhelper",
-      "description": "本来是想用pyqt或wxpython之类的python gu",
+      "description": "抖音批量下载助手",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -5888,7 +5889,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AnalyseDeCircuit/oxideterm",
       "url": "https://github.com/AnalyseDeCircuit/oxideterm",
-      "description": "⚡OxideTerm如果您喜欢OxideTerm",
+      "description": "一体化终端工作区 — 本地 shell、SSH、SFTP、远程 IDE、AI 代理和文件管理器位于单个本机二进制文件中",
       "category": "开发工具/自动化",
       "topics": [
         "filemanager",
@@ -5913,13 +5914,13 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "Rust",
-      "stars": 290,
+      "stars": 292,
       "starredAt": "2026-04-07T17:36:00Z"
     },
     {
       "repo": "adi1090x/termux-omz",
       "url": "https://github.com/adi1090x/termux-omz",
-      "description": "：未维护：由于Termux在新的Android版本上无法",
+      "description": "在 Termux 中安装 oh-my-zsh 的简单脚本",
       "category": "开发工具/自动化",
       "topics": [
         "termux",
@@ -5936,7 +5937,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xfcf1/kunai",
       "url": "https://github.com/xfcf1/kunai",
-      "description": "投掷苦无 框架为egret 在线体验 https://xfc",
+      "description": "网红旋转飞刀手、口红机小游戏、egret h5 小游戏",
       "category": "开发工具/自动化",
       "topics": [
         "kunai"
@@ -5948,7 +5949,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "adamlui/chatgpt-auto-refresh",
       "url": "https://github.com/adamlui/chatgpt-auto-refresh",
-      "description": "&nbsp;English 简体中文 ChatGPT Aut",
+      "description": "↻ 保持 ChatGPT 会话新鲜，消除聊天时间限制 + 网络错误 + Cloudflare 检查",
       "category": "开发工具/自动化",
       "topics": [
         "ai",
@@ -5978,7 +5979,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TechnicalMujeeb/Termux-Login-v1.2",
       "url": "https://github.com/TechnicalMujeeb/Termux-Login-v1.2",
-      "description": "BismillahAssalamuAlaikium[+]",
+      "description": "使用更新的用户名和密码保护您的 Termux 应用程序 v.1.2",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -5992,7 +5993,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "OsBelief/Cocos2d-JS-Game",
       "url": "https://github.com/OsBelief/Cocos2d-JS-Game",
-      "description": "Cocos2d JS Game Cocos2d JS游戏引擎",
+      "description": "HTML5小游戏",
       "category": "开发工具/自动化",
       "topics": [
         "cocos2d",
@@ -6005,7 +6006,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xgzlucario/githubhunt",
       "url": "https://github.com/xgzlucario/githubhunt",
-      "description": "githubhunt githubhunt 是一个基于 AI",
+      "description": "基于 AI Agent 的自然语言 Github 仓库搜索工具",
       "category": "开发工具/自动化",
       "topics": [
         "ai",
@@ -6022,7 +6023,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Xposed-Modules-Repo/com.wye4.hookforvip",
       "url": "https://github.com/Xposed-Modules-Repo/com.wye4.hookforvip",
-      "description": "Hook for VIP 获取部分软件会员与去广告弹窗的模块",
+      "description": "VIP挂钩",
       "category": "开发工具/自动化",
       "topics": [
         "android",
@@ -6039,7 +6040,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Bhai4You/Termux-Sudo",
       "url": "https://github.com/Bhai4You/Termux-Sudo",
-      "description": "用于Sudo安装的TermuxSudoLazyGeeks",
+      "description": "在 Termux 中安装 Sudo 的惰性脚本",
       "category": "开发工具/自动化",
       "topics": [
         "termux",
@@ -6052,7 +6053,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "luodaoyi/DomainScan",
       "url": "https://github.com/luodaoyi/DomainScan",
-      "description": "DomainScan域名批量搜索机器人",
+      "description": "域名批量搜索机器人，支持 200 多个顶级域名",
       "category": "开发工具/自动化",
       "topics": [
         "domainscan"
@@ -6064,7 +6065,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "scanfsec/penetration",
       "url": "https://github.com/scanfsec/penetration",
-      "description": "penetration 收集的渗透资料",
+      "description": "渗透 超全面的渗透资料💯 包含：0day，xss，sql注入，提权……",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -6079,7 +6080,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zh66y/vmqpc",
       "url": "https://github.com/zh66y/vmqpc",
-      "description": "智慧云免签PC监控软件 实现秒回调 不掉单 + 软件名称：智",
+      "description": "V免签PC某信某付宝的监控 更新时间2024.8.20 vmq监控 vmqpc监控 vmq微信监控 vmq支付宝监控 V免签监控 智慧66云 码支付 易支付 即",
       "category": "开发工具/自动化",
       "topics": [
         "wechat",
@@ -6092,7 +6093,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "clover1420/AutoSign",
       "url": "https://github.com/clover1420/AutoSign",
-      "description": "自动签到 本项目用于需要手动每天签到的场景",
+      "description": "小黑盒，好游快爆，miui历史版本,天翼云盘自动签到脚本",
       "category": "开发工具/自动化",
       "topics": [
         "wechat",
@@ -6106,7 +6107,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "alittletry/alittlepay",
       "url": "https://github.com/alittletry/alittlepay",
-      "description": "ALittlePay 一个开源免费的挂机支付监控项目 （代码",
+      "description": "完全免费带APP挂机支付系统,支持多设备同时支付宝和微信挂机支付轮训，带限额和自动浮动价格",
       "category": "开发工具/自动化",
       "topics": [
         "wechat",
@@ -6119,7 +6120,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tingxifa/okx-grid-bot",
       "url": "https://github.com/tingxifa/okx-grid-bot",
-      "description": "OKX自动化网格交易机器人 这是一个基于 Python 的自",
+      "description": "OKX自动化网格交易机器人 这是一个基于 Python 的自动化交易程序，专为OKX交易所的 OKB USDT 交易对设计。该程序采用网格交易策略",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6132,7 +6133,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "rust-net/tcp2ws",
       "url": "https://github.com/rust-net/tcp2ws",
-      "description": "tcp2ws服务器：客户端：现在",
+      "description": "TCP 到 WebSocket",
       "category": "开发工具/自动化",
       "topics": [
         "network",
@@ -6146,7 +6147,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Lymoo/H5-Mobile-Demo",
       "url": "https://github.com/Lymoo/H5-Mobile-Demo",
-      "description": "H5游戏 雍正去哪了 项目地址: demo 用浏览器打开项目",
+      "description": "H5小游戏 雍正去哪了",
       "category": "开发工具/自动化",
       "topics": [
         "mobile",
@@ -6159,7 +6160,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "YuanQin99/ms-mail-fetcher",
       "url": "https://github.com/YuanQin99/ms-mail-fetcher",
-      "description": "﻿ MS Mail Fetcher 一个基于 FastAPI",
+      "description": "一个基于 \"FastAPI + Vue 3 + pywebview\" 的Outlook邮件账号管理与邮件查看工具",
       "category": "开发工具/自动化",
       "topics": [
         "automation",
@@ -6175,7 +6176,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "LigphiDonk/team-project",
       "url": "https://github.com/LigphiDonk/team-project",
-      "description": "GPT 团队管理器（ChatGPT Workspace） 一",
+      "description": "GPT 团队管理器（ChatGPT Workspace） 一个用于统一管理多个 ChatGPT 工作空间账号的 Web 应用，支持账号池管理、登录状态持久化",
       "category": "开发工具/自动化",
       "topics": [
         "automation",
@@ -6191,7 +6192,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "syy1212/GeminiBusiness-auto-free",
       "url": "https://github.com/syy1212/GeminiBusiness-auto-free",
-      "description": "Gemini Enterprise 自动注册工具 📌 项目简",
+      "description": "用于批量或快速完成 Gemini Enterprise 账号注册",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6206,7 +6207,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TIANQIAN1238/VibeClip-Pro",
       "url": "https://github.com/TIANQIAN1238/VibeClip-Pro",
-      "description": "VibeClip Pro 跨平台 AI 增强型剪贴板管理工具",
+      "description": "VibeClip Pro 是一款面向创作者与效率爱好者的跨平台剪贴板控制台，整合本地历史、AI 快捷操作与深色/浅色视觉体系",
       "category": "开发工具/自动化",
       "topics": [
         "cli",
@@ -6220,7 +6221,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HG-ha/nsfwpy",
       "url": "https://github.com/HG-ha/nsfwpy",
-      "description": "nsfwpy English 简体中文 nsfwpy 一个轻",
+      "description": "一个跨平台nsfw快速检测工具",
       "category": "开发工具/自动化",
       "topics": [
         "nsfw",
@@ -6247,7 +6248,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "iAJue/Articlesync",
       "url": "https://github.com/iAJue/Articlesync",
-      "description": "ArticleSync 多平台文章同步插件 ArticleS",
+      "description": "ArticleSync 是一个浏览器扩展，帮助用户轻松将文章同步发布到多个社交平台。它提供了一站式解决方案，让你在不同的社交媒体平台上同步文章变得简单高效",
       "category": "开发工具/自动化",
       "topics": [
         "articlesync"
@@ -6259,7 +6260,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "DemoJ/memos-ai",
       "url": "https://github.com/DemoJ/memos-ai",
-      "description": "如需要本地向量模型，之前的代码已经备份到：https://g",
+      "description": "基于个人 Memos 笔记的智能问答助手",
       "category": "开发工具/自动化",
       "topics": [
         "docker",
@@ -6273,7 +6274,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Xxtyme/EatCxk",
       "url": "https://github.com/Xxtyme/EatCxk",
-      "description": "EatKano 🦌 网页小游戏 🥛 简介 小游戏：吃掉小鹿乃",
+      "description": "小游戏：吃掉小鹿乃",
       "category": "开发工具/自动化",
       "topics": [
         "cloudflare",
@@ -6288,7 +6289,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Wildwizard404/qqzhpt-spider",
       "url": "https://github.com/Wildwizard404/qqzhpt-spider",
-      "description": "网址：http://www.qqzhpt.com/mei",
+      "description": "情趣综合平台 美图爬虫/批量下载",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6302,7 +6303,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Strrationalism/GiteeFS",
       "url": "https://github.com/Strrationalism/GiteeFS",
-      "description": "如何启动测试 在GiteeFSTest目录下新建文件Logi",
+      "description": "用于将Gitee仓库作为文件系统使用的库",
       "category": "开发工具/自动化",
       "topics": [
         "cli",
@@ -6315,7 +6316,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "3ixi/ReedFlow",
       "url": "https://github.com/3ixi/ReedFlow",
-      "description": "ReedFlow 自动化工作流管理系统 ReedFlow是一",
+      "description": "通过拖拽各种功能模块完成工作流的编辑，运行后可完成类似Python脚本的操作，进行签到、领取奖励等",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6329,7 +6330,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jinghang/port_scan",
       "url": "https://github.com/jinghang/port_scan",
-      "description": "用 PYTHON 写的端口扫描程序 1 使用方法 1.1 命",
+      "description": "端口扫描工具",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6342,7 +6343,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "BHznJNs/auto-discourse",
       "url": "https://github.com/BHznJNs/auto-discourse",
-      "description": "AI 自动刷 Discourse 站点 使用方法 clone",
+      "description": "AI 自动刷 Discourse 站点 使用方法 clone 这个仓库： 安装依赖： 配置环境变量： 在 文件中配置以下环境变量： : OpenAI API 密",
       "category": "开发工具/自动化",
       "topics": [
         "python",
@@ -6356,7 +6357,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dyyz1993/script-gateway",
       "url": "https://github.com/dyyz1993/script-gateway",
-      "description": "ScriptGateway 脚本网关 English 简体中",
+      "description": "🚀 ScriptGateway - 用于 n8n 工作流程自动化的轻量级脚本托管和 API 网关平台",
       "category": "开发工具/自动化",
       "topics": [
         "automation",
@@ -6372,7 +6373,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Nicolana/generate-cover",
       "url": "https://github.com/Nicolana/generate-cover",
-      "description": "Generate Cover WordPress 插件 一个",
+      "description": "Generate Cover WordPress 插件 一个强大的WordPress插件，使用AI技术自动为博客文章生成封面图片",
       "category": "开发工具/自动化",
       "topics": [
         "plugin",
@@ -6387,7 +6388,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "assimon/dujiaoka",
       "url": "https://github.com/assimon/dujiaoka",
-      "description": "vmrack.net 全球自动化云基础设施服务商 提供先进的",
+      "description": "🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉",
       "category": "网站/CMS/博客",
       "topics": [
         "faka",
@@ -6401,7 +6402,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "getgridea/gridea",
       "url": "https://github.com/getgridea/gridea",
-      "description": "Gridea一个静态博客写作...",
+      "description": "✍️ A static blog writing client (一个静态博客写作客户端)",
       "category": "网站/CMS/博客",
       "topics": [
         "electron",
@@ -6429,7 +6430,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "heyform/heyform",
       "url": "https://github.com/heyform/heyform",
-      "description": "开源表单生成器，专为小型企业的成功而构建网站文档博客功能",
+      "description": "开源表单生成器",
       "category": "网站/CMS/博客",
       "topics": [
         "form",
@@ -6443,7 +6444,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "WebStackPage/WebStackPage.github.io",
       "url": "https://github.com/WebStackPage/WebStackPage.github.io",
-      "description": "Webstack网址导航 === Demo: ➡️ www.",
+      "description": "❤️静态响应式网址导航网站 - webstack.cc",
       "category": "网站/CMS/博客",
       "topics": [
         "webstack",
@@ -6461,7 +6462,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lizhipay/acg-faka",
       "url": "https://github.com/lizhipay/acg-faka",
-      "description": "法律声明 本商城程序基于 MIT 协议开源，并且完全免费",
+      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
       "category": "网站/CMS/博客",
       "topics": [
         "faka"
@@ -6473,7 +6474,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "rocboss/paopao-ce",
       "url": "https://github.com/rocboss/paopao-ce",
-      "description": "[！[GoReportCard][goreportsh…",
+      "description": "🔥An artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区",
       "category": "网站/CMS/博客",
       "topics": [
         "forum",
@@ -6492,7 +6493,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Mereithhh/vanblog",
       "url": "https://github.com/Mereithhh/vanblog",
-      "description": "VanBlog是一款简洁、实用、优雅的个人博客系统",
+      "description": "一款简洁实用优雅的个人博客系统",
       "category": "网站/CMS/博客",
       "topics": [
         "blog",
@@ -6507,7 +6508,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ginobefun/BestBlogs",
       "url": "https://github.com/ginobefun/BestBlogs",
-      "description": "BestBlogs.dev 遇见更好的技术阅读",
+      "description": "bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来",
       "category": "网站/CMS/博客",
       "topics": [
         "ai",
@@ -6516,13 +6517,13 @@ window.__STAR_PAGE_DATA__ = {
         "programming"
       ],
       "language": "",
-      "stars": 3368,
+      "stars": 3369,
       "starredAt": "2025-12-03T17:32:17Z"
     },
     {
       "repo": "xjh22222228/nav",
       "url": "https://github.com/xjh22222228/nav",
-      "description": "发现导航 一个纯静态、支持SEO、在线编辑的强大导航网站",
+      "description": "发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight naviga",
       "category": "网站/CMS/博客",
       "topics": [
         "nav",
@@ -6541,7 +6542,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Tai7sy/card-system",
       "url": "https://github.com/Tai7sy/card-system",
-      "description": "CardSystem 安装文档 &nbsp;&nbsp; 更",
+      "description": "卡密商城系统，高效安全的在线卡密商城",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -6555,7 +6556,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ChanceYu/front-end-rss",
       "url": "https://github.com/ChanceYu/front-end-rss",
-      "description": "Front End RSS 每天定时更新前端技术文章",
+      "description": ":orange_book: 根据 RSS 订阅最新前端技术文章并自动分类",
       "category": "网站/CMS/博客",
       "topics": [
         "rss",
@@ -6579,7 +6580,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "owen0o0/WebStack",
       "url": "https://github.com/owen0o0/WebStack",
-      "description": "“Webstack专业版...",
+      "description": "WordPress 版 WebStack 导航主题 https://nav.iowen.cn",
       "category": "网站/CMS/博客",
       "topics": [
         "webstack",
@@ -6600,7 +6601,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Meekdai/Gmeek",
       "url": "https://github.com/Meekdai/Gmeek",
-      "description": "简体中文 English Русский Gmeek 一个博",
+      "description": "Gmeek 是一个博客，全部在 Github 上",
       "category": "网站/CMS/博客",
       "topics": [
         "blog",
@@ -6616,7 +6617,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "twikoojs/twikoo",
       "url": "https://github.com/twikoojs/twikoo",
-      "description": "一个 简洁 、 安全 、 免费 的静态网站评论系统",
+      "description": "💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudbase",
@@ -6634,7 +6635,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sav7ng/WeHalo",
       "url": "https://github.com/sav7ng/WeHalo",
-      "description": "WeHalo 支持最新版本 Halo 大家的支持，鼓励",
+      "description": "WeHalo 简约风 的微信小程序版博客",
       "category": "网站/CMS/博客",
       "topics": [
         "wehalo",
@@ -6651,7 +6652,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Qexo/Qexo",
       "url": "https://github.com/Qexo/Qexo",
-      "description": "Qexo Qexo 是一个快速、强大",
+      "description": "适用于所有静态博客框架的快速、强大且美观的在线管理器",
       "category": "网站/CMS/博客",
       "topics": [
         "hexo",
@@ -6665,7 +6666,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "typecho-fans/plugins",
       "url": "https://github.com/typecho-fans/plugins",
-      "description": "Typecho Fans 内部目录 (社区维护版列表) 本目",
+      "description": "Typecho Fans插件作品目录",
       "category": "网站/CMS/博客",
       "topics": [
         "typecho",
@@ -6680,7 +6681,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kingwrcy/moments",
       "url": "https://github.com/kingwrcy/moments",
-      "description": "Moments 极简朋友圈 从 v0.2.1 开始",
+      "description": "极简朋友圈",
       "category": "网站/CMS/博客",
       "topics": [
         "telegram",
@@ -6696,7 +6697,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "theme-nexmoe/hexo-theme-nexmoe",
       "url": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
-      "description": "Homepage Archive Links Gallery",
+      "description": "🔥 专注于图片和图像的特殊 Hexo 主题。图像讲述故事，Nexmoe 让它们变得更加生动",
       "category": "网站/CMS/博客",
       "topics": [
         "hexo",
@@ -6715,7 +6716,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "KoriIku/luxirty-search",
       "url": "https://github.com/KoriIku/luxirty-search",
-      "description": "奢华搜索search.luxirty....",
+      "description": "一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快",
       "category": "网站/CMS/博客",
       "topics": [
         "seo",
@@ -6729,7 +6730,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "YYsuni/2025-blog-public",
       "url": "https://github.com/YYsuni/2025-blog-public",
-      "description": "2025 Blog 最新引导说明：https://www.y",
+      "description": "开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用",
       "category": "网站/CMS/博客",
       "topics": [
         "blog",
@@ -6742,7 +6743,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shenweiyan/WebStack-Hugo",
       "url": "https://github.com/shenweiyan/WebStack-Hugo",
-      "description": "[!NOTE] 2025年05月17日：更多新功能",
+      "description": "WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站",
       "category": "网站/CMS/博客",
       "topics": [
         "webstack",
@@ -6756,7 +6757,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Mereithhh/van-nav",
       "url": "https://github.com/Mereithhh/van-nav",
-      "description": "在线体验 (总有人改后台数据，后台密码就不放出来了) 新增了",
+      "description": "一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件",
       "category": "网站/CMS/博客",
       "topics": [
         "docker"
@@ -6768,7 +6769,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zdhxiong/mdclub",
       "url": "https://github.com/zdhxiong/mdclub",
-      "description": "MDClub 官网 在线体验 当前版本已停止更新 关于 MD",
+      "description": "MDClub 社区系统后端代码",
       "category": "网站/CMS/博客",
       "topics": [
         "seo",
@@ -6782,7 +6783,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "btahir/next-shopify-starter",
       "url": "https://github.com/btahir/next-shopify-starter",
-      "description": "Next.js+TailwindCSS+ShopifyS",
+      "description": "Nextjs + Tailwind CSS + Shopify 入门版",
       "category": "网站/CMS/博客",
       "topics": [
         "nextjs-starter",
@@ -6802,7 +6803,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "LyLme/lylme_spage",
       "url": "https://github.com/LyLme/lylme_spage",
-      "description": "六零导航页 项目介绍 六零导航页 (LyLme Spage)",
+      "description": "六零导航页",
       "category": "网站/CMS/博客",
       "topics": [
         "php",
@@ -6818,7 +6819,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cworld1/astro-theme-pure",
       "url": "https://github.com/cworld1/astro-theme-pure",
-      "description": "Astro Theme Pure English 简体中文",
+      "description": "⭐ 由 Astro 构建的简单、快速且功能强大的博客和文档主题",
       "category": "网站/CMS/博客",
       "topics": [
         "astro",
@@ -6827,13 +6828,13 @@ window.__STAR_PAGE_DATA__ = {
         "blog-theme"
       ],
       "language": "Astro",
-      "stars": 878,
+      "stars": 879,
       "starredAt": "2025-11-02T15:12:20Z"
     },
     {
       "repo": "chengzhongxue/halo-theme-hao",
       "url": "https://github.com/chengzhongxue/halo-theme-hao",
-      "description": "Halo Theme Hao 主题预览 快速上手 使用文档",
+      "description": "Halo Theme Hao 主题预览 快速上手 使用文档 加入我们 ℹ️ 简介 Halo Theme Hao 是一款适用于 Halo2.x 的博客主题",
       "category": "网站/CMS/博客",
       "topics": [
         "plugin",
@@ -6847,7 +6848,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "liaocp666/Jasmine",
       "url": "https://github.com/liaocp666/Jasmine",
-      "description": "特色 响应式：适应不同设备，提供最佳的阅读体验",
+      "description": "Jasmine，一款精致的Typecho博客主题",
       "category": "网站/CMS/博客",
       "topics": [
         "typecho",
@@ -6863,7 +6864,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Tokinx/Adams",
       "url": "https://github.com/Tokinx/Adams",
-      "description": "Adams 一套适用于 WordPress 的简洁",
+      "description": "一组简单、轻量级的 WordPress 主题",
       "category": "网站/CMS/博客",
       "topics": [
         "wordpress",
@@ -6876,7 +6877,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MoePlayer/hexo-tag-aplayer",
       "url": "https://github.com/MoePlayer/hexo-tag-aplayer",
-      "description": "hexotagaplayer在Hexoposts/pag",
+      "description": "在 Hexo 帖子/页面中嵌入播放器",
       "category": "网站/CMS/博客",
       "topics": [
         "hexo",
@@ -6891,7 +6892,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tianyaxiang/NavSphere",
       "url": "https://github.com/tianyaxiang/NavSphere",
-      "description": "NavSphere 现代化导航管理平台 Modern Nav",
+      "description": "NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudflare",
@@ -6911,7 +6912,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tsxcw/mtab",
       "url": "https://github.com/tsxcw/mtab",
-      "description": "mTab新标签页 mTab书签官网 安装文档 作者Blog",
+      "description": "Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验",
       "category": "网站/CMS/博客",
       "topics": [
         "docker",
@@ -6924,7 +6925,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "radishzzz/astro-theme-retypeset",
       "url": "https://github.com/radishzzz/astro-theme-retypeset",
-      "description": "Retypeset 简体中文｜繁体中文｜日本語｜Españo",
+      "description": "重拾排版之美",
       "category": "网站/CMS/博客",
       "topics": [
         "astro",
@@ -6944,7 +6945,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Tokinx/Wing",
       "url": "https://github.com/Tokinx/Wing",
-      "description": "重要！ 主题 无jQuery",
+      "description": "简单、流畅、数据驱动、响应灵敏的 WordPress 主题",
       "category": "网站/CMS/博客",
       "topics": [
         "wordpress",
@@ -6957,7 +6958,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "KUN1007/kun-touchgal-next",
       "url": "https://github.com/KUN1007/kun-touchgal-next",
-      "description": "TouchGal TouchGal 是一个一站式 Galga",
+      "description": "TouchGAL是立足于分享快乐的一站式Galgame文化社区, 为Gal爱好者提供一片净土!",
       "category": "网站/CMS/博客",
       "topics": [
         "argon2",
@@ -6987,7 +6988,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "BYR-Navi/BYR-Navi",
       "url": "https://github.com/BYR-Navi/BYR-Navi",
-      "description": "[][travisci][][网站][][许可证][][",
+      "description": "轻量级可配置导航网站框架（BYR）",
       "category": "网站/CMS/博客",
       "topics": [
         "byr",
@@ -7004,7 +7005,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "EYHN/hexo-theme-one",
       "url": "https://github.com/EYHN/hexo-theme-one",
-      "description": "hexo theme one 文档 使用 React 制作的",
+      "description": "hexo单页面炫酷主题",
       "category": "网站/CMS/博客",
       "topics": [
         "hexo",
@@ -7020,7 +7021,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "KitePig/FatRat-Collect",
       "url": "https://github.com/KitePig/FatRat-Collect",
-      "description": "胖鼠采集 WordPress优秀开源采集插件 微信公众号文章",
+      "description": "胖鼠采集 WordPress优秀开源采集插件",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7036,7 +7037,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "rockbenben/LearnData",
       "url": "https://github.com/rockbenben/LearnData",
-      "description": "📚 LearnData 开源笔记 开源工具、效率方法",
+      "description": "开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记",
       "category": "网站/CMS/博客",
       "topics": [
         "blog",
@@ -7055,7 +7056,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "mulingyuer/Typecho_Theme_JJ",
       "url": "https://github.com/mulingyuer/Typecho_Theme_JJ",
-      "description": "Typecho Theme JJ Typecho 主题 《高",
+      "description": "Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本",
       "category": "网站/CMS/博客",
       "topics": [
         "plugin",
@@ -7071,7 +7072,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AlanDecode/Maverick",
       "url": "https://github.com/AlanDecode/Maverick",
-      "description": "Maverick English 简体中文 Overview",
+      "description": "🏄‍ 使用 Python 构建的静态博客生成器",
       "category": "网站/CMS/博客",
       "topics": [
         "maverick",
@@ -7086,7 +7087,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "88250/pipe",
       "url": "https://github.com/88250/pipe",
-      "description": "小而美的博客平台，为未来而构建 English 💡 简介 P",
+      "description": "🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络",
       "category": "网站/CMS/博客",
       "topics": [
         "b3log",
@@ -7102,7 +7103,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "srcrs/rss-reader",
       "url": "https://github.com/srcrs/rss-reader",
-      "description": "特性 打包后镜像大小仅有约20MB",
+      "description": "一个极简的RSS在线浏览工具",
       "category": "网站/CMS/博客",
       "topics": [
         "docker",
@@ -7117,7 +7118,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chatgptuk/ldc-shop",
       "url": "https://github.com/chatgptuk/ldc-shop",
-      "description": "LDC Shop (Next.js + Workers) E",
+      "description": "Linux DO Credit 虚拟商品商店",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudflare",
@@ -7133,7 +7134,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wexuo/home",
       "url": "https://github.com/wexuo/home",
-      "description": "个人主页 好看的个人主页，个人主页源码，博客主页模板.",
+      "description": "好看的个人主页，个人主页源码，博客主页模板",
       "category": "网站/CMS/博客",
       "topics": [
         "home"
@@ -7145,7 +7146,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HoYuenhang/aNavigation",
       "url": "https://github.com/HoYuenhang/aNavigation",
-      "description": "一个导航 这是什么 市面上有很多知名的导航",
+      "description": "单纯就是一个导航",
       "category": "网站/CMS/博客",
       "topics": [
         "jquery",
@@ -7158,7 +7159,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ch3nnn/webstack-go",
       "url": "https://github.com/ch3nnn/webstack-go",
-      "description": "v1: 使用 mysql 和 redis 组件, 丰富的后端",
+      "description": "基于 Go 开源的网址导航网站，具备完整的前后台。您可以拿来制作自己平日收藏的网址导航",
       "category": "网站/CMS/博客",
       "topics": [
         "gin",
@@ -7174,7 +7175,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "gogobody/onecircle",
       "url": "https://github.com/gogobody/onecircle",
-      "description": "原onecircle主题地址：https://github.",
+      "description": "一款typecho 社交圈子 主题",
       "category": "网站/CMS/博客",
       "topics": [
         "plugin",
@@ -7187,7 +7188,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hsxyhao/gridea-theme-next",
       "url": "https://github.com/hsxyhao/gridea-theme-next",
-      "description": "Gridea Theme NexT 使用 下载主题压缩包至g",
+      "description": "Gridea NexT主题，搬hexo-next-theme",
       "category": "网站/CMS/博客",
       "topics": [
         "theme",
@@ -7202,7 +7203,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "imhanjie/gridea-theme-pure",
       "url": "https://github.com/imhanjie/gridea-theme-pure",
-      "description": "Pure 本主题另提供 Hexo 版本：renbaoshuo",
+      "description": "一款专为 Gridea 设计的主题 - 简约、漂亮",
       "category": "网站/CMS/博客",
       "topics": [
         "gridea",
@@ -7215,7 +7216,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zwying0814/Brave",
       "url": "https://github.com/zwying0814/Brave",
-      "description": "Brave Typecho情侣主题Brave",
+      "description": "Typecho情侣主题Brave",
       "category": "网站/CMS/博客",
       "topics": [
         "brave"
@@ -7227,7 +7228,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "deep-project/moss",
       "url": "https://github.com/deep-project/moss",
-      "description": "Moss苔藓是一种简单而轻盈的…",
+      "description": "moss is a simple and lightweight web content management system(cms)🍀moss是一个简单轻量的",
       "category": "网站/CMS/博客",
       "topics": [
         "cms",
@@ -7240,7 +7241,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "bigfa/Farallon",
       "url": "https://github.com/bigfa/Farallon",
-      "description": "FarallonFarallon是一个简单的单栏word",
+      "description": "📓 单栏 WordPress 主题",
       "category": "网站/CMS/博客",
       "topics": [
         "wordpress-theme",
@@ -7253,7 +7254,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dchijack/Travel-Mini-Program",
       "url": "https://github.com/dchijack/Travel-Mini-Program",
-      "description": "WordPress旅游小程序...",
+      "description": "基于 WordPress Mini Program API 插件创建的 WordPress 小程序之 Travel 主题，包括微信小程序、 QQ 小程序",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7268,7 +7269,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cong-min/resume",
       "url": "https://github.com/cong-min/resume",
-      "description": "这是一份由自己设计并开发的简历 https://resume",
+      "description": "📃 简历.congm.in",
       "category": "网站/CMS/博客",
       "topics": [
         "resume",
@@ -7281,7 +7282,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wuruiwm/msautocreate",
       "url": "https://github.com/wuruiwm/msautocreate",
-      "description": "msautocreate 原作者node版本 地址https",
+      "description": "微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样",
       "category": "网站/CMS/博客",
       "topics": [
         "msautocreate"
@@ -7293,7 +7294,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "eehhh/naviii",
       "url": "https://github.com/eehhh/naviii",
-      "description": "naviii 一个简单优雅的导航页 演示站 :sparkle",
+      "description": "一个简单优雅的导航页",
       "category": "网站/CMS/博客",
       "topics": [
         "typescript",
@@ -7306,7 +7307,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "unix/unix.bio",
       "url": "https://github.com/unix/unix.bio",
-      "description": "unix.bio现代静态博客模板",
+      "description": "我的静态博客模板",
       "category": "网站/CMS/博客",
       "topics": [
         "seo",
@@ -7319,7 +7320,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "joelewis/hexopress",
       "url": "https://github.com/joelewis/hexopress",
-      "description": "hexopress一个小型博客平台",
+      "description": "一个小型博客平台，可让您在 Google 文档中撰写帖子并与 Google 云端硬盘目录同步",
       "category": "网站/CMS/博客",
       "topics": [
         "python",
@@ -7336,7 +7337,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "PanHywel/TidyMark",
       "url": "https://github.com/PanHywel/TidyMark",
-      "description": "[English] 中文 TidyMark — Smart",
+      "description": "TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签",
       "category": "网站/CMS/博客",
       "topics": [
         "bookmarks",
@@ -7352,7 +7353,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "850552586/gridea-theme-fog",
       "url": "https://github.com/850552586/gridea-theme-fog",
-      "description": "💖Gridea theme fog ） 主题国内码云下载地址",
+      "description": "gridea静态博客主题，不适合追求简洁的博主使用",
       "category": "网站/CMS/博客",
       "topics": [
         "gridea",
@@ -7365,7 +7366,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "liumingye/quarkHomePage",
       "url": "https://github.com/liumingye/quarkHomePage",
-      "description": "quarkHomePage H5仿夸克浏览器主页 更新计划",
+      "description": "H5仿夸克浏览器主页",
       "category": "网站/CMS/博客",
       "topics": [
         "quarkhomepage"
@@ -7377,7 +7378,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "codefine/hexo-theme-mellow",
       "url": "https://github.com/codefine/hexo-theme-mellow",
-      "description": "hexo theme mellow ============",
+      "description": "基于材料设计",
       "category": "网站/CMS/博客",
       "topics": [
         "hexo-theme",
@@ -7391,7 +7392,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "auwen/moon-web-start",
       "url": "https://github.com/auwen/moon-web-start",
-      "description": "Moon Web Start 在线体验 简体中文 Engli",
+      "description": "A simple style web navigation page | 一个简约风格的网址导航页",
       "category": "网站/CMS/博客",
       "topics": [
         "homepage",
@@ -7405,7 +7406,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "idealclover/UniTypecho",
       "url": "https://github.com/idealclover/UniTypecho",
-      "description": "UniTypecho 多平台 Typecho 应用解决方案",
+      "description": "🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7418,7 +7419,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zywe03/astro-xwnav",
       "url": "https://github.com/zywe03/astro-xwnav",
-      "description": "🚀 每个人都能拥有自己的轻量级导航站，零后端、零数据库",
+      "description": "🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel",
       "category": "网站/CMS/博客",
       "topics": [
         "astro",
@@ -7434,7 +7435,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Frost-ZX/frost-navigation",
       "url": "https://github.com/Frost-ZX/frost-navigation",
-      "description": "frost navigation 简介 一个使用 Vue 3",
+      "description": "一个使用 Vue 3 开发的网站导航和工具箱，绿色无广告",
       "category": "网站/CMS/博客",
       "topics": [
         "navigation",
@@ -7448,7 +7449,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "kunpehx/halo-theme-fantastic",
       "url": "https://github.com/kunpehx/halo-theme-fantastic",
-      "description": "[x] 添加暗黑模式(已完成) [x] 基本适配(可用) [",
+      "description": "Halo 博客系统主题 Fantastic, 本人博客改用Notion，原因是不是要服务器的维护及更新好的管理自己的知识体系",
       "category": "网站/CMS/博客",
       "topics": [
         "halo",
@@ -7462,7 +7463,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "huangzijian888/GeekFaka",
       "url": "https://github.com/huangzijian888/GeekFaka",
-      "description": "GeekFaka 极客发卡系统 它专为独立开发者",
+      "description": "GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7477,7 +7478,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "halo-dev/halo-theme-icarus",
       "url": "https://github.com/halo-dev/halo-theme-icarus",
-      "description": "Halo Theme Icarus 此分支是适配 Halo",
+      "description": "Halo Theme Icarus 此分支是适配 Halo 2.0 的版本，Halo 1.x 请访问 说明 该主题的原作者为 ppoffice",
       "category": "网站/CMS/博客",
       "topics": [
         "halo",
@@ -7490,7 +7491,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ZShijun/BeaconNav",
       "url": "https://github.com/ZShijun/BeaconNav",
-      "description": "由于 目前还是 版，保险起见，你可以直接通过如下地址下载：",
+      "description": "一款适合做工具箱的typecho导航主题(navigation theme)",
       "category": "网站/CMS/博客",
       "topics": [
         "typecho",
@@ -7503,7 +7504,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "NiuXiangQian/u",
       "url": "https://github.com/NiuXiangQian/u",
-      "description": "github地址：https://github.com/Ni",
+      "description": "短链接服务，缩短你的超链接",
       "category": "网站/CMS/博客",
       "topics": [
         "shorturl"
@@ -7515,7 +7516,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sy-records/ty-baidu-textcensor",
       "url": "https://github.com/sy-records/ty-baidu-textcensor",
-      "description": "Baidu TextCensor 🗑 在 Typecho 中",
+      "description": "🗑在Typecho中加入百度文本内容审核，过滤评论中的敏感内容",
       "category": "网站/CMS/博客",
       "topics": [
         "typecho",
@@ -7529,7 +7530,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "posir/daohang-templates",
       "url": "https://github.com/posir/daohang-templates",
-      "description": "地址发布页/导航页/引导页 模板合集 收集了各种奇奇怪怪的引",
+      "description": "多合一索引列表模板，全部都是干净的 HTML 代码",
       "category": "网站/CMS/博客",
       "topics": [
         "daohang",
@@ -7542,7 +7543,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MaZhaolin/Next-theme-for-WordPress",
       "url": "https://github.com/MaZhaolin/Next-theme-for-WordPress",
-      "description": "NexT 主题第三版 基础使用方式及旧版历史主题更新与说明见",
+      "description": "wordpress 主题 Next",
       "category": "网站/CMS/博客",
       "topics": [
         "wordpress",
@@ -7555,7 +7556,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "suofiya/url_Shortny",
       "url": "https://github.com/suofiya/url_Shortny",
-      "description": "url Shortny 简单防红短链接，短链接生成",
+      "description": "简单短链接,短链接生成，短链接加密，短链接二维码，短链接API，短链接自定义后缀，二维码API",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7568,7 +7569,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "insdram/gridea-theme-vant",
       "url": "https://github.com/insdram/gridea-theme-vant",
-      "description": "gridea theme vant 更新 2020.4.1",
+      "description": "Gridea-主题-Vant",
       "category": "网站/CMS/博客",
       "topics": [
         "gridea",
@@ -7581,7 +7582,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "pptt121212/content-auto-manager",
       "url": "https://github.com/pptt121212/content-auto-manager",
-      "description": "WordPress插件 鸭梨AI文章智能写手 项目概述 鸭梨",
+      "description": "鸭梨AI：一款智能内容生成插件，帮助WordPress管理员自动生成高质量中文文章",
       "category": "网站/CMS/博客",
       "topics": [
         "seo",
@@ -7596,7 +7597,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MindMobius/navo",
       "url": "https://github.com/MindMobius/navo",
-      "description": "Navo 一个以\"用户评价\"为核心的轻量级导航站 Navo",
+      "description": "一个以“用户评价”为核心的轻量导航站",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudflare",
@@ -7611,7 +7612,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "JenkinWoo/CardVerse",
       "url": "https://github.com/JenkinWoo/CardVerse",
-      "description": "﻿ CardVerse CardVerse 是一个面向数字商",
+      "description": "CardVerse 是一个开箱即用的数字商品与卡密发货系统，包含后端 API、后台管理端和前台商城，支持订单创建、卡密自动/手动发货、优惠券、支付通道",
       "category": "网站/CMS/博客",
       "topics": [
         "docker",
@@ -7619,13 +7620,13 @@ window.__STAR_PAGE_DATA__ = {
         "cardverse"
       ],
       "language": "TypeScript",
-      "stars": 23,
+      "stars": 24,
       "starredAt": "2026-03-19T10:07:50Z"
     },
     {
       "repo": "naigoucn/ngdown",
       "url": "https://github.com/naigoucn/ngdown",
-      "description": "WordPress附件密码下载插件 NGDown 前言 这是",
+      "description": "奶狗附件下载插件适用于大多数WordPress主题",
       "category": "网站/CMS/博客",
       "topics": [
         "wechat",
@@ -7638,7 +7639,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HsukqiLee/Typecho-Theme-Kylin",
       "url": "https://github.com/HsukqiLee/Typecho-Theme-Kylin",
-      "description": "一个简单、精致、现代的…",
+      "description": "Typecho 主题 Kylin（麒麟） From Typecho-Theme-Icarus",
       "category": "网站/CMS/博客",
       "topics": [
         "typecho",
@@ -7652,7 +7653,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Pan-O/LOVE",
       "url": "https://github.com/Pan-O/LOVE",
-      "description": "LOVE 一个简单的情侣单页 大部分都是网上的代码抄抄改改（",
+      "description": "简单的情侣单页",
       "category": "网站/CMS/博客",
       "topics": [
         "love"
@@ -7664,11 +7665,12 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/Cloudflare-Navihive-optimization",
       "url": "https://github.com/lza6/Cloudflare-Navihive-optimization",
-      "description": "🚀 Cloudflare Navihive 云端导航站 🌐",
+      "description": "NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudflare",
         "workers",
+        "typescript",
         "navihive",
         "optimization"
       ],
@@ -7679,7 +7681,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/NooMiNav-optimization",
       "url": "https://github.com/lza6/NooMiNav-optimization",
-      "description": "🚀 NooMiNav 云端服务导航门户 ✨ 基于 Cloud",
+      "description": "Cloudflare Workers/Pages 部署、D1 数据库统计、环境变量配置、毛玻璃特效 UI、主题切换功能、智能搜索过滤、数据与代码解耦",
       "category": "网站/CMS/博客",
       "topics": [
         "cloudflare",
@@ -7695,7 +7697,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "podipod/TimThumb",
       "url": "https://github.com/podipod/TimThumb",
-      "description": "TimThumb TimThumb是一个简单",
+      "description": "优秀的Wordpress文章列表缩略图TimThumb.php工具",
       "category": "网站/CMS/博客",
       "topics": [
         "timthumb"
@@ -7707,20 +7709,20 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lbjlaq/Antigravity-Manager",
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Antigravity Tools 🚀 专业级 AI 账号管",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account",
       "category": "逆向2API/AI网关",
       "topics": [
         "account-manager",
         "antigravity"
       ],
       "language": "Rust",
-      "stars": 27896,
+      "stars": 27900,
       "starredAt": "2025-12-23T02:32:14Z"
     },
     {
       "repo": "router-for-me/CLIProxyAPI",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "CLI Proxy API English 中文 日本語 A",
+      "description": "将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code",
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-code",
@@ -7732,13 +7734,13 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Go",
-      "stars": 23888,
+      "stars": 23916,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
       "repo": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2APIAIAPI网关平台...",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本",
       "category": "逆向2API/AI网关",
       "topics": [
         "2api",
@@ -7752,13 +7754,13 @@ window.__STAR_PAGE_DATA__ = {
         "crs2"
       ],
       "language": "Go",
-      "stars": 10827,
+      "stars": 10846,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
       "repo": "su-kaka/gcli2api",
       "url": "https://github.com/su-kaka/gcli2api",
-      "description": "GeminiCLI to API 将 GeminiCLI 和",
+      "description": "将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口",
       "category": "逆向2API/AI网关",
       "topics": [
         "gemini",
@@ -7772,13 +7774,13 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "Python",
-      "stars": 4462,
+      "stars": 4463,
       "starredAt": "2025-10-23T00:53:15Z"
     },
     {
       "repo": "nguyenphutrong/quotio",
       "url": "https://github.com/nguyenphutrong/quotio",
-      "description": "QuotiomacOS上AI编码助手的终极指挥中心",
+      "description": "别再玩弄人工智能账户了。 Quotio 是一款精美的原生 macOS 菜单栏应用程序，可统一您的 Claude、Gemini、OpenAI",
       "category": "逆向2API/AI网关",
       "topics": [
         "ai-tools",
@@ -7787,13 +7789,13 @@ window.__STAR_PAGE_DATA__ = {
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4184,
+      "stars": 4185,
       "starredAt": "2026-01-16T18:26:07Z"
     },
     {
       "repo": "linuxhsj/openclaw-zero-token",
       "url": "https://github.com/linuxhsj/openclaw-zero-token",
-      "description": "OpenClaw零令牌使用无需API令牌的LLM—通过浏",
+      "description": "OpenClaw：使用所有主要 AI 模型，无需 API 令牌",
       "category": "逆向2API/AI网关",
       "topics": [
         "openclaw",
@@ -7803,13 +7805,13 @@ window.__STAR_PAGE_DATA__ = {
         "token"
       ],
       "language": "TypeScript",
-      "stars": 3965,
+      "stars": 3968,
       "starredAt": "2026-03-14T23:54:12Z"
     },
     {
       "repo": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
-      "description": "Grok2API 中文 English 文档 [!NOTE]",
+      "description": "基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天",
       "category": "逆向2API/AI网关",
       "topics": [
         "grok",
@@ -7819,13 +7821,13 @@ window.__STAR_PAGE_DATA__ = {
         "grok-4-20"
       ],
       "language": "Python",
-      "stars": 3935,
+      "stars": 3937,
       "starredAt": "2026-02-07T22:43:06Z"
     },
     {
       "repo": "looplj/axonhub",
       "url": "https://github.com/looplj/axonhub",
-      "description": "AxonHub多合一人工智能开发平台使用任何SDK",
+      "description": "⚡️ 开源 AI 网关 — 使用任何 SDK 调用 100 多个 LLM。内置故障转移、负载平衡、成本控制和端到端跟踪",
       "category": "逆向2API/AI网关",
       "topics": [
         "ai",
@@ -7851,20 +7853,20 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ding113/claude-code-hub",
       "url": "https://github.com/ding113/claude-code-hub",
-      "description": "English 中文 Claude Code Hub 🚀 智",
+      "description": "一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能",
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-api",
         "claude-code"
       ],
       "language": "TypeScript",
-      "stars": 2324,
+      "stars": 2328,
       "starredAt": "2025-10-24T12:01:49Z"
     },
     {
       "repo": "bestruirui/octopus",
       "url": "https://github.com/bestruirui/octopus",
-      "description": "章鱼一个简单、美丽、…",
+      "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务",
       "category": "逆向2API/AI网关",
       "topics": [
         "ai",
@@ -7884,7 +7886,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "TheSmallHanCat/flow2api",
       "url": "https://github.com/TheSmallHanCat/flow2api",
-      "description": "Flow2API 一个功能完整的 OpenAI 兼容 API",
+      "description": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -7893,13 +7895,13 @@ window.__STAR_PAGE_DATA__ = {
         "flow2api"
       ],
       "language": "Python",
-      "stars": 1873,
+      "stars": 1874,
       "starredAt": "2025-12-20T06:43:29Z"
     },
     {
       "repo": "cita-777/metapi",
       "url": "https://github.com/cita-777/metapi",
-      "description": "中转站的中转站 — 将分散的 AI 中转站聚合为一个统一网关",
+      "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -7907,13 +7909,13 @@ window.__STAR_PAGE_DATA__ = {
         "metapi"
       ],
       "language": "TypeScript",
-      "stars": 1810,
+      "stars": 1811,
       "starredAt": "2026-03-07T11:40:53Z"
     },
     {
       "repo": "7836246/cursor2api",
       "url": "https://github.com/7836246/cursor2api",
-      "description": "Cursor2APIv2.7.820260401当前…",
+      "description": "将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持",
       "category": "逆向2API/AI网关",
       "topics": [
         "ai",
@@ -7929,7 +7931,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hj01857655/kiro-account-manager",
       "url": "https://github.com/hj01857655/kiro-account-manager",
-      "description": "﻿ Kiro Account Manager 🚀 智能管理",
+      "description": "🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app",
       "category": "逆向2API/AI网关",
       "topics": [
         "tauri",
@@ -7944,7 +7946,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tibbar213/team-manage",
       "url": "https://github.com/tibbar213/team-manage",
-      "description": "GPT Team 管理和兑换码自动邀请系统 一个基于 Fas",
+      "description": "gpt team管理和自动邀请",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
@@ -7954,13 +7956,13 @@ window.__STAR_PAGE_DATA__ = {
         "javascript"
       ],
       "language": "Python",
-      "stars": 975,
+      "stars": 976,
       "starredAt": "2026-03-16T11:35:59Z"
     },
     {
       "repo": "VoAPI/VoAPI",
       "url": "https://github.com/VoAPI/VoAPI",
-      "description": "简体中文 English VoAPI 🎉 全新下一代高颜值",
+      "description": "🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-per",
       "category": "逆向2API/AI网关",
       "topics": [
         "chatgpt",
@@ -7978,7 +7980,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "fawney19/Aether",
       "url": "https://github.com/fawney19/Aether",
-      "description": "Aether 一站式 AI 基础设施平台 支持 Claude",
+      "description": "Aether 一站式 AI 基础设施平台 支持 Claude / OpenAI / Gemini 及其 CLI 客户端的统一接入、格式转换",
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-code",
@@ -7994,7 +7996,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "CJackHwang/ds2api",
       "url": "https://github.com/CJackHwang/ds2api",
-      "description": "DS2API 语言 / Language: 中文 Engli",
+      "description": "Deepseek客户端对话转API全栈开源工具，高性能，多账号轮询，支持纯vercel、docker部署使用。Google、Claude",
       "category": "逆向2API/AI网关",
       "topics": [
         "deepseek",
@@ -8009,13 +8011,13 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Go",
-      "stars": 879,
+      "stars": 880,
       "starredAt": "2026-03-29T15:25:23Z"
     },
     {
       "repo": "caidaoli/kiro2api",
       "url": "https://github.com/caidaoli/kiro2api",
-      "description": "kiro2api 高性能 AI API 代理服务器 统一 A",
+      "description": "kiro2api 高性能 AI API 代理服务器 统一 Anthropic Claude",
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-code",
@@ -8031,7 +8033,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wuqi-y/auto-cursor-releases",
       "url": "https://github.com/wuqi-y/auto-cursor-releases",
-      "description": "🚀 Auto Cursor 专业的 Cursor IDE 管",
+      "description": "源代码(开源版本到0.8)，后续版本会继续更新但不会开源",
       "category": "逆向2API/AI网关",
       "topics": [
         "rag",
@@ -8046,7 +8048,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chengtx809/ExaFree",
       "url": "https://github.com/chengtx809/ExaFree",
-      "description": "ExaFree 简体中文 Exa API 代理与管理面板",
+      "description": "一站式Exa注册机+号池轮询+API服务反代+多用户管理",
       "category": "逆向2API/AI网关",
       "topics": [
         "mcp",
@@ -8061,7 +8063,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "0x5uo2hen/codex_register",
       "url": "https://github.com/0x5uo2hen/codex_register",
-      "description": "🚀 OpenAI / ChatGPT 全自动注册机 & To",
+      "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
@@ -8077,7 +8079,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "caiwuu/web2api",
       "url": "https://github.com/caiwuu/web2api",
-      "description": "Web2API英文版：参见W…",
+      "description": "把网页AI转api，如claude2api",
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-code",
@@ -8087,7 +8089,7 @@ window.__STAR_PAGE_DATA__ = {
         "python"
       ],
       "language": "Python",
-      "stars": 446,
+      "stars": 448,
       "starredAt": "2026-03-09T15:39:21Z"
     },
     {
@@ -8109,9 +8111,10 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "1420970597/fucto",
       "url": "https://github.com/1420970597/fucto",
-      "description": "fucto项目说明 本项目提供一个与 OpenAI 接口兼容",
+      "description": "自建cto中转，2api，open-ai格式，支持多号轮询",
       "category": "逆向2API/AI网关",
       "topics": [
+        "api-gateway",
         "cli",
         "python",
         "fucto"
@@ -8123,7 +8126,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hyb-oyqq/hajimi-king-pro",
       "url": "https://github.com/hyb-oyqq/hajimi-king-pro",
-      "description": "原仓库地址 : https://github.com/Gak",
+      "description": "人人都是【超级】哈基米大王",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -8151,7 +8154,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dext7r/ZtoApi",
       "url": "https://github.com/dext7r/ZtoApi",
-      "description": "OpenAI兼容API代理 for Z.ai GLM 4.6",
+      "description": "佛法GLM-4.6 For Kilo CODE、Roo Code",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -8167,7 +8170,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zhaoxiaozhao07/k2think2api",
       "url": "https://github.com/zhaoxiaozhao07/k2think2api",
-      "description": "K2Think API Proxy 基于 FastAPI 构",
+      "description": "K2-Think模型代理，兼容OpenAI API，支持本地/Docker部署，加入工具调用",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -8182,7 +8185,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "james-6-23/team-invite-kfc",
       "url": "https://github.com/james-6-23/team-invite-kfc",
-      "description": "🚀 Linux.do ChatGPT Team 邀请助手 L",
+      "description": "方式一：Docker Compose 部署（推荐） 1.",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
@@ -8198,7 +8201,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/googletranslate-2api",
       "url": "https://github.com/lza6/googletranslate-2api",
-      "description": "🌍 googletranslate 2api 🚀 一行代码",
+      "description": "兼容 OpenAI API 格式、原生 API 直接调用 (非 Web 抓取)、高级请求伪装 (模拟浏览器 Headers)、原生流式响应 (SSE)",
       "category": "逆向2API/AI网关",
       "topics": [
         "docker",
@@ -8214,7 +8217,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/2api-to-CFwork",
       "url": "https://github.com/lza6/2api-to-CFwork",
-      "description": "2api to CFwork 更新日期：2025年12月4日",
+      "description": "一键将任何后端 API 转换为自包含的 Cloudflare Worker | 内置交互式 API 测试面板 (支持流式响应) | 自带实时文档与零依赖边缘部署",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
@@ -8230,7 +8233,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ZhangWY0724/apitest",
       "url": "https://github.com/ZhangWY0724/apitest",
-      "description": "API Test 前后端分离版 技术栈 后端：FastAPI",
+      "description": "API Test 前后端分离版 技术栈 后端：FastAPI + Requests 前端：React + Vite + Ant Design 单脚本简易版：Py",
       "category": "逆向2API/AI网关",
       "topics": [
         "api-gateway",
@@ -8245,14 +8248,14 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/novaapp-2api",
       "url": "https://github.com/lza6/novaapp-2api",
-      "description": "✨ NovaApp 2API v2.0.0 ✨ 🚀 一个将",
+      "description": "核心技术: Cloudscraper 反机器人绕过 · 多账号凭证轮询 · 原生 OpenAI 流式 API 转换 · 高级请求伪装 · Docker 一键部署",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
         "workers",
-        "docker",
-        "api-gateway",
-        "python"
+        "scraping",
+        "crawler",
+        "docker"
       ],
       "language": "Python",
       "stars": 12,
@@ -8261,7 +8264,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "alhza/GPT-Load",
       "url": "https://github.com/alhza/GPT-Load",
-      "description": "﻿GPT负载模型聚合&...",
+      "description": "﻿ GPT Load Model Aggregation & Intelligent Routing Extension English 中文 日本語 Abou",
       "category": "逆向2API/AI网关",
       "topics": [
         "api-gateway",
@@ -8277,7 +8280,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lza6/horde-2api-cfwork",
       "url": "https://github.com/lza6/horde-2api-cfwork",
-      "description": "🚀 AI Horde Bridge 去中心化AI算力网关 ✨",
+      "description": "Cloudflare Worker 无服务器架构 · OpenAI API 兼容格式 · AI Horde 分布式算力代理 · 自动异步任务轮询机制 · 负载均",
       "category": "逆向2API/AI网关",
       "topics": [
         "cloudflare",
@@ -8293,7 +8296,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "ClashVerge的延续基于Tauri的ClashMe",
+      "description": "基于 Tauri 的现代 GUI 客户端，设计用于在 Windows、macOS 和 Linux 中运行，以提供定制的代理体验",
       "category": "部署运维/网络",
       "topics": [
         "clash",
@@ -8306,13 +8309,13 @@ window.__STAR_PAGE_DATA__ = {
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 108495,
+      "stars": 108519,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
       "repo": "2dust/v2rayNG",
       "url": "https://github.com/2dust/v2rayNG",
-      "description": "v2rayNG适用于Android的V2Ray客户端",
+      "description": "一款适用于Android的V2Ray客户端，支持Xray核心和v2fly核心",
       "category": "部署运维/网络",
       "topics": [
         "android",
@@ -8329,13 +8332,13 @@ window.__STAR_PAGE_DATA__ = {
         "vpn"
       ],
       "language": "Kotlin",
-      "stars": 53453,
+      "stars": 53458,
       "starredAt": "2022-10-11T09:41:36Z"
     },
     {
       "repo": "dockur/windows",
       "url": "https://github.com/dockur/windows",
-      "description": "Windows[![Build]][buildurl][",
+      "description": "Docker 容器内的 Windows",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -8354,20 +8357,20 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MetaCubeX/ClashMetaForAndroid",
       "url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
-      "description": "ClashMetaforAndroid适用于Androi",
+      "description": "适用于 Android 的基于规则的隧道",
       "category": "部署运维/网络",
       "topics": [
         "golang",
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 36880,
+      "stars": 36881,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
       "repo": "ehang-io/nps",
       "url": "https://github.com/ehang-io/nps",
-      "description": "NPS README 中文文档 NPS is a light",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试",
       "category": "部署运维/网络",
       "topics": [
         "socks",
@@ -8393,7 +8396,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "MHSanaei/3x-ui",
       "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "English فارسی العربية 中文 Españ",
+      "description": "Xray面板支持多协议多用户到期日&流量&IP限制（Vmess、Vless、Trojan、ShadowSocks、Wireguard、Tunnel、Mixed",
       "category": "部署运维/网络",
       "topics": [
         "trojan",
@@ -8417,13 +8420,13 @@ window.__STAR_PAGE_DATA__ = {
         "fail2ban"
       ],
       "language": "HTML",
-      "stars": 33403,
+      "stars": 33410,
       "starredAt": "2024-06-05T23:32:13Z"
     },
     {
       "repo": "hiddify/hiddify-app",
       "url": "https://github.com/hiddify/hiddify-app",
-      "description": "فارسی / Русский 🇷🇺 / 简体中文 🇨🇳 /",
+      "description": "多平台自动代理客户端，支持Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH等。开源、安全、无广告",
       "category": "部署运维/网络",
       "topics": [
         "proxy",
@@ -8452,7 +8455,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jhao104/proxy_pool",
       "url": "https://github.com/jhao104/proxy_pool",
-      "description": "ProxyPool 爬虫代理IP池 ======= \\ \\",
+      "description": "用于网络蜘蛛的 Python ProxyPool",
       "category": "部署运维/网络",
       "topics": [
         "crawler",
@@ -8468,7 +8471,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wistbean/learn_python3_spider",
       "url": "https://github.com/wistbean/learn_python3_spider",
-      "description": "learn python3 spider 接下来就是",
+      "description": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用",
       "category": "部署运维/网络",
       "topics": [
         "python3",
@@ -8482,7 +8485,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chaitin/SafeLine",
       "url": "https://github.com/chaitin/SafeLine",
-      "description": "SafeLine Make your web apps se",
+      "description": "SafeLine 是一个自托管 WAF（Web 应用程序防火墙）/反向代理，可保护您的 Web 应用程序免受攻击和利用",
       "category": "部署运维/网络",
       "topics": [
         "firewall",
@@ -8507,13 +8510,13 @@ window.__STAR_PAGE_DATA__ = {
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 21001,
+      "stars": 21002,
       "starredAt": "2025-01-01T12:19:08Z"
     },
     {
       "repo": "allinurl/goaccess",
       "url": "https://github.com/allinurl/goaccess",
-      "description": "GoAccess========它是什么？",
+      "description": "GoAccess 是一个实时 Web 日志分析器和交互式查看器，可在 *nix 系统的终端中或通过浏览器运行",
       "category": "部署运维/网络",
       "topics": [
         "goaccess",
@@ -8544,7 +8547,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
-      "description": "x ui 支持多协议多用户的 xray 面板 功能介绍 系统",
+      "description": "支持多协议多用户的 xray 面板",
       "category": "部署运维/网络",
       "topics": [
         "xray",
@@ -8560,7 +8563,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zerotier/ZeroTierOne",
       "url": "https://github.com/zerotier/ZeroTierOne",
-      "description": "ZeroTier全球区域网络快速链接ZeroTier文档",
+      "description": "地球智能以太网交换机",
       "category": "部署运维/网络",
       "topics": [
         "decentralization",
@@ -8572,13 +8575,13 @@ window.__STAR_PAGE_DATA__ = {
         "vpn"
       ],
       "language": "C++",
-      "stars": 16609,
+      "stars": 16610,
       "starredAt": "2024-06-07T05:28:15Z"
     },
     {
       "repo": "selierlin/Share-SSR-V2ray",
       "url": "https://github.com/selierlin/Share-SSR-V2ray",
-      "description": "分享SSRV2rayClash/SS/SSR/V…",
+      "description": "机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐",
       "category": "部署运维/网络",
       "topics": [
         "shadowsocks",
@@ -8596,7 +8599,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "bin456789/reinstall",
       "url": "https://github.com/bin456789/reinstall",
-      "description": "reinstall 一键 VPS 系统重装脚本 Englis",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "category": "部署运维/网络",
       "topics": [
         "reinstall",
@@ -8626,7 +8629,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "screego/server",
       "url": "https://github.com/screego/server",
-      "description": "面向开发人员的screego/服务器屏幕共享简介过去",
+      "description": "开发人员的屏幕共享 https://screego.net/",
       "category": "部署运维/网络",
       "topics": [
         "webrtc",
@@ -8637,13 +8640,13 @@ window.__STAR_PAGE_DATA__ = {
         "go"
       ],
       "language": "Go",
-      "stars": 10328,
+      "stars": 10330,
       "starredAt": "2024-11-23T06:54:10Z"
     },
     {
       "repo": "EtherDream/jsproxy",
       "url": "https://github.com/EtherDream/jsproxy",
-      "description": "更新 2019 07 24 v0.1.0 发布",
+      "description": "基于ServiceWorker的在线代理",
       "category": "部署运维/网络",
       "topics": [
         "cloudflare",
@@ -8658,7 +8661,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sub-store-org/Sub-Store",
       "url": "https://github.com/sub-store-org/Sub-Store",
-      "description": "QX、Loon、Surge、Stash…",
+      "description": "QX、Loon、Surge、Stash、Egern 和 Shadowrocket 的高级订阅管理器！",
       "category": "部署运维/网络",
       "topics": [
         "loon",
@@ -8681,7 +8684,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ellite/Wallos",
       "url": "https://github.com/ellite/Wallos",
-      "description": "Wallos：开源个人订阅跟踪器目录简介功能演示入门先决",
+      "description": "Wallos：开源、可自托管的个人订阅跟踪器。可视化您的经常性支出、管理您的预算并省钱",
       "category": "部署运维/网络",
       "topics": [
         "budgeting",
@@ -8698,7 +8701,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "spiritLHLS/ecs",
       "url": "https://github.com/spiritLHLS/ecs",
-      "description": "ecs 语言 中文文档 English Docs 日本語ドキ",
+      "description": "VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More reco",
       "category": "部署运维/网络",
       "topics": [
         "vps",
@@ -8729,7 +8732,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wzdnzd/aggregator",
       "url": "https://github.com/wzdnzd/aggregator",
-      "description": "Aggregator 免费代理池构建工具 🎯 项目简介 一个",
+      "description": "一站式代理爬取聚合平台",
       "category": "部署运维/网络",
       "topics": [
         "proxypool",
@@ -8745,7 +8748,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "masonr/yet-another-bench-script",
       "url": "https://github.com/masonr/yet-another-bench-script",
-      "description": "另一个基准测试脚本尝试创建另一个Linux服务器基准测试",
+      "description": "YABS - 一个简单的 bash 脚本，用于使用 fio、iperf3 和 Geekbench 估计 Linux 服务器性能",
       "category": "部署运维/网络",
       "topics": [
         "bench-script",
@@ -8767,7 +8770,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "cmliu/WorkerVless2sub",
       "url": "https://github.com/cmliu/WorkerVless2sub",
-      "description": "🚀 优选订阅生成器 WorkerVless2sub 这个是一",
+      "description": "自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器",
       "category": "部署运维/网络",
       "topics": [
         "cloudflare",
@@ -8783,7 +8786,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "jinwyp/one_click_script",
       "url": "https://github.com/jinwyp/one_click_script",
-      "description": "Easy install latest or LTS lin",
+      "description": "安装最新或 LTS linux 内核并启用 BBR 或 BBR plus",
       "category": "部署运维/网络",
       "topics": [
         "trojan",
@@ -8814,7 +8817,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "v2board/v2board",
       "url": "https://github.com/v2board/v2board",
-      "description": "V2BoardPHP7.3+ComposerMySQL5",
+      "description": "🚀多代理协议管理面板应用程序界面",
       "category": "部署运维/网络",
       "topics": [
         "v2board",
@@ -8834,7 +8837,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "beck-8/subs-check",
       "url": "https://github.com/beck-8/subs-check",
-      "description": "🚀 订阅检测转换工具 ✨ 修复逻辑、简化操作、增加功能",
+      "description": "订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具",
       "category": "部署运维/网络",
       "topics": [
         "clash",
@@ -8842,13 +8845,13 @@ window.__STAR_PAGE_DATA__ = {
         "v2ray"
       ],
       "language": "Go",
-      "stars": 4687,
+      "stars": 4688,
       "starredAt": "2026-02-27T08:05:28Z"
     },
     {
       "repo": "cppla/ServerStatus",
       "url": "https://github.com/cppla/ServerStatus",
-      "description": "在线演示：https://tz.cloudcpp.com 部",
+      "description": "云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -8863,7 +8866,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "midoks/mdserver-web",
       "url": "https://github.com/midoks/mdserver-web",
-      "description": "mdserver web 一款简单Linux面板服务 强烈推",
+      "description": "简单的Linux面板",
       "category": "部署运维/网络",
       "topics": [
         "linux",
@@ -8891,7 +8894,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "yonggekkk/warp-yg",
       "url": "https://github.com/yonggekkk/warp-yg",
-      "description": "相关说明及注意点请查看warp系列视频说明 更新日志 一",
+      "description": "warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix",
       "category": "部署运维/网络",
       "topics": [
         "netflix",
@@ -8909,13 +8912,13 @@ window.__STAR_PAGE_DATA__ = {
         "wireguard"
       ],
       "language": "Shell",
-      "stars": 4449,
+      "stars": 4450,
       "starredAt": "2024-05-28T05:52:34Z"
     },
     {
       "repo": "yonggekkk/argosbx",
       "url": "https://github.com/yonggekkk/argosbx",
-      "description": "Argosbx一键无交互小钢炮脚本💣：极简 + 轻量 + 快",
+      "description": "小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署",
       "category": "部署运维/网络",
       "topics": [
         "argo",
@@ -8940,13 +8943,13 @@ window.__STAR_PAGE_DATA__ = {
         "sap"
       ],
       "language": "Shell",
-      "stars": 4418,
+      "stars": 4421,
       "starredAt": "2025-11-05T09:21:40Z"
     },
     {
       "repo": "cmliu/SubsCheck-Win-GUI",
       "url": "https://github.com/cmliu/SubsCheck-Win-GUI",
-      "description": "🚀 SubsCheck Win GUI 首先声明",
+      "description": "SubsCheck 为 Windows 用户设计的 GUI 程序界面",
       "category": "部署运维/网络",
       "topics": [
         "proxypool",
@@ -8956,13 +8959,13 @@ window.__STAR_PAGE_DATA__ = {
         "telegram-bot"
       ],
       "language": "C#",
-      "stars": 4388,
+      "stars": 4389,
       "starredAt": "2026-03-02T12:18:52Z"
     },
     {
       "repo": "eooce/Sing-box",
       "url": "https://github.com/eooce/Sing-box",
-      "description": "sing box多协议代理工具 sing box是一个强大的",
+      "description": "既然来了，就留下你的Star吧",
       "category": "部署运维/网络",
       "topics": [
         "oneclick",
@@ -8982,7 +8985,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "fscarmen/sing-box",
       "url": "https://github.com/fscarmen/sing-box",
-      "description": "【Sing box 全家桶】 目录 1.更新信息 2.项目特",
+      "description": "Sing-box 全家桶 --- 一键多协议脚本",
       "category": "部署运维/网络",
       "topics": [
         "hysteria2",
@@ -9013,7 +9016,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zu1k/proxypool",
       "url": "https://github.com/zu1k/proxypool",
-      "description": "proxypool 自动抓取tg频道、订阅地址",
+      "description": "自动抓取公共互联网上的代理节点，去重并测试可用性，然后提供节点列表",
       "category": "部署运维/网络",
       "topics": [
         "crawler",
@@ -9026,7 +9029,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Bubka/2FAuth",
       "url": "https://github.com/Bubka/2FAuth",
-      "description": "2FAuth一个Web应用程序",
+      "description": "用于管理您的双因素身份验证 (2FA) 帐户并生成其安全代码的 Web 应用程序",
       "category": "部署运维/网络",
       "topics": [
         "otp",
@@ -9047,7 +9050,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "tindy2013/stairspeedtest-reborn",
       "url": "https://github.com/tindy2013/stairspeedtest-reborn",
-      "description": "StairSpeedtestRebornProxy性能批",
+      "description": "基于Shadowsocks(R)和V2Ray的代理性能批量测试仪",
       "category": "部署运维/网络",
       "topics": [
         "v2ray",
@@ -9064,7 +9067,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Finsys/dockhand",
       "url": "https://github.com/Finsys/dockhand",
-      "description": "现代Docker管理UI网站•文档•许可证关于Dockh",
+      "description": "Dockhand - 您会喜欢的 Docker 管理",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9075,13 +9078,13 @@ window.__STAR_PAGE_DATA__ = {
         "dockerfiles"
       ],
       "language": "Svelte",
-      "stars": 3704,
+      "stars": 3705,
       "starredAt": "2026-02-25T03:51:13Z"
     },
     {
       "repo": "rejetto/hfs",
       "url": "https://github.com/rejetto/hfs",
-      "description": "HFS：HTTP文件服务器索引简介它是如何工作的功能安装",
+      "description": "HFS 是计算机的 Web 文件服务器。通过虚拟文件系统共享文件夹甚至单个文件",
       "category": "部署运维/网络",
       "topics": [
         "file-sharing",
@@ -9098,7 +9101,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "mvscode/frps-onekey",
       "url": "https://github.com/mvscode/frps-onekey",
-      "description": "Frp服务端一键配置脚本，脚本默認获取Frp最新版本 Frp",
+      "description": "Frp服务器一键配置脚本。脚本默认获取最新的Frp版本",
       "category": "部署运维/网络",
       "topics": [
         "frp",
@@ -9117,7 +9120,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "GMwalletApp/epusdt",
       "url": "https://github.com/GMwalletApp/epusdt",
-      "description": "Epusdt (Easy Payment Usdt) 项目简",
+      "description": "开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9133,7 +9136,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "acepanel/panel",
       "url": "https://github.com/acepanel/panel",
-      "description": "[简体中文] [ English ] 新一代全能服务器运维管",
+      "description": "⚡ AcePanel - 企业服务器运维管理面板",
       "category": "部署运维/网络",
       "topics": [
         "linux",
@@ -9162,7 +9165,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "zdz/ServerStatus-Rust",
       "url": "https://github.com/zdz/ServerStatus-Rust",
-      "description": "✨ Rust 版 ServerStatus 云探针 Tabl",
+      "description": "✨ Rust 版 ServerStatus 探针、威力加强版",
       "category": "部署运维/网络",
       "topics": [
         "rust",
@@ -9182,7 +9185,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "oiov/wr.do",
       "url": "https://github.com/oiov/wr.do",
-      "description": "官方站点 · 部署文档 · 反馈讨论 · English 简",
+      "description": "一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署",
       "category": "部署运维/网络",
       "topics": [
         "email-receiver",
@@ -9202,7 +9205,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "flucont/btcloud",
       "url": "https://github.com/flucont/btcloud",
-      "description": "你可以使用此程序搭建属于自己的宝塔面板第三方云端",
+      "description": "PHP开发的宝塔面板第三方云端",
       "category": "部署运维/网络",
       "topics": [
         "btcloud"
@@ -9214,7 +9217,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "webp-sh/webp_server_go",
       "url": "https://github.com/webp-sh/webp_server_go",
-      "description": "文档网站博客这是一个基于Golang的服务器",
+      "description": "WebP 服务器的 Go 版本。该工具可将您的 JPG/PNG/BMP/SVG 作为 WebP/AVIF 格式提供并进行动态压缩",
       "category": "部署运维/网络",
       "topics": [
         "webp-server",
@@ -9231,13 +9234,14 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "chaos-zhu/easynode",
       "url": "https://github.com/chaos-zhu/easynode",
-      "description": "EasyNode ✨ 一个多功能Linux服务器WEB终端面",
+      "description": "一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：",
       "category": "部署运维/网络",
       "topics": [
+        "telegram",
+        "telegram-bot",
         "docker",
         "workflow-automation",
-        "ssh",
-        "easynode"
+        "ssh"
       ],
       "language": "Vue",
       "stars": 1943,
@@ -9246,7 +9250,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "KANIKIG/Multi-EasyGost",
       "url": "https://github.com/KANIKIG/Multi-EasyGost",
-      "description": "感谢 @ginuerzh 大佬开发的 gost 隧道程序",
+      "description": "致力于最简单好用的GOST小白脚本",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway",
@@ -9260,7 +9264,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "setube/vue-xiuxiangame",
       "url": "https://github.com/setube/vue-xiuxiangame",
-      "description": "我的文字修仙全靠刷 项目框架 Vue.js 项目 UI El",
+      "description": "文字游戏: 我的文字修仙全靠刷",
       "category": "部署运维/网络",
       "topics": [
         "game",
@@ -9275,7 +9279,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "imzyb/MiSub",
       "url": "https://github.com/imzyb/MiSub",
-      "description": "MiSub 一个功能强大、界面精美的订阅管理与转换工具 功能",
+      "description": "测试站，密码admin123",
       "category": "部署运维/网络",
       "topics": [
         "cloudflare",
@@ -9291,7 +9295,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "hamster1963/nezha-dash",
       "url": "https://github.com/hamster1963/nezha-dash",
-      "description": "NezhaDash 是一个基于 Next.js 和 哪吒监控",
+      "description": "一个简单的哪吒仪表板",
       "category": "部署运维/网络",
       "topics": [
         "cloudflare",
@@ -9307,7 +9311,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ellermister/mtproxy",
       "url": "https://github.com/ellermister/mtproxy",
-      "description": "mtproxy 这是一个一键安装 MTProxy 代理的自动",
+      "description": "MTProxyTLS一键安装绿色脚本",
       "category": "部署运维/网络",
       "topics": [
         "mtproxy",
@@ -9324,7 +9328,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "arloor/iptablesUtils",
       "url": "https://github.com/arloor/iptablesUtils",
-      "description": "利用iptables设置端口转发的shell脚本 项目作用",
+      "description": "iptables转发ddns域名",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway",
@@ -9337,7 +9341,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "samwafgo/SamWaf",
       "url": "https://github.com/samwafgo/SamWaf",
-      "description": "English 简体中文 一款开源轻量级的网站应用防火墙 开",
+      "description": "SamWaf开源轻量级网站防火墙",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9350,7 +9354,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "v03413/BEpusdt",
       "url": "https://github.com/v03413/BEpusdt",
-      "description": "❗️作者声明：本项目为研究学习区块链的开源项目",
+      "description": "一款更好用的个人加密货币收款网关，兼容所有 Epusdt 插件，可无缝切换，支持动态汇率、支持Docker部署；支持独角数卡 彩虹易支付",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9358,13 +9362,13 @@ window.__STAR_PAGE_DATA__ = {
         "bepusdt"
       ],
       "language": "Vue",
-      "stars": 1360,
+      "stars": 1361,
       "starredAt": "2024-11-29T05:56:41Z"
     },
     {
       "repo": "MinaMichita/AntiAntiDefraud",
       "url": "https://github.com/MinaMichita/AntiAntiDefraud",
-      "description": "AntiAntiDfraud防止Miui上传已安装的应用",
+      "description": "停止上传我已安装的应用程序列表！米伊！",
       "category": "部署运维/网络",
       "topics": [
         "antiantidefraud"
@@ -9376,7 +9380,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "wyx2685/v2board",
       "url": "https://github.com/wyx2685/v2board",
-      "description": "本分支支持的后端 修改版V2bX v2node 原版迁移步骤",
+      "description": "🚀多代理协议管理面板应用程序界面",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9392,10 +9396,11 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ZeroDeng01/sublinkPro",
       "url": "https://github.com/ZeroDeng01/sublinkPro",
-      "description": "✨ 强大的代理订阅管理与转换工具 ✨ 📖 项目简介 是基于优",
+      "description": "✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新U",
       "category": "部署运维/网络",
       "topics": [
         "docker",
+        "api-gateway",
         "golang",
         "sublinkpro"
       ],
@@ -9406,7 +9411,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ccbkkb/MicroWARP",
       "url": "https://github.com/ccbkkb/MicroWARP",
-      "description": "请严格遵守所在国家和地区的法律法规",
+      "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800K",
       "category": "部署运维/网络",
       "topics": [
         "alpine",
@@ -9428,7 +9433,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "fscarmen2/Argo-Nezha-Service-Container",
       "url": "https://github.com/fscarmen2/Argo-Nezha-Service-Container",
-      "description": "Argo Nezha Service Container 使",
+      "description": "Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端",
       "category": "部署运维/网络",
       "topics": [
         "nezha",
@@ -9446,7 +9451,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "joyqi/sfz",
       "url": "https://github.com/joyqi/sfz",
-      "description": "sfz 图片水印打码工具 专门用于给身份证等敏感证件打码的工",
+      "description": "专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）",
       "category": "部署运维/网络",
       "topics": [],
       "language": "CoffeeScript",
@@ -9456,7 +9461,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "8838/btpanel-v7.7.0",
       "url": "https://github.com/8838/btpanel-v7.7.0",
-      "description": "btpanelv7.7.0btpanelv7.7.0…",
+      "description": "宝塔v7.7.0官方原版备份",
       "category": "部署运维/网络",
       "topics": [
         "plugin",
@@ -9469,7 +9474,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "thinkoaa/Deadpool",
       "url": "https://github.com/thinkoaa/Deadpool",
-      "description": "deadpool代理池工具，可从 hunter",
+      "description": "deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理",
       "category": "部署运维/网络",
       "topics": [
         "deadpool"
@@ -9481,7 +9486,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ikxin/kms-tools",
       "url": "https://github.com/ikxin/kms-tools",
-      "description": "简体中文 English 📖 介绍 KMS Tools 是一",
+      "description": "一站式 KMS 工具箱，集成了激活脚本生成、KMS 服务器检查、KMS 服务器状态监控以及其他功能",
       "category": "部署运维/网络",
       "topics": [
         "kms",
@@ -9501,7 +9506,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "iluobei/miaomiaowu",
       "url": "https://github.com/iluobei/miaomiaowu",
-      "description": "妙妙屋 个人Clash订阅管理系统 一个轻量级",
+      "description": "Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9514,7 +9519,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "engigu/baihu-panel",
       "url": "https://github.com/engigu/baihu-panel",
-      "description": "白虎面板 白虎面板 (Baihu Panel) 是一款极致轻",
+      "description": "🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,",
       "category": "部署运维/网络",
       "topics": [
         "cron",
@@ -9538,7 +9543,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Jrohy/webssh",
       "url": "https://github.com/Jrohy/webssh",
-      "description": "webssh 简易在线ssh和sftp工具, 可在线敲命令和",
+      "description": "简易在线终端和sftp工具",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9553,7 +9558,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ypq123456789/TrafficCop",
       "url": "https://github.com/ypq123456789/TrafficCop",
-      "description": "TrafficCop 智能流量监控与限制脚本 English",
+      "description": "监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用",
       "category": "部署运维/网络",
       "topics": [
         "cloudflare",
@@ -9562,13 +9567,13 @@ window.__STAR_PAGE_DATA__ = {
         "trafficcop"
       ],
       "language": "Shell",
-      "stars": 482,
+      "stars": 483,
       "starredAt": "2024-07-03T11:08:56Z"
     },
     {
       "repo": "jaaksii/sublink",
       "url": "https://github.com/jaaksii/sublink",
-      "description": "sublink for python3 [![电报群组][t",
+      "description": "开源节点订阅转换生成管理系统，集成前后端部署在docker",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9584,7 +9589,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "sunpma/mtp",
       "url": "https://github.com/sunpma/mtp",
-      "description": "MTProxy TLS 绿色版一键安装脚本 安装 执行如下代",
+      "description": "MTProxy TLS 绿色版一键安装脚本",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway"
@@ -9596,7 +9601,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xs25cn/scanPort",
       "url": "https://github.com/xs25cn/scanPort",
-      "description": "功能：可以快速扫描指定端口范围，ip地址范围",
+      "description": "golang版高性能端口扫描工具",
       "category": "部署运维/网络",
       "topics": [
         "scanport",
@@ -9611,7 +9616,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "mmmdbybyd/CNS",
       "url": "https://github.com/mmmdbybyd/CNS",
-      "description": "CuteBi Network Server (CNS) 基于",
+      "description": "CuteBi网络服务器",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway",
@@ -9624,7 +9629,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "rust-net/remote-bind",
       "url": "https://github.com/rust-net/remote-bind",
-      "description": "remote bind 将本地服务映射到公网 Install",
+      "description": "内网穿透，支持服务器中继和基于quic的P2P直连两种模式",
       "category": "部署运维/网络",
       "topics": [
         "ipv4",
@@ -9641,7 +9646,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Aranxu/NodePanels",
       "url": "https://github.com/Aranxu/NodePanels",
-      "description": "NodePanels 一款使用简单功能全面的多服务器监控面板",
+      "description": "Nodepanels - 安全,私密,好用的云端服务器集群管理系统",
       "category": "部署运维/网络",
       "topics": [
         "wechat",
@@ -9668,7 +9673,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "oneclickvirt/lxd",
       "url": "https://github.com/oneclickvirt/lxd",
-      "description": "LXD 前言 缘由: https://t.me/spirit",
+      "description": "lxd相关的各种一键(Various one-click related to lxd)通过lxd批量或单独开设NAT服务器(Bulk or individua",
       "category": "部署运维/网络",
       "topics": [
         "lxc",
@@ -9694,7 +9699,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "fscarmen/unlock_warp",
       "url": "https://github.com/fscarmen/unlock_warp",
-      "description": "【刷 WARP IP】 为 WARP 解锁流媒体而生 Bor",
+      "description": "warp_unlock 脚本移至：https://gitlab.com/fscarmen/warp_unlock",
       "category": "部署运维/网络",
       "topics": [
         "disney",
@@ -9712,7 +9717,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "RuriOSS/rurima",
       "url": "https://github.com/RuriOSS/rurima",
-      "description": "[!警告]大部分代码是由人类生成的",
+      "description": "无需 docker 或 LXC 程序即可运行 docker 和 LXC 映像，无需内核功能支持，甚至无需 root 权限！",
       "category": "部署运维/网络",
       "topics": [
         "container",
@@ -9729,7 +9734,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shuguangnet/docker_backup_script",
       "url": "https://github.com/shuguangnet/docker_backup_script",
-      "description": "Docker容器备份和恢复工具 一个功能完整的Docker容",
+      "description": "检测docker容器并自动备份挂载卷以及本地挂载目录",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9743,7 +9748,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "li88iioo/Photonix",
       "url": "https://github.com/li88iioo/Photonix",
-      "description": "Photonix 光影画廊 一个极简、AI 驱动的智能相册",
+      "description": "🤖 AI驱动的智能相册 | 双布局模式 | 移动端触摸优化 | Docker一键部署 一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换",
       "category": "部署运维/网络",
       "topics": [
         "claude-code",
@@ -9757,7 +9762,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "CalmXin/xin-whois",
       "url": "https://github.com/CalmXin/xin-whois",
-      "description": "SkyQianWhois 支持多种后缀，功能强大全面",
+      "description": "支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9771,7 +9776,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "AMEINEKO/Auto-Brute-Force-Tool",
       "url": "https://github.com/AMEINEKO/Auto-Brute-Force-Tool",
-      "description": "基于GO，Python编写的混合爆破脚本 支持多种爆破模式",
+      "description": "基于GO，Python编写的混合爆破脚本 支持多种爆破模式，支持多线程、自动依赖安装环境、小内存环境爆破、自动安装后门",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9787,7 +9792,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "linzixuanzz/daidai-panel",
       "url": "https://github.com/linzixuanzz/daidai-panel",
-      "description": "呆呆面板 轻量、现代的定时任务管理面板",
+      "description": "Lightweight scheduled task management panel, similar to Qinglong Panel. 轻量级定时任务管",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9803,7 +9808,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "newcastlecy/proxypool-1",
       "url": "https://github.com/newcastlecy/proxypool-1",
-      "description": "proxypool 自动抓取tg频道、订阅地址",
+      "description": "自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess节点信息，聚合去重检测可用性后提供节点列表",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9819,7 +9824,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "dreammis/airProxyPool",
       "url": "https://github.com/dreammis/airProxyPool",
-      "description": "airProxyPool 代理池 用于“代理池”场景：把不同",
+      "description": "机场转socks节点",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway",
@@ -9833,7 +9838,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ruanun/simple-server-status",
       "url": "https://github.com/ruanun/simple-server-status",
-      "description": "Simple Server Status 一款 极简探针",
+      "description": "一款安全的极简探针，云探针、多服务器探针 演示地址：https://sssd.ions.top",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9849,7 +9854,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "Netflixxp/jcnfbesttrace",
       "url": "https://github.com/Netflixxp/jcnfbesttrace",
-      "description": "jcNextTrace 基于 NextTrace 的网络路由",
+      "description": "四网回程检测",
       "category": "部署运维/网络",
       "topics": [
         "jcnfbesttrace"
@@ -9861,7 +9866,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "xsidc/dnsmasq",
       "url": "https://github.com/xsidc/dnsmasq",
-      "description": "DnsmasqSNIproxy一键安装...",
+      "description": "一键安装和配置Dns流媒体解锁后端",
       "category": "部署运维/网络",
       "topics": [
         "api-gateway",
@@ -9875,7 +9880,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "ikxin/f5-bench",
       "url": "https://github.com/ikxin/f5-bench",
-      "description": "📖 项目介绍 本项目早期灵感来源于 HostLoc 论坛上的",
+      "description": "利用 Fetch API 向目标网站发送频繁请求，模拟按下 F5 刷新的效果，以测试服务器的资源限制",
       "category": "部署运维/网络",
       "topics": [
         "benchmark",
@@ -9896,7 +9901,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "eastarpen/ping-charts",
       "url": "https://github.com/eastarpen/ping-charts",
-      "description": "PingCharts一个使用PythonFlask和Vu",
+      "description": "VPS 延迟可视化探针",
       "category": "部署运维/网络",
       "topics": [
         "ping",
@@ -9910,7 +9915,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "woniu336/vps-date",
       "url": "https://github.com/woniu336/vps-date",
-      "description": "VPS 到期监控助手 🚀 一个优雅的 VPS 到期日期监控工",
+      "description": "MJJ订阅追踪",
       "category": "部署运维/网络",
       "topics": [
         "telegram",
@@ -9925,7 +9930,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "HG-ha/termux-virts",
       "url": "https://github.com/HG-ha/termux-virts",
-      "description": "在Termux中一键部署、管理qemu虚拟机，支持添加",
+      "description": "在Termux中安装qemu虚拟机，包含多个程序镜像，如青龙面板、宝塔，支持一键部署和管理",
       "category": "部署运维/网络",
       "topics": [
         "termux",
@@ -9938,9 +9943,10 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "3ixi/BeeLine",
       "url": "https://github.com/3ixi/BeeLine",
-      "description": "BeeLineWeb调度控制台...",
+      "description": "A Web Scheduling Console For Windows。适用于无法安装Docker青龙面板的Windows系统",
       "category": "部署运维/网络",
       "topics": [
+        "docker",
         "python",
         "beeline"
       ],
@@ -9951,7 +9957,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shiikoe/ServerHappyShell",
       "url": "https://github.com/shiikoe/ServerHappyShell",
-      "description": "apt install wget y 需要安装killall",
+      "description": "能让服务器爽起来的剑皇脚本",
       "category": "部署运维/网络",
       "topics": [
         "serverhappyshell"
@@ -9963,7 +9969,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "lx969788249/docker_migrate",
       "url": "https://github.com/lx969788249/docker_migrate",
-      "description": "🐳 Docker Migrate — 一键迁移 Docker",
+      "description": "极简、高可用的 Docker 容器一键迁移工具",
       "category": "部署运维/网络",
       "topics": [
         "docker",
@@ -9976,7 +9982,7 @@ window.__STAR_PAGE_DATA__ = {
     {
       "repo": "shwchsh/sp",
       "url": "https://github.com/shwchsh/sp",
-      "description": "sp vps测速三网 1.sh脚本： wget N http",
+      "description": "vps测速三网",
       "category": "部署运维/网络",
       "topics": [],
       "language": "Shell",
