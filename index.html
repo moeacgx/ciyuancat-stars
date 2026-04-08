@@ -8,42 +8,88 @@
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <div class="bg-orb orb-1"></div>
-  <div class="bg-orb orb-2"></div>
+  <div class="bg-blur bg-blur-left"></div>
+  <div class="bg-blur bg-blur-right"></div>
+
   <div class="page-shell">
-    <header class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow">CIYUANCAT · GITHUB STARS</p>
-        <h1>次元猫的 GitHub Star 收藏</h1>
-        <p class="sub">把 Star 项目整理成更适合浏览的卡片墙：支持 <strong>分类筛选</strong>、<strong>标签筛选</strong>、<strong>关键词搜索</strong>、<strong>按 Star 数排序</strong>。</p>
-        <div class="hero-actions">
-          <a class="hero-link" href="https://github.com/moeacgx?tab=stars" target="_blank" rel="noreferrer">查看 GitHub Star 原始页</a>
-          <span class="hero-tip">数据由自动分类流程每日更新</span>
+    <header class="topbar card-shell">
+      <div class="brand-wrap">
+        <div class="brand-badge">★</div>
+        <div>
+          <div class="brand-title">次元猫的 GitHub Star 收藏</div>
+          <div class="brand-sub">收藏项目可视化归档 / 自动分类 / 每日同步</div>
         </div>
       </div>
-      <div class="hero-stats">
-        <div class="stat-card accent-blue">
-          <span class="stat-label">项目总数</span>
-          <strong id="totalCount">--</strong>
-        </div>
-        <div class="stat-card accent-purple">
-          <span class="stat-label">分类数量</span>
-          <strong id="categoryCount">--</strong>
-        </div>
-        <div class="stat-card accent-green wide">
-          <span class="stat-label">数据更新时间</span>
-          <strong id="generatedAt">--</strong>
-        </div>
+      <div class="topbar-actions">
+        <a class="ghost-link" href="https://github.com/moeacgx/ciyuancat-stars" target="_blank" rel="noreferrer">查看仓库</a>
+        <a class="primary-link" href="https://github.com/moeacgx?tab=stars" target="_blank" rel="noreferrer">GitHub Star 原页</a>
       </div>
     </header>
 
-    <section class="toolbar">
-      <label class="search-box panel-card">
-        <span>搜索项目</span>
+    <section class="hero card-shell">
+      <div class="hero-copy">
+        <p class="eyebrow">CIYUANCAT · STAR SHOWCASE</p>
+        <h1>把收藏的 GitHub 项目，整理成更好逛的一页</h1>
+        <p class="hero-desc">
+          支持 <strong>分类筛选</strong>、<strong>标签筛选</strong>、<strong>关键词搜索</strong>、<strong>按 Star 数排序</strong>。
+          每个项目展示中文一句话描述、标签、分类、Star 数与收藏时间，并由自动流程持续更新。
+        </p>
+        <div class="hero-actions">
+          <a class="primary-link large" href="#explore">开始浏览收藏</a>
+          <a class="ghost-link large" href="https://moeacgx.github.io/ciyuancat-stars/" target="_blank" rel="noreferrer">当前 Pages 地址</a>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat stat-primary">
+          <span class="stat-label">项目总数</span>
+          <strong id="totalCount">--</strong>
+          <small>持续自动同步最新 Star</small>
+        </div>
+        <div class="hero-stat stat-secondary">
+          <span class="stat-label">分类数量</span>
+          <strong id="categoryCount">--</strong>
+          <small>统一归档到固定分类体系</small>
+        </div>
+        <div class="hero-stat stat-muted wide">
+          <span class="stat-label">数据更新时间</span>
+          <strong id="generatedAt">--</strong>
+          <small>每日定时分类并同步 Pages</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="feature-strip">
+      <div class="feature-card card-shell">
+        <div class="feature-icon">◎</div>
+        <div>
+          <div class="feature-title">中文描述</div>
+          <div class="feature-desc">英文 description 自动翻译，缺失时从 README 提炼说明</div>
+        </div>
+      </div>
+      <div class="feature-card card-shell">
+        <div class="feature-icon">#</div>
+        <div>
+          <div class="feature-title">自动标签</div>
+          <div class="feature-desc">topics 不足时自动补标签，便于二次筛选</div>
+        </div>
+      </div>
+      <div class="feature-card card-shell">
+        <div class="feature-icon">↗</div>
+        <div>
+          <div class="feature-title">自动发布</div>
+          <div class="feature-desc">每日同步分类结果并推送到 GitHub Pages</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="explore" class="toolbar-grid">
+      <label class="tool-card card-shell search-box">
+        <span class="tool-label">搜索项目</span>
         <input id="searchInput" type="search" placeholder="搜索 repo / 描述 / 标签 / 分类" />
       </label>
-      <label class="sort-box panel-card">
-        <span>排序方式</span>
+
+      <label class="tool-card card-shell sort-box">
+        <span class="tool-label">排序方式</span>
         <select id="sortSelect">
           <option value="stars-desc">按 Star 数从高到低</option>
           <option value="stars-asc">按 Star 数从低到高</option>
@@ -52,31 +98,47 @@
           <option value="repo-desc">按仓库名 Z-A</option>
         </select>
       </label>
-      <div class="summary panel-card" id="summaryText">加载中…</div>
+
+      <div class="tool-card card-shell summary-box" id="summaryText">加载中…</div>
     </section>
 
-    <section class="panel-card section-block">
+    <section class="filter-section card-shell">
       <div class="section-head">
-        <h2>分类筛选</h2>
-        <p>按 Star 分类快速筛选</p>
+        <div>
+          <p class="section-kicker">STAR CATEGORIES</p>
+          <h2>按分类筛选</h2>
+        </div>
+        <p>先按大类筛，再用标签和关键词继续缩小范围。</p>
       </div>
       <div id="categoryFilters" class="chips"></div>
     </section>
 
-    <section class="panel-card section-block">
+    <section class="filter-section card-shell">
       <div class="section-head">
-        <h2>热门标签</h2>
-        <p>从 topics 里挑高频标签继续细筛</p>
+        <div>
+          <p class="section-kicker">POPULAR TAGS</p>
+          <h2>按标签筛选</h2>
+        </div>
+        <p>从高频 topics 中快速挑出感兴趣的技术主题。</p>
       </div>
       <div id="tagFilters" class="chips"></div>
     </section>
 
-    <section class="grid" id="repoGrid"></section>
+    <section class="repo-section">
+      <div class="section-head repo-section-head">
+        <div>
+          <p class="section-kicker">STAR PROJECTS</p>
+          <h2>收藏项目卡片墙</h2>
+        </div>
+        <p>保留完整功能，但切成更轻、更亮、更像产品官网的视觉风格。</p>
+      </div>
+      <section class="grid" id="repoGrid"></section>
+    </section>
   </div>
 
   <template id="repoCardTemplate">
-    <article class="repo-card">
-      <div class="repo-glow"></div>
+    <article class="repo-card card-shell">
+      <div class="repo-topline"></div>
       <div class="repo-head">
         <div class="repo-title-group">
           <a class="repo-name" target="_blank" rel="noreferrer"></a>
