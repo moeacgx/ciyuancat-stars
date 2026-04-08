@@ -223,77 +223,103 @@ export function StarExplorer({ data }: { data: StarPayload }) {
       </header>
 
       <section className="sticky top-3 z-20 mb-4 w-full rounded-[24px] border border-white/70 bg-[#f7fdfbcc]/90 px-4 py-3 shadow-soft backdrop-blur sm:px-5">
-        <div className="flex flex-col gap-3">
-          <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1">
-            {categories.map((item) => {
-              const meta = CATEGORY_META[item.key] ?? CATEGORY_META['全部'];
-              const active = activeCategory === item.key;
-              return (
-                <button
-                  key={item.key}
-                  type="button"
-                  onClick={() => setActiveCategory(item.key)}
-                  className={clsx(
-                    'inline-flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition',
-                    active ? meta.tone : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
-                  )}
-                >
-                  <CategoryIcon name={meta.icon} className="h-4 w-4" />
-                  <span>{item.key}</span>
-                </button>
-              );
-            })}
-          </div>
+        <div className="no-scrollbar flex gap-2 overflow-x-auto pb-1">
+          {categories.map((item) => {
+            const meta = CATEGORY_META[item.key] ?? CATEGORY_META['全部'];
+            const active = activeCategory === item.key;
+            return (
+              <button
+                key={item.key}
+                type="button"
+                onClick={() => setActiveCategory(item.key)}
+                className={clsx(
+                  'inline-flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition',
+                  active ? meta.tone : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
+                )}
+              >
+                <CategoryIcon name={meta.icon} className="h-4 w-4" />
+                <span>{item.key}</span>
+              </button>
+            );
+          })}
+        </div>
+      </section>
 
-          <div className="grid gap-2 md:grid-cols-[minmax(0,1fr)_180px_auto_auto]">
-            <div className="relative">
-              <input
-                value={keyword}
-                onChange={(e) => setKeyword(e.target.value)}
-                placeholder="搜索 repo / 描述 / 标签"
-                className="h-11 w-full rounded-2xl border border-slate-200 bg-white px-4 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-brand-300"
-              />
+      <section className="grid w-full gap-5 py-4 xl:grid-cols-[320px_minmax(0,1fr)]">
+        <aside className="space-y-4 xl:sticky xl:top-28 xl:self-start">
+          <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
+            <div className="mb-4 flex items-center justify-between gap-3">
+              <div>
+                <div className="text-sm font-semibold text-slate-900">筛选控制</div>
+                <div className="mt-1 text-xs text-slate-500">把搜索、排序和过滤收进侧栏，主区域只保留内容流。</div>
+              </div>
+              {activeFilterCount > 0 ? <span className="rounded-full bg-brand-50 px-2.5 py-1 text-xs font-medium text-brand-700">{activeFilterCount} 个条件</span> : null}
             </div>
 
-            <select
-              value={sortBy}
-              onChange={(e) => setSortBy(e.target.value as SortKey)}
-              className="h-11 rounded-2xl border border-slate-200 bg-white px-4 text-sm text-slate-900 outline-none focus:border-brand-300"
-            >
-              <option value="stars-desc">Star 从高到低</option>
-              <option value="stars-asc">Star 从低到高</option>
-              <option value="recent-starred">最近收藏</option>
-              <option value="repo-asc">仓库名 A-Z</option>
-              <option value="repo-desc">仓库名 Z-A</option>
-            </select>
+            <div className="space-y-3">
+              <div>
+                <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Search</div>
+                <input
+                  value={keyword}
+                  onChange={(e) => setKeyword(e.target.value)}
+                  placeholder="搜索 repo / 描述 / 标签"
+                  className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-brand-300 focus:bg-white"
+                />
+              </div>
 
-            <button
-              type="button"
-              onClick={() => setFiltersOpen((prev) => !prev)}
-              className={clsx(
-                'inline-flex h-11 items-center justify-center rounded-2xl border px-4 text-sm font-semibold transition',
-                filtersOpen || activeTags.length
-                  ? 'border-brand-200 bg-brand-50 text-brand-700'
-                  : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
-              )}
-            >
-              标签筛选{activeTags.length ? ` · ${activeTags.length}` : ''}
-            </button>
+              <div>
+                <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Sort</div>
+                <select
+                  value={sortBy}
+                  onChange={(e) => setSortBy(e.target.value as SortKey)}
+                  className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none focus:border-brand-300 focus:bg-white"
+                >
+                  <option value="stars-desc">Star 从高到低</option>
+                  <option value="stars-asc">Star 从低到高</option>
+                  <option value="recent-starred">最近收藏</option>
+                  <option value="repo-asc">仓库名 A-Z</option>
+                  <option value="repo-desc">仓库名 Z-A</option>
+                </select>
+              </div>
 
-            <button
-              type="button"
-              onClick={clearFilters}
-              className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
-            >
-              清空
-            </button>
+              <div className="flex gap-2">
+                <button
+                  type="button"
+                  onClick={() => setFiltersOpen((prev) => !prev)}
+                  className={clsx(
+                    'inline-flex h-11 flex-1 items-center justify-center rounded-2xl border px-4 text-sm font-semibold transition',
+                    filtersOpen || activeTags.length
+                      ? 'border-brand-200 bg-brand-50 text-brand-700'
+                      : 'border-slate-200 bg-white text-slate-700 hover:bg-slate-50'
+                  )}
+                >
+                  标签筛选{activeTags.length ? ` · ${activeTags.length}` : ''}
+                </button>
+                <button
+                  type="button"
+                  onClick={clearFilters}
+                  className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
+                >
+                  清空
+                </button>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-2 pt-1 text-sm text-slate-600">
+                <span className="rounded-full bg-slate-100 px-3 py-1.5">当前展示 {visibleItems.length} / {filtered.length}</span>
+                {activeCategory !== '全部' && <ActiveChip>{activeCategory}</ActiveChip>}
+                {activeTags.map((tag) => <ActiveChip key={tag}>#{tag}</ActiveChip>)}
+                {keyword.trim() && <ActiveChip>“{keyword.trim()}”</ActiveChip>}
+              </div>
+            </div>
           </div>
 
           {(filtersOpen || activeTags.length > 0 || activeFilterCount > 0) && (
-            <div className="rounded-[22px] border border-white/70 bg-white/90 p-3 shadow-card">
-              <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
-                <div className="text-sm font-semibold text-slate-800">热门标签</div>
-                <div className="text-xs text-slate-500">支持多选，自动缩小结果范围</div>
+            <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
+              <div className="mb-4 flex items-center justify-between gap-3">
+                <div>
+                  <div className="text-sm font-semibold text-slate-900">热门标签</div>
+                  <div className="mt-1 text-xs text-slate-500">支持多选，自动缩小结果范围。</div>
+                </div>
               </div>
               <div className="flex flex-wrap gap-2">
                 {tags.map((item) => {
@@ -315,93 +341,88 @@ export function StarExplorer({ data }: { data: StarPayload }) {
               </div>
             </div>
           )}
-        </div>
-      </section>
+        </aside>
 
-      <section className="w-full py-4">
-        <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-          <div className="flex flex-wrap items-center gap-2 text-sm text-slate-600">
-            <span className="rounded-full bg-white px-3 py-1.5 shadow-card">当前展示 {visibleItems.length} / {filtered.length}</span>
-            {activeCategory !== '全部' && <ActiveChip>{activeCategory}</ActiveChip>}
-            {activeTags.map((tag) => <ActiveChip key={tag}>#{tag}</ActiveChip>)}
-            {keyword.trim() && <ActiveChip>“{keyword.trim()}”</ActiveChip>}
+        <div className="min-w-0">
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+            <div className="text-sm text-slate-600">内容流区域只展示项目卡片，减少首屏干扰。</div>
+            <div className="text-sm text-slate-500">向下滚动自动加载更多</div>
           </div>
-          <div className="text-sm text-slate-500">向下滚动自动加载更多</div>
-        </div>
 
-        {visibleItems.length === 0 ? (
-          <div className="rounded-[28px] border border-dashed border-slate-300 bg-white/80 px-6 py-14 text-center text-sm text-slate-500 shadow-card">
-            没找到匹配项目，换个关键词、分类或标签试试。
-          </div>
-        ) : (
-          <div className="grid items-stretch gap-4 sm:grid-cols-2 xl:grid-cols-3">
-            {visibleItems.map((item) => (
-              <article
-                key={item.repo}
-                className="group flex h-full min-h-[360px] flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:p-5"
-              >
-                <div className="mb-4 flex min-h-[150px] items-start justify-between gap-3">
-                  <div className="min-w-0 flex-1">
-                    <a
-                      href={item.url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="line-clamp-2 text-base font-black leading-7 text-slate-950 transition group-hover:text-brand-700 sm:text-lg"
+          {visibleItems.length === 0 ? (
+            <div className="rounded-[28px] border border-dashed border-slate-300 bg-white/80 px-6 py-14 text-center text-sm text-slate-500 shadow-card">
+              没找到匹配项目，换个关键词、分类或标签试试。
+            </div>
+          ) : (
+            <div className="grid items-stretch gap-4 sm:grid-cols-2 2xl:grid-cols-3">
+              {visibleItems.map((item) => (
+                <article
+                  key={item.repo}
+                  className="group flex h-full min-h-[360px] flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:p-5"
+                >
+                  <div className="mb-4 flex min-h-[150px] items-start justify-between gap-3">
+                    <div className="min-w-0 flex-1">
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="line-clamp-2 text-base font-black leading-7 text-slate-950 transition group-hover:text-brand-700 sm:text-lg"
+                      >
+                        {item.repo}
+                      </a>
+                      <p className="mt-2 line-clamp-4 min-h-[112px] text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
+                    </div>
+                    <span
+                      className={clsx(
+                        'shrink-0 self-start rounded-full px-3 py-1.5 text-[11px] font-semibold ring-1',
+                        CATEGORY_BADGE[item.category] || 'bg-slate-50 text-slate-700 ring-slate-200'
+                      )}
                     >
-                      {item.repo}
-                    </a>
-                    <p className="mt-2 line-clamp-4 min-h-[112px] text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
+                      {item.category}
+                    </span>
                   </div>
-                  <span
-                    className={clsx(
-                      'shrink-0 self-start rounded-full px-3 py-1.5 text-[11px] font-semibold ring-1',
-                      CATEGORY_BADGE[item.category] || 'bg-slate-50 text-slate-700 ring-slate-200'
+
+                  <div className="mb-4 flex min-h-[72px] flex-wrap content-start gap-2">
+                    <MetaPill>{`★ ${item.stars.toLocaleString('en-US')}`}</MetaPill>
+                    <MetaPill>{item.language || 'Unknown'}</MetaPill>
+                    <MetaPill>{`收藏于 ${formatDate(item.starredAt)}`}</MetaPill>
+                  </div>
+
+                  <div className="mt-auto flex min-h-[84px] flex-wrap content-start gap-2">
+                    {item.topics.length ? (
+                      item.topics.slice(0, 6).map((tag) => {
+                        const active = activeTags.includes(tag);
+                        return (
+                          <button
+                            key={tag}
+                            type="button"
+                            onClick={() => toggleTag(tag)}
+                            className={clsx(
+                              'rounded-full px-3 py-1.5 text-xs font-medium transition',
+                              active ? 'bg-slate-900 text-white' : 'bg-sky-50 text-sky-700 hover:bg-sky-100'
+                            )}
+                          >
+                            #{tag}
+                          </button>
+                        );
+                      })
+                    ) : (
+                      <MetaPill>无标签</MetaPill>
                     )}
-                  >
-                    {item.category}
-                  </span>
-                </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          )}
 
-                <div className="mb-4 flex min-h-[72px] flex-wrap content-start gap-2">
-                  <MetaPill>{`★ ${item.stars.toLocaleString('en-US')}`}</MetaPill>
-                  <MetaPill>{item.language || 'Unknown'}</MetaPill>
-                  <MetaPill>{`收藏于 ${formatDate(item.starredAt)}`}</MetaPill>
-                </div>
-
-                <div className="mt-auto flex min-h-[84px] flex-wrap content-start gap-2">
-                  {item.topics.length ? (
-                    item.topics.slice(0, 6).map((tag) => {
-                      const active = activeTags.includes(tag);
-                      return (
-                        <button
-                          key={tag}
-                          type="button"
-                          onClick={() => toggleTag(tag)}
-                          className={clsx(
-                            'rounded-full px-3 py-1.5 text-xs font-medium transition',
-                            active ? 'bg-slate-900 text-white' : 'bg-sky-50 text-sky-700 hover:bg-sky-100'
-                          )}
-                        >
-                          #{tag}
-                        </button>
-                      );
-                    })
-                  ) : (
-                    <MetaPill>无标签</MetaPill>
-                  )}
-                </div>
-              </article>
-            ))}
-          </div>
-        )}
-
-        {hasMore ? (
-          <div ref={sentinelRef} className="flex items-center justify-center py-8 text-sm text-slate-500">
-            正在准备更多项目…
-          </div>
-        ) : filtered.length > 0 ? (
-          <div className="flex items-center justify-center py-8 text-sm text-slate-400">已加载全部结果</div>
-        ) : null}
+          {hasMore ? (
+            <div ref={sentinelRef} className="flex items-center justify-center py-8 text-sm text-slate-500">
+              正在准备更多项目…
+            </div>
+          ) : filtered.length > 0 ? (
+            <div className="flex items-center justify-center py-8 text-sm text-slate-400">已加载全部结果</div>
+          ) : null}
+        </div>
       </section>
     </div>
   );
