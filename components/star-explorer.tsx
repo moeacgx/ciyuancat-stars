@@ -316,14 +316,6 @@ export function StarExplorer({ data }: { data: StarPayload }) {
           </div>
 
           <div className="flex flex-wrap items-center gap-2">
-            <a
-              href="https://github.com/moeacgx?tab=stars"
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex h-10 items-center justify-center rounded-full border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
-            >
-              GitHub 原始页
-            </a>
             <span className="rounded-full bg-brand-50 px-3 py-2 text-xs font-medium text-brand-700">
               更新于 {formatDate(data.generatedAt)}
             </span>
