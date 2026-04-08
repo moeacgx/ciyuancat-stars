@@ -1,0 +1,14 @@
+{
+  "sansan0/TrendRadar": {
+    "zh_desc": "AI 驱动的多平台舆情与热点监控工具，支持 RSS 聚合、关键词筛选、智能分析与多渠道推送。",
+    "auto_tags": ["data-analysis", "trending-topics", "rss", "ai", "mcp"]
+  },
+  "huiyadanli/RevokeMsgPatcher": {
+    "zh_desc": "用于 PC 版微信 / QQ / TIM 的防撤回补丁工具。",
+    "auto_tags": ["wechat", "qq", "tim", "patch", "windows"]
+  },
+  "lbjlaq/Antigravity-Manager": {
+    "zh_desc": "Antigravity 账号管理与切换工具，支持一键无缝切换账号。",
+    "auto_tags": ["account-manager", "antigravity", "tauri", "rust", "cli"]
+  }
+}

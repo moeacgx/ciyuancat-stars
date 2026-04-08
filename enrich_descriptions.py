@@ -23,6 +23,7 @@ README_PATHS = [
     BASE / 'tmp/star-audit/readmes.json',
     BASE / 'skills/github-star-auto/data/readmes.json',
 ]
+DESC_OVERRIDE_PATH = PAGE_DIR / 'desc_overrides.json'
 
 KEYWORD_TAGS = [
     (r'cloudflare|workers|wrangler|cloudflared|pages\b|d1\b|r2\b', ['cloudflare', 'workers']),
@@ -174,11 +175,45 @@ def trim_zh(text: str, limit: int = 80) -> str:
     return cut.rstrip('。；，、 ')
 
 
-def translate_to_zh(text: str) -> str:
+def clean_desc_noise(text: str) -> str:
     text = normalize_space(text)
+    text = re.sub(r'^(:[a-z0-9_+\-]+:)\s*', '', text, flags=re.I)
+    text = re.sub(r'^[⭐✨🚀🎯🧑🕷️▶⚡🔥💡📌🎉]+\s*', '', text)
+    text = re.sub(r'\s*[|｜]+\s*$', '', text)
+    return normalize_space(text)
+
+
+def prefer_cjk_segment(text: str) -> str:
+    text = clean_desc_noise(text)
+    if not has_cjk(text):
+        return ''
+    parts = re.split(r'\s(?:-|—|\|)\s', text)
+    for part in reversed(parts):
+        part = normalize_space(part)
+        if has_cjk(part) and len(part) >= 8:
+            return trim_zh(part, 80)
+    first_cjk = re.search(r'[\u4e00-\u9fff]', text)
+    if not first_cjk:
+        return ''
+    idx = first_cjk.start()
+    if idx > 0:
+        prefix = re.search(r'[A-Za-z0-9+#./_-]{1,4}$', text[:idx])
+        if prefix:
+            text = prefix.group(0) + text[idx:]
+        else:
+            text = text[idx:]
+    text = re.sub(r'（[^）]{0,40}(我已经看到了，撤回也没用了|English|中文)[^）]*）', '', text, flags=re.I)
+    return trim_zh(text, 80)
+
+
+def translate_to_zh(text: str) -> str:
+    text = clean_desc_noise(text)
     if not text:
         return '暂无公开描述'
     if has_cjk(text):
+        preferred = prefer_cjk_segment(text)
+        if preferred:
+            return preferred
         return trim_zh(text, 80)
     url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=' + quote(text[:800])
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -212,6 +247,7 @@ def infer_tags(repo: str, raw_desc: str, readme: str, existing_topics):
 def main():
     PAGE_DIR.mkdir(parents=True, exist_ok=True)
     cache = load_json(CACHE_PATH, {})
+    desc_overrides = load_json(DESC_OVERRIDE_PATH, {})
     readmes = {}
     for p in README_PATHS:
         readmes.update(load_json(p, {}))
@@ -235,11 +271,18 @@ def main():
         repo = item['repo']
         raw_desc = item['raw_desc']
         readme = item['readme']
+        if repo in desc_overrides:
+            ov = desc_overrides[repo]
+            auto_tags = ov.get('auto_tags') or infer_tags(repo, raw_desc, readme, item['topics'])
+            return repo, {
+                'zh_desc': trim_zh(ov.get('zh_desc') or '暂无公开描述', 80),
+                'auto_tags': auto_tags[:5],
+            }
         src = pick_summary_source(repo, raw_desc, readme)
         try:
             zh_desc = translate_to_zh(src) if src else '暂无公开描述'
         except Exception:
-            zh_desc = trim_zh(src or '暂无公开描述', 80) if has_cjk(src) else '暂无公开描述'
+            zh_desc = prefer_cjk_segment(src) or (trim_zh(src or '暂无公开描述', 80) if has_cjk(src) else '暂无公开描述')
         auto_tags = infer_tags(repo, raw_desc, readme, item['topics'])
         return repo, {'zh_desc': zh_desc, 'auto_tags': auto_tags}
 
