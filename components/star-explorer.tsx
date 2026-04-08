@@ -299,13 +299,13 @@ export function StarExplorer({ data }: { data: StarPayload }) {
             没找到匹配项目，换个关键词、分类或标签试试。
           </div>
         ) : (
-          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+          <div className="grid items-stretch gap-4 sm:grid-cols-2 xl:grid-cols-3">
             {visibleItems.map((item) => (
               <article
                 key={item.repo}
-                className="group flex h-full flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:p-5"
+                className="group flex h-full min-h-[360px] flex-col rounded-[26px] border border-white/70 bg-white/95 p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft sm:p-5"
               >
-                <div className="mb-4 flex items-start justify-between gap-3">
+                <div className="mb-4 flex min-h-[150px] items-start justify-between gap-3">
                   <div className="min-w-0 flex-1">
                     <a
                       href={item.url}
@@ -315,11 +315,11 @@ export function StarExplorer({ data }: { data: StarPayload }) {
                     >
                       {item.repo}
                     </a>
-                    <p className="mt-2 line-clamp-4 text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
+                    <p className="mt-2 line-clamp-4 min-h-[112px] text-sm leading-7 text-slate-600">{item.description || '暂无描述'}</p>
                   </div>
                   <span
                     className={clsx(
-                      'shrink-0 rounded-full px-3 py-1.5 text-[11px] font-semibold ring-1',
+                      'shrink-0 self-start rounded-full px-3 py-1.5 text-[11px] font-semibold ring-1',
                       CATEGORY_BADGE[item.category] || 'bg-slate-50 text-slate-700 ring-slate-200'
                     )}
                   >
@@ -327,15 +327,15 @@ export function StarExplorer({ data }: { data: StarPayload }) {
                   </span>
                 </div>
 
-                <div className="mb-4 flex flex-wrap gap-2">
+                <div className="mb-4 flex min-h-[72px] flex-wrap content-start gap-2">
                   <MetaPill>{`★ ${item.stars.toLocaleString('en-US')}`}</MetaPill>
                   <MetaPill>{item.language || 'Unknown'}</MetaPill>
                   <MetaPill>{`收藏于 ${formatDate(item.starredAt)}`}</MetaPill>
                 </div>
 
-                <div className="mt-auto flex flex-wrap gap-2">
+                <div className="mt-auto flex min-h-[84px] flex-wrap content-start gap-2">
                   {item.topics.length ? (
-                    item.topics.slice(0, 8).map((tag) => {
+                    item.topics.slice(0, 6).map((tag) => {
                       const active = activeTags.includes(tag);
                       return (
                         <button
