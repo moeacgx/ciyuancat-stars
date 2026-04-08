@@ -121,6 +121,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
   const [activeCategory, setActiveCategory] = useState('全部');
   const [activeTags, setActiveTags] = useState<string[]>([]);
   const [sortBy, setSortBy] = useState<SortKey>('stars-desc');
+  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const [visibleCount, setVisibleCount] = useState(18);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
   const categoryBarRef = useRef<HTMLDivElement | null>(null);
@@ -213,6 +214,94 @@ export function StarExplorer({ data }: { data: StarPayload }) {
     dragStateRef.current.dragging = false;
   };
 
+  const sidebarPanels = (
+    <>
+      <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
+        <div className="mb-4 flex items-center justify-between gap-3">
+          <div>
+            <div className="text-sm font-semibold text-slate-900">筛选控制</div>
+            <div className="mt-1 text-xs text-slate-500">把搜索、排序和过滤收进侧栏，主区域只保留内容流。</div>
+          </div>
+          {activeFilterCount > 0 ? <span className="rounded-full bg-brand-50 px-2.5 py-1 text-xs font-medium text-brand-700">{activeFilterCount} 个条件</span> : null}
+        </div>
+
+        <div className="space-y-3">
+          <div>
+            <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Search</div>
+            <input
+              value={keyword}
+              onChange={(e) => setKeyword(e.target.value)}
+              placeholder="搜索 repo / 描述 / 标签"
+              className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-brand-300 focus:bg-white"
+            />
+          </div>
+
+          <div>
+            <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Sort</div>
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value as SortKey)}
+              className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none focus:border-brand-300 focus:bg-white"
+            >
+              <option value="stars-desc">Star 从高到低</option>
+              <option value="stars-asc">Star 从低到高</option>
+              <option value="recent-starred">最近收藏</option>
+              <option value="repo-asc">仓库名 A-Z</option>
+              <option value="repo-desc">仓库名 Z-A</option>
+            </select>
+          </div>
+
+          <div className="flex gap-2">
+            <div className="inline-flex h-11 flex-1 items-center rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm font-medium text-slate-600">
+              标签直接展示{activeTags.length ? ` · 已选 ${activeTags.length}` : ''}
+            </div>
+            <button
+              type="button"
+              onClick={clearFilters}
+              className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
+            >
+              清空
+            </button>
+          </div>
+
+          <div className="flex flex-wrap items-center gap-2 pt-1 text-sm text-slate-600">
+            <span className="rounded-full bg-slate-100 px-3 py-1.5">当前展示 {visibleItems.length} / {filtered.length}</span>
+            {activeCategory !== '全部' && <ActiveChip>{activeCategory}</ActiveChip>}
+            {activeTags.map((tag) => <ActiveChip key={tag}>#{tag}</ActiveChip>)}
+            {keyword.trim() && <ActiveChip>“{keyword.trim()}”</ActiveChip>}
+          </div>
+        </div>
+      </div>
+
+      <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
+        <div className="mb-4 flex items-center justify-between gap-3">
+          <div>
+            <div className="text-sm font-semibold text-slate-900">热门标签</div>
+            <div className="mt-1 text-xs text-slate-500">直接展示，支持多选，自动缩小结果范围。</div>
+          </div>
+        </div>
+        <div className="flex flex-wrap gap-2">
+          {tags.map((item) => {
+            const active = activeTags.includes(item.key);
+            return (
+              <button
+                key={item.key}
+                type="button"
+                onClick={() => toggleTag(item.key)}
+                className={clsx(
+                  'rounded-full px-3 py-1.5 text-xs font-medium transition',
+                  active ? 'bg-slate-900 text-white' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                )}
+              >
+                #{item.key} · {item.count}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </>
+  );
+
   return (
     <div className="mx-auto min-h-screen w-full max-w-[1400px] px-4 pb-10 pt-4 sm:px-6 lg:px-8">
       <header className="mb-4 flex w-full flex-col gap-3 rounded-[24px] border border-white/70 bg-white/90 px-4 py-4 shadow-soft backdrop-blur sm:px-5">
@@ -273,91 +362,46 @@ export function StarExplorer({ data }: { data: StarPayload }) {
       </section>
 
       <section className="grid w-full gap-5 py-4 xl:grid-cols-[320px_minmax(0,1fr)]">
-        <aside className="space-y-4 xl:sticky xl:top-28 xl:self-start">
-          <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
-            <div className="mb-4 flex items-center justify-between gap-3">
-              <div>
-                <div className="text-sm font-semibold text-slate-900">筛选控制</div>
-                <div className="mt-1 text-xs text-slate-500">把搜索、排序和过滤收进侧栏，主区域只保留内容流。</div>
-              </div>
-              {activeFilterCount > 0 ? <span className="rounded-full bg-brand-50 px-2.5 py-1 text-xs font-medium text-brand-700">{activeFilterCount} 个条件</span> : null}
-            </div>
+        <aside className="hidden space-y-4 xl:sticky xl:top-28 xl:block xl:self-start">
+          {sidebarPanels}
+        </aside>
 
-            <div className="space-y-3">
-              <div>
-                <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Search</div>
-                <input
-                  value={keyword}
-                  onChange={(e) => setKeyword(e.target.value)}
-                  placeholder="搜索 repo / 描述 / 标签"
-                  className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-brand-300 focus:bg-white"
-                />
-              </div>
+        <div className="xl:hidden">
+          <button
+            type="button"
+            onClick={() => setMobileFiltersOpen(true)}
+            className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-semibold text-slate-700 shadow-card transition hover:bg-slate-50"
+          >
+            打开左侧筛选栏{activeFilterCount > 0 ? ` · ${activeFilterCount}` : ''}
+          </button>
+        </div>
 
-              <div>
-                <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Sort</div>
-                <select
-                  value={sortBy}
-                  onChange={(e) => setSortBy(e.target.value as SortKey)}
-                  className="h-11 w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm text-slate-900 outline-none focus:border-brand-300 focus:bg-white"
-                >
-                  <option value="stars-desc">Star 从高到低</option>
-                  <option value="stars-asc">Star 从低到高</option>
-                  <option value="recent-starred">最近收藏</option>
-                  <option value="repo-asc">仓库名 A-Z</option>
-                  <option value="repo-desc">仓库名 Z-A</option>
-                </select>
-              </div>
-
-              <div className="flex gap-2">
-                <div className="inline-flex h-11 flex-1 items-center rounded-2xl border border-slate-200 bg-slate-50 px-4 text-sm font-medium text-slate-600">
-                  标签直接展示{activeTags.length ? ` · 已选 ${activeTags.length}` : ''}
+        {mobileFiltersOpen && (
+          <div className="fixed inset-0 z-40 xl:hidden">
+            <button
+              type="button"
+              aria-label="关闭筛选栏遮罩"
+              onClick={() => setMobileFiltersOpen(false)}
+              className="absolute inset-0 bg-slate-950/28 backdrop-blur-[1px]"
+            />
+            <div className="absolute inset-y-0 left-0 w-[88vw] max-w-[360px] overflow-y-auto border-r border-white/70 bg-[#f7fdfb] p-4 shadow-2xl">
+              <div className="mb-4 flex items-center justify-between gap-3">
+                <div>
+                  <div className="text-sm font-semibold text-slate-900">筛选面板</div>
+                  <div className="mt-1 text-xs text-slate-500">手机端改为左侧抽屉展开。</div>
                 </div>
                 <button
                   type="button"
-                  onClick={clearFilters}
-                  className="inline-flex h-11 items-center justify-center rounded-2xl border border-slate-200 bg-white px-4 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
+                  onClick={() => setMobileFiltersOpen(false)}
+                  className="inline-flex h-10 items-center justify-center rounded-2xl border border-slate-200 bg-white px-3 text-sm font-medium text-slate-700"
                 >
-                  清空
+                  关闭
                 </button>
               </div>
-
-              <div className="flex flex-wrap items-center gap-2 pt-1 text-sm text-slate-600">
-                <span className="rounded-full bg-slate-100 px-3 py-1.5">当前展示 {visibleItems.length} / {filtered.length}</span>
-                {activeCategory !== '全部' && <ActiveChip>{activeCategory}</ActiveChip>}
-                {activeTags.map((tag) => <ActiveChip key={tag}>#{tag}</ActiveChip>)}
-                {keyword.trim() && <ActiveChip>“{keyword.trim()}”</ActiveChip>}
-              </div>
+              <div className="space-y-4">{sidebarPanels}</div>
             </div>
           </div>
-
-          <div className="rounded-[24px] border border-white/70 bg-white/95 p-4 shadow-card sm:p-5">
-            <div className="mb-4 flex items-center justify-between gap-3">
-              <div>
-                <div className="text-sm font-semibold text-slate-900">热门标签</div>
-                <div className="mt-1 text-xs text-slate-500">直接展示，支持多选，自动缩小结果范围。</div>
-              </div>
-            </div>
-            <div className="flex flex-wrap gap-2">
-              {tags.map((item) => {
-                const active = activeTags.includes(item.key);
-                return (
-                  <button
-                    key={item.key}
-                    type="button"
-                    onClick={() => toggleTag(item.key)}
-                    className={clsx(
-                      'rounded-full px-3 py-1.5 text-xs font-medium transition',
-                      active ? 'bg-slate-900 text-white' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
-                    )}
-                  >
-                    #{item.key} · {item.count}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        </aside>
+        )}
 
         <div className="min-w-0">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
