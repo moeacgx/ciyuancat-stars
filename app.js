@@ -3,7 +3,7 @@ const state = {
   activeCategory: '全部',
   activeTag: '全部',
   keyword: '',
-  sortBy: 'stars-desc',
+  sortBy: 'recent-starred',
 };
 
 const els = {
@@ -182,6 +182,9 @@ function renderHeader() {
   els.totalCount.textContent = state.data.total;
   els.categoryCount.textContent = Object.keys(state.data.categories).length;
   els.generatedAt.textContent = formatDate(state.data.generatedAt);
+  if (els.sortSelect) {
+    els.sortSelect.value = state.sortBy;
+  }
 }
 
 function render() {

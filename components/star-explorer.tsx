@@ -120,7 +120,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
   const [keyword, setKeyword] = useState('');
   const [activeCategory, setActiveCategory] = useState('全部');
   const [activeTags, setActiveTags] = useState<string[]>([]);
-  const [sortBy, setSortBy] = useState<SortKey>('stars-desc');
+  const [sortBy, setSortBy] = useState<SortKey>('recent-starred');
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const [visibleCount, setVisibleCount] = useState(18);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
@@ -188,7 +188,7 @@ export function StarExplorer({ data }: { data: StarPayload }) {
     setKeyword('');
     setActiveCategory('全部');
     setActiveTags([]);
-    setSortBy('stars-desc');
+    setSortBy('recent-starred');
   };
 
   const toggleTag = (tag: string) => {
