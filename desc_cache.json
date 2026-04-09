@@ -1911,7 +1911,7 @@
     ]
   },
   "wuqi-y/auto-cursor-releases": {
-    "zh_desc": "源代码(开源版本到0.8)，后续版本会继续更新但不会开源",
+    "zh_desc": "源代码",
     "auto_tags": [
       "rag",
       "auto",
@@ -5384,6 +5384,53 @@
       "discord",
       "discord-bot",
       "wechat"
+    ]
+  },
+  "alchaincyf/nuwa-skill": {
+    "zh_desc": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "auto_tags": [
+      "claude-code",
+      "nuwa"
+    ]
+  },
+  "xiyewuqiu/new-lmage": {
+    "zh_desc": "🖼️ New Lmage 基于 Telegram 的现代化图床服务 完全免费 · 无限存储 · 全球加速 · 现代化界面 在线演示 · 快速开始 · 功能特性",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "cli"
+    ]
+  },
+  "Heavrnl/nexus-terminal": {
+    "zh_desc": "一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能",
+    "auto_tags": [
+      "express",
+      "nodejs",
+      "typescript",
+      "vite",
+      "vue3"
+    ]
+  },
+  "SonicBotMan/lobster-press": {
+    "zh_desc": "Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎",
+    "auto_tags": [
+      "ai",
+      "bash",
+      "chatgpt",
+      "claude",
+      "context-compression"
+    ]
+  },
+  "zhinianboke/xianyu-auto-reply": {
+    "zh_desc": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器",
+    "auto_tags": [
+      "wechat",
+      "python",
+      "xianyu",
+      "auto",
+      "reply"
     ]
   }
 }
