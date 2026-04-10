@@ -487,13 +487,13 @@
     ]
   },
   "chenyme/grok2api": {
-    "zh_desc": "基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天",
+    "zh_desc": "Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换",
     "auto_tags": [
       "grok",
       "grok-imagine",
-      "grok-4-fast",
-      "grok-4-1-thinking",
-      "grok-4-20"
+      "grok-4-20",
+      "cloudflare",
+      "workers"
     ]
   },
   "samqin123/MoonTV": {
@@ -5431,6 +5431,32 @@
       "xianyu",
       "auto",
       "reply"
+    ]
+  },
+  "ttguy0707/CyberClaw": {
+    "zh_desc": "兼容 OpenClaw + Claude Code 技能生态",
+    "auto_tags": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-safety",
+      "claude-code"
+    ]
+  },
+  "Brhiza/mingyu": {
+    "zh_desc": "命语 这是一个独立的提示词生成项目，当前主流程是： 1. 输入出生信息 2. 同时生成八字盘和紫微盘 3. 在结果页切换八字、紫微",
+    "auto_tags": [
+      "mingyu"
+    ]
+  },
+  "Yeachan-Heo/oh-my-codex": {
+    "zh_desc": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等",
+    "auto_tags": [
+      "discord",
+      "discord-bot",
+      "openclaw",
+      "codex",
+      "ai-agent"
     ]
   }
 }
