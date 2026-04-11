@@ -5458,5 +5458,24 @@
       "codex",
       "ai-agent"
     ]
+  },
+  "eze-is/web-access": {
+    "zh_desc": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
+    "auto_tags": [
+      "wechat",
+      "claude-code",
+      "ai-agent",
+      "access"
+    ]
+  },
+  "byJoey/cfnew": {
+    "zh_desc": "CFnew 终端 v2.9.6 ⚠️ 重要：部署后请将兼容日期设置为 Pages 部署： 1.",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "api-gateway"
+    ]
   }
 }
