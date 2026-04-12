@@ -10,5 +10,45 @@
   "lbjlaq/Antigravity-Manager": {
     "zh_desc": "Antigravity 账号管理与切换工具，支持一键无缝切换账号。",
     "auto_tags": ["account-manager", "antigravity", "tauri", "rust", "cli"]
+  },
+  "Jrohy/webssh": {
+    "zh_desc": "提供浏览器内 SSH 与 SFTP 访问的轻量化 Web 终端工具。",
+    "auto_tags": ["ssh", "sftp", "terminal", "web", "golang"]
+  },
+  "mmmdbybyd/CNS": {
+    "zh_desc": "面向多节点场景的可视化云服务器管理与运维面板。",
+    "auto_tags": ["server-management", "ops", "panel", "monitoring", "golang"]
+  },
+  "LoveesYe/cdnflydadao": {
+    "zh_desc": "围绕 CDNFly 生态的运维增强与辅助管理工具。",
+    "auto_tags": ["cdn", "ops", "panel", "automation", "linux"]
+  },
+  "linzixuanzz/daidai-panel": {
+    "zh_desc": "轻量级定时任务管理面板，定位类似青龙面板，适合脚本调度与任务编排。",
+    "auto_tags": ["scheduler", "task-panel", "automation", "docker", "golang"]
+  },
+  "dreammis/airProxyPool": {
+    "zh_desc": "将机场订阅转换并聚合为 SOCKS 节点池的代理工具。",
+    "auto_tags": ["proxy", "socks5", "subscription", "network", "pool"]
+  },
+  "Netflixxp/jcnfbesttrace": {
+    "zh_desc": "用于测试 VPS 国内多线路回程质量的网络探测脚本。",
+    "auto_tags": ["network", "trace", "benchmark", "vps", "routing"]
+  },
+  "eastarpen/ping-charts": {
+    "zh_desc": "将 VPS 延迟监控结果可视化展示为图表的网络探针工具。",
+    "auto_tags": ["latency", "monitoring", "charts", "vps", "network"]
+  },
+  "woniu336/vps-date": {
+    "zh_desc": "用于追踪 VPS 订阅到期时间与续费周期的管理工具。",
+    "auto_tags": ["vps", "subscription", "tracking", "ops", "reminder"]
+  },
+  "shiikoe/ServerHappyShell": {
+    "zh_desc": "面向服务器初始化、优化与常用维护操作的综合脚本工具箱。",
+    "auto_tags": ["shell", "server", "ops", "automation", "linux"]
+  },
+  "shwchsh/sp": {
+    "zh_desc": "用于测试 VPS 三网带宽与网络质量的测速脚本。",
+    "auto_tags": ["benchmark", "network", "vps", "speedtest", "shell"]
   }
 }
