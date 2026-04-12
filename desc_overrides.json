@@ -50,5 +50,17 @@
   "shwchsh/sp": {
     "zh_desc": "用于测试 VPS 三网带宽与网络质量的测速脚本。",
     "auto_tags": ["benchmark", "network", "vps", "speedtest", "shell"]
+  },
+  "NousResearch/hermes-agent": {
+    "zh_desc": "一个会随着你一起成长的智能代理框架。",
+    "auto_tags": ["ai-agent", "framework", "tools", "automation", "python"]
+  },
+  "byJoey/cfnew": {
+    "zh_desc": "Cloudflare Pages / Workers 项目的部署与管理辅助工具。",
+    "auto_tags": ["cloudflare", "pages", "workers", "deployment", "cli"]
+  },
+  "Yeachan-Heo/oh-my-codex": {
+    "zh_desc": "为 Codex 增加 Hook、代理团队与 HUD 等扩展能力的增强工具集。",
+    "auto_tags": ["codex", "agent", "hooks", "tooling", "cli"]
   }
 }

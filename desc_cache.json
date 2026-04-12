@@ -245,11 +245,11 @@
     ]
   },
   "linzixuanzz/daidai-panel": {
-    "zh_desc": "Lightweight scheduled task management panel, similar to Qinglong Panel. 轻量级定时任务管",
+    "zh_desc": "轻量级定时任务管理面板，定位类似青龙面板，适合脚本调度与任务编排",
     "auto_tags": [
-      "telegram",
-      "telegram-bot",
-      "wechat",
+      "scheduler",
+      "task-panel",
+      "automation",
       "docker",
       "golang"
     ]
@@ -1686,11 +1686,13 @@
     ]
   },
   "dreammis/airProxyPool": {
-    "zh_desc": "机场转socks节点",
+    "zh_desc": "将机场订阅转换并聚合为 SOCKS 节点池的代理工具",
     "auto_tags": [
-      "api-gateway",
-      "python",
-      "airproxypool"
+      "proxy",
+      "socks5",
+      "subscription",
+      "network",
+      "pool"
     ]
   },
   "lza6/novaapp-2api": {
@@ -2583,12 +2585,13 @@
     ]
   },
   "woniu336/vps-date": {
-    "zh_desc": "MJJ订阅追踪",
+    "zh_desc": "用于追踪 VPS 订阅到期时间与续费周期的管理工具",
     "auto_tags": [
-      "telegram",
-      "telegram-bot",
-      "python",
-      "date"
+      "vps",
+      "subscription",
+      "tracking",
+      "ops",
+      "reminder"
     ]
   },
   "MarSeventh/CloudFlare-ImgBed": {
@@ -3113,12 +3116,13 @@
     ]
   },
   "Jrohy/webssh": {
-    "zh_desc": "简易在线终端和sftp工具",
+    "zh_desc": "提供浏览器内 SSH 与 SFTP 访问的轻量化 Web 终端工具",
     "auto_tags": [
-      "docker",
-      "golang",
       "ssh",
-      "webssh"
+      "sftp",
+      "terminal",
+      "web",
+      "golang"
     ]
   },
   "rockbenben/LearnData": {
@@ -3580,9 +3584,13 @@
     ]
   },
   "shiikoe/ServerHappyShell": {
-    "zh_desc": "能让服务器爽起来的剑皇脚本",
+    "zh_desc": "面向服务器初始化、优化与常用维护操作的综合脚本工具箱",
     "auto_tags": [
-      "serverhappyshell"
+      "shell",
+      "server",
+      "ops",
+      "automation",
+      "linux"
     ]
   },
   "leptonai/search_with_lepton": {
@@ -3729,8 +3737,14 @@
     ]
   },
   "shwchsh/sp": {
-    "zh_desc": "vps测速三网",
-    "auto_tags": []
+    "zh_desc": "用于测试 VPS 三网带宽与网络质量的测速脚本",
+    "auto_tags": [
+      "benchmark",
+      "network",
+      "vps",
+      "speedtest",
+      "shell"
+    ]
   },
   "csznet/tgState": {
     "zh_desc": "使用Telegram作为存储的文件外链系统，不限制文件大小和格式",
@@ -3974,13 +3988,13 @@
     ]
   },
   "eastarpen/ping-charts": {
-    "zh_desc": "VPS 延迟可视化探针",
+    "zh_desc": "将 VPS 延迟监控结果可视化展示为图表的网络探针工具",
     "auto_tags": [
-      "ping",
-      "probe",
+      "latency",
+      "monitoring",
+      "charts",
       "vps",
-      "automation",
-      "browser-automation"
+      "network"
     ]
   },
   "oneclickvirt/lxd": {
@@ -4319,9 +4333,12 @@
     ]
   },
   "mmmdbybyd/CNS": {
-    "zh_desc": "CuteBi网络服务器",
+    "zh_desc": "面向多节点场景的可视化云服务器管理与运维面板",
     "auto_tags": [
-      "api-gateway",
+      "server-management",
+      "ops",
+      "panel",
+      "monitoring",
       "golang"
     ]
   },
@@ -4370,9 +4387,13 @@
     ]
   },
   "Netflixxp/jcnfbesttrace": {
-    "zh_desc": "四网回程检测",
+    "zh_desc": "用于测试 VPS 国内多线路回程质量的网络探测脚本",
     "auto_tags": [
-      "jcnfbesttrace"
+      "network",
+      "trace",
+      "benchmark",
+      "vps",
+      "routing"
     ]
   },
   "vasusen-code/SaveRestrictedContentBot": {
@@ -4792,11 +4813,13 @@
     ]
   },
   "LoveesYe/cdnflydadao": {
-    "zh_desc": "CDN",
+    "zh_desc": "围绕 CDNFly 生态的运维增强与辅助管理工具",
     "auto_tags": [
-      "ai-agent",
-      "python",
-      "cdnflydadao"
+      "cdn",
+      "ops",
+      "panel",
+      "automation",
+      "linux"
     ]
   },
   "polyrabbit/WeCron": {
@@ -5377,7 +5400,7 @@
     ]
   },
   "chenhg5/cc-connect": {
-    "zh_desc": "连接本地人工智能编码代理（Claude Code、Cursor、Gemini CLI、Codex）与消息平台（飞书/Lark、钉钉、Slack",
+    "zh_desc": "连接本地人工智能编码代理（Claude Code、Cursor、Gemini CLI、Codex）和消息平台（飞书/Lark、钉钉、Slack",
     "auto_tags": [
       "telegram",
       "telegram-bot",
@@ -5450,13 +5473,13 @@
     ]
   },
   "Yeachan-Heo/oh-my-codex": {
-    "zh_desc": "OmX - 哦我的 codeX：你的法典并不孤单。添加挂钩、代理团队、HUD 等等",
+    "zh_desc": "为 Codex 增加 Hook、代理团队与 HUD 等扩展能力的增强工具集",
     "auto_tags": [
-      "discord",
-      "discord-bot",
-      "openclaw",
       "codex",
-      "ai-agent"
+      "agent",
+      "hooks",
+      "tooling",
+      "cli"
     ]
   },
   "eze-is/web-access": {
@@ -5469,13 +5492,50 @@
     ]
   },
   "byJoey/cfnew": {
-    "zh_desc": "CFnew 终端 v2.9.6 ⚠️ 重要：部署后请将兼容日期设置为 Pages 部署： 1.",
+    "zh_desc": "Cloudflare Pages / Workers 项目的部署与管理辅助工具",
     "auto_tags": [
       "cloudflare",
+      "pages",
       "workers",
+      "deployment",
+      "cli"
+    ]
+  },
+  "NousResearch/hermes-agent": {
+    "zh_desc": "一个会随着你一起成长的智能代理框架",
+    "auto_tags": [
+      "ai-agent",
+      "framework",
+      "tools",
+      "automation",
+      "python"
+    ]
+  },
+  "lmq8267/VntApp": {
+    "zh_desc": "客户端:https://github.com/lmq8267/vnt-Redir 服务端:https://github.com/lmq8267/vnt_s 支持",
+    "auto_tags": [
+      "rust",
+      "vntapp"
+    ]
+  },
+  "apkclaw-team/ApkClaw": {
+    "zh_desc": "ApkClaw 中文文档 An AI powered Android automation app that lets an LLM Agent control",
+    "auto_tags": [
       "telegram",
       "telegram-bot",
-      "api-gateway"
+      "discord",
+      "discord-bot",
+      "wechat"
+    ]
+  },
+  "slopus/happy": {
+    "zh_desc": "Codex 和 Claude Code 的移动和 Web 客户端，具有实时语音、加密和功能齐全的功能",
+    "auto_tags": [
+      "claude-code",
+      "claude-desktop",
+      "codex",
+      "codex-cli",
+      "hacktoberfest"
     ]
   }
 }
