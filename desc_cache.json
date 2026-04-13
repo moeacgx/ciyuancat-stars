@@ -2836,7 +2836,7 @@
     ]
   },
   "screego/server": {
-    "zh_desc": "开发人员的屏幕共享 https://screego.net/",
+    "zh_desc": "暂无公开描述",
     "auto_tags": [
       "webrtc",
       "screensharing-tool",
@@ -2875,7 +2875,7 @@
     ]
   },
   "f4team-cn/f4pan": {
-    "zh_desc": "为无法安装客户端的用户提供网盘下载链接的网站",
+    "zh_desc": "暂无公开描述",
     "auto_tags": [
       "cli",
       "f4pan"
@@ -2891,7 +2891,7 @@
     ]
   },
   "Qexo/Qexo": {
-    "zh_desc": "适用于所有静态博客框架的快速、强大且美观的在线管理器",
+    "zh_desc": "暂无公开描述",
     "auto_tags": [
       "hexo",
       "vercel",
@@ -5536,6 +5536,59 @@
       "codex",
       "codex-cli",
       "hacktoberfest"
+    ]
+  },
+  "iBUHub/CanvasToAPI": {
+    "zh_desc": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible",
+    "auto_tags": [
+      "cli",
+      "knowledge-management",
+      "canvastoapi"
+    ]
+  },
+  "caidaoli/ccLoad": {
+    "zh_desc": "ccLoad Claude Code & Codex & Gemini & OpenAI 兼容 API 代理服务 English 简体中文 🚀 高性能AI AP",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "docker",
+      "golang",
+      "ccload"
+    ]
+  },
+  "ZeroPointSix/outlookEmailPlus": {
+    "zh_desc": "Outlookmail Plus：专为注册而生",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "cli",
+      "outlookemailplus"
+    ]
+  },
+  "Heavrnl/Mail2Telegram": {
+    "zh_desc": "Forward emails to Telegram/把邮件转发到Telegram",
+    "auto_tags": [
+      "mail",
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "python"
+    ]
+  },
+  "katelya77/K-Vault": {
+    "zh_desc": "基于 Cloudflare 的 Serverless 聚合云盘。以 Telegram 为核心（支持 Webhook 直传与 2GB 扩展），并全面兼容 R2",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "discord"
+    ]
+  },
+  "altyl/SBTI": {
+    "zh_desc": "SBTI 人格测试 Next.js 应用：31 题问卷、十五维度结果、海报导出与结果分享。娱乐向内容，非专业心理评估",
+    "auto_tags": [
+      "sbti"
     ]
   }
 }
