@@ -108,7 +108,7 @@
     ]
   },
   "foryourhealth111-pixel/Vibe-Skills": {
-    "zh_desc": "无论您的 AI 在哪里支持技能，VibeSkills 都可以发挥作用。 340 多种受管技能，涵盖编码、研究、自动化和创意工作",
+    "zh_desc": "VibeSkills 是一种新型超级技能，它将 340 多种受控技能组织到一个稳定的人工智能工作系统中",
     "auto_tags": [
       "ai-agents",
       "ai-workflow",
@@ -2836,7 +2836,7 @@
     ]
   },
   "screego/server": {
-    "zh_desc": "暂无公开描述",
+    "zh_desc": "开发人员的屏幕共享 https://screego.net/",
     "auto_tags": [
       "webrtc",
       "screensharing-tool",
@@ -2875,7 +2875,7 @@
     ]
   },
   "f4team-cn/f4pan": {
-    "zh_desc": "暂无公开描述",
+    "zh_desc": "为无法安装客户端的用户提供网盘下载链接的网站",
     "auto_tags": [
       "cli",
       "f4pan"
@@ -2891,7 +2891,7 @@
     ]
   },
   "Qexo/Qexo": {
-    "zh_desc": "暂无公开描述",
+    "zh_desc": "适用于所有静态博客框架的快速、强大且美观的在线管理器",
     "auto_tags": [
       "hexo",
       "vercel",
@@ -4552,7 +4552,7 @@
     ]
   },
   "rocboss/paopao-ce": {
-    "zh_desc": "An artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区",
+    "zh_desc": "由 Gin 后端和现代 TypeScript/Vue 前端架构提供支持的可扩展社交社区平台",
     "auto_tags": [
       "forum",
       "go",
@@ -5589,6 +5589,53 @@
     "zh_desc": "SBTI 人格测试 Next.js 应用：31 题问卷、十五维度结果、海报导出与结果分享。娱乐向内容，非专业心理评估",
     "auto_tags": [
       "sbti"
+    ]
+  },
+  "714307168/AgentFlow": {
+    "zh_desc": "通过安卓 App 远程控制本地 CLI，公网 Relay Server 做最小化消息中转，支持端到端加密",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "api-gateway",
+      "cli",
+      "golang"
+    ]
+  },
+  "Viloze/VFaka": {
+    "zh_desc": "Rust (Actix web) + Vue 3 + TailwindCSS DEMO: https://shop.viloze.com 感谢: 富通支付 :",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "docker",
+      "rust"
+    ]
+  },
+  "YishenTu/claudian": {
+    "zh_desc": "一个 Obsidian 插件，可将 Claude Code 作为 AI 协作者嵌入到您的保管库中",
+    "auto_tags": [
+      "claude-code",
+      "obsidian",
+      "obsidian-plugin",
+      "productivity",
+      "ide"
+    ]
+  },
+  "yaklang/hack-skills": {
+    "zh_desc": "帮助AI Agent成为一名出色的实用黑客！",
+    "auto_tags": [
+      "ai-agent",
+      "hack"
+    ]
+  },
+  "0x4m4/hexstrike-ai": {
+    "zh_desc": "HexStrike AI MCP Agents 是一款先进的 MCP 服务器，可让 AI 代理（Claude、GPT",
+    "auto_tags": [
+      "0x4m4",
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-hacking"
     ]
   }
 }
