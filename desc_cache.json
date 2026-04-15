@@ -5200,5 +5200,82 @@
       "ai-cybersecurity",
       "ai-hacking"
     ]
+  },
+  "alchaincyf/darwin-skill": {
+    "zh_desc": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚",
+    "auto_tags": [
+      "openclaw",
+      "codex",
+      "claude-code",
+      "ai-agent",
+      "automation"
+    ]
+  },
+  "fandou3/telegram-bot": {
+    "zh_desc": "自动开通Telegram Premium,TG飞机电报会员,TG飞机会员充值机器人,防撤回 TG,TG会员Telegram Premium自助/自动/充值 机器",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "rag"
+    ]
+  },
+  "xiaolanchuan/trxbot-usdt-telegram": {
+    "zh_desc": "PHP开源 trx自动兑换机器人源码，一款自动USDT兑换TRX的telegram机器人源代码，完美无措，简单部署，直接运营，无后门，无BUG，功能强大",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "trxbot",
+      "usdt"
+    ]
+  },
+  "chinaares/trxbot": {
+    "zh_desc": "PHP开源 trx自动兑换机器人源码，一款自动USDT兑换TRX的telegram机器人源代码，完美无措，简单部署，直接运营，无后门，无BUG，功能强大",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "trxbot"
+    ]
+  },
+  "TGlimmer/AutoOpenTelegramPremium": {
+    "zh_desc": "自动开通Telegram Premium/TG飞机电报会员",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "rag",
+      "golang"
+    ]
+  },
+  "microsoft/playwright-cli": {
+    "zh_desc": "用于常见剧作家操作的 CLI。记录并生成 Playwright 代码、检查选择器并截取屏幕截图",
+    "auto_tags": [
+      "playwright",
+      "claude-code",
+      "mcp",
+      "ai-agent",
+      "automation"
+    ]
+  },
+  "vxcontrol/pentagi": {
+    "zh_desc": "完全自主的人工智能代理系统能够执行复杂的渗透测试任务",
+    "auto_tags": [
+      "ai-agents",
+      "ai-security-tool",
+      "autonomous-agents",
+      "golang",
+      "graphql"
+    ]
+  },
+  "twwch/comfyui-workflow-skill": {
+    "zh_desc": "自然语言 → ComfyUI 工作流程 JSON。 34个内置模板，360+节点定义，自动模型下载",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "ai-agent",
+      "workflow-automation"
+    ]
   }
 }
