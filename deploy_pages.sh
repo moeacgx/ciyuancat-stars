@@ -3,12 +3,12 @@ set -euo pipefail
 
 REPO="moeacgx/ciyuancat-stars"
 DIR="/root/apps/github-daily/ciyuancat-stars-page"
-GH_HOSTS="/root/.config/gh/hosts.yml"
 GIT_USER_NAME="${GITHUB_PAGES_GIT_USER_NAME:-github-daily}"
 GIT_USER_EMAIL="${GITHUB_PAGES_GIT_USER_EMAIL:-github-daily@local}"
 
 if [[ -z "${GH_TOKEN:-}" ]]; then
-  if ! gh auth token >/dev/null 2>&1; then
+  GH_TOKEN="$(gh auth token 2>/dev/null || true)"
+  if [[ -z "$GH_TOKEN" ]]; then
     GH_TOKEN="$(python3 - <<'PY'
 from pathlib import Path
 import re
@@ -18,9 +18,9 @@ m = re.search(r'^\s*oauth_token:\s*(\S+)\s*$', text, re.M)
 print(m.group(1) if m else '')
 PY
 )"
-    if [[ -n "$GH_TOKEN" ]]; then
-      export GH_TOKEN
-    fi
+  fi
+  if [[ -n "$GH_TOKEN" ]]; then
+    export GH_TOKEN
   fi
 fi
 
@@ -50,7 +50,8 @@ if ! git remote get-url origin >/dev/null 2>&1; then
 fi
 
 if [[ -n "${GH_TOKEN:-}" ]]; then
-  git -c http.extraheader="AUTHORIZATION: bearer $GH_TOKEN" push -u origin main
+  AUTH_HEADER="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 | tr -d '\n')"
+  git -c http.extraheader="$AUTH_HEADER" push -u origin main
 else
   git push -u origin main
 fi
