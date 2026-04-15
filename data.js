@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-15T11:50:29",
+  "generatedAt": "2026-04-15T11:53:26",
   "total": 607,
   "categories": {
     "Android 自动化": 1,
@@ -24,7 +24,7 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 152620,
+      "stars": 152627,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -111,7 +111,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 65066,
+      "stars": 65068,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -383,7 +383,7 @@ window.__STAR_PAGE_DATA__ = {
         "plugin"
       ],
       "language": "JavaScript",
-      "stars": 14375,
+      "stars": 14376,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -493,7 +493,7 @@ window.__STAR_PAGE_DATA__ = {
         "chrome"
       ],
       "language": "TypeScript",
-      "stars": 11212,
+      "stars": 11213,
       "starredAt": "2025-08-05T11:09:33Z"
     },
     {
@@ -506,7 +506,7 @@ window.__STAR_PAGE_DATA__ = {
         "nuwa"
       ],
       "language": "Python",
-      "stars": 10701,
+      "stars": 10703,
       "starredAt": "2026-04-09T11:42:42Z"
     },
     {
@@ -911,7 +911,7 @@ window.__STAR_PAGE_DATA__ = {
         "short-drama"
       ],
       "language": "TypeScript",
-      "stars": 2803,
+      "stars": 2804,
       "starredAt": "2026-03-24T00:14:40Z"
     },
     {
@@ -1957,7 +1957,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 85487,
+      "stars": 85516,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -2016,7 +2016,7 @@ window.__STAR_PAGE_DATA__ = {
         "cli"
       ],
       "language": "TypeScript",
-      "stars": 22798,
+      "stars": 22801,
       "starredAt": "2026-04-10T07:19:41Z"
     },
     {
@@ -2033,7 +2033,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-mobile"
       ],
       "language": "TypeScript",
-      "stars": 18265,
+      "stars": 18266,
       "starredAt": "2026-04-12T13:00:20Z"
     },
     {
@@ -3005,7 +3005,7 @@ window.__STAR_PAGE_DATA__ = {
         "password"
       ],
       "language": "TypeScript",
-      "stars": 1649,
+      "stars": 1650,
       "starredAt": "2026-04-01T19:58:38Z"
     },
     {
@@ -3288,7 +3288,7 @@ window.__STAR_PAGE_DATA__ = {
         "realtime"
       ],
       "language": "Python",
-      "stars": 90601,
+      "stars": 90602,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -3337,7 +3337,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 55707,
+      "stars": 55708,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -5103,7 +5103,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 184082,
+      "stars": 184083,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -5189,7 +5189,7 @@ window.__STAR_PAGE_DATA__ = {
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 48722,
+      "stars": 48723,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
@@ -5241,7 +5241,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 36987,
+      "stars": 36988,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -5353,7 +5353,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai"
       ],
       "language": "Python",
-      "stars": 10928,
+      "stars": 10929,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
@@ -7718,7 +7718,7 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Go",
-      "stars": 26089,
+      "stars": 26090,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
@@ -8309,7 +8309,7 @@ window.__STAR_PAGE_DATA__ = {
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 110678,
+      "stars": 110680,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -8363,7 +8363,7 @@ window.__STAR_PAGE_DATA__ = {
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 37476,
+      "stars": 37477,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
