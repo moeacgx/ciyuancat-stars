@@ -16,12 +16,12 @@ from pathlib import Path
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
-BASE = Path('/root/.openclaw/workspace-team-a')
-PAGE_DIR = BASE / 'data/ciyuancat-stars-page'
+BASE = Path('/root/apps/github-daily')
+PAGE_DIR = BASE / 'ciyuancat-stars-page'
 CACHE_PATH = PAGE_DIR / 'desc_cache.json'
 README_PATHS = [
     BASE / 'tmp/star-audit/readmes.json',
-    BASE / 'skills/github-star-auto/data/readmes.json',
+    BASE / 'github-star-auto/data/readmes.json',
 ]
 DESC_OVERRIDE_PATH = PAGE_DIR / 'desc_overrides.json'
 

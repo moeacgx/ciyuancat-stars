@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-DIR="/root/.openclaw/workspace-team-a/data/ciyuancat-stars-page"
+DIR="/root/apps/github-daily/ciyuancat-stars-page"
 TOKENS_FILE="/root/openclaw-info/TOKENS.md"
 GH_HOSTS="/root/.config/gh/hosts.yml"
 

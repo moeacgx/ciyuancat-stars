@@ -1,6 +1,6 @@
 {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-15T05:03:00",
+  "generatedAt": "2026-04-15T10:23:26",
   "total": 607,
   "categories": {
     "Android 自动化": 1,
@@ -20,14 +20,11 @@
       "description": "有效的代理技能框架和软件开发方法",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
         "ai-agent",
-        "workflow-automation",
-        "golang",
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 152097,
+      "stars": 152442,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -58,7 +55,7 @@
         "agentic-workflow"
       ],
       "language": "TypeScript",
-      "stars": 137763,
+      "stars": 137785,
       "starredAt": "2025-06-01T17:17:47Z"
     },
     {
@@ -84,7 +81,7 @@
         "openapi"
       ],
       "language": "Python",
-      "stars": 131848,
+      "stars": 131879,
       "starredAt": "2025-10-19T05:08:22Z"
     },
     {
@@ -114,7 +111,7 @@
         "trae"
       ],
       "language": "Python",
-      "stars": 64941,
+      "stars": 65023,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -123,13 +120,10 @@
       "description": "没有堡垒，纯粹的空地。 OpenManus 即将推出",
       "category": "AI/Agents/Skills",
       "topics": [
-        "discord",
-        "discord-bot",
-        "ai-agent",
         "openmanus"
       ],
       "language": "Python",
-      "stars": 55758,
+      "stars": 55765,
       "starredAt": "2025-03-18T17:11:58Z"
     },
     {
@@ -155,7 +149,7 @@
         "workflow-automation"
       ],
       "language": "Python",
-      "stars": 53795,
+      "stars": 53831,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -178,7 +172,7 @@
         "awesome-lists"
       ],
       "language": "",
-      "stars": 46016,
+      "stars": 46038,
       "starredAt": "2026-02-07T16:03:07Z"
     },
     {
@@ -187,14 +181,11 @@
       "description": "敏捷人工智能驱动开发的突破性方法",
       "category": "AI/Agents/Skills",
       "topics": [
-        "discord",
-        "discord-bot",
-        "ai-agent",
-        "workflow-automation",
-        "rag"
+        "bmad",
+        "method"
       ],
       "language": "JavaScript",
-      "stars": 44631,
+      "stars": 44651,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
@@ -215,7 +206,7 @@
         "deep-search"
       ],
       "language": "Python",
-      "stars": 40411,
+      "stars": 40413,
       "starredAt": "2025-10-06T03:38:34Z"
     },
     {
@@ -242,7 +233,7 @@
         "react-components"
       ],
       "language": "JavaScript",
-      "stars": 38032,
+      "stars": 38037,
       "starredAt": "2025-06-04T08:48:34Z"
     },
     {
@@ -262,7 +253,7 @@
         "quantitative-trading"
       ],
       "language": "Python",
-      "stars": 29860,
+      "stars": 29886,
       "starredAt": "2026-01-11T11:53:18Z"
     },
     {
@@ -275,7 +266,7 @@
         "phone-use-agent"
       ],
       "language": "Python",
-      "stars": 24916,
+      "stars": 24919,
       "starredAt": "2025-12-25T02:21:54Z"
     },
     {
@@ -299,7 +290,7 @@
         "opencode"
       ],
       "language": "Python",
-      "stars": 22270,
+      "stars": 22281,
       "starredAt": "2026-02-19T09:50:24Z"
     },
     {
@@ -316,7 +307,7 @@
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 22180,
+      "stars": 22187,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -343,7 +334,7 @@
         "selenium"
       ],
       "language": "Python",
-      "stars": 21143,
+      "stars": 21145,
       "starredAt": "2025-04-19T19:37:34Z"
     },
     {
@@ -378,8 +369,22 @@
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 18128,
+      "stars": 18142,
       "starredAt": "2026-01-01T11:55:23Z"
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "使用 Claude Code 的 Codex 来审查代码或委派任务",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "codex",
+        "claude-code",
+        "plugin"
+      ],
+      "language": "JavaScript",
+      "stars": 14354,
+      "starredAt": "2026-03-31T05:53:42Z"
     },
     {
       "repo": "GLips/Figma-Context-MCP",
@@ -394,24 +399,8 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 14341,
+      "stars": 14345,
       "starredAt": "2025-06-03T12:04:09Z"
-    },
-    {
-      "repo": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "使用 Claude Code 的 Codex 来审查代码或委派任务",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "codex",
-        "claude-code",
-        "ai-agent",
-        "plugin",
-        "workflow-automation"
-      ],
-      "language": "JavaScript",
-      "stars": 14295,
-      "starredAt": "2026-03-31T05:53:42Z"
     },
     {
       "repo": "NoFxAiOS/nofx",
@@ -439,7 +428,7 @@
         "x402-agent"
       ],
       "language": "Go",
-      "stars": 11915,
+      "stars": 11921,
       "starredAt": "2025-11-02T21:43:46Z"
     },
     {
@@ -466,7 +455,7 @@
         "glue-coding"
       ],
       "language": "Python",
-      "stars": 11625,
+      "stars": 11633,
       "starredAt": "2025-12-17T18:43:42Z"
     },
     {
@@ -488,7 +477,7 @@
         "agent"
       ],
       "language": "TypeScript",
-      "stars": 11244,
+      "stars": 11247,
       "starredAt": "2025-04-29T09:46:24Z"
     },
     {
@@ -501,11 +490,24 @@
         "mcp",
         "automation",
         "browser-automation",
-        "rag"
+        "chrome"
       ],
       "language": "TypeScript",
       "stars": 11212,
       "starredAt": "2025-08-05T11:09:33Z"
+    },
+    {
+      "repo": "alchaincyf/nuwa-skill",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "nuwa"
+      ],
+      "language": "Python",
+      "stars": 10615,
+      "starredAt": "2026-04-09T11:42:42Z"
     },
     {
       "repo": "teng-lin/notebooklm-py",
@@ -529,7 +531,7 @@
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 10574,
+      "stars": 10592,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
@@ -542,21 +544,8 @@
         "proxy"
       ],
       "language": "TypeScript",
-      "stars": 10565,
+      "stars": 10566,
       "starredAt": "2025-03-22T07:20:15Z"
-    },
-    {
-      "repo": "alchaincyf/nuwa-skill",
-      "url": "https://github.com/alchaincyf/nuwa-skill",
-      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "claude-code",
-        "nuwa"
-      ],
-      "language": "Python",
-      "stars": 10509,
-      "starredAt": "2026-04-09T11:42:42Z"
     },
     {
       "repo": "svcvit/Awesome-Dify-Workflow",
@@ -564,14 +553,12 @@
       "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
       "category": "AI/Agents/Skills",
       "topics": [
-        "codex",
-        "claude-code",
         "workflow-automation",
-        "rag",
-        "dify"
+        "dify",
+        "workflow"
       ],
       "language": "",
-      "stars": 10392,
+      "stars": 10391,
       "starredAt": "2025-06-01T13:23:10Z"
     },
     {
@@ -590,7 +577,7 @@
         "react"
       ],
       "language": "TypeScript",
-      "stars": 10056,
+      "stars": 10061,
       "starredAt": "2025-07-25T02:43:54Z"
     },
     {
@@ -636,7 +623,7 @@
         "openai"
       ],
       "language": "TypeScript",
-      "stars": 5917,
+      "stars": 5918,
       "starredAt": "2025-10-15T12:14:58Z"
     },
     {
@@ -685,7 +672,7 @@
         "claudecode"
       ],
       "language": "Python",
-      "stars": 5815,
+      "stars": 5816,
       "starredAt": "2025-07-31T22:45:54Z"
     },
     {
@@ -708,7 +695,7 @@
         "vue"
       ],
       "language": "Python",
-      "stars": 5137,
+      "stars": 5140,
       "starredAt": "2025-12-28T14:15:48Z"
     },
     {
@@ -723,7 +710,7 @@
         "access"
       ],
       "language": "JavaScript",
-      "stars": 4877,
+      "stars": 4887,
       "starredAt": "2026-04-11T10:17:22Z"
     },
     {
@@ -732,14 +719,11 @@
       "description": "“ClawTeam：特工群智能”（一个命令 → 完全自动化）",
       "category": "AI/Agents/Skills",
       "topics": [
-        "codex",
-        "claude-code",
         "ai-agent",
-        "cli",
-        "python"
+        "clawteam"
       ],
       "language": "Python",
-      "stars": 4762,
+      "stars": 4766,
       "starredAt": "2026-03-20T03:29:26Z"
     },
     {
@@ -753,7 +737,7 @@
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 4345,
+      "stars": 4352,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
@@ -762,9 +746,6 @@
       "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
       "category": "AI/Agents/Skills",
       "topics": [
-        "api-gateway",
-        "workflow-automation",
-        "python",
         "novelgenerator"
       ],
       "language": "Python",
@@ -785,7 +766,7 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 3957,
+      "stars": 3958,
       "starredAt": "2025-06-03T15:50:29Z"
     },
     {
@@ -809,7 +790,7 @@
         "web-ui"
       ],
       "language": "Kotlin",
-      "stars": 3939,
+      "stars": 3940,
       "starredAt": "2025-07-06T17:27:22Z"
     },
     {
@@ -827,7 +808,7 @@
         "ai-agents"
       ],
       "language": "",
-      "stars": 3926,
+      "stars": 3933,
       "starredAt": "2026-03-20T11:31:54Z"
     },
     {
@@ -837,8 +818,6 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
-        "workflow-automation",
-        "ssh",
         "feedback",
         "enhanced"
       ],
@@ -881,7 +860,7 @@
     {
       "repo": "golutra/golutra",
       "url": "https://github.com/golutra/golutra",
-      "description": "使用赛博朋克监督系统：指挥你的人工智能员工",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
         "agent",
@@ -906,7 +885,7 @@
         "developer-tools"
       ],
       "language": "Rust",
-      "stars": 3094,
+      "stars": 3100,
       "starredAt": "2026-03-15T08:44:20Z"
     },
     {
@@ -915,14 +894,11 @@
       "description": "让您的 AI 代理访问您的实时 Chrome 会话 - 开箱即用，连接到您已打开的选项卡",
       "category": "AI/Agents/Skills",
       "topics": [
-        "cloudflare",
-        "workers",
-        "claude-code",
         "ai-agent",
-        "automation"
+        "chrome"
       ],
       "language": "JavaScript",
-      "stars": 2880,
+      "stars": 2881,
       "starredAt": "2026-03-20T01:59:56Z"
     },
     {
@@ -935,7 +911,7 @@
         "short-drama"
       ],
       "language": "TypeScript",
-      "stars": 2797,
+      "stars": 2799,
       "starredAt": "2026-03-24T00:14:40Z"
     },
     {
@@ -957,7 +933,7 @@
         "tools"
       ],
       "language": "Python",
-      "stars": 2728,
+      "stars": 2729,
       "starredAt": "2025-05-21T06:31:35Z"
     },
     {
@@ -972,7 +948,7 @@
         "jetbrains"
       ],
       "language": "TypeScript",
-      "stars": 2673,
+      "stars": 2680,
       "starredAt": "2026-01-05T10:00:51Z"
     },
     {
@@ -982,13 +958,11 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
-        "plugin",
-        "rag",
-        "python",
-        "webnovel"
+        "webnovel",
+        "writer"
       ],
       "language": "Python",
-      "stars": 2609,
+      "stars": 2613,
       "starredAt": "2026-01-18T11:02:32Z"
     },
     {
@@ -997,14 +971,14 @@
       "description": "由 Firecrawl 提供支持的 AI 代理的可视化工作流程构建器 - 具有实时执行功能的拖放式网络抓取管道",
       "category": "AI/Agents/Skills",
       "topics": [
-        "mcp",
         "ai-agent",
         "scraping",
         "crawler",
-        "workflow-automation"
+        "workflow-automation",
+        "rag"
       ],
       "language": "TypeScript",
-      "stars": 2166,
+      "stars": 2167,
       "starredAt": "2025-10-18T10:19:53Z"
     },
     {
@@ -1025,7 +999,7 @@
         "wispr-flow-alternative"
       ],
       "language": "JavaScript",
-      "stars": 2103,
+      "stars": 2104,
       "starredAt": "2025-09-25T10:17:16Z"
     },
     {
@@ -1034,14 +1008,11 @@
       "description": "该存储库包含由 GudaStudio 开发的代理技能集合，可实现 Claude 与其他 AI 模型和工具之间的无缝协作",
       "category": "AI/Agents/Skills",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "codex",
         "claude-code",
         "ai-agent"
       ],
       "language": "PowerShell",
-      "stars": 1982,
+      "stars": 1983,
       "starredAt": "2025-12-23T02:27:03Z"
     },
     {
@@ -1050,11 +1021,8 @@
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持",
       "category": "AI/Agents/Skills",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "wechat",
         "codex",
-        "python"
+        "console"
       ],
       "language": "Python",
       "stars": 1945,
@@ -1063,17 +1031,14 @@
     {
       "repo": "cnlimiter/codex-manager",
       "url": "https://github.com/cnlimiter/codex-manager",
-      "description": "OpenAI 账号管理系统 v2 管理 OpenAI 账号的 Web UI 系统，支持多种邮箱服务、并发批量注册、代理管理和账号管理",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
-        "cloudflare",
-        "workers",
         "codex",
-        "api-gateway",
-        "python"
+        "manager"
       ],
       "language": "Python",
-      "stars": 1884,
+      "stars": 1885,
       "starredAt": "2026-03-19T17:18:28Z"
     },
     {
@@ -1094,7 +1059,7 @@
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 1805,
+      "stars": 1806,
       "starredAt": "2025-11-01T06:00:35Z"
     },
     {
@@ -1104,7 +1069,6 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agent",
-        "cli",
         "mobiagent"
       ],
       "language": "Python",
@@ -1118,8 +1082,6 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
-        "docker",
-        "workflow-automation",
         "server"
       ],
       "language": "TypeScript",
@@ -1132,14 +1094,10 @@
       "description": "浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK",
       "category": "AI/Agents/Skills",
       "topics": [
-        "ai-agent",
-        "docker",
-        "rag",
-        "javascript",
         "burner"
       ],
       "language": "JavaScript",
-      "stars": 1555,
+      "stars": 1556,
       "starredAt": "2025-10-05T02:25:52Z"
     },
     {
@@ -1148,14 +1106,12 @@
       "description": "提供对 MySQL 数据库的只读访问的模型上下文协议服务器。该服务器使法学硕士能够检查数据库模式并执行只读查询",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
         "mcp",
-        "cli",
-        "rust",
-        "ssh"
+        "server",
+        "mysql"
       ],
       "language": "JavaScript",
-      "stars": 1533,
+      "stars": 1534,
       "starredAt": "2025-10-15T12:40:32Z"
     },
     {
@@ -1164,9 +1120,7 @@
       "description": "为您安装其他 MCP 服务器的 MCP 服务器",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
         "mcp",
-        "python",
         "installer"
       ],
       "language": "JavaScript",
@@ -1210,9 +1164,6 @@
       "description": "AipexBase 是一个 AI 原生 BaaS 平台。您只需使用vibe编码工具开发前端，后端交给AipexBase！",
       "category": "AI/Agents/Skills",
       "topics": [
-        "cloudflare",
-        "workers",
-        "claude-code",
         "aipexbase"
       ],
       "language": "Java",
@@ -1225,8 +1176,6 @@
       "description": "让你一眼惊艳的prompt",
       "category": "AI/Agents/Skills",
       "topics": [
-        "wechat",
-        "claude-code",
         "prompt"
       ],
       "language": "GCC Machine Description",
@@ -1239,11 +1188,9 @@
       "description": "适用于 AI 编码助手的专家级 WordPress 知识 - 块、主题、插件和最佳实践",
       "category": "AI/Agents/Skills",
       "topics": [
-        "codex",
-        "claude-code",
         "ai-agent",
         "plugin",
-        "workflow-automation"
+        "agent"
       ],
       "language": "JavaScript",
       "stars": 1225,
@@ -1276,7 +1223,7 @@
         "skillsmp"
       ],
       "language": "Go",
-      "stars": 1207,
+      "stars": 1215,
       "starredAt": "2026-03-23T00:56:44Z"
     },
     {
@@ -1299,7 +1246,7 @@
         "canvas"
       ],
       "language": "TypeScript",
-      "stars": 1121,
+      "stars": 1122,
       "starredAt": "2026-03-31T05:48:45Z"
     },
     {
@@ -1309,25 +1256,19 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
-        "ai-agent",
         "cli",
-        "typescript",
-        "terminal"
+        "claudix"
       ],
       "language": "Vue",
-      "stars": 1067,
+      "stars": 1069,
       "starredAt": "2026-01-05T10:08:30Z"
     },
     {
       "repo": "chadyi/AITradeGame",
       "url": "https://github.com/chadyi/AITradeGame",
-      "description": "AITradeGame Open Source AI Trading Simulator English 中文 AITradeGame is an AI tra",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
-        "cli",
-        "rag",
-        "python",
         "aitradegame"
       ],
       "language": "Python",
@@ -1340,8 +1281,6 @@
       "description": "一个将ACE(Augment Context Engine) 做成MCP的项目",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
-        "mcp",
         "acemcp"
       ],
       "language": "Python",
@@ -1354,13 +1293,10 @@
       "description": "基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
-        "api-gateway",
-        "typescript",
         "halowebui"
       ],
       "language": "Python",
-      "stars": 711,
+      "stars": 713,
       "starredAt": "2026-01-16T10:33:57Z"
     },
     {
@@ -1435,11 +1371,7 @@
       "description": "一个All In One的本地AI工具, 支持Win/Mac/Linux",
       "category": "AI/Agents/Skills",
       "topics": [
-        "codex",
-        "claude-code",
-        "mcp",
-        "automation",
-        "browser-automation"
+        "coding"
       ],
       "language": "TypeScript",
       "stars": 379,
@@ -1496,7 +1428,6 @@
       "description": "基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏",
       "category": "AI/Agents/Skills",
       "topics": [
-        "python",
         "aitradingsimulator"
       ],
       "language": "Python",
@@ -1539,14 +1470,14 @@
       "description": "适用于 AI 代理的快速计算机自动化 CLI。通过屏幕截图、单击、打字、滚动等控制任何桌面",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
         "ai-agent",
         "automation",
         "browser-automation",
-        "workflow-automation"
+        "cli",
+        "usecomputer"
       ],
       "language": "Zig",
-      "stars": 247,
+      "stars": 251,
       "starredAt": "2026-03-25T02:01:31Z"
     },
     {
@@ -1555,7 +1486,6 @@
       "description": "基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
         "mcp",
         "trends"
       ],
@@ -1636,7 +1566,7 @@
         "seo-tools"
       ],
       "language": "Python",
-      "stars": 181,
+      "stars": 182,
       "starredAt": "2026-03-20T11:49:31Z"
     },
     {
@@ -1645,8 +1575,6 @@
       "description": "这是一个基于大型语言模型（LLM）的动态互动小说游戏。它能够根据玩家选择的故事类型，实时生成独特的故事情节、人物、以及一个可视化的故事发展线路图",
       "category": "AI/Agents/Skills",
       "topics": [
-        "python",
-        "javascript",
         "gamble"
       ],
       "language": "Python",
@@ -1656,12 +1584,10 @@
     {
       "repo": "sanshao85/mcp-feedback-collector-web",
       "url": "https://github.com/sanshao85/mcp-feedback-collector-web",
-      "description": "将上述配置添加到Cursor的MCP设置中 3.",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
         "mcp",
-        "api-gateway",
-        "python",
         "feedback",
         "collector"
       ],
@@ -1693,11 +1619,9 @@
       "description": "基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作",
       "category": "AI/Agents/Skills",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "python",
-        "auto"
+        "auto",
+        "phone",
+        "scheduler"
       ],
       "language": "TypeScript",
       "stars": 121,
@@ -1708,11 +1632,7 @@
       "url": "https://github.com/zhuchenyu2008/RSS-AI",
       "description": "使用 AI 总结 RSS 提要",
       "category": "AI/Agents/Skills",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "python"
-      ],
+      "topics": [],
       "language": "Python",
       "stars": 105,
       "starredAt": "2025-10-06T08:51:29Z"
@@ -1733,11 +1653,10 @@
     {
       "repo": "jikssha/openclaw-dae-skills",
       "url": "https://github.com/jikssha/openclaw-dae-skills",
-      "description": "OpenClaw 搜索技能集 这是一组面向 OpenClaw 的搜索技能仓库",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
         "openclaw",
-        "seo",
         "ssh"
       ],
       "language": "Python",
@@ -1751,8 +1670,6 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "plugin",
-        "docker",
-        "knowledge-management",
         "dify",
         "artifacts"
       ],
@@ -1845,14 +1762,13 @@
     {
       "repo": "ChinaSiro/open-prompt-manager-for-prompub",
       "url": "https://github.com/ChinaSiro/open-prompt-manager-for-prompub",
-      "description": "项目地址 线上 Demo : https://prompub.com 开源仓库 : https://github.com/ChinaSiro/open prom",
+      "description": "暂无公开描述",
       "category": "AI/Agents/Skills",
       "topics": [
-        "claude-code",
-        "api-gateway",
-        "rag",
-        "typescript",
-        "open"
+        "open",
+        "prompt",
+        "manager",
+        "prompub"
       ],
       "language": "TypeScript",
       "stars": 66,
@@ -1864,8 +1780,6 @@
       "description": "SillyTavern character card translation tool 角色卡翻译工具",
       "category": "AI/Agents/Skills",
       "topics": [
-        "docker",
-        "python",
         "taverntranslator"
       ],
       "language": "Vue",
@@ -1930,10 +1844,10 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "claude-code",
-        "mcp",
         "api-gateway",
-        "workflow-automation",
-        "cli"
+        "claude",
+        "code",
+        "proxy"
       ],
       "language": "Rust",
       "stars": 24,
@@ -1945,8 +1859,6 @@
       "description": "n8n工作流与RAG技术实现指南",
       "category": "AI/Agents/Skills",
       "topics": [
-        "scraping",
-        "crawler",
         "rag",
         "guide"
       ],
@@ -1960,8 +1872,6 @@
       "description": "RikkaHub是一款支持多个LLM提供商的Android应用程序",
       "category": "AI/Agents/Skills",
       "topics": [
-        "docker",
-        "rag",
         "rikkahub"
       ],
       "language": "TypeScript",
@@ -1975,9 +1885,6 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "prompts",
-        "cloudflare",
-        "workers",
-        "typescript",
         "promptcraft"
       ],
       "language": "TypeScript",
@@ -1991,10 +1898,8 @@
       "category": "AI/Agents/Skills",
       "topics": [
         "ai-agent",
-        "docker",
-        "api-gateway",
         "cli",
-        "ssh"
+        "aggregator"
       ],
       "language": "TypeScript",
       "stars": 7,
@@ -2006,11 +1911,7 @@
       "description": "通过自动化操作itdog.cn来实现网络质量测试的mcp服务器，使用Qwen3-Coder指导开发",
       "category": "AI/Agents/Skills",
       "topics": [
-        "mcp",
-        "automation",
-        "browser-automation",
-        "docker",
-        "python"
+        "itdog"
       ],
       "language": "Python",
       "stars": 4,
@@ -2056,13 +1957,13 @@
         "openclaw"
       ],
       "language": "Python",
-      "stars": 83899,
+      "stars": 84880,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
       "repo": "LC044/WeChatMsg",
       "url": "https://github.com/LC044/WeChatMsg",
-      "description": "我的数据我做主 前言 我深信有意义的不是微信，而是隐藏在对话框背后的一个个 深刻故事 。未来，每个人都能拥有AI的陪伴",
+      "description": "暂无公开描述",
       "category": "Bot/消息桥接",
       "topics": [
         "wechat",
@@ -2071,7 +1972,7 @@
         "llms"
       ],
       "language": "",
-      "stars": 41167,
+      "stars": 41170,
       "starredAt": "2024-06-14T02:30:08Z"
     },
     {
@@ -2099,7 +2000,7 @@
         "mqtt"
       ],
       "language": "Kotlin",
-      "stars": 25268,
+      "stars": 25273,
       "starredAt": "2024-06-03T02:57:49Z"
     },
     {
@@ -2115,7 +2016,7 @@
         "cli"
       ],
       "language": "TypeScript",
-      "stars": 22648,
+      "stars": 22743,
       "starredAt": "2026-04-10T07:19:41Z"
     },
     {
@@ -2132,7 +2033,7 @@
         "claude-mobile"
       ],
       "language": "TypeScript",
-      "stars": 18185,
+      "stars": 18250,
       "starredAt": "2026-04-12T13:00:20Z"
     },
     {
@@ -2180,7 +2081,7 @@
         "hexstrike"
       ],
       "language": "Python",
-      "stars": 8087,
+      "stars": 8092,
       "starredAt": "2026-04-14T16:01:03Z"
     },
     {
@@ -2196,7 +2097,7 @@
         "ide"
       ],
       "language": "TypeScript",
-      "stars": 7889,
+      "stars": 7912,
       "starredAt": "2026-04-14T02:14:34Z"
     },
     {
@@ -2212,7 +2113,7 @@
         "wechat"
       ],
       "language": "Go",
-      "stars": 5172,
+      "stars": 5180,
       "starredAt": "2026-04-08T15:32:16Z"
     },
     {
@@ -2241,7 +2142,7 @@
         "reply"
       ],
       "language": "Python",
-      "stars": 3793,
+      "stars": 3796,
       "starredAt": "2025-09-01T11:17:30Z"
     },
     {
@@ -2258,7 +2159,7 @@
         "hacktoberfest"
       ],
       "language": "TypeScript",
-      "stars": 1981,
+      "stars": 1982,
       "starredAt": "2025-03-03T13:50:20Z"
     },
     {
@@ -2625,14 +2526,11 @@
     {
       "repo": "deemoartisan/gateway-notify",
       "url": "https://github.com/deemoartisan/gateway-notify",
-      "description": "网关通知 OpenClaw 网关重新启动时自动通知",
+      "description": "暂无公开描述",
       "category": "Bot/消息桥接",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "discord",
-        "discord-bot",
-        "openclaw"
+        "gateway",
+        "notify"
       ],
       "language": "Shell",
       "stars": 155,
@@ -2678,7 +2576,6 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "docker",
         "signpulse"
       ],
       "language": "Python",
@@ -2693,7 +2590,6 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "api-gateway",
         "faka"
       ],
       "language": "Go",
@@ -2707,8 +2603,6 @@
       "category": "Bot/消息桥接",
       "topics": [
         "wechat",
-        "cli",
-        "typescript",
         "huoxing",
         "links"
       ],
@@ -2724,7 +2618,6 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "api-gateway",
         "gate"
       ],
       "language": "Go",
@@ -2771,8 +2664,7 @@
         "telegram",
         "telegram-bot",
         "wechat",
-        "docker",
-        "python"
+        "fakabot"
       ],
       "language": "Python",
       "stars": 91,
@@ -2786,7 +2678,6 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "docker",
         "dice"
       ],
       "language": "Go",
@@ -2827,14 +2718,11 @@
     {
       "repo": "Shannon-x/sufe-shop-bot",
       "url": "https://github.com/Shannon-x/sufe-shop-bot",
-      "description": "提供极度纯净的家宽代理： sufe.pro 一个功能完善的 Telegram 电商机器人系统，专门用于数字商品（充值卡、会员卡、激活码等）的自动化销售",
+      "description": "暂无公开描述",
       "category": "Bot/消息桥接",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "workflow-automation",
-        "golang"
+        "sufe",
+        "shop"
       ],
       "language": "Go",
       "stars": 64,
@@ -2879,9 +2767,7 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "docker",
-        "cli",
-        "golang"
+        "epay"
       ],
       "language": "Go",
       "stars": 18,
@@ -2906,14 +2792,9 @@
     {
       "repo": "CCRSRG/TG_ZF",
       "url": "https://github.com/CCRSRG/TG_ZF",
-      "description": "Telegram 消息转发与频道群组导出备份工具 (TG ZF) 一个功能强大的 Telegram 工具，支持 频道消息转发 （多账号轮换、智能过滤",
+      "description": "暂无公开描述",
       "category": "Bot/消息桥接",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "api-gateway",
-        "python"
-      ],
+      "topics": [],
       "language": "Python",
       "stars": 13,
       "starredAt": "2025-10-01T06:03:44Z"
@@ -2924,10 +2805,6 @@
       "description": "电报自动发卡",
       "category": "Bot/消息桥接",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "wechat",
-        "python",
         "faka"
       ],
       "language": "Python",
@@ -2941,12 +2818,10 @@
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
-        "workers",
-        "automation",
-        "browser-automation"
+        "workers"
       ],
       "language": "",
-      "stars": 13549,
+      "stars": 13553,
       "starredAt": "2024-05-26T02:31:31Z"
     },
     {
@@ -2962,7 +2837,7 @@
         "free"
       ],
       "language": "TypeScript",
-      "stars": 8369,
+      "stars": 8371,
       "starredAt": "2023-08-25T20:39:39Z"
     },
     {
@@ -2972,12 +2847,10 @@
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
-        "workers",
-        "telegram",
-        "telegram-bot"
+        "workers"
       ],
       "language": "JavaScript",
-      "stars": 7238,
+      "stars": 7239,
       "starredAt": "2024-05-11T06:27:48Z"
     },
     {
@@ -2992,7 +2865,7 @@
         "mail"
       ],
       "language": "JavaScript",
-      "stars": 6310,
+      "stars": 6314,
       "starredAt": "2025-11-05T11:10:45Z"
     },
     {
@@ -3003,8 +2876,6 @@
       "topics": [
         "cloudflare",
         "workers",
-        "docker",
-        "workflow-automation",
         "cf2dns"
       ],
       "language": "Python",
@@ -3050,7 +2921,7 @@
         "upload-images"
       ],
       "language": "HTML",
-      "stars": 4512,
+      "stars": 4514,
       "starredAt": "2022-11-01T07:56:28Z"
     },
     {
@@ -3072,7 +2943,7 @@
         "v2ray"
       ],
       "language": "Shell",
-      "stars": 3940,
+      "stars": 3941,
       "starredAt": "2024-03-17T23:39:27Z"
     },
     {
@@ -3091,7 +2962,7 @@
         "react"
       ],
       "language": "TypeScript",
-      "stars": 2587,
+      "stars": 2589,
       "starredAt": "2024-06-07T04:54:36Z"
     },
     {
@@ -3106,7 +2977,7 @@
         "temp-email"
       ],
       "language": "TypeScript",
-      "stars": 2404,
+      "stars": 2405,
       "starredAt": "2025-07-24T06:32:09Z"
     },
     {
@@ -3134,7 +3005,7 @@
         "password"
       ],
       "language": "TypeScript",
-      "stars": 1645,
+      "stars": 1647,
       "starredAt": "2026-04-01T19:58:38Z"
     },
     {
@@ -3146,8 +3017,8 @@
         "aicoding",
         "cloudflare",
         "workers",
-        "docker",
-        "insight"
+        "insight",
+        "daily"
       ],
       "language": "JavaScript",
       "stars": 1454,
@@ -3164,7 +3035,7 @@
         "movecar"
       ],
       "language": "JavaScript",
-      "stars": 1096,
+      "stars": 1097,
       "starredAt": "2025-12-31T16:15:54Z"
     },
     {
@@ -3181,7 +3052,7 @@
         "workers"
       ],
       "language": "JavaScript",
-      "stars": 1034,
+      "stars": 1033,
       "starredAt": "2024-03-24T09:32:25Z"
     },
     {
@@ -3208,7 +3079,6 @@
       "topics": [
         "cloudflare",
         "workers",
-        "cli",
         "cloudworker"
       ],
       "language": "JavaScript",
@@ -3237,8 +3107,8 @@
         "cloudflare",
         "workers",
         "rag",
-        "typescript",
-        "edge"
+        "edge",
+        "next"
       ],
       "language": "TypeScript",
       "stars": 467,
@@ -3281,11 +3151,10 @@
       "category": "Cloudflare 生态",
       "topics": [
         "cloudflare",
-        "workers",
-        "python"
+        "workers"
       ],
       "language": "Python",
-      "stars": 388,
+      "stars": 387,
       "starredAt": "2024-05-12T05:55:33Z"
     },
     {
@@ -3327,8 +3196,6 @@
       "topics": [
         "cloudflare",
         "workers",
-        "docker",
-        "typescript",
         "manager"
       ],
       "language": "TypeScript",
@@ -3343,9 +3210,8 @@
       "topics": [
         "cloudflare",
         "workers",
-        "telegram",
-        "telegram-bot",
-        "domain"
+        "domain",
+        "check"
       ],
       "language": "JavaScript",
       "stars": 138,
@@ -3374,9 +3240,9 @@
       "topics": [
         "cloudflare",
         "workers",
-        "docker",
         "rag",
-        "image"
+        "image",
+        "hosting"
       ],
       "language": "HTML",
       "stars": 68,
@@ -3422,7 +3288,7 @@
         "realtime"
       ],
       "language": "Python",
-      "stars": 90556,
+      "stars": 90594,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -3453,7 +3319,7 @@
         "azure-files"
       ],
       "language": "Go",
-      "stars": 56640,
+      "stars": 56645,
       "starredAt": "2019-08-02T04:28:26Z"
     },
     {
@@ -3471,7 +3337,7 @@
         "ai"
       ],
       "language": "Python",
-      "stars": 55692,
+      "stars": 55698,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -3497,7 +3363,7 @@
         "note-taking"
       ],
       "language": "TypeScript",
-      "stars": 54353,
+      "stars": 54354,
       "starredAt": "2023-10-24T02:04:22Z"
     },
     {
@@ -3514,7 +3380,7 @@
         "onedrive"
       ],
       "language": "Go",
-      "stars": 49313,
+      "stars": 49317,
       "starredAt": "2022-05-10T13:10:25Z"
     },
     {
@@ -3541,7 +3407,7 @@
         "voiceconversion"
       ],
       "language": "Python",
-      "stars": 35223,
+      "stars": 35224,
       "starredAt": "2025-04-13T10:29:19Z"
     },
     {
@@ -3585,7 +3451,7 @@
         "openlist"
       ],
       "language": "Go",
-      "stars": 21914,
+      "stars": 21917,
       "starredAt": "2025-07-08T22:21:14Z"
     },
     {
@@ -3606,7 +3472,7 @@
         "realcugan"
       ],
       "language": "C++",
-      "stars": 19472,
+      "stars": 19474,
       "starredAt": "2025-06-09T09:41:59Z"
     },
     {
@@ -3668,7 +3534,7 @@
         "rich"
       ],
       "language": "Python",
-      "stars": 14021,
+      "stars": 14025,
       "starredAt": "2023-11-16T09:19:13Z"
     },
     {
@@ -3691,14 +3557,10 @@
       "description": "NAS媒体库自动化管理工具",
       "category": "媒体下载/存储",
       "topics": [
-        "mcp",
-        "ai-agent",
-        "docker",
-        "python",
         "moviepilot"
       ],
       "language": "Python",
-      "stars": 10884,
+      "stars": 10885,
       "starredAt": "2024-07-03T10:09:59Z"
     },
     {
@@ -3731,7 +3593,7 @@
         "subtile"
       ],
       "language": "Python",
-      "stars": 10239,
+      "stars": 10241,
       "starredAt": "2025-10-29T01:03:22Z"
     },
     {
@@ -3744,7 +3606,7 @@
         "game"
       ],
       "language": "Python",
-      "stars": 10100,
+      "stars": 10105,
       "starredAt": "2025-09-12T09:33:50Z"
     },
     {
@@ -3825,7 +3687,7 @@
         "youtube"
       ],
       "language": "TypeScript",
-      "stars": 7976,
+      "stars": 7978,
       "starredAt": "2025-10-29T15:41:48Z"
     },
     {
@@ -3901,7 +3763,7 @@
         "moneyprinterplus"
       ],
       "language": "Python",
-      "stars": 6078,
+      "stars": 6081,
       "starredAt": "2025-02-03T06:09:04Z"
     },
     {
@@ -4044,7 +3906,7 @@
         "video-generation"
       ],
       "language": "Python",
-      "stars": 3978,
+      "stars": 3999,
       "starredAt": "2026-01-13T16:45:45Z"
     },
     {
@@ -4111,7 +3973,7 @@
         "yt-dlp-gui"
       ],
       "language": "Python",
-      "stars": 3456,
+      "stars": 3457,
       "starredAt": "2025-10-03T12:19:00Z"
     },
     {
@@ -4150,14 +4012,10 @@
       "description": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 \"Liquid Glass\" 设计语言，提供流畅的视觉体验和强大的视频搜索功能",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "workflow-automation",
-        "typescript",
         "kvideo"
       ],
       "language": "TypeScript",
-      "stars": 3244,
+      "stars": 3246,
       "starredAt": "2025-11-24T08:59:40Z"
     },
     {
@@ -4261,9 +4119,6 @@
       "description": "R18 资源搜索和管理工具",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "cli",
         "avhub"
       ],
       "language": "JavaScript",
@@ -4276,10 +4131,7 @@
       "description": "快速分享 GoogleDrive OneDrive",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
-        "webdav",
         "onedrive",
-        "workflow-automation",
         "sharelist"
       ],
       "language": "TypeScript",
@@ -4292,11 +4144,9 @@
       "description": "🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
       "category": "媒体下载/存储",
       "topics": [
-        "wechat",
         "scraping",
         "crawler",
-        "cli",
-        "python"
+        "amemv"
       ],
       "language": "Python",
       "stars": 2589,
@@ -4308,9 +4158,6 @@
       "description": "种子流服务器",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
-        "workflow-automation",
-        "golang",
         "torrserver"
       ],
       "language": "Go",
@@ -4323,8 +4170,6 @@
       "description": "同步观看、影院、直播、视频",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
-        "workflow-automation",
         "synctv"
       ],
       "language": "Go",
@@ -4350,7 +4195,7 @@
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 2284,
+      "stars": 2283,
       "starredAt": "2025-11-19T13:23:07Z"
     },
     {
@@ -4379,13 +4224,9 @@
     {
       "repo": "samqin123/MoonTV",
       "url": "https://github.com/samqin123/MoonTV",
-      "description": "MoonTV 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器",
+      "description": "暂无公开描述",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
-        "typescript",
         "moontv"
       ],
       "language": "TypeScript",
@@ -4429,8 +4270,6 @@
       "category": "媒体下载/存储",
       "topics": [
         "backup-data",
-        "telegram",
-        "telegram-bot",
         "backup",
         "script"
       ],
@@ -4444,7 +4283,6 @@
       "description": "这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
         "webdav",
         "alist",
         "encrypt"
@@ -4488,11 +4326,7 @@
       "description": "Network disk directory index / 网盘目录索引",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
-        "webdav",
-        "workflow-automation",
-        "rag",
-        "golang"
+        "panindex"
       ],
       "language": "Go",
       "stars": 1409,
@@ -4545,7 +4379,6 @@
       "description": "冬瓜TV —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
         "dongguatv"
       ],
       "language": "HTML",
@@ -4603,7 +4436,7 @@
         "quakepan"
       ],
       "language": "Python",
-      "stars": 1204,
+      "stars": 1205,
       "starredAt": "2024-10-14T10:28:26Z"
     },
     {
@@ -4612,11 +4445,10 @@
       "description": "支持 Android 5.0",
       "category": "媒体下载/存储",
       "topics": [
-        "golang",
         "alistliteandroid"
       ],
       "language": "Go",
-      "stars": 1184,
+      "stars": 1185,
       "starredAt": "2024-06-04T09:32:20Z"
     },
     {
@@ -4722,7 +4554,6 @@
       "description": "推特 图片 视频 爬虫;一键下载",
       "category": "媒体下载/存储",
       "topics": [
-        "cli",
         "twitter",
         "download"
       ],
@@ -4778,9 +4609,6 @@
       "description": "Fast OneDrive Index，OneDrive 快速列表程序",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "webdav",
         "onedrive",
         "fodi"
       ],
@@ -4794,8 +4622,6 @@
       "description": "懒盘搜索 短剧网盘搜索引擎源码：百度网盘、阿里云盘、夸克网盘、迅雷网盘",
       "category": "媒体下载/存储",
       "topics": [
-        "seo",
-        "golang",
         "lzpan",
         "search"
       ],
@@ -4823,8 +4649,6 @@
       "description": "自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区",
       "category": "媒体下载/存储",
       "topics": [
-        "onedrive",
-        "python",
         "liverecord"
       ],
       "language": "Shell",
@@ -4837,7 +4661,6 @@
       "description": "TikTokTool 网页版",
       "category": "媒体下载/存储",
       "topics": [
-        "docker",
         "tiktokweb"
       ],
       "language": "CSS",
@@ -4864,10 +4687,6 @@
       "description": "基于 网盘 开放平台接口来同步生成 STRM、元数据下载、元数据上传，直链解析播放和外网302播放，Emby联动删除网盘文件、刷新媒体库、入库通知等",
       "category": "媒体下载/存储",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "golang",
         "qmediasync"
       ],
       "language": "Go",
@@ -4893,8 +4712,6 @@
       "description": "心悦搜索-支持多网盘转存分享，支持夸克网盘、百度网盘、阿里云盘、UC网盘、迅雷云盘，网盘资源管理与索引工具！",
       "category": "媒体下载/存储",
       "topics": [
-        "wechat",
-        "seo",
         "xinyue",
         "search"
       ],
@@ -4920,12 +4737,7 @@
       "url": "https://github.com/x-dr/tts",
       "description": "微软azure文本转语音 音频下载",
       "category": "媒体下载/存储",
-      "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
-        "javascript"
-      ],
+      "topics": [],
       "language": "HTML",
       "stars": 432,
       "starredAt": "2023-09-01T04:19:17Z"
@@ -4961,7 +4773,7 @@
     {
       "repo": "yumusb/autoPicCdn",
       "url": "https://github.com/yumusb/autoPicCdn",
-      "description": "选择Github 白嫖Github的存储空间，通过jsdelivr全球加速(含有国内节点)。实现图床的目的",
+      "description": "暂无公开描述",
       "category": "媒体下载/存储",
       "topics": [
         "jsdelivr",
@@ -5054,9 +4866,6 @@
       "description": "配合接口实现类似抖音效果的在线播放器",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "cli",
         "random",
         "player"
       ],
@@ -5082,12 +4891,9 @@
     {
       "repo": "Magisk-Modules-Repo/com.piyushgarg.rclone",
       "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
-      "description": "Rclone Remount v1.8 在启动过程中通过 rclone 和 fusionmount 直接在 Android 驱动的智能设备上本地重新安装云存储",
+      "description": "暂无公开描述",
       "category": "媒体下载/存储",
       "topics": [
-        "onedrive",
-        "rag",
-        "ssh",
         "piyushgarg",
         "rclone"
       ],
@@ -5139,8 +4945,6 @@
       "description": "允许您将大型文件夹复制到共享驱动器的项目",
       "category": "媒体下载/存储",
       "topics": [
-        "cli",
-        "python",
         "autorclone"
       ],
       "language": "Python",
@@ -5153,9 +4957,6 @@
       "description": "通过magisk挂载rclone",
       "category": "媒体下载/存储",
       "topics": [
-        "rag",
-        "python",
-        "terminal",
         "rclone",
         "mount"
       ],
@@ -5181,8 +4982,6 @@
       "description": "国内版2.0世纪互联版",
       "category": "媒体下载/存储",
       "topics": [
-        "onedrive",
-        "cli",
         "oneindex2"
       ],
       "language": "PHP",
@@ -5195,7 +4994,6 @@
       "description": "基于Cosyvoice2-0.5B模型实现的多角色语音克隆项目，使用flet开发，支持多音色管理、历史记录管理、一键克隆，仅需短短几秒的人声音频即可快速生成",
       "category": "媒体下载/存储",
       "topics": [
-        "onedrive",
         "parrot"
       ],
       "language": "Python",
@@ -5208,10 +5006,6 @@
       "description": "一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序",
       "category": "媒体下载/存储",
       "topics": [
-        "automation",
-        "browser-automation",
-        "docker",
-        "webdav",
         "onelist"
       ],
       "language": "Go",
@@ -5224,8 +5018,6 @@
       "description": "Linux下谷歌网盘同步工具、自动备份VPS文件到Google Drive",
       "category": "媒体下载/存储",
       "topics": [
-        "cli",
-        "ssh",
         "linux",
         "google",
         "drive"
@@ -5240,9 +5032,6 @@
       "description": "简单流媒体服务端",
       "category": "媒体下载/存储",
       "topics": [
-        "cloudflare",
-        "workers",
-        "cli",
         "stream",
         "media"
       ],
@@ -5256,9 +5045,6 @@
       "description": "Google Drive文件夹列表构建Google Drive文件夹的html输出文件",
       "category": "媒体下载/存储",
       "topics": [
-        "cli",
-        "golang",
-        "python",
         "gdfl"
       ],
       "language": "Python",
@@ -5283,7 +5069,6 @@
       "description": "妹子图网站爬虫",
       "category": "媒体下载/存储",
       "topics": [
-        "python",
         "beautyimgdownload"
       ],
       "language": "Python",
@@ -5318,7 +5103,7 @@
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 184039,
+      "stars": 184075,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -5331,7 +5116,7 @@
         "workflows"
       ],
       "language": "Python",
-      "stars": 53753,
+      "stars": 53755,
       "starredAt": "2025-09-25T10:29:06Z"
     },
     {
@@ -5357,7 +5142,7 @@
         "ws"
       ],
       "language": "",
-      "stars": 53488,
+      "stars": 53491,
       "starredAt": "2019-09-08T01:59:53Z"
     },
     {
@@ -5384,7 +5169,7 @@
         "llm"
       ],
       "language": "Python",
-      "stars": 51647,
+      "stars": 51653,
       "starredAt": "2025-12-03T17:41:12Z"
     },
     {
@@ -5404,7 +5189,7 @@
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 48704,
+      "stars": 48718,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
@@ -5425,7 +5210,7 @@
         "revokemsg"
       ],
       "language": "C#",
-      "stars": 37365,
+      "stars": 37366,
       "starredAt": "2023-12-28T02:04:27Z"
     },
     {
@@ -5456,7 +5241,7 @@
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 36932,
+      "stars": 36972,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -5469,7 +5254,7 @@
         "android"
       ],
       "language": "Kotlin",
-      "stars": 36659,
+      "stars": 36660,
       "starredAt": "2019-08-02T07:26:09Z"
     },
     {
@@ -5497,7 +5282,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 22774,
+      "stars": 22776,
       "starredAt": "2025-11-05T21:05:44Z"
     },
     {
@@ -5544,7 +5329,7 @@
         "fiddler"
       ],
       "language": "Dart",
-      "stars": 12927,
+      "stars": 12930,
       "starredAt": "2023-09-06T23:19:32Z"
     },
     {
@@ -5568,7 +5353,7 @@
         "openai"
       ],
       "language": "Python",
-      "stars": 10923,
+      "stars": 10924,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
@@ -5584,7 +5369,7 @@
         "youtube"
       ],
       "language": "Python",
-      "stars": 9958,
+      "stars": 9961,
       "starredAt": "2025-05-20T11:02:45Z"
     },
     {
@@ -5600,7 +5385,7 @@
         "help-wanted"
       ],
       "language": "Python",
-      "stars": 9547,
+      "stars": 9549,
       "starredAt": "2019-08-02T10:17:28Z"
     },
     {
@@ -5682,12 +5467,10 @@
       "description": "无需实际安装即可运行 iOS 应用程序！",
       "category": "开发工具/自动化",
       "topics": [
-        "automation",
-        "browser-automation",
         "livecontainer"
       ],
       "language": "Swift",
-      "stars": 7763,
+      "stars": 7765,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
@@ -5713,7 +5496,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 5144,
+      "stars": 5145,
       "starredAt": "2025-08-31T17:07:45Z"
     },
     {
@@ -5780,15 +5563,14 @@
     {
       "repo": "zc-zhangchen/any-auto-register",
       "url": "https://github.com/zc-zhangchen/any-auto-register",
-      "description": "多平台账号自动注册与管理系统，支持插件化扩展、Web UI 管理、批量注册、状态同步，以及本地 Turnstile Solver 自动拉起",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "docker",
         "auto",
         "register"
       ],
       "language": "Python",
-      "stars": 2991,
+      "stars": 2994,
       "starredAt": "2026-03-29T15:22:03Z"
     },
     {
@@ -5810,13 +5592,10 @@
       "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事",
       "category": "开发工具/自动化",
       "topics": [
-        "claude-code",
-        "docker",
-        "python",
         "mumuainovel"
       ],
       "language": "Python",
-      "stars": 2119,
+      "stars": 2121,
       "starredAt": "2025-10-30T10:49:33Z"
     },
     {
@@ -5835,17 +5614,14 @@
     {
       "repo": "lxf746/any-auto-register",
       "url": "https://github.com/lxf746/any-auto-register",
-      "description": "多平台账号自动注册与管理系统，支持插件化扩展，内置 Web UI",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
-        "automation",
-        "browser-automation",
-        "python"
+        "auto",
+        "register"
       ],
       "language": "Python",
-      "stars": 1603,
+      "stars": 1606,
       "starredAt": "2026-03-20T01:30:21Z"
     },
     {
@@ -5882,14 +5658,11 @@
       "description": "抖音逆向，抖音爬虫，抖音全部api、直播间监听",
       "category": "开发工具/自动化",
       "topics": [
-        "api-gateway",
-        "golang",
-        "python",
         "douyin",
         "spider"
       ],
       "language": "JavaScript",
-      "stars": 1389,
+      "stars": 1392,
       "starredAt": "2024-09-25T15:19:59Z"
     },
     {
@@ -5898,13 +5671,11 @@
       "description": "此仓库存储我在YouTube频道分享的N8N工作流配置文件，用户可直接下载JSON文件导入N8N使用",
       "category": "开发工具/自动化",
       "topics": [
-        "mcp",
         "workflow-automation",
-        "rag",
         "workflows"
       ],
       "language": "",
-      "stars": 1380,
+      "stars": 1381,
       "starredAt": "2025-10-17T09:55:39Z"
     },
     {
@@ -5988,7 +5759,6 @@
       "description": "一个简单的网站基准测试工具",
       "category": "开发工具/自动化",
       "topics": [
-        "ai-agent",
         "webbenchmark"
       ],
       "language": "Go",
@@ -6001,8 +5771,6 @@
       "description": "Rust 中的 Kiro 客户端",
       "category": "开发工具/自动化",
       "topics": [
-        "claude-code",
-        "api-gateway",
         "cli",
         "rust",
         "kiro"
@@ -6030,9 +5798,6 @@
       "description": "这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策",
       "category": "开发工具/自动化",
       "topics": [
-        "docker",
-        "cli",
-        "python",
         "gridbnb",
         "usdt"
       ],
@@ -6046,11 +5811,9 @@
       "description": "A professional anti-detect browser built on Electron and Puppeteer, integrated w",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
         "automation",
         "browser-automation",
-        "api-gateway"
+        "geekezbrowser"
       ],
       "language": "JavaScript",
       "stars": 717,
@@ -6075,10 +5838,7 @@
       "description": "用于为您的网站设置 CDN 节点的一键式 shell 脚本",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
         "cli",
-        "knowledge-management",
         "oneclickcdn"
       ],
       "language": "Shell",
@@ -6108,7 +5868,7 @@
         "douyin"
       ],
       "language": "JavaScript",
-      "stars": 523,
+      "stars": 524,
       "starredAt": "2023-05-18T23:28:59Z"
     },
     {
@@ -6139,7 +5899,7 @@
         "rag"
       ],
       "language": "Rust",
-      "stars": 464,
+      "stars": 465,
       "starredAt": "2026-04-07T17:36:00Z"
     },
     {
@@ -6165,7 +5925,6 @@
       "description": "身份证生成器",
       "category": "开发工具/自动化",
       "topics": [
-        "javascript",
         "idcard",
         "generator"
       ],
@@ -6176,14 +5935,10 @@
     {
       "repo": "Tansuo2021/OCRPDF-TO-PPT",
       "url": "https://github.com/Tansuo2021/OCRPDF-TO-PPT",
-      "description": "核心思想：每张幻灯片都使用原始图像（或修复的“干净背景”图像）作为背景",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
-        "workflow-automation",
-        "cli",
-        "python"
+        "ocrpdf"
       ],
       "language": "Python",
       "stars": 451,
@@ -6195,7 +5950,6 @@
       "description": "抖音批量下载助手",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "douyinhelper"
       ],
       "language": "Python",
@@ -6267,7 +6021,6 @@
       "description": "使用更新的用户名和密码保护您的 Termux 应用程序 v.1.2",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "termux",
         "login"
       ],
@@ -6353,9 +6106,6 @@
       "description": "渗透 超全面的渗透资料💯 包含：0day，xss，sql注入，提权……",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
-        "cli",
         "penetration"
       ],
       "language": "Python",
@@ -6381,8 +6131,6 @@
       "description": "小黑盒，好游快爆，miui历史版本,天翼云盘自动签到脚本",
       "category": "开发工具/自动化",
       "topics": [
-        "wechat",
-        "python",
         "autosign"
       ],
       "language": "Python",
@@ -6405,10 +6153,9 @@
     {
       "repo": "tingxifa/okx-grid-bot",
       "url": "https://github.com/tingxifa/okx-grid-bot",
-      "description": "OKX自动化网格交易机器人 这是一个基于 Python 的自动化交易程序，专为OKX交易所的 OKB USDT 交易对设计。该程序采用网格交易策略",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "grid"
       ],
       "language": "Python",
@@ -6448,9 +6195,6 @@
       "description": "一个基于 \"FastAPI + Vue 3 + pywebview\" 的Outlook邮件账号管理与邮件查看工具",
       "category": "开发工具/自动化",
       "topics": [
-        "automation",
-        "browser-automation",
-        "python",
         "mail",
         "fetcher"
       ],
@@ -6461,12 +6205,9 @@
     {
       "repo": "LigphiDonk/team-project",
       "url": "https://github.com/LigphiDonk/team-project",
-      "description": "GPT 团队管理器（ChatGPT Workspace） 一个用于统一管理多个 ChatGPT 工作空间账号的 Web 应用，支持账号池管理、登录状态持久化",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "automation",
-        "browser-automation",
-        "typescript",
         "team",
         "project"
       ],
@@ -6480,7 +6221,6 @@
       "description": "用于批量或快速完成 Gemini Enterprise 账号注册",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "geminibusiness",
         "auto",
         "free"
@@ -6496,7 +6236,6 @@
       "category": "开发工具/自动化",
       "topics": [
         "cli",
-        "tauri",
         "vibeclip"
       ],
       "language": "Vue",
@@ -6548,8 +6287,6 @@
       "description": "基于个人 Memos 笔记的智能问答助手",
       "category": "开发工具/自动化",
       "topics": [
-        "docker",
-        "python",
         "memos"
       ],
       "language": "Python",
@@ -6562,9 +6299,6 @@
       "description": "小游戏：吃掉小鹿乃",
       "category": "开发工具/自动化",
       "topics": [
-        "cloudflare",
-        "workers",
-        "cli",
         "eatcxk"
       ],
       "language": "JavaScript",
@@ -6577,7 +6311,6 @@
       "description": "情趣综合平台 美图爬虫/批量下载",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "qqzhpt",
         "spider"
       ],
@@ -6591,7 +6324,6 @@
       "description": "用于将Gitee仓库作为文件系统使用的库",
       "category": "开发工具/自动化",
       "topics": [
-        "cli",
         "giteefs"
       ],
       "language": "F#",
@@ -6605,7 +6337,6 @@
       "category": "开发工具/自动化",
       "topics": [
         "python",
-        "javascript",
         "reedflow"
       ],
       "language": "HTML",
@@ -6628,10 +6359,9 @@
     {
       "repo": "BHznJNs/auto-discourse",
       "url": "https://github.com/BHznJNs/auto-discourse",
-      "description": "AI 自动刷 Discourse 站点 使用方法 clone 这个仓库： 安装依赖： 配置环境变量： 在 文件中配置以下环境变量： : OpenAI API 密",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "python",
         "auto",
         "discourse"
       ],
@@ -6645,11 +6375,11 @@
       "description": "ScriptGateway - 用于 n8n 工作流程自动化的轻量级脚本托管和 API 网关平台",
       "category": "开发工具/自动化",
       "topics": [
-        "automation",
-        "browser-automation",
-        "docker",
         "api-gateway",
-        "workflow-automation"
+        "workflow-automation",
+        "python",
+        "script",
+        "gateway"
       ],
       "language": "Python",
       "stars": 4,
@@ -6658,11 +6388,9 @@
     {
       "repo": "Nicolana/generate-cover",
       "url": "https://github.com/Nicolana/generate-cover",
-      "description": "Generate Cover WordPress 插件 一个强大的WordPress插件，使用AI技术自动为博客文章生成封面图片",
+      "description": "暂无公开描述",
       "category": "开发工具/自动化",
       "topics": [
-        "plugin",
-        "seo",
         "generate",
         "cover"
       ],
@@ -6681,7 +6409,7 @@
         "dujiaofaka"
       ],
       "language": "PHP",
-      "stars": 11995,
+      "stars": 11998,
       "starredAt": "2021-01-09T18:20:22Z"
     },
     {
@@ -6741,7 +6469,7 @@
         "dao-hang"
       ],
       "language": "CSS",
-      "stars": 7256,
+      "stars": 7257,
       "starredAt": "2019-09-22T10:31:02Z"
     },
     {
@@ -6830,7 +6558,6 @@
       "description": "卡密商城系统，高效安全的在线卡密商城",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
         "card",
         "system"
       ],
@@ -6896,7 +6623,7 @@
         "issues-blog"
       ],
       "language": "Python",
-      "stars": 2321,
+      "stars": 2322,
       "starredAt": "2024-06-25T03:46:16Z"
     },
     {
@@ -6914,7 +6641,7 @@
         "vercel"
       ],
       "language": "JavaScript",
-      "stars": 2153,
+      "stars": 2154,
       "starredAt": "2020-12-04T06:23:57Z"
     },
     {
@@ -6969,14 +6696,10 @@
       "description": "极简朋友圈",
       "category": "网站/CMS/博客",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "workflow-automation",
-        "golang"
+        "moments"
       ],
       "language": "Go",
-      "stars": 1874,
+      "stars": 1875,
       "starredAt": "2024-06-30T17:25:22Z"
     },
     {
@@ -7004,7 +6727,6 @@
       "description": "一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快",
       "category": "网站/CMS/博客",
       "topics": [
-        "seo",
         "luxirty",
         "search"
       ],
@@ -7044,9 +6766,7 @@
       "url": "https://github.com/Mereithhh/van-nav",
       "description": "一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件",
       "category": "网站/CMS/博客",
-      "topics": [
-        "docker"
-      ],
+      "topics": [],
       "language": "TypeScript",
       "stars": 1237,
       "starredAt": "2024-03-12T07:25:24Z"
@@ -7057,8 +6777,6 @@
       "description": "MDClub 社区系统后端代码",
       "category": "网站/CMS/博客",
       "topics": [
-        "seo",
-        "javascript",
         "mdclub"
       ],
       "language": "PHP",
@@ -7097,7 +6815,7 @@
         "blog-theme"
       ],
       "language": "Astro",
-      "stars": 889,
+      "stars": 890,
       "starredAt": "2025-11-02T15:12:20Z"
     },
     {
@@ -7107,8 +6825,6 @@
       "category": "网站/CMS/博客",
       "topics": [
         "php",
-        "wechat",
-        "docker",
         "lylme",
         "spage"
       ],
@@ -7119,10 +6835,9 @@
     {
       "repo": "chengzhongxue/halo-theme-hao",
       "url": "https://github.com/chengzhongxue/halo-theme-hao",
-      "description": "Halo Theme Hao 主题预览 快速上手 使用文档 加入我们 ℹ️ 简介 Halo Theme Hao 是一款适用于 Halo2.x 的博客主题",
+      "description": "暂无公开描述",
       "category": "网站/CMS/博客",
       "topics": [
-        "plugin",
         "halo",
         "theme"
       ],
@@ -7200,7 +6915,6 @@
       "description": "免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验",
       "category": "网站/CMS/博客",
       "topics": [
-        "docker",
         "mtab"
       ],
       "language": "PHP",
@@ -7309,9 +7023,6 @@
       "description": "胖鼠采集 WordPress优秀开源采集插件",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
-        "plugin",
-        "seo",
         "fatrat",
         "collect"
       ],
@@ -7344,9 +7055,6 @@
       "description": "Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本",
       "category": "网站/CMS/博客",
       "topics": [
-        "plugin",
-        "seo",
-        "typescript",
         "typecho",
         "theme"
       ],
@@ -7391,9 +7099,6 @@
       "description": "一个极简的RSS在线浏览工具",
       "category": "网站/CMS/博客",
       "topics": [
-        "docker",
-        "seo",
-        "golang",
         "reader"
       ],
       "language": "Go",
@@ -7406,10 +7111,6 @@
       "description": "Linux DO Credit 虚拟商品商店",
       "category": "网站/CMS/博客",
       "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
-        "typescript",
         "shop"
       ],
       "language": "TypeScript",
@@ -7425,7 +7126,7 @@
         "home"
       ],
       "language": "HTML",
-      "stars": 379,
+      "stars": 380,
       "starredAt": "2022-09-04T07:53:39Z"
     },
     {
@@ -7463,7 +7164,6 @@
       "description": "一款typecho 社交圈子 主题",
       "category": "网站/CMS/博客",
       "topics": [
-        "plugin",
         "onecircle"
       ],
       "language": "PHP",
@@ -7533,7 +7233,7 @@
         "farallon"
       ],
       "language": "PHP",
-      "stars": 247,
+      "stars": 248,
       "starredAt": "2024-04-28T06:34:36Z"
     },
     {
@@ -7595,7 +7295,6 @@
       "description": "我的静态博客模板",
       "category": "网站/CMS/博客",
       "topics": [
-        "seo",
         "unix"
       ],
       "language": "TypeScript",
@@ -7694,7 +7393,6 @@
       "description": "多平台 Typecho 移动应用解决方案 可打包为 APP/小程序",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
         "unitypecho"
       ],
       "language": "CSS",
@@ -7737,9 +7435,7 @@
       "description": "GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
         "docker",
-        "api-gateway",
         "geekfaka"
       ],
       "language": "TypeScript",
@@ -7763,7 +7459,7 @@
     {
       "repo": "halo-dev/halo-theme-icarus",
       "url": "https://github.com/halo-dev/halo-theme-icarus",
-      "description": "Halo Theme Icarus 此分支是适配 Halo 2.0 的版本，Halo 1.x 请访问 说明 该主题的原作者为 ppoffice",
+      "description": "暂无公开描述",
       "category": "网站/CMS/博客",
       "topics": [
         "halo",
@@ -7856,7 +7552,6 @@
       "description": "简单短链接,短链接生成，短链接加密，短链接二维码，短链接API，短链接自定义后缀，二维码API",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
         "shortny"
       ],
       "language": "PHP",
@@ -7882,7 +7577,6 @@
       "description": "鸭梨AI：一款智能内容生成插件，帮助WordPress管理员自动生成高质量中文文章",
       "category": "网站/CMS/博客",
       "topics": [
-        "seo",
         "content",
         "auto",
         "manager"
@@ -7897,9 +7591,6 @@
       "description": "一个以“用户评价”为核心的轻量导航站",
       "category": "网站/CMS/博客",
       "topics": [
-        "cloudflare",
-        "workers",
-        "javascript",
         "navo"
       ],
       "language": "HTML",
@@ -7912,8 +7603,6 @@
       "description": "CardVerse 是一个开箱即用的数字商品与卡密发货系统，包含后端 API、后台管理端和前台商城，支持订单创建、卡密自动/手动发货、优惠券、支付通道",
       "category": "网站/CMS/博客",
       "topics": [
-        "docker",
-        "api-gateway",
         "cardverse"
       ],
       "language": "TypeScript",
@@ -7926,7 +7615,6 @@
       "description": "奶狗附件下载插件适用于大多数WordPress主题",
       "category": "网站/CMS/博客",
       "topics": [
-        "wechat",
         "ngdown"
       ],
       "language": "PHP",
@@ -7983,7 +7671,6 @@
       "topics": [
         "cloudflare",
         "workers",
-        "javascript",
         "noominav",
         "optimization"
       ],
@@ -8013,7 +7700,7 @@
         "antigravity"
       ],
       "language": "Rust",
-      "stars": 28214,
+      "stars": 28225,
       "starredAt": "2025-12-23T02:32:14Z"
     },
     {
@@ -8031,7 +7718,7 @@
         "antigravity"
       ],
       "language": "Go",
-      "stars": 26008,
+      "stars": 26055,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
@@ -8051,7 +7738,7 @@
         "crs2"
       ],
       "language": "Go",
-      "stars": 12522,
+      "stars": 12561,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
@@ -8071,7 +7758,7 @@
         "claude-code"
       ],
       "language": "Python",
-      "stars": 4544,
+      "stars": 4546,
       "starredAt": "2025-10-23T00:53:15Z"
     },
     {
@@ -8086,7 +7773,7 @@
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4238,
+      "stars": 4237,
       "starredAt": "2026-01-16T18:26:07Z"
     },
     {
@@ -8100,7 +7787,7 @@
         "grok-4-20"
       ],
       "language": "Python",
-      "stars": 4234,
+      "stars": 4236,
       "starredAt": "2026-02-07T22:43:06Z"
     },
     {
@@ -8111,12 +7798,11 @@
       "topics": [
         "openclaw",
         "claude-code",
-        "knowledge-management",
         "zero",
         "token"
       ],
       "language": "TypeScript",
-      "stars": 4228,
+      "stars": 4235,
       "starredAt": "2026-03-14T23:54:12Z"
     },
     {
@@ -8142,7 +7828,7 @@
         "deepseek"
       ],
       "language": "Go",
-      "stars": 3072,
+      "stars": 3077,
       "starredAt": "2025-11-11T13:50:07Z"
     },
     {
@@ -8155,7 +7841,7 @@
         "claude-code"
       ],
       "language": "TypeScript",
-      "stars": 2428,
+      "stars": 2432,
       "starredAt": "2025-10-24T12:01:49Z"
     },
     {
@@ -8164,13 +7850,25 @@
       "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站",
       "category": "逆向2API/AI网关",
       "topics": [
-        "docker",
         "api-gateway",
         "metapi"
       ],
       "language": "TypeScript",
-      "stars": 2087,
+      "stars": 2092,
       "starredAt": "2026-03-07T11:40:53Z"
+    },
+    {
+      "repo": "TheSmallHanCat/flow2api",
+      "url": "https://github.com/TheSmallHanCat/flow2api",
+      "description": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297",
+      "category": "逆向2API/AI网关",
+      "topics": [
+        "api-gateway",
+        "flow2api"
+      ],
+      "language": "Python",
+      "stars": 1989,
+      "starredAt": "2025-12-20T06:43:29Z"
     },
     {
       "repo": "bestruirui/octopus",
@@ -8193,21 +7891,6 @@
       "starredAt": "2025-12-19T18:52:59Z"
     },
     {
-      "repo": "TheSmallHanCat/flow2api",
-      "url": "https://github.com/TheSmallHanCat/flow2api",
-      "description": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "docker",
-        "api-gateway",
-        "python",
-        "flow2api"
-      ],
-      "language": "Python",
-      "stars": 1986,
-      "starredAt": "2025-12-20T06:43:29Z"
-    },
-    {
       "repo": "7836246/cursor2api",
       "url": "https://github.com/7836246/cursor2api",
       "description": "将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持",
@@ -8220,7 +7903,7 @@
         "cursor"
       ],
       "language": "TypeScript",
-      "stars": 1750,
+      "stars": 1751,
       "starredAt": "2026-03-29T16:58:51Z"
     },
     {
@@ -8229,13 +7912,12 @@
       "description": "官网：https://kiro-website-six.vercel.app",
       "category": "逆向2API/AI网关",
       "topics": [
-        "tauri",
         "kiro",
         "account",
         "manager"
       ],
       "language": "JavaScript",
-      "stars": 1345,
+      "stars": 1346,
       "starredAt": "2026-01-06T12:55:30Z"
     },
     {
@@ -8256,7 +7938,7 @@
         "openclaw"
       ],
       "language": "Go",
-      "stars": 1059,
+      "stars": 1060,
       "starredAt": "2026-03-29T15:25:23Z"
     },
     {
@@ -8265,14 +7947,11 @@
       "description": "gpt team管理和自动邀请",
       "category": "逆向2API/AI网关",
       "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
-        "python",
-        "javascript"
+        "team",
+        "manage"
       ],
       "language": "Python",
-      "stars": 1007,
+      "stars": 1009,
       "starredAt": "2026-03-16T11:35:59Z"
     },
     {
@@ -8296,30 +7975,23 @@
     {
       "repo": "fawney19/Aether",
       "url": "https://github.com/fawney19/Aether",
-      "description": "Aether 一站式 AI 基础设施平台 支持 Claude / OpenAI / Gemini 及其 CLI 客户端的统一接入、格式转换",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "claude-code",
-        "docker",
-        "api-gateway",
-        "cli",
-        "python"
+        "aether"
       ],
       "language": "Python",
-      "stars": 969,
+      "stars": 970,
       "starredAt": "2025-12-13T04:11:30Z"
     },
     {
       "repo": "caidaoli/kiro2api",
       "url": "https://github.com/caidaoli/kiro2api",
-      "description": "kiro2api 高性能 AI API 代理服务器 统一 Anthropic Claude",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "claude-code",
-        "docker",
         "api-gateway",
-        "cli",
-        "golang"
+        "kiro2api"
       ],
       "language": "Go",
       "stars": 568,
@@ -8331,7 +8003,6 @@
       "description": "源代码",
       "category": "逆向2API/AI网关",
       "topics": [
-        "rag",
         "auto",
         "cursor",
         "releases"
@@ -8346,14 +8017,11 @@
       "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器",
       "category": "逆向2API/AI网关",
       "topics": [
-        "cloudflare",
-        "workers",
         "codex",
-        "api-gateway",
-        "python"
+        "register"
       ],
       "language": "Python",
-      "stars": 503,
+      "stars": 505,
       "starredAt": "2026-03-18T01:19:34Z"
     },
     {
@@ -8369,7 +8037,7 @@
         "wechat"
       ],
       "language": "Kotlin",
-      "stars": 494,
+      "stars": 495,
       "starredAt": "2026-04-12T09:54:05Z"
     },
     {
@@ -8379,10 +8047,8 @@
       "category": "逆向2API/AI网关",
       "topics": [
         "claude-code",
-        "docker",
         "api-gateway",
-        "cli",
-        "python"
+        "web2api"
       ],
       "language": "Python",
       "stars": 468,
@@ -8391,12 +8057,9 @@
     {
       "repo": "AnkRoot/Augment-BYOK",
       "url": "https://github.com/AnkRoot/Augment-BYOK",
-      "description": "Augment BYOK（请尽快 PR 合并",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "api-gateway",
-        "rust",
-        "version-control",
         "augment",
         "byok"
       ],
@@ -8427,12 +8090,10 @@
       "category": "逆向2API/AI网关",
       "topics": [
         "api-gateway",
-        "cli",
-        "python",
         "fucto"
       ],
       "language": "Python",
-      "stars": 241,
+      "stars": 240,
       "starredAt": "2025-10-21T12:59:28Z"
     },
     {
@@ -8468,7 +8129,6 @@
       "description": "人人都是【超级】哈基米大王",
       "category": "逆向2API/AI网关",
       "topics": [
-        "docker",
         "hajimi",
         "king"
       ],
@@ -8479,11 +8139,9 @@
     {
       "repo": "XUANXUQAQ/gpt-api-sync",
       "url": "https://github.com/XUANXUQAQ/gpt-api-sync",
-      "description": "主要功能 渠道同步 : 一键将源平台的渠道信息同步到目标平台",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "docker",
-        "api-gateway",
         "sync"
       ],
       "language": "Vue",
@@ -8496,11 +8154,7 @@
       "description": "佛法GLM-4.6 For Kilo CODE、Roo Code",
       "category": "逆向2API/AI网关",
       "topics": [
-        "docker",
-        "api-gateway",
-        "golang",
-        "python",
-        "javascript"
+        "ztoapi"
       ],
       "language": "TypeScript",
       "stars": 51,
@@ -8514,7 +8168,6 @@
       "topics": [
         "docker",
         "api-gateway",
-        "python",
         "k2think2api"
       ],
       "language": "Python",
@@ -8524,14 +8177,11 @@
     {
       "repo": "james-6-23/team-invite-kfc",
       "url": "https://github.com/james-6-23/team-invite-kfc",
-      "description": "方式一：Docker Compose 部署（推荐） 1.",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
-        "python",
-        "team"
+        "team",
+        "invite"
       ],
       "language": "HTML",
       "stars": 44,
@@ -8545,7 +8195,6 @@
       "topics": [
         "docker",
         "api-gateway",
-        "python",
         "googletranslate",
         "2api"
       ],
@@ -8561,9 +8210,9 @@
       "topics": [
         "cloudflare",
         "workers",
-        "docker",
         "api-gateway",
-        "python"
+        "2api",
+        "cfwork"
       ],
       "language": "",
       "stars": 31,
@@ -8591,12 +8240,9 @@
     {
       "repo": "ZhangWY0724/apitest",
       "url": "https://github.com/ZhangWY0724/apitest",
-      "description": "API Test 前后端分离版 技术栈 后端：FastAPI + Requests 前端：React + Vite + Ant Design 单脚本简易版：Py",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "api-gateway",
-        "cli",
-        "python",
         "apitest"
       ],
       "language": "Python",
@@ -8609,11 +8255,11 @@
       "description": "核心技术: Cloudscraper 反机器人绕过 · 多账号凭证轮询 · 原生 OpenAI 流式 API 转换 · 高级请求伪装 · Docker 一键部署",
       "category": "逆向2API/AI网关",
       "topics": [
-        "cloudflare",
-        "workers",
         "scraping",
         "crawler",
-        "docker"
+        "docker",
+        "api-gateway",
+        "novaapp"
       ],
       "language": "Python",
       "stars": 12,
@@ -8622,13 +8268,9 @@
     {
       "repo": "alhza/GPT-Load",
       "url": "https://github.com/alhza/GPT-Load",
-      "description": "﻿ GPT Load Model Aggregation & Intelligent Routing Extension English 中文 日本語 Abou",
+      "description": "暂无公开描述",
       "category": "逆向2API/AI网关",
       "topics": [
-        "api-gateway",
-        "cli",
-        "golang",
-        "version-control",
         "load"
       ],
       "language": "Go",
@@ -8667,7 +8309,7 @@
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 110596,
+      "stars": 110642,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -8690,7 +8332,7 @@
         "vpn"
       ],
       "language": "Kotlin",
-      "stars": 54031,
+      "stars": 54041,
       "starredAt": "2022-10-11T09:41:36Z"
     },
     {
@@ -8709,7 +8351,7 @@
         "virtualization"
       ],
       "language": "Shell",
-      "stars": 50913,
+      "stars": 50926,
       "starredAt": "2024-03-12T01:34:33Z"
     },
     {
@@ -8718,11 +8360,10 @@
       "description": "适用于 Android 的基于规则的隧道",
       "category": "部署运维/网络",
       "topics": [
-        "golang",
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 37464,
+      "stars": 37469,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
@@ -8752,7 +8393,7 @@
         "fail2ban"
       ],
       "language": "HTML",
-      "stars": 34072,
+      "stars": 34083,
       "starredAt": "2024-06-05T23:32:13Z"
     },
     {
@@ -8778,7 +8419,7 @@
         "nps"
       ],
       "language": "Go",
-      "stars": 34022,
+      "stars": 34021,
       "starredAt": "2022-11-07T09:53:39Z"
     },
     {
@@ -8807,7 +8448,7 @@
         "wireguard"
       ],
       "language": "Dart",
-      "stars": 28620,
+      "stars": 28624,
       "starredAt": "2024-06-06T12:15:59Z"
     },
     {
@@ -8837,7 +8478,7 @@
         "python-spider"
       ],
       "language": "Python",
-      "stars": 21541,
+      "stars": 21543,
       "starredAt": "2019-11-14T19:17:13Z"
     },
     {
@@ -8868,7 +8509,7 @@
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 21029,
+      "stars": 21030,
       "starredAt": "2025-01-01T12:19:08Z"
     },
     {
@@ -8933,7 +8574,7 @@
         "vpn"
       ],
       "language": "C++",
-      "stars": 16639,
+      "stars": 16640,
       "starredAt": "2024-06-07T05:28:15Z"
     },
     {
@@ -8949,7 +8590,7 @@
         "cli"
       ],
       "language": "",
-      "stars": 12298,
+      "stars": 12303,
       "starredAt": "2026-04-11T06:37:37Z"
     },
     {
@@ -8967,7 +8608,7 @@
         "gfw"
       ],
       "language": "",
-      "stars": 11951,
+      "stars": 11952,
       "starredAt": "2022-10-08T01:13:29Z"
     },
     {
@@ -8997,7 +8638,7 @@
         "linux-distribution"
       ],
       "language": "Shell",
-      "stars": 11487,
+      "stars": 11488,
       "starredAt": "2024-11-27T04:34:01Z"
     },
     {
@@ -9023,8 +8664,6 @@
       "description": "基于ServiceWorker的在线代理",
       "category": "部署运维/网络",
       "topics": [
-        "cloudflare",
-        "workers",
         "api-gateway",
         "jsproxy"
       ],
@@ -9052,7 +8691,7 @@
         "ssr"
       ],
       "language": "JavaScript",
-      "stars": 9250,
+      "stars": 9253,
       "starredAt": "2024-06-23T12:36:40Z"
     },
     {
@@ -9100,7 +8739,7 @@
         "goecs"
       ],
       "language": "Shell",
-      "stars": 6650,
+      "stars": 6651,
       "starredAt": "2024-04-20T04:45:18Z"
     },
     {
@@ -9110,13 +8749,12 @@
       "category": "部署运维/网络",
       "topics": [
         "proxypool",
-        "telegram",
-        "telegram-bot",
         "scraping",
-        "crawler"
+        "crawler",
+        "aggregator"
       ],
       "language": "Python",
-      "stars": 6570,
+      "stars": 6571,
       "starredAt": "2025-10-27T09:59:25Z"
     },
     {
@@ -9147,10 +8785,6 @@
       "description": "自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器",
       "category": "部署运维/网络",
       "topics": [
-        "cloudflare",
-        "workers",
-        "telegram",
-        "telegram-bot",
         "workervless2sub"
       ],
       "language": "JavaScript",
@@ -9219,7 +8853,7 @@
         "v2ray"
       ],
       "language": "Go",
-      "stars": 4739,
+      "stars": 4740,
       "starredAt": "2026-02-27T08:05:28Z"
     },
     {
@@ -9228,9 +8862,6 @@
       "description": "云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
-        "cli",
-        "python",
         "serverstatus"
       ],
       "language": "C++",
@@ -9265,7 +8896,7 @@
         "sap"
       ],
       "language": "Shell",
-      "stars": 4555,
+      "stars": 4557,
       "starredAt": "2025-11-05T09:21:40Z"
     },
     {
@@ -9337,7 +8968,7 @@
         "tunnel"
       ],
       "language": "Shell",
-      "stars": 4421,
+      "stars": 4422,
       "starredAt": "2025-07-08T22:31:17Z"
     },
     {
@@ -9347,10 +8978,7 @@
       "category": "部署运维/网络",
       "topics": [
         "proxypool",
-        "cloudflare",
-        "workers",
-        "telegram",
-        "telegram-bot"
+        "subscheck"
       ],
       "language": "C#",
       "stars": 4400,
@@ -9418,7 +9046,7 @@
         "two-factor"
       ],
       "language": "PHP",
-      "stars": 3875,
+      "stars": 3876,
       "starredAt": "2025-06-28T23:08:11Z"
     },
     {
@@ -9452,7 +9080,7 @@
         "dockerfiles"
       ],
       "language": "Svelte",
-      "stars": 3816,
+      "stars": 3815,
       "starredAt": "2026-02-25T03:51:13Z"
     },
     {
@@ -9494,17 +9122,25 @@
     {
       "repo": "GMwalletApp/epusdt",
       "url": "https://github.com/GMwalletApp/epusdt",
-      "description": "开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt",
+      "description": "开源优雅的跨平台收款网关 Easy Payment USDT——epsdt",
       "category": "部署运维/网络",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "plugin",
-        "docker",
-        "golang"
+        "cryoto",
+        "payment",
+        "payments",
+        "web3",
+        "newapi",
+        "dujiaoka",
+        "bnb",
+        "ethereum",
+        "polygon",
+        "solana",
+        "tron",
+        "usdc",
+        "usdt-tokens"
       ],
       "language": "Go",
-      "stars": 2927,
+      "stars": 2936,
       "starredAt": "2023-08-03T22:47:04Z"
     },
     {
@@ -9573,7 +9209,7 @@
         "all-in-one"
       ],
       "language": "TypeScript",
-      "stars": 2226,
+      "stars": 2225,
       "starredAt": "2025-11-11T14:07:40Z"
     },
     {
@@ -9613,9 +9249,8 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "docker",
-        "workflow-automation",
-        "ssh"
+        "ssh",
+        "easynode"
       ],
       "language": "Vue",
       "stars": 1947,
@@ -9627,7 +9262,6 @@
       "description": "致力于最简单好用的GOST小白脚本",
       "category": "部署运维/网络",
       "topics": [
-        "api-gateway",
         "multi",
         "easygost"
       ],
@@ -9657,14 +9291,10 @@
       "description": "测试站，密码admin123",
       "category": "部署运维/网络",
       "topics": [
-        "cloudflare",
-        "workers",
-        "telegram",
-        "telegram-bot",
-        "ai-agent"
+        "misub"
       ],
       "language": "JavaScript",
-      "stars": 1726,
+      "stars": 1729,
       "starredAt": "2025-10-27T13:51:41Z"
     },
     {
@@ -9688,9 +9318,6 @@
       "description": "一个简单的哪吒仪表板",
       "category": "部署运维/网络",
       "topics": [
-        "cloudflare",
-        "workers",
-        "docker",
         "nezha",
         "dash"
       ],
@@ -9712,7 +9339,7 @@
         "mtp"
       ],
       "language": "Shell",
-      "stars": 1592,
+      "stars": 1593,
       "starredAt": "2024-12-14T09:09:14Z"
     },
     {
@@ -9721,7 +9348,6 @@
       "description": "iptables转发ddns域名",
       "category": "部署运维/网络",
       "topics": [
-        "api-gateway",
         "iptablesutils"
       ],
       "language": "Shell",
@@ -9734,11 +9360,10 @@
       "description": "SamWaf开源轻量级网站防火墙",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
         "samwaf"
       ],
       "language": "Go",
-      "stars": 1390,
+      "stars": 1391,
       "starredAt": "2025-01-01T08:10:24Z"
     },
     {
@@ -9773,10 +9398,7 @@
       "description": "多代理协议管理面板应用程序界面",
       "category": "部署运维/网络",
       "topics": [
-        "telegram",
-        "telegram-bot",
         "api-gateway",
-        "cli",
         "v2board"
       ],
       "language": "PHP",
@@ -9789,7 +9411,6 @@
       "description": "Go+React 全新UI，移动端友好！",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
         "api-gateway",
         "golang",
         "sublinkpro"
@@ -9835,7 +9456,7 @@
         "vps"
       ],
       "language": "Shell",
-      "stars": 903,
+      "stars": 904,
       "starredAt": "2023-09-22T00:24:39Z"
     },
     {
@@ -9845,7 +9466,7 @@
       "category": "部署运维/网络",
       "topics": [],
       "language": "CoffeeScript",
-      "stars": 790,
+      "stars": 791,
       "starredAt": "2022-11-03T03:21:02Z"
     },
     {
@@ -9854,7 +9475,6 @@
       "description": "宝塔v7.7.0官方原版备份",
       "category": "部署运维/网络",
       "topics": [
-        "plugin",
         "btpanel"
       ],
       "language": "Shell",
@@ -9867,11 +9487,10 @@
       "description": "Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
         "miaomiaowu"
       ],
       "language": "TypeScript",
-      "stars": 674,
+      "stars": 677,
       "starredAt": "2025-10-21T12:51:54Z"
     },
     {
@@ -9952,8 +9571,6 @@
       "description": "监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用",
       "category": "部署运维/网络",
       "topics": [
-        "cloudflare",
-        "workers",
         "ssh",
         "trafficcop"
       ],
@@ -9967,10 +9584,7 @@
       "description": "开源节点订阅转换生成管理系统，集成前后端部署在docker",
       "category": "部署运维/网络",
       "topics": [
-        "telegram",
-        "telegram-bot",
         "docker",
-        "python",
         "sublink"
       ],
       "language": "Python",
@@ -10043,7 +9657,6 @@
       "description": "安全,私密,好用的云端服务器集群管理系统",
       "category": "部署运维/网络",
       "topics": [
-        "wechat",
         "nodepanels"
       ],
       "language": "Shell",
@@ -10147,7 +9760,6 @@
       "description": "Docker一键部署 一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换，集成AI画中密语、双指缩放拖拽、多数据库架构。开箱即用的Docker部署方案",
       "category": "部署运维/网络",
       "topics": [
-        "claude-code",
         "docker",
         "photonix"
       ],
@@ -10161,8 +9773,6 @@
       "description": "支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
-        "api-gateway",
         "whois"
       ],
       "language": "Python",
@@ -10177,9 +9787,9 @@
       "topics": [
         "telegram",
         "telegram-bot",
-        "golang",
         "python",
-        "ssh"
+        "ssh",
+        "auto"
       ],
       "language": "Python",
       "stars": 90,
@@ -10207,11 +9817,8 @@
       "description": "自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess节点信息，聚合去重检测可用性后提供节点列表",
       "category": "部署运维/网络",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
         "api-gateway",
-        "workflow-automation"
+        "proxypool"
       ],
       "language": "Go",
       "stars": 82,
@@ -10239,11 +9846,9 @@
       "description": "一款安全的极简探针，云探针、多服务器探针 演示地址：https://sssd.ions.top",
       "category": "部署运维/网络",
       "topics": [
-        "docker",
-        "workflow-automation",
-        "golang",
         "simple",
-        "server"
+        "server",
+        "status"
       ],
       "language": "Go",
       "stars": 78,
@@ -10271,8 +9876,6 @@
       "description": "一键安装和配置Dns流媒体解锁后端",
       "category": "部署运维/网络",
       "topics": [
-        "api-gateway",
-        "cli",
         "dnsmasq"
       ],
       "language": "Shell",

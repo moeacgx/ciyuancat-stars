@@ -4,9 +4,9 @@ import subprocess
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path('/root/.openclaw/workspace-team-a/data/ciyuancat-stars-page')
-CACHE = Path('/root/.openclaw/workspace-team-a/skills/github-star-auto/data/classification_cache.json')
-SEED = Path('/root/.openclaw/workspace-team-a/tmp/star-audit/stars_final_classified.json')
+ROOT = Path('/root/apps/github-daily/ciyuancat-stars-page')
+CACHE = Path('/root/apps/github-daily/github-star-auto/data/classification_cache.json')
+SEED = Path('/root/apps/github-daily/github-star-auto/data/stars_final_classified.json')
 DESC_CACHE = ROOT / 'desc_cache.json'
 
 

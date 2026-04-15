@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO="moeacgx/ciyuancat-stars"
-DIR="/root/.openclaw/workspace-team-a/data/ciyuancat-stars-page"
+DIR="/root/apps/github-daily/ciyuancat-stars-page"
 cd "$DIR"
 
 if [ ! -d .git ]; then
