@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-15T10:23:26",
+  "generatedAt": "2026-04-15T10:23:57",
   "total": 607,
   "categories": {
     "Android 自动化": 1,
@@ -111,7 +111,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 65023,
+      "stars": 65024,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -149,7 +149,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Python",
-      "stars": 53831,
+      "stars": 53832,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -307,7 +307,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 22187,
+      "stars": 22188,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -1957,7 +1957,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 84880,
+      "stars": 84882,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -3337,7 +3337,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 55698,
+      "stars": 55699,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -8351,7 +8351,7 @@ window.__STAR_PAGE_DATA__ = {
         "virtualization"
       ],
       "language": "Shell",
-      "stars": 50926,
+      "stars": 50927,
       "starredAt": "2024-03-12T01:34:33Z"
     },
     {
