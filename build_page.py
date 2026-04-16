@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 import json
+import os
+import re
 import subprocess
 from datetime import datetime
 from pathlib import Path
@@ -10,8 +12,22 @@ SEED = Path('/root/apps/github-daily/github-star-auto/data/stars_final_classifie
 DESC_CACHE = ROOT / 'desc_cache.json'
 
 
+def gh_token():
+    hosts = Path('/root/.config/gh/hosts.yml')
+    if hosts.exists():
+        text = hosts.read_text()
+        m = re.search(r'oauth_token:\s*(\S+)', text)
+        if m:
+            return m.group(1)
+    return os.getenv('GH_TOKEN', '')
+
+
 def run(cmd):
-    p = subprocess.run(cmd, text=True, capture_output=True)
+    env = os.environ.copy()
+    token = gh_token()
+    if token and not env.get('GH_TOKEN'):
+        env['GH_TOKEN'] = token
+    p = subprocess.run(cmd, text=True, capture_output=True, env=env)
     if p.returncode != 0:
         raise SystemExit(p.stderr or p.stdout)
     return p.stdout
