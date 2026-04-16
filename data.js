@@ -1,16 +1,16 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-04-16T11:09:50",
+  "generatedAt": "2026-04-16T11:54:19",
   "total": 615,
   "categories": {
-    "Android 自动化": 2,
-    "开发工具/自动化": 90,
-    "Bot/消息桥接": 50,
-    "部署运维/网络": 99,
-    "Cloudflare 生态": 28,
-    "逆向2API/AI网关": 40,
-    "AI/Agents/Skills": 109,
-    "网站/CMS/博客": 88,
+    "开发工具/自动化": 84,
+    "AI/Agents/Skills": 113,
+    "Bot/消息桥接": 46,
+    "部署运维/网络": 98,
+    "网站/CMS/博客": 90,
+    "逆向2API/AI网关": 37,
+    "未分类": 12,
+    "Cloudflare 生态": 26,
     "媒体下载/存储": 109
   },
   "items": [
@@ -21,7 +21,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Shell",
-      "stars": 154538,
+      "stars": 154612,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -52,7 +52,7 @@ window.__STAR_PAGE_DATA__ = {
         "agentic-workflow"
       ],
       "language": "TypeScript",
-      "stars": 137929,
+      "stars": 137937,
       "starredAt": "2025-06-01T17:17:47Z"
     },
     {
@@ -78,8 +78,35 @@ window.__STAR_PAGE_DATA__ = {
         "openapi"
       ],
       "language": "Python",
-      "stars": 132082,
+      "stars": 132090,
       "starredAt": "2025-10-19T05:08:22Z"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "一个会随着你一起成长的智能代理框架",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "llm",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "moltbot",
+        "nous-research",
+        "openai",
+        "openclaw"
+      ],
+      "language": "Python",
+      "stars": 90434,
+      "starredAt": "2026-04-12T05:31:37Z"
     },
     {
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -108,7 +135,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 65816,
+      "stars": 65850,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -118,7 +145,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 55782,
+      "stars": 55783,
       "starredAt": "2025-03-18T17:11:58Z"
     },
     {
@@ -144,7 +171,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Python",
-      "stars": 54088,
+      "stars": 54098,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -167,7 +194,7 @@ window.__STAR_PAGE_DATA__ = {
         "awesome-lists"
       ],
       "language": "",
-      "stars": 46179,
+      "stars": 46185,
       "starredAt": "2026-02-07T16:03:07Z"
     },
     {
@@ -177,7 +204,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "JavaScript",
-      "stars": 44779,
+      "stars": 44784,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
@@ -225,7 +252,7 @@ window.__STAR_PAGE_DATA__ = {
         "react-components"
       ],
       "language": "JavaScript",
-      "stars": 38068,
+      "stars": 38071,
       "starredAt": "2025-06-04T08:48:34Z"
     },
     {
@@ -245,7 +272,7 @@ window.__STAR_PAGE_DATA__ = {
         "quantitative-trading"
       ],
       "language": "Python",
-      "stars": 30074,
+      "stars": 30076,
       "starredAt": "2026-01-11T11:53:18Z"
     },
     {
@@ -282,7 +309,7 @@ window.__STAR_PAGE_DATA__ = {
         "opencode"
       ],
       "language": "Python",
-      "stars": 22348,
+      "stars": 22351,
       "starredAt": "2026-02-19T09:50:24Z"
     },
     {
@@ -299,7 +326,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 22229,
+      "stars": 22231,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -350,6 +377,23 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-07-18T16:27:18Z"
     },
     {
+      "repo": "slopus/happy",
+      "url": "https://github.com/slopus/happy",
+      "description": "Happy让你用手机和网页远程控制Claude Code与Codex，并端到端加密同步会话",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "claude-desktop",
+        "codex",
+        "codex-cli",
+        "hacktoberfest",
+        "claude-mobile"
+      ],
+      "language": "TypeScript",
+      "stars": 18425,
+      "starredAt": "2026-04-12T13:00:20Z"
+    },
+    {
       "repo": "czlonkowski/n8n-mcp",
       "url": "https://github.com/czlonkowski/n8n-mcp",
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
@@ -361,8 +405,37 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 18206,
+      "stars": 18209,
       "starredAt": "2026-01-01T11:55:23Z"
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "PentAGI是沙箱化自治渗透测试AI，集成nmap与Metasploit等专业工具",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "ai-agents",
+        "ai-security-tool",
+        "autonomous-agents",
+        "golang",
+        "graphql",
+        "multi-agent-system",
+        "penetration-testing-tools",
+        "react",
+        "security-automation",
+        "security-testing",
+        "security-tools",
+        "anthropic",
+        "gpt",
+        "offensive-security",
+        "open-source",
+        "openai",
+        "penetration-testing",
+        "self-hosted"
+      ],
+      "language": "Go",
+      "stars": 14971,
+      "starredAt": "2026-04-15T04:37:17Z"
     },
     {
       "repo": "openai/codex-plugin-cc",
@@ -371,7 +444,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "JavaScript",
-      "stars": 14575,
+      "stars": 14584,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -387,7 +460,7 @@ window.__STAR_PAGE_DATA__ = {
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 14371,
+      "stars": 14374,
       "starredAt": "2025-06-03T12:04:09Z"
     },
     {
@@ -416,7 +489,7 @@ window.__STAR_PAGE_DATA__ = {
         "x402-agent"
       ],
       "language": "Go",
-      "stars": 11742,
+      "stars": 11743,
       "starredAt": "2025-11-02T21:43:46Z"
     },
     {
@@ -443,18 +516,8 @@ window.__STAR_PAGE_DATA__ = {
         "glue-coding"
       ],
       "language": "Python",
-      "stars": 11658,
+      "stars": 11662,
       "starredAt": "2025-12-17T18:43:42Z"
-    },
-    {
-      "repo": "alchaincyf/nuwa-skill",
-      "url": "https://github.com/alchaincyf/nuwa-skill",
-      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "category": "AI/Agents/Skills",
-      "topics": [],
-      "language": "Python",
-      "stars": 11314,
-      "starredAt": "2026-04-09T11:42:42Z"
     },
     {
       "repo": "codexu/note-gen",
@@ -485,7 +548,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "TypeScript",
-      "stars": 11223,
+      "stars": 11224,
       "starredAt": "2025-08-05T11:09:33Z"
     },
     {
@@ -510,7 +573,7 @@ window.__STAR_PAGE_DATA__ = {
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 10719,
+      "stars": 10723,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
@@ -552,8 +615,24 @@ window.__STAR_PAGE_DATA__ = {
         "react"
       ],
       "language": "TypeScript",
-      "stars": 10068,
+      "stars": 10070,
       "starredAt": "2025-07-25T02:43:54Z"
+    },
+    {
+      "repo": "YishenTu/claudian",
+      "url": "https://github.com/YishenTu/claudian",
+      "description": "Claudian 是把 Claude Code、Codex 嵌入 Obsidian 仓库并支持读写搜索与多步工作的插件",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "obsidian",
+        "obsidian-plugin",
+        "productivity",
+        "ide"
+      ],
+      "language": "TypeScript",
+      "stars": 8114,
+      "starredAt": "2026-04-14T02:14:34Z"
     },
     {
       "repo": "leptonai/search_with_lepton",
@@ -567,8 +646,27 @@ window.__STAR_PAGE_DATA__ = {
         "llm"
       ],
       "language": "TypeScript",
-      "stars": 8100,
+      "stars": 8099,
       "starredAt": "2024-01-30T00:24:41Z"
+    },
+    {
+      "repo": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "deepseek",
+        "llm",
+        "rag",
+        "sqlbot",
+        "text-to-sql",
+        "chatbi",
+        "nl2sql",
+        "text2sql"
+      ],
+      "language": "JavaScript",
+      "stars": 5923,
+      "starredAt": "2025-10-01T10:36:52Z"
     },
     {
       "repo": "UfoMiao/zcf",
@@ -600,25 +698,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "TypeScript",
       "stars": 5923,
       "starredAt": "2025-10-15T12:14:58Z"
-    },
-    {
-      "repo": "dataease/SQLBot",
-      "url": "https://github.com/dataease/SQLBot",
-      "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "deepseek",
-        "llm",
-        "rag",
-        "sqlbot",
-        "text-to-sql",
-        "chatbi",
-        "nl2sql",
-        "text2sql"
-      ],
-      "language": "JavaScript",
-      "stars": 5922,
-      "starredAt": "2025-10-01T10:36:52Z"
     },
     {
       "repo": "ikaijua/Awesome-AITools",
@@ -670,23 +749,8 @@ window.__STAR_PAGE_DATA__ = {
         "vue"
       ],
       "language": "Python",
-      "stars": 5148,
+      "stars": 5149,
       "starredAt": "2025-12-28T14:15:48Z"
-    },
-    {
-      "repo": "eze-is/web-access",
-      "url": "https://github.com/eze-is/web-access",
-      "description": "面向AI Agent的联网增强技能，集成CDP浏览器自动化与站点经验复用",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "wechat",
-        "claude-code",
-        "ai-agent",
-        "access"
-      ],
-      "language": "JavaScript",
-      "stars": 4993,
-      "starredAt": "2026-04-11T10:17:22Z"
     },
     {
       "repo": "HKUDS/ClawTeam",
@@ -719,7 +783,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 4339,
+      "stars": 4343,
       "starredAt": "2025-10-10T12:30:32Z"
     },
     {
@@ -737,7 +801,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai-agents"
       ],
       "language": "",
-      "stars": 3976,
+      "stars": 3979,
       "starredAt": "2026-03-20T11:31:54Z"
     },
     {
@@ -754,7 +818,7 @@ window.__STAR_PAGE_DATA__ = {
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 3965,
+      "stars": 3966,
       "starredAt": "2025-06-03T15:50:29Z"
     },
     {
@@ -818,7 +882,7 @@ window.__STAR_PAGE_DATA__ = {
         "xiaohongshu"
       ],
       "language": "Vue",
-      "stars": 3675,
+      "stars": 3676,
       "starredAt": "2025-09-01T12:45:26Z"
     },
     {
@@ -849,7 +913,7 @@ window.__STAR_PAGE_DATA__ = {
         "developer-tools"
       ],
       "language": "Rust",
-      "stars": 3119,
+      "stars": 3121,
       "starredAt": "2026-03-15T08:44:20Z"
     },
     {
@@ -894,7 +958,7 @@ window.__STAR_PAGE_DATA__ = {
         "tools"
       ],
       "language": "Python",
-      "stars": 2768,
+      "stars": 2773,
       "starredAt": "2025-05-21T06:31:35Z"
     },
     {
@@ -904,7 +968,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "TypeScript",
-      "stars": 2716,
+      "stars": 2719,
       "starredAt": "2026-01-05T10:00:51Z"
     },
     {
@@ -914,7 +978,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 2649,
+      "stars": 2651,
       "starredAt": "2026-01-18T11:02:32Z"
     },
     {
@@ -965,7 +1029,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 1962,
+      "stars": 1963,
       "starredAt": "2026-03-22T07:16:24Z"
     },
     {
@@ -1050,37 +1114,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-04-12T19:23:54Z"
     },
     {
-      "repo": "foryourhealth111-pixel/Vibe-Skills",
-      "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
-      "description": "VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "ai-agents",
-        "ai-workflow",
-        "automation",
-        "codex",
-        "developer-tools",
-        "mcp",
-        "skills",
-        "ai-skills",
-        "claude-code",
-        "llm",
-        "vibe-coding",
-        "windsurf",
-        "agent-skills",
-        "agentic-coding",
-        "anthropic",
-        "claude",
-        "claude-skills",
-        "cursor",
-        "opencode",
-        "vibecoding"
-      ],
-      "language": "Python",
-      "stars": 1514,
-      "starredAt": "2026-04-07T20:34:08Z"
-    },
-    {
       "repo": "kuafuai/aipexbase",
       "url": "https://github.com/kuafuai/aipexbase",
       "description": "AipexBase is an AI-native BaaS platform. You only need to develop the frontend with vibe coding tools, and leave the backend to AipexBase!",
@@ -1127,7 +1160,7 @@ window.__STAR_PAGE_DATA__ = {
         "skillsmp"
       ],
       "language": "Go",
-      "stars": 1232,
+      "stars": 1233,
       "starredAt": "2026-03-23T00:56:44Z"
     },
     {
@@ -1160,7 +1193,7 @@ window.__STAR_PAGE_DATA__ = {
         "canvas"
       ],
       "language": "TypeScript",
-      "stars": 1128,
+      "stars": 1129,
       "starredAt": "2026-03-31T05:48:45Z"
     },
     {
@@ -1184,6 +1217,22 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-10-22T15:05:53Z"
     },
     {
+      "repo": "alchaincyf/darwin-skill",
+      "url": "https://github.com/alchaincyf/darwin-skill",
+      "description": "达尔文.skill是优化Agent技能库的系统，用评估测试与回滚机制持续进化SKILL.md",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "openclaw",
+        "codex",
+        "claude-code",
+        "ai-agent",
+        "automation"
+      ],
+      "language": "HTML",
+      "stars": 850,
+      "starredAt": "2026-04-15T12:01:22Z"
+    },
+    {
       "repo": "qy527145/acemcp",
       "url": "https://github.com/qy527145/acemcp",
       "description": "一个将ACE(Augment Context Engine) 做成MCP的项目",
@@ -1200,7 +1249,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 727,
+      "stars": 728,
       "starredAt": "2026-01-16T10:33:57Z"
     },
     {
@@ -1239,6 +1288,22 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Python",
       "stars": 600,
       "starredAt": "2025-04-13T06:44:55Z"
+    },
+    {
+      "repo": "apkclaw-team/ApkClaw",
+      "url": "https://github.com/apkclaw-team/ApkClaw",
+      "description": "ApkClaw是让大模型经消息通道自然语言操控安卓手机的自动化应用",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "discord",
+        "discord-bot",
+        "wechat"
+      ],
+      "language": "Kotlin",
+      "stars": 509,
+      "starredAt": "2026-04-12T09:54:05Z"
     },
     {
       "repo": "ZubeidHendricks/youtube-mcp-server",
@@ -1490,6 +1555,35 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-20T11:30:28Z"
     },
     {
+      "repo": "yaklang/hack-skills",
+      "url": "https://github.com/yaklang/hack-skills",
+      "description": "面向渗透测试与CTF的安全技能库，覆盖Web/API、提权、逆向等14域攻击知识",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "ai-agent",
+        "hack"
+      ],
+      "language": "",
+      "stars": 144,
+      "starredAt": "2026-04-14T02:26:06Z"
+    },
+    {
+      "repo": "twwch/comfyui-workflow-skill",
+      "url": "https://github.com/twwch/comfyui-workflow-skill",
+      "description": "这是个用自然语言生成可导入ComfyUI工作流JSON的Claude Code技能",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "cloudflare",
+        "workers",
+        "claude-code",
+        "ai-agent",
+        "workflow-automation"
+      ],
+      "language": "",
+      "stars": 139,
+      "starredAt": "2026-04-15T07:31:03Z"
+    },
+    {
       "repo": "copialot/auto-phone-scheduler",
       "url": "https://github.com/copialot/auto-phone-scheduler",
       "description": "基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作。",
@@ -1526,7 +1620,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "AI/Agents/Skills",
       "topics": [],
       "language": "Python",
-      "stars": 94,
+      "stars": 95,
       "starredAt": "2026-03-11T07:44:01Z"
     },
     {
@@ -1556,31 +1650,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Kotlin",
       "stars": 92,
       "starredAt": "2025-10-29T07:36:58Z"
-    },
-    {
-      "repo": "ttguy0707/CyberClaw",
-      "url": "https://github.com/ttguy0707/CyberClaw",
-      "description": "👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容 OpenClaw + Claude Code 技能生态",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "agent",
-        "agent-framework",
-        "ai-agent",
-        "ai-safety",
-        "claude-code",
-        "cross-platform",
-        "enterprise-ai",
-        "langchain",
-        "langgraph",
-        "llm",
-        "openclaw",
-        "python",
-        "transparent-ai",
-        "two-phase-invocation"
-      ],
-      "language": "Python",
-      "stars": 88,
-      "starredAt": "2026-04-10T07:15:13Z"
     },
     {
       "repo": "shellus/mj-studio",
@@ -1750,65 +1819,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-11-18T06:25:53Z"
     },
     {
-      "repo": "microsoft/playwright-cli",
-      "url": "https://github.com/microsoft/playwright-cli",
-      "description": "面向编码代理的Playwright命令行工具，提供高效浏览器自动化与会话保持",
-      "category": "Android 自动化",
-      "topics": [
-        "playwright",
-        "claude-code",
-        "mcp",
-        "ai-agent",
-        "automation"
-      ],
-      "language": "TypeScript",
-      "stars": 8444,
-      "starredAt": "2026-04-15T12:19:14Z"
-    },
-    {
-      "repo": "714307168/AgentFlow",
-      "url": "https://github.com/714307168/AgentFlow",
-      "description": "AgentFlow是安卓遥控桌面Claude Code CLI的自托管协作系统",
-      "category": "Android 自动化",
-      "topics": [
-        "claude-code",
-        "ai-agent",
-        "api-gateway",
-        "cli",
-        "golang"
-      ],
-      "language": "TypeScript",
-      "stars": 6,
-      "starredAt": "2026-04-14T18:07:01Z"
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "一个会随着你一起成长的智能代理框架",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "llm",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "clawdbot",
-        "codex",
-        "hermes",
-        "hermes-agent",
-        "moltbot",
-        "nous-research",
-        "openai",
-        "openclaw"
-      ],
-      "language": "Python",
-      "stars": 90207,
-      "starredAt": "2026-04-12T05:31:37Z"
-    },
-    {
       "repo": "LC044/WeChatMsg",
       "url": "https://github.com/LC044/WeChatMsg",
       "description": "暂无公开描述",
@@ -1820,8 +1830,29 @@ window.__STAR_PAGE_DATA__ = {
         "llms"
       ],
       "language": "",
-      "stars": 41191,
+      "stars": 41192,
       "starredAt": "2024-06-14T02:30:08Z"
+    },
+    {
+      "repo": "huiyadanli/RevokeMsgPatcher",
+      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+      "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "patch",
+        "pc",
+        "windows",
+        "tool",
+        "wechat",
+        "qq",
+        "tim",
+        "revoke",
+        "hex-editor",
+        "revokemsg"
+      ],
+      "language": "C#",
+      "stars": 37382,
+      "starredAt": "2023-12-28T02:04:27Z"
     },
     {
       "repo": "pppscn/SmsForwarder",
@@ -1852,33 +1883,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-06-03T02:57:49Z"
     },
     {
-      "repo": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "category": "Bot/消息桥接",
-      "topics": [],
-      "language": "TypeScript",
-      "stars": 23251,
-      "starredAt": "2026-04-10T07:19:41Z"
-    },
-    {
-      "repo": "slopus/happy",
-      "url": "https://github.com/slopus/happy",
-      "description": "Happy让你用手机和网页远程控制Claude Code与Codex，并端到端加密同步会话",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "claude-code",
-        "claude-desktop",
-        "codex",
-        "codex-cli",
-        "hacktoberfest",
-        "claude-mobile"
-      ],
-      "language": "TypeScript",
-      "stars": 18420,
-      "starredAt": "2026-04-12T13:00:20Z"
-    },
-    {
       "repo": "sjzar/chatlog",
       "url": "https://github.com/sjzar/chatlog",
       "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
@@ -1896,63 +1900,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-05-19T03:35:04Z"
     },
     {
-      "repo": "YishenTu/claudian",
-      "url": "https://github.com/YishenTu/claudian",
-      "description": "Claudian 是把 Claude Code、Codex 嵌入 Obsidian 仓库并支持读写搜索与多步工作的插件",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "claude-code",
-        "obsidian",
-        "obsidian-plugin",
-        "productivity",
-        "ide"
-      ],
-      "language": "TypeScript",
-      "stars": 8112,
-      "starredAt": "2026-04-14T02:14:34Z"
-    },
-    {
-      "repo": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "description": "HexStrike AI是集成150余安全工具与12个自主渗透代理的MCP攻防自动化平台",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "0x4m4",
-        "ai",
-        "ai-agents",
-        "ai-cybersecurity",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-security-tool",
-        "artificial-intelligence",
-        "ctf-tools",
-        "generative-ai",
-        "kali-linux",
-        "kali-tools",
-        "llm",
-        "llm-integration",
-        "mcp",
-        "mcp-server",
-        "mcp-tools",
-        "pentesting",
-        "pentesting-tools",
-        "hexstrike"
-      ],
-      "language": "Python",
-      "stars": 8106,
-      "starredAt": "2026-04-14T16:01:03Z"
-    },
-    {
-      "repo": "chenhg5/cc-connect",
-      "url": "https://github.com/chenhg5/cc-connect",
-      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
-      "category": "Bot/消息桥接",
-      "topics": [],
-      "language": "Go",
-      "stars": 5245,
-      "starredAt": "2026-04-08T15:32:16Z"
-    },
-    {
       "repo": "tdlib/telegram-bot-api",
       "url": "https://github.com/tdlib/telegram-bot-api",
       "description": "Telegram Bot API server",
@@ -1961,16 +1908,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "C++",
       "stars": 4157,
       "starredAt": "2026-01-01T20:38:14Z"
-    },
-    {
-      "repo": "zhinianboke/xianyu-auto-reply",
-      "url": "https://github.com/zhinianboke/xianyu-auto-reply",
-      "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。",
-      "category": "Bot/消息桥接",
-      "topics": [],
-      "language": "Python",
-      "stars": 3814,
-      "starredAt": "2025-09-01T11:17:30Z"
     },
     {
       "repo": "miantiao-me/BroadcastChannel",
@@ -2143,21 +2080,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Python",
       "stars": 863,
       "starredAt": "2026-03-09T13:33:53Z"
-    },
-    {
-      "repo": "ZeroPointSix/outlookEmailPlus",
-      "url": "https://github.com/ZeroPointSix/outlookEmailPlus",
-      "description": "面向注册验证场景的邮箱管理器，支持验证码提取、IMAP导入与批量自动化",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "cli",
-        "outlookemailplus"
-      ],
-      "language": "Python",
-      "stars": 863,
-      "starredAt": "2026-04-13T07:56:25Z"
     },
     {
       "repo": "tgscan/tgscan",
@@ -2353,19 +2275,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-19T10:54:28Z"
     },
     {
-      "repo": "yaklang/hack-skills",
-      "url": "https://github.com/yaklang/hack-skills",
-      "description": "面向渗透测试与CTF的安全技能库，覆盖Web/API、提权、逆向等14域攻击知识",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "ai-agent",
-        "hack"
-      ],
-      "language": "",
-      "stars": 141,
-      "starredAt": "2026-04-14T02:26:06Z"
-    },
-    {
       "repo": "TheCaduceus/FileStreamBot",
       "url": "https://github.com/TheCaduceus/FileStreamBot",
       "description": "An open-source Python Telegram bot to transmit Telegram files over HTTP.",
@@ -2393,6 +2302,19 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Python",
       "stars": 126,
       "starredAt": "2026-02-20T02:59:53Z"
+    },
+    {
+      "repo": "Heavrnl/Mail2Telegram",
+      "url": "https://github.com/Heavrnl/Mail2Telegram",
+      "description": "Mail2Telegram可监控多个IMAP邮箱并实时转发邮件与验证码到Telegram",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "mail",
+        "telegram"
+      ],
+      "language": "Python",
+      "stars": 114,
+      "starredAt": "2026-04-13T07:36:08Z"
     },
     {
       "repo": "yuimoi/tg_faka",
@@ -2511,6 +2433,22 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-11-07T05:47:20Z"
     },
     {
+      "repo": "TGlimmer/AutoOpenTelegramPremium",
+      "url": "https://github.com/TGlimmer/AutoOpenTelegramPremium",
+      "description": "这是基于Go的Telegram Premium自动开通源码，可解析Fragment并发起TON支付实现24小时代开",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "wechat",
+        "rag",
+        "golang"
+      ],
+      "language": "Go",
+      "stars": 64,
+      "starredAt": "2026-04-15T11:57:06Z"
+    },
+    {
       "repo": "snokin/tgposter",
       "url": "https://github.com/snokin/tgposter",
       "description": "Telegram 频道自动发布机器人",
@@ -2552,22 +2490,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-01-12T07:06:47Z"
     },
     {
-      "repo": "Viloze/VFaka",
-      "url": "https://github.com/Viloze/VFaka",
-      "description": "基于 Rust 与 Vue 3 的自动发卡商城，支持多支付、AFF返佣与多链提现",
-      "category": "Bot/消息桥接",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "wechat",
-        "docker",
-        "rust"
-      ],
-      "language": "Rust",
-      "stars": 16,
-      "starredAt": "2026-04-14T11:51:44Z"
-    },
-    {
       "repo": "CCRSRG/TG_ZF",
       "url": "https://github.com/CCRSRG/TG_ZF",
       "description": "暂无公开描述",
@@ -2586,6 +2508,51 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Python",
       "stars": 7,
       "starredAt": "2025-03-13T09:03:53Z"
+    },
+    {
+      "repo": "chinaares/trxbot",
+      "url": "https://github.com/chinaares/trxbot",
+      "description": "面向Telegram的TRX兑USDT自动兑换机器人，支持闪兑补TRX与后台管理",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "docker",
+        "trxbot"
+      ],
+      "language": "JavaScript",
+      "stars": 6,
+      "starredAt": "2026-04-15T11:58:52Z"
+    },
+    {
+      "repo": "fandou3/telegram-bot",
+      "url": "https://github.com/fandou3/telegram-bot",
+      "description": "用于自动开通Telegram Premium并兑换TRX能量的充值机器人",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "rag"
+      ],
+      "language": "Python",
+      "stars": 6,
+      "starredAt": "2026-04-15T11:55:58Z"
+    },
+    {
+      "repo": "xiaolanchuan/trxbot-usdt-telegram",
+      "url": "https://github.com/xiaolanchuan/trxbot-usdt-telegram",
+      "description": "面向Telegram的TRX兑USDT机器人源码，支持自动回TRX与后台群管推广",
+      "category": "Bot/消息桥接",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "docker",
+        "trxbot",
+        "usdt"
+      ],
+      "language": "JavaScript",
+      "stars": 2,
+      "starredAt": "2026-04-15T11:58:28Z"
     },
     {
       "repo": "zhuima/awesome-cloudflare",
@@ -2610,7 +2577,7 @@ window.__STAR_PAGE_DATA__ = {
         "free"
       ],
       "language": "TypeScript",
-      "stars": 8401,
+      "stars": 8404,
       "starredAt": "2023-08-25T20:39:39Z"
     },
     {
@@ -2635,7 +2602,7 @@ window.__STAR_PAGE_DATA__ = {
         "mail"
       ],
       "language": "JavaScript",
-      "stars": 6331,
+      "stars": 6333,
       "starredAt": "2025-11-05T11:10:45Z"
     },
     {
@@ -2728,7 +2695,7 @@ window.__STAR_PAGE_DATA__ = {
         "react"
       ],
       "language": "TypeScript",
-      "stars": 2616,
+      "stars": 2617,
       "starredAt": "2024-06-07T04:54:36Z"
     },
     {
@@ -2814,22 +2781,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-03-24T09:32:25Z"
     },
     {
-      "repo": "katelya77/K-Vault",
-      "url": "https://github.com/katelya77/K-Vault",
-      "description": "K-Vault是支持Cloudflare Pages与Docker部署的多后端图床文件托管系统",
-      "category": "Cloudflare 生态",
-      "topics": [
-        "cloudflare",
-        "workers",
-        "telegram",
-        "telegram-bot",
-        "discord"
-      ],
-      "language": "JavaScript",
-      "stars": 541,
-      "starredAt": "2026-04-13T07:45:44Z"
-    },
-    {
       "repo": "dollarshaveclub/cloudworker",
       "url": "https://github.com/dollarshaveclub/cloudworker",
       "description": "Run Cloudflare Worker scripts locally",
@@ -2875,16 +2826,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "HTML",
       "stars": 441,
       "starredAt": "2024-04-30T01:36:40Z"
-    },
-    {
-      "repo": "xiyewuqiu/new-lmage",
-      "url": "https://github.com/xiyewuqiu/new-lmage",
-      "description": "暂无公开描述",
-      "category": "Cloudflare 生态",
-      "topics": [],
-      "language": "JavaScript",
-      "stars": 420,
-      "starredAt": "2026-04-09T15:52:29Z"
     },
     {
       "repo": "EzXxY/CF-IP",
@@ -3002,7 +2943,7 @@ window.__STAR_PAGE_DATA__ = {
         "realtime"
       ],
       "language": "Python",
-      "stars": 90695,
+      "stars": 90696,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -3033,7 +2974,7 @@ window.__STAR_PAGE_DATA__ = {
         "azure-files"
       ],
       "language": "Go",
-      "stars": 56666,
+      "stars": 56665,
       "starredAt": "2019-08-02T04:28:26Z"
     },
     {
@@ -3051,7 +2992,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 55771,
+      "stars": 55777,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -3077,7 +3018,7 @@ window.__STAR_PAGE_DATA__ = {
         "note-taking"
       ],
       "language": "TypeScript",
-      "stars": 54371,
+      "stars": 54372,
       "starredAt": "2023-10-24T02:04:22Z"
     },
     {
@@ -3121,7 +3062,7 @@ window.__STAR_PAGE_DATA__ = {
         "voiceconversion"
       ],
       "language": "Python",
-      "stars": 35236,
+      "stars": 35237,
       "starredAt": "2025-04-13T10:29:19Z"
     },
     {
@@ -3150,7 +3091,7 @@ window.__STAR_PAGE_DATA__ = {
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 32764,
+      "stars": 32763,
       "starredAt": "2022-11-03T03:31:56Z"
     },
     {
@@ -3186,7 +3127,7 @@ window.__STAR_PAGE_DATA__ = {
         "realcugan"
       ],
       "language": "C++",
-      "stars": 19480,
+      "stars": 19481,
       "starredAt": "2025-06-09T09:41:59Z"
     },
     {
@@ -3305,7 +3246,7 @@ window.__STAR_PAGE_DATA__ = {
         "subtile"
       ],
       "language": "Python",
-      "stars": 10258,
+      "stars": 10259,
       "starredAt": "2025-10-29T01:03:22Z"
     },
     {
@@ -3399,7 +3340,7 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "TypeScript",
-      "stars": 7999,
+      "stars": 8000,
       "starredAt": "2025-10-29T15:41:48Z"
     },
     {
@@ -3472,7 +3413,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "媒体下载/存储",
       "topics": [],
       "language": "Python",
-      "stars": 6086,
+      "stars": 6088,
       "starredAt": "2025-02-03T06:09:04Z"
     },
     {
@@ -3615,7 +3556,7 @@ window.__STAR_PAGE_DATA__ = {
         "video-generation"
       ],
       "language": "Python",
-      "stars": 4088,
+      "stars": 4090,
       "starredAt": "2026-01-13T16:45:45Z"
     },
     {
@@ -3719,7 +3660,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "媒体下载/存储",
       "topics": [],
       "language": "TypeScript",
-      "stars": 3251,
+      "stars": 3252,
       "starredAt": "2025-11-24T08:59:40Z"
     },
     {
@@ -4504,7 +4445,7 @@ window.__STAR_PAGE_DATA__ = {
         "telegrambot"
       ],
       "language": "Python",
-      "stars": 291,
+      "stars": 292,
       "starredAt": "2025-03-03T18:31:08Z"
     },
     {
@@ -4709,7 +4650,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 184233,
+      "stars": 184242,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -4745,7 +4686,7 @@ window.__STAR_PAGE_DATA__ = {
         "ws"
       ],
       "language": "",
-      "stars": 53501,
+      "stars": 53503,
       "starredAt": "2019-09-08T01:59:53Z"
     },
     {
@@ -4772,7 +4713,7 @@ window.__STAR_PAGE_DATA__ = {
         "llm"
       ],
       "language": "Python",
-      "stars": 51704,
+      "stars": 51708,
       "starredAt": "2025-12-03T17:41:12Z"
     },
     {
@@ -4792,29 +4733,8 @@ window.__STAR_PAGE_DATA__ = {
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 48790,
+      "stars": 48792,
       "starredAt": "2025-04-26T12:37:41Z"
-    },
-    {
-      "repo": "huiyadanli/RevokeMsgPatcher",
-      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
-      "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
-      "category": "开发工具/自动化",
-      "topics": [
-        "patch",
-        "pc",
-        "windows",
-        "tool",
-        "wechat",
-        "qq",
-        "tim",
-        "revoke",
-        "hex-editor",
-        "revokemsg"
-      ],
-      "language": "C#",
-      "stars": 37380,
-      "starredAt": "2023-12-28T02:04:27Z"
     },
     {
       "repo": "D4Vinci/Scrapling",
@@ -4844,7 +4764,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 37252,
+      "stars": 37257,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -4902,35 +4822,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2019-08-02T07:21:48Z"
     },
     {
-      "repo": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "PentAGI是沙箱化自治渗透测试AI，集成nmap与Metasploit等专业工具",
-      "category": "开发工具/自动化",
-      "topics": [
-        "ai-agents",
-        "ai-security-tool",
-        "autonomous-agents",
-        "golang",
-        "graphql",
-        "multi-agent-system",
-        "penetration-testing-tools",
-        "react",
-        "security-automation",
-        "security-testing",
-        "security-tools",
-        "anthropic",
-        "gpt",
-        "offensive-security",
-        "open-source",
-        "openai",
-        "penetration-testing",
-        "self-hosted"
-      ],
-      "language": "Go",
-      "stars": 14969,
-      "starredAt": "2026-04-15T04:37:17Z"
-    },
-    {
       "repo": "shadow1ng/fscan",
       "url": "https://github.com/shadow1ng/fscan",
       "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
@@ -4985,7 +4876,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai"
       ],
       "language": "Python",
-      "stars": 10949,
+      "stars": 10951,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
@@ -5001,7 +4892,7 @@ window.__STAR_PAGE_DATA__ = {
         "youtube"
       ],
       "language": "Python",
-      "stars": 9990,
+      "stars": 9991,
       "starredAt": "2025-05-20T11:02:45Z"
     },
     {
@@ -5017,7 +4908,7 @@ window.__STAR_PAGE_DATA__ = {
         "help-wanted"
       ],
       "language": "Python",
-      "stars": 9551,
+      "stars": 9550,
       "starredAt": "2019-08-02T10:17:28Z"
     },
     {
@@ -5048,8 +4939,24 @@ window.__STAR_PAGE_DATA__ = {
         "chatgpt"
       ],
       "language": "Python",
-      "stars": 8596,
+      "stars": 8597,
       "starredAt": "2022-08-05T04:23:37Z"
+    },
+    {
+      "repo": "microsoft/playwright-cli",
+      "url": "https://github.com/microsoft/playwright-cli",
+      "description": "面向编码代理的Playwright命令行工具，提供高效浏览器自动化与会话保持",
+      "category": "开发工具/自动化",
+      "topics": [
+        "playwright",
+        "claude-code",
+        "mcp",
+        "ai-agent",
+        "automation"
+      ],
+      "language": "TypeScript",
+      "stars": 8456,
+      "starredAt": "2026-04-15T12:19:14Z"
     },
     {
       "repo": "kangvcar/InfoSpider",
@@ -5100,7 +5007,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "开发工具/自动化",
       "topics": [],
       "language": "Swift",
-      "stars": 7775,
+      "stars": 7776,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
@@ -5197,7 +5104,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "开发工具/自动化",
       "topics": [],
       "language": "Python",
-      "stars": 3021,
+      "stars": 3022,
       "starredAt": "2026-03-29T15:22:03Z"
     },
     {
@@ -5217,7 +5124,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "开发工具/自动化",
       "topics": [],
       "language": "Python",
-      "stars": 2136,
+      "stars": 2137,
       "starredAt": "2025-10-30T10:49:33Z"
     },
     {
@@ -5382,20 +5289,19 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-01-06T12:49:36Z"
     },
     {
-      "repo": "alchaincyf/darwin-skill",
-      "url": "https://github.com/alchaincyf/darwin-skill",
-      "description": "达尔文.skill是优化Agent技能库的系统，用评估测试与回滚机制持续进化SKILL.md",
+      "repo": "ZeroPointSix/outlookEmailPlus",
+      "url": "https://github.com/ZeroPointSix/outlookEmailPlus",
+      "description": "面向注册验证场景的邮箱管理器，支持验证码提取、IMAP导入与批量自动化",
       "category": "开发工具/自动化",
       "topics": [
-        "openclaw",
-        "codex",
-        "claude-code",
-        "ai-agent",
-        "automation"
+        "telegram",
+        "telegram-bot",
+        "cli",
+        "outlookemailplus"
       ],
-      "language": "HTML",
-      "stars": 837,
-      "starredAt": "2026-04-15T12:01:22Z"
+      "language": "Python",
+      "stars": 863,
+      "starredAt": "2026-04-13T07:56:25Z"
     },
     {
       "repo": "HG-ha/ICP_Query",
@@ -5663,22 +5569,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-10-14T10:36:03Z"
     },
     {
-      "repo": "twwch/comfyui-workflow-skill",
-      "url": "https://github.com/twwch/comfyui-workflow-skill",
-      "description": "这是个用自然语言生成可导入ComfyUI工作流JSON的Claude Code技能",
-      "category": "开发工具/自动化",
-      "topics": [
-        "cloudflare",
-        "workers",
-        "claude-code",
-        "ai-agent",
-        "workflow-automation"
-      ],
-      "language": "",
-      "stars": 139,
-      "starredAt": "2026-04-15T07:31:03Z"
-    },
-    {
       "repo": "Bhai4You/Termux-Sudo",
       "url": "https://github.com/Bhai4You/Termux-Sudo",
       "description": "Lazy Script For install Sudo in Termux",
@@ -5771,22 +5661,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "JavaScript",
       "stars": 70,
       "starredAt": "2022-05-16T06:12:35Z"
-    },
-    {
-      "repo": "TGlimmer/AutoOpenTelegramPremium",
-      "url": "https://github.com/TGlimmer/AutoOpenTelegramPremium",
-      "description": "这是基于Go的Telegram Premium自动开通源码，可解析Fragment并发起TON支付实现24小时代开",
-      "category": "开发工具/自动化",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "wechat",
-        "rag",
-        "golang"
-      ],
-      "language": "Go",
-      "stars": 64,
-      "starredAt": "2026-04-15T11:57:06Z"
     },
     {
       "repo": "YuanQin99/ms-mail-fetcher",
@@ -5925,35 +5799,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-04-07T03:06:56Z"
     },
     {
-      "repo": "chinaares/trxbot",
-      "url": "https://github.com/chinaares/trxbot",
-      "description": "面向Telegram的TRX兑USDT自动兑换机器人，支持闪兑补TRX与后台管理",
-      "category": "开发工具/自动化",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "trxbot"
-      ],
-      "language": "JavaScript",
-      "stars": 6,
-      "starredAt": "2026-04-15T11:58:52Z"
-    },
-    {
-      "repo": "fandou3/telegram-bot",
-      "url": "https://github.com/fandou3/telegram-bot",
-      "description": "用于自动开通Telegram Premium并兑换TRX能量的充值机器人",
-      "category": "开发工具/自动化",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "rag"
-      ],
-      "language": "Python",
-      "stars": 6,
-      "starredAt": "2026-04-15T11:55:58Z"
-    },
-    {
       "repo": "BHznJNs/auto-discourse",
       "url": "https://github.com/BHznJNs/auto-discourse",
       "description": "暂无公开描述",
@@ -5984,20 +5829,186 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-10-06T09:03:38Z"
     },
     {
-      "repo": "xiaolanchuan/trxbot-usdt-telegram",
-      "url": "https://github.com/xiaolanchuan/trxbot-usdt-telegram",
-      "description": "面向Telegram的TRX兑USDT机器人源码，支持自动回TRX与后台群管推广",
-      "category": "开发工具/自动化",
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "category": "未分类",
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 23272,
+      "starredAt": "2026-04-10T07:19:41Z"
+    },
+    {
+      "repo": "byJoey/cfnew",
+      "url": "https://github.com/byJoey/cfnew",
+      "description": "Cloudflare Pages / Workers 项目的部署与管理辅助工具",
+      "category": "未分类",
       "topics": [
-        "telegram",
-        "telegram-bot",
-        "docker",
-        "trxbot",
-        "usdt"
+        "cloudflare",
+        "pages",
+        "workers",
+        "deployment",
+        "cli"
+      ],
+      "language": "",
+      "stars": 12334,
+      "starredAt": "2026-04-11T06:37:37Z"
+    },
+    {
+      "repo": "alchaincyf/nuwa-skill",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+      "category": "未分类",
+      "topics": [],
+      "language": "Python",
+      "stars": 11344,
+      "starredAt": "2026-04-09T11:42:42Z"
+    },
+    {
+      "repo": "chenhg5/cc-connect",
+      "url": "https://github.com/chenhg5/cc-connect",
+      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "category": "未分类",
+      "topics": [],
+      "language": "Go",
+      "stars": 5249,
+      "starredAt": "2026-04-08T15:32:16Z"
+    },
+    {
+      "repo": "eze-is/web-access",
+      "url": "https://github.com/eze-is/web-access",
+      "description": "面向AI Agent的联网增强技能，集成CDP浏览器自动化与站点经验复用",
+      "category": "未分类",
+      "topics": [
+        "wechat",
+        "claude-code",
+        "ai-agent",
+        "access"
       ],
       "language": "JavaScript",
-      "stars": 2,
-      "starredAt": "2026-04-15T11:58:28Z"
+      "stars": 5002,
+      "starredAt": "2026-04-11T10:17:22Z"
+    },
+    {
+      "repo": "zhinianboke/xianyu-auto-reply",
+      "url": "https://github.com/zhinianboke/xianyu-auto-reply",
+      "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。",
+      "category": "未分类",
+      "topics": [],
+      "language": "Python",
+      "stars": 3816,
+      "starredAt": "2025-09-01T11:17:30Z"
+    },
+    {
+      "repo": "Heavrnl/nexus-terminal",
+      "url": "https://github.com/Heavrnl/nexus-terminal",
+      "description": "一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。",
+      "category": "未分类",
+      "topics": [
+        "express",
+        "nodejs",
+        "typescript",
+        "vite",
+        "vue3"
+      ],
+      "language": "TypeScript",
+      "stars": 1762,
+      "starredAt": "2026-04-09T19:37:22Z"
+    },
+    {
+      "repo": "foryourhealth111-pixel/Vibe-Skills",
+      "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+      "description": "VibeSkills is a new kind of super skill that organizes 340+ governed skills into one stable AI work system.",
+      "category": "未分类",
+      "topics": [
+        "ai-agents",
+        "ai-workflow",
+        "automation",
+        "codex",
+        "developer-tools",
+        "mcp",
+        "skills",
+        "ai-skills",
+        "claude-code",
+        "llm",
+        "vibe-coding",
+        "windsurf",
+        "agent-skills",
+        "agentic-coding",
+        "anthropic",
+        "claude",
+        "claude-skills",
+        "cursor",
+        "opencode",
+        "vibecoding"
+      ],
+      "language": "Python",
+      "stars": 1515,
+      "starredAt": "2026-04-07T20:34:08Z"
+    },
+    {
+      "repo": "xiyewuqiu/new-lmage",
+      "url": "https://github.com/xiyewuqiu/new-lmage",
+      "description": "暂无公开描述",
+      "category": "未分类",
+      "topics": [],
+      "language": "JavaScript",
+      "stars": 420,
+      "starredAt": "2026-04-09T15:52:29Z"
+    },
+    {
+      "repo": "ttguy0707/CyberClaw",
+      "url": "https://github.com/ttguy0707/CyberClaw",
+      "description": "👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容 OpenClaw + Claude Code 技能生态",
+      "category": "未分类",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-safety",
+        "claude-code",
+        "cross-platform",
+        "enterprise-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "openclaw",
+        "python",
+        "transparent-ai",
+        "two-phase-invocation"
+      ],
+      "language": "Python",
+      "stars": 88,
+      "starredAt": "2026-04-10T07:15:13Z"
+    },
+    {
+      "repo": "Brhiza/mingyu",
+      "url": "https://github.com/Brhiza/mingyu",
+      "description": "暂无公开描述",
+      "category": "未分类",
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 59,
+      "starredAt": "2026-04-10T07:58:11Z"
+    },
+    {
+      "repo": "SonicBotMan/lobster-press",
+      "url": "https://github.com/SonicBotMan/lobster-press",
+      "description": "🦞 LobsterPress（龙虾饼） - Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎",
+      "category": "未分类",
+      "topics": [
+        "ai",
+        "bash",
+        "chatgpt",
+        "claude",
+        "context-compression",
+        "openclaw",
+        "shell-script",
+        "token-optimization"
+      ],
+      "language": "Python",
+      "stars": 29,
+      "starredAt": "2026-03-09T14:09:30Z"
     },
     {
       "repo": "assimon/dujiaoka",
@@ -6567,6 +6578,22 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-04T10:51:08Z"
     },
     {
+      "repo": "katelya77/K-Vault",
+      "url": "https://github.com/katelya77/K-Vault",
+      "description": "K-Vault是支持Cloudflare Pages与Docker部署的多后端图床文件托管系统",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "cloudflare",
+        "workers",
+        "telegram",
+        "telegram-bot",
+        "discord"
+      ],
+      "language": "JavaScript",
+      "stars": 541,
+      "starredAt": "2026-04-13T07:45:44Z"
+    },
+    {
       "repo": "BYR-Navi/BYR-Navi",
       "url": "https://github.com/BYR-Navi/BYR-Navi",
       "description": "A Light-Weight and Configurable Navigation Website Framework (for BYR)",
@@ -7029,16 +7056,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-03-25T00:50:22Z"
     },
     {
-      "repo": "Brhiza/mingyu",
-      "url": "https://github.com/Brhiza/mingyu",
-      "description": "暂无公开描述",
-      "category": "网站/CMS/博客",
-      "topics": [],
-      "language": "TypeScript",
-      "stars": 59,
-      "starredAt": "2026-04-10T07:58:11Z"
-    },
-    {
       "repo": "NiuXiangQian/u",
       "url": "https://github.com/NiuXiangQian/u",
       "description": "短链接服务，缩短你的超链接",
@@ -7141,6 +7158,22 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-03-19T10:07:50Z"
     },
     {
+      "repo": "Viloze/VFaka",
+      "url": "https://github.com/Viloze/VFaka",
+      "description": "基于 Rust 与 Vue 3 的自动发卡商城，支持多支付、AFF返佣与多链提现",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "telegram",
+        "telegram-bot",
+        "wechat",
+        "docker",
+        "rust"
+      ],
+      "language": "Rust",
+      "stars": 16,
+      "starredAt": "2026-04-14T11:51:44Z"
+    },
+    {
       "repo": "naigoucn/ngdown",
       "url": "https://github.com/naigoucn/ngdown",
       "description": "奶狗附件下载插件适用于大多数WordPress主题",
@@ -7169,6 +7202,18 @@ window.__STAR_PAGE_DATA__ = {
       "language": "PHP",
       "stars": 10,
       "starredAt": "2022-02-27T14:23:23Z"
+    },
+    {
+      "repo": "altyl/SBTI",
+      "url": "https://github.com/altyl/SBTI",
+      "description": "基于31题的SBTI人格测试应用，支持十五维结果分析与海报分享",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "sbti"
+      ],
+      "language": "TypeScript",
+      "stars": 4,
+      "starredAt": "2026-04-13T07:49:12Z"
     },
     {
       "repo": "lza6/Cloudflare-Navihive-optimization",
@@ -7210,7 +7255,7 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Rust",
-      "stars": 28277,
+      "stars": 28285,
       "starredAt": "2025-12-23T02:32:14Z"
     },
     {
@@ -7228,7 +7273,7 @@ window.__STAR_PAGE_DATA__ = {
         "antigravity"
       ],
       "language": "Go",
-      "stars": 26336,
+      "stars": 26352,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
@@ -7248,7 +7293,7 @@ window.__STAR_PAGE_DATA__ = {
         "crs2"
       ],
       "language": "Go",
-      "stars": 12869,
+      "stars": 12879,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
@@ -7268,7 +7313,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "Python",
-      "stars": 4557,
+      "stars": 4559,
       "starredAt": "2025-10-23T00:53:15Z"
     },
     {
@@ -7292,7 +7337,7 @@ window.__STAR_PAGE_DATA__ = {
         "grok-4-20"
       ],
       "language": "Python",
-      "stars": 4263,
+      "stars": 4265,
       "starredAt": "2026-02-07T22:43:06Z"
     },
     {
@@ -7307,7 +7352,7 @@ window.__STAR_PAGE_DATA__ = {
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4243,
+      "stars": 4244,
       "starredAt": "2026-01-16T18:26:07Z"
     },
     {
@@ -7346,7 +7391,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "TypeScript",
-      "stars": 2457,
+      "stars": 2458,
       "starredAt": "2025-10-24T12:01:49Z"
     },
     {
@@ -7356,7 +7401,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "逆向2API/AI网关",
       "topics": [],
       "language": "TypeScript",
-      "stars": 2109,
+      "stars": 2114,
       "starredAt": "2026-03-07T11:40:53Z"
     },
     {
@@ -7366,7 +7411,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "逆向2API/AI网关",
       "topics": [],
       "language": "Python",
-      "stars": 2007,
+      "stars": 2008,
       "starredAt": "2025-12-20T06:43:29Z"
     },
     {
@@ -7412,7 +7457,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "逆向2API/AI网关",
       "topics": [],
       "language": "JavaScript",
-      "stars": 1348,
+      "stars": 1347,
       "starredAt": "2026-01-06T12:55:30Z"
     },
     {
@@ -7461,7 +7506,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-code"
       ],
       "language": "Go",
-      "stars": 982,
+      "stars": 983,
       "starredAt": "2025-10-03T08:25:42Z"
     },
     {
@@ -7493,22 +7538,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Rust",
       "stars": 555,
       "starredAt": "2025-10-02T09:07:59Z"
-    },
-    {
-      "repo": "apkclaw-team/ApkClaw",
-      "url": "https://github.com/apkclaw-team/ApkClaw",
-      "description": "ApkClaw是让大模型经消息通道自然语言操控安卓手机的自动化应用",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "telegram",
-        "telegram-bot",
-        "discord",
-        "discord-bot",
-        "wechat"
-      ],
-      "language": "Kotlin",
-      "stars": 508,
-      "starredAt": "2026-04-12T09:54:05Z"
     },
     {
       "repo": "0x5uo2hen/codex_register",
@@ -7553,7 +7582,7 @@ window.__STAR_PAGE_DATA__ = {
         "ccload"
       ],
       "language": "Go",
-      "stars": 265,
+      "stars": 266,
       "starredAt": "2026-04-13T05:53:37Z"
     },
     {
@@ -7577,21 +7606,8 @@ window.__STAR_PAGE_DATA__ = {
         "canvastoapi"
       ],
       "language": "JavaScript",
-      "stars": 154,
+      "stars": 155,
       "starredAt": "2026-04-13T05:57:27Z"
-    },
-    {
-      "repo": "Heavrnl/Mail2Telegram",
-      "url": "https://github.com/Heavrnl/Mail2Telegram",
-      "description": "Mail2Telegram可监控多个IMAP邮箱并实时转发邮件与验证码到Telegram",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "mail",
-        "telegram"
-      ],
-      "language": "Python",
-      "stars": 114,
-      "starredAt": "2026-04-13T07:36:08Z"
     },
     {
       "repo": "hyb-oyqq/hajimi-king-pro",
@@ -7664,25 +7680,6 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2025-11-05T09:21:36Z"
     },
     {
-      "repo": "SonicBotMan/lobster-press",
-      "url": "https://github.com/SonicBotMan/lobster-press",
-      "description": "🦞 LobsterPress（龙虾饼） - Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "ai",
-        "bash",
-        "chatgpt",
-        "claude",
-        "context-compression",
-        "openclaw",
-        "shell-script",
-        "token-optimization"
-      ],
-      "language": "Python",
-      "stars": 29,
-      "starredAt": "2026-03-09T14:09:30Z"
-    },
-    {
       "repo": "ZhangWY0724/apitest",
       "url": "https://github.com/ZhangWY0724/apitest",
       "description": "暂无公开描述",
@@ -7738,7 +7735,7 @@ window.__STAR_PAGE_DATA__ = {
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 110931,
+      "stars": 110938,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -7761,7 +7758,7 @@ window.__STAR_PAGE_DATA__ = {
         "vpn"
       ],
       "language": "Kotlin",
-      "stars": 54118,
+      "stars": 54123,
       "starredAt": "2022-10-11T09:41:36Z"
     },
     {
@@ -7790,7 +7787,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "部署运维/网络",
       "topics": [],
       "language": "Kotlin",
-      "stars": 37539,
+      "stars": 37544,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
@@ -7820,7 +7817,7 @@ window.__STAR_PAGE_DATA__ = {
         "fail2ban"
       ],
       "language": "HTML",
-      "stars": 34197,
+      "stars": 34198,
       "starredAt": "2024-06-05T23:32:13Z"
     },
     {
@@ -7875,7 +7872,7 @@ window.__STAR_PAGE_DATA__ = {
         "wireguard"
       ],
       "language": "Dart",
-      "stars": 28648,
+      "stars": 28652,
       "starredAt": "2024-06-06T12:15:59Z"
     },
     {
@@ -7936,7 +7933,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 21035,
+      "stars": 21037,
       "starredAt": "2025-01-01T12:19:08Z"
     },
     {
@@ -7983,7 +7980,7 @@ window.__STAR_PAGE_DATA__ = {
         "xray-panel"
       ],
       "language": "JavaScript",
-      "stars": 18910,
+      "stars": 18912,
       "starredAt": "2022-09-21T04:13:44Z"
     },
     {
@@ -8003,22 +8000,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "C++",
       "stars": 16644,
       "starredAt": "2024-06-07T05:28:15Z"
-    },
-    {
-      "repo": "byJoey/cfnew",
-      "url": "https://github.com/byJoey/cfnew",
-      "description": "Cloudflare Pages / Workers 项目的部署与管理辅助工具",
-      "category": "部署运维/网络",
-      "topics": [
-        "cloudflare",
-        "pages",
-        "workers",
-        "deployment",
-        "cli"
-      ],
-      "language": "",
-      "stars": 12333,
-      "starredAt": "2026-04-11T06:37:37Z"
     },
     {
       "repo": "selierlin/Share-SSR-V2ray",
@@ -8116,6 +8097,37 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2024-06-23T12:36:40Z"
     },
     {
+      "repo": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI是集成150余安全工具与12个自主渗透代理的MCP攻防自动化平台",
+      "category": "部署运维/网络",
+      "topics": [
+        "0x4m4",
+        "ai",
+        "ai-agents",
+        "ai-cybersecurity",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-security-tool",
+        "artificial-intelligence",
+        "ctf-tools",
+        "generative-ai",
+        "kali-linux",
+        "kali-tools",
+        "llm",
+        "llm-integration",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "pentesting",
+        "pentesting-tools",
+        "hexstrike"
+      ],
+      "language": "Python",
+      "stars": 8107,
+      "starredAt": "2026-04-14T16:01:03Z"
+    },
+    {
       "repo": "ellite/Wallos",
       "url": "https://github.com/ellite/Wallos",
       "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
@@ -8129,7 +8141,7 @@ window.__STAR_PAGE_DATA__ = {
         "subscription-tracker"
       ],
       "language": "PHP",
-      "stars": 7694,
+      "stars": 7695,
       "starredAt": "2024-06-13T08:51:23Z"
     },
     {
@@ -8172,7 +8184,7 @@ window.__STAR_PAGE_DATA__ = {
         "proxypool"
       ],
       "language": "Python",
-      "stars": 6574,
+      "stars": 6576,
       "starredAt": "2025-10-27T09:59:25Z"
     },
     {
@@ -8194,7 +8206,7 @@ window.__STAR_PAGE_DATA__ = {
         "performance"
       ],
       "language": "Shell",
-      "stars": 6338,
+      "stars": 6339,
       "starredAt": "2023-11-25T03:14:04Z"
     },
     {
@@ -8204,7 +8216,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "部署运维/网络",
       "topics": [],
       "language": "JavaScript",
-      "stars": 5736,
+      "stars": 5737,
       "starredAt": "2024-12-30T06:19:43Z"
     },
     {
@@ -8382,7 +8394,7 @@ window.__STAR_PAGE_DATA__ = {
         "tunnel"
       ],
       "language": "Shell",
-      "stars": 4430,
+      "stars": 4429,
       "starredAt": "2025-07-08T22:31:17Z"
     },
     {
@@ -8493,7 +8505,7 @@ window.__STAR_PAGE_DATA__ = {
         "dockerfiles"
       ],
       "language": "Svelte",
-      "stars": 3830,
+      "stars": 3831,
       "starredAt": "2026-02-25T03:51:13Z"
     },
     {
@@ -8553,7 +8565,7 @@ window.__STAR_PAGE_DATA__ = {
         "usdt-tokens"
       ],
       "language": "Go",
-      "stars": 2960,
+      "stars": 2961,
       "starredAt": "2023-08-03T22:47:04Z"
     },
     {
@@ -8671,22 +8683,6 @@ window.__STAR_PAGE_DATA__ = {
       "language": "Shell",
       "stars": 1941,
       "starredAt": "2022-09-18T06:22:06Z"
-    },
-    {
-      "repo": "Heavrnl/nexus-terminal",
-      "url": "https://github.com/Heavrnl/nexus-terminal",
-      "description": "一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。",
-      "category": "部署运维/网络",
-      "topics": [
-        "express",
-        "nodejs",
-        "typescript",
-        "vite",
-        "vue3"
-      ],
-      "language": "TypeScript",
-      "stars": 1762,
-      "starredAt": "2026-04-09T19:37:22Z"
     },
     {
       "repo": "imzyb/MiSub",
@@ -8867,7 +8863,7 @@ window.__STAR_PAGE_DATA__ = {
       "category": "部署运维/网络",
       "topics": [],
       "language": "TypeScript",
-      "stars": 680,
+      "stars": 681,
       "starredAt": "2025-10-21T12:51:54Z"
     },
     {
@@ -9286,16 +9282,20 @@ window.__STAR_PAGE_DATA__ = {
       "starredAt": "2026-04-12T14:49:10Z"
     },
     {
-      "repo": "altyl/SBTI",
-      "url": "https://github.com/altyl/SBTI",
-      "description": "基于31题的SBTI人格测试应用，支持十五维结果分析与海报分享",
+      "repo": "714307168/AgentFlow",
+      "url": "https://github.com/714307168/AgentFlow",
+      "description": "AgentFlow是安卓遥控桌面Claude Code CLI的自托管协作系统",
       "category": "部署运维/网络",
       "topics": [
-        "sbti"
+        "claude-code",
+        "ai-agent",
+        "api-gateway",
+        "cli",
+        "golang"
       ],
       "language": "TypeScript",
-      "stars": 4,
-      "starredAt": "2026-04-13T07:49:12Z"
+      "stars": 6,
+      "starredAt": "2026-04-14T18:07:01Z"
     },
     {
       "repo": "shwchsh/sp",
