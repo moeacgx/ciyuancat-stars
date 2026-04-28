@@ -231,5 +231,5641 @@
       "discord-bot",
       "wechat"
     ]
+  },
+  "dwgx/WindsurfAPI": {
+    "zh_desc": "将Windsurf模型转成兼容OpenAI与Anthropic的多模型代理服务",
+    "auto_tags": [
+      "api-proxy",
+      "llm-gateway",
+      "openai-compatible",
+      "reverse-engineering",
+      "windsurf"
+    ]
+  },
+  "YiKongk/windsurf-manager": {
+    "zh_desc": "批量注册并复用Windsurf账号会话的本地自动化工具",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "python",
+      "windsurf",
+      "manager"
+    ]
+  },
+  "VoltAgent/awesome-design-md": {
+    "zh_desc": "收录真实网站DESIGN.md模板，供AI编码代理生成像素级一致网页界面",
+    "auto_tags": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "google-stitch",
+      "landing-page"
+    ]
+  },
+  "jiangzik/bothub-site": {
+    "zh_desc": "基于 Docus 的文档站点模板，支持 Markdown、Vue 组件与全文搜索",
+    "auto_tags": [
+      "typescript",
+      "bothub",
+      "site"
+    ]
+  },
+  "mtvpls/zhuque": {
+    "zh_desc": "朱雀是基于Rust的定时任务平台，支持脚本编辑执行与日志终端管理",
+    "auto_tags": [
+      "docker",
+      "rust",
+      "python",
+      "typescript",
+      "zhuque"
+    ]
+  },
+  "KubaZzZo/claude-desktop-zh-localization": {
+    "zh_desc": "Claude Desktop中文化工程工具，支持备份补丁校验与回滚",
+    "auto_tags": [
+      "claude-code",
+      "claude",
+      "desktop",
+      "localization"
+    ]
+  },
+  "hellowind777/helloagents": {
+    "zh_desc": "面向Claude Code等AI编程CLI的工作流层，提供技能、项目知识库与交付校验",
+    "auto_tags": [
+      "workflow-automation",
+      "cli",
+      "python",
+      "helloagents"
+    ]
+  },
+  "DouDOU-start/airgate-core": {
+    "zh_desc": "AirGate Core是可热插拔的统一AI网关运行时与管理后台",
+    "auto_tags": [
+      "ai-gateway",
+      "multi-account",
+      "plugin-system",
+      "2api",
+      "account-sharing"
+    ]
+  },
+  "QuantumNous/skills": {
+    "zh_desc": "用于管理NewAPI网关模型、分组、令牌与余额的运维技能集",
+    "auto_tags": [
+      "api-gateway",
+      "cli"
+    ]
+  },
+  "jlcodes99/cockpit-tools": {
+    "zh_desc": "Cockpit Tools是管理Codex与Copilot等AI IDE多账号切换、多开和配额监控的工具",
+    "auto_tags": [
+      "account-manager",
+      "ai",
+      "antigravity",
+      "codex",
+      "github-copilot"
+    ]
+  },
+  "QuantumNous/new-api": {
+    "zh_desc": "New API是集成大模型网关、令牌权限与计费管理的AI资产平台",
+    "auto_tags": [
+      "claude",
+      "gemini",
+      "openai",
+      "rerank",
+      "ai-gateway"
+    ]
+  },
+  "Anil-matcha/Seedance-2.0-API": {
+    "zh_desc": "面向字节跳动Seedance 2.0的视频生成Python封装，支持文生视频与图生视频",
+    "auto_tags": [
+      "ai-video-generation",
+      "muapi",
+      "python-api-wrapper",
+      "seedance-2-api",
+      "seedance-api"
+    ]
+  },
+  "Aries-by/iCloud-Hide-My-Email-": {
+    "zh_desc": "面向 iCloud 网页版的隐藏邮件别名管理脚本，支持极速生成导出与收件箱跳转",
+    "auto_tags": [
+      "icloud",
+      "hide",
+      "email"
+    ]
+  },
+  "EKKOLearnAI/hermes-web-ui": {
+    "zh_desc": "Hermes Agent 网页控制台，管理聊天会话、渠道配置、用量成本与定时任务",
+    "auto_tags": [
+      "ai-agent",
+      "chat-ui",
+      "chatbot",
+      "dashboard",
+      "discord-bot"
+    ]
+  },
+  "v03413/Epay-BEpusdt": {
+    "zh_desc": "彩虹易支付对接BEpusdt的TRX与USDT收款插件",
+    "auto_tags": [
+      "plugin",
+      "epay",
+      "bepusdt"
+    ]
+  },
+  "TGlimmer/TG_walletbot": {
+    "zh_desc": "Telegram加密货币钱包机器人，支持USDT/TRX充值提现转账红包与商户回调",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "golang",
+      "walletbot"
+    ]
+  },
+  "QLHazyCoder/codex-oauth-automation-extension": {
+    "zh_desc": "用于批量跑通ChatGPT OAuth注册登录与验证码获取的Chrome扩展",
+    "auto_tags": [
+      "wechat",
+      "codex",
+      "api-gateway",
+      "oauth",
+      "automation"
+    ]
+  },
+  "Yeachan-Heo/oh-my-codex": {
+    "zh_desc": "为 Codex 增加 Hook、代理团队与 HUD 等扩展能力的增强工具集",
+    "auto_tags": [
+      "codex",
+      "agent",
+      "hooks",
+      "tooling",
+      "cli"
+    ]
+  },
+  "Brhiza/mingyu": {
+    "zh_desc": "命语是生成八字紫微等排盘并",
+    "auto_tags": [
+      "mingyu"
+    ]
+  },
+  "ttguy0707/CyberClaw": {
+    "zh_desc": "CyberClaw是企业级透明智能体，支持全行为审计、零信任执行与双水位记忆",
+    "auto_tags": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-safety",
+      "claude-code"
+    ]
+  },
+  "Heavrnl/nexus-terminal": {
+    "zh_desc": "星枢终端是支持SSH/RDP/VNC与Docker管理的现代化Web远程连接客户端",
+    "auto_tags": [
+      "express",
+      "nodejs",
+      "typescript",
+      "vite",
+      "vue3"
+    ]
+  },
+  "xiyewuqiu/new-lmage": {
+    "zh_desc": "基于Telegram与Cloudflare的免费无限存储现代化图床服务",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "cli"
+    ]
+  },
+  "alchaincyf/nuwa-skill": {
+    "zh_desc": "女娲.skill可自动蒸馏名人认知框架并生成可调用技能",
+    "auto_tags": [
+      "claude-code",
+      "nuwa"
+    ]
+  },
+  "chenhg5/cc-connect": {
+    "zh_desc": "将本地AI代理桥接到微信Telegram等聊天平台远程控制",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "discord",
+      "discord-bot",
+      "wechat"
+    ]
+  },
+  "foryourhealth111-pixel/Vibe-Skills": {
+    "zh_desc": "面向多场景任务的AI技能操作系统与智能编排引擎",
+    "auto_tags": [
+      "ai-agents",
+      "ai-workflow",
+      "automation",
+      "codex",
+      "developer-tools"
+    ]
+  },
+  "AnalyseDeCircuit/oxideterm": {
+    "zh_desc": "OxideTerm是纯Rust原生SSH终端，集成本地Shell、SFTP、远程IDE与端口转发",
+    "auto_tags": [
+      "filemanager",
+      "launchpad",
+      "react",
+      "redb",
+      "rust"
+    ]
+  },
+  "YuanQin99/ms-mail-fetcher": {
+    "zh_desc": "基于FastAPI与Vue3的Outlook邮件账号管理和本地查看工具",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "python",
+      "mail",
+      "fetcher"
+    ]
+  },
+  "shuaiplus/nodewarden": {
+    "zh_desc": "NodeWarden是运行于Cloudflare Workers的Bitwarden兼容密码库服务端，支持同步附件与云备份",
+    "auto_tags": [
+      "bitwarden",
+      "cloudflare-workers",
+      "password-manager",
+      "self-hosted",
+      "serverless"
+    ]
+  },
+  "openai/codex-plugin-cc": {
+    "zh_desc": "Claude Code 内嵌 Codex 插件，可做代码审查并委派任务与后台作业",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "ai-agent",
+      "plugin",
+      "workflow-automation"
+    ]
+  },
+  "DeadWaveWave/opencove": {
+    "zh_desc": "OpenCove是整合Claude Code终端任务笔记的无限画布工作台",
+    "auto_tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "desktop-app"
+    ]
+  },
+  "7836246/cursor2api": {
+    "zh_desc": "将Cursor免费对话代理转为Claude与OpenAI兼容API的防截断网关",
+    "auto_tags": [
+      "ai",
+      "cc",
+      "claude",
+      "gpt",
+      "cursor"
+    ]
+  },
+  "CJackHwang/ds2api": {
+    "zh_desc": "将DeepSeek网页对话转为OpenAI、Claude、Gemini兼容API的Go网关",
+    "auto_tags": [
+      "deepseek",
+      "freeapi",
+      "go",
+      "proxy",
+      "proxy-server"
+    ]
+  },
+  "zc-zhangchen/any-auto-register": {
+    "zh_desc": "多平台账号自动注册管理系统，支持插件扩展与本地Turnstile解码",
+    "auto_tags": [
+      "docker",
+      "auto",
+      "register"
+    ]
+  },
+  "yanguo888/fakabot": {
+    "zh_desc": "Telegram自动发卡机器人，支持多支付、自动发货与Docker部署",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "docker",
+      "python"
+    ]
+  },
+  "remorses/usecomputer": {
+    "zh_desc": "面向AI代理的跨平台桌面自动化CLI，支持截图、鼠标键盘控制与坐标映射",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "automation",
+      "browser-automation",
+      "workflow-automation"
+    ]
+  },
+  "Forget-C/Jellyfish": {
+    "zh_desc": "Jellyfish是一站式AI短剧工厂，支持剧本拆镜、资产一致性管理与视频生成导出",
+    "auto_tags": [
+      "ai",
+      "short-drama",
+      "automation",
+      "browser-automation",
+      "workflow-automation"
+    ]
+  },
+  "D4Vinci/Scrapling": {
+    "zh_desc": "Scrapling是自适应网页抓取框架，支持反爬绕过与并发爬虫",
+    "auto_tags": [
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "playwright",
+      "python"
+    ]
+  },
+  "AIPMAndy/goskill": {
+    "zh_desc": "GoSkill是面向长任务的目标驱动执行封装，支持验收标准、重试与状态追踪",
+    "auto_tags": [
+      "agents",
+      "ai",
+      "automation",
+      "developer-tools",
+      "goal-driven"
+    ]
+  },
+  "ccbkkb/MicroWARP": {
+    "zh_desc": "MicroWARP是基于内核级WireGuard与MicroSOCKS的轻量高性能WARP SOCKS5代理",
+    "auto_tags": [
+      "alpine",
+      "bypass-dpi",
+      "cloudflare",
+      "docker",
+      "lightweight"
+    ]
+  },
+  "samber/cc-skills-golang": {
+    "zh_desc": "面向生产级Go项目的AI技能库，覆盖测试、安全与可观测性规范",
+    "auto_tags": [
+      "agent",
+      "ai",
+      "antigravity",
+      "claude",
+      "claude-code"
+    ]
+  },
+  "k1p1l0/claude-telegram-supercharged": {
+    "zh_desc": "Claude Telegram 增强插件，为机器人提供语音转写、TTS回复与批量消息总结",
+    "auto_tags": [
+      "ai-tools",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code"
+    ]
+  },
+  "dou-jiang/codex-console": {
+    "zh_desc": "OpenAI账号注册登录与订阅管理增强控制台，含邮箱轮询和任务调度",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "codex",
+      "python"
+    ]
+  },
+  "OpenKILab/ClawReverse": {
+    "zh_desc": "OpenClaw原生插件，支持会话检查点保存、回滚恢复与分支续跑",
+    "auto_tags": [
+      "openclaw",
+      "plugin",
+      "version-control",
+      "clawreverse"
+    ]
+  },
+  "open-gitagent/clawless": {
+    "zh_desc": "ClawLess是基于WebContainers的浏览器端Claw智能体无服务器沙箱运行时",
+    "auto_tags": [
+      "agent-runtime",
+      "ai",
+      "ai-agents",
+      "ai-sandbox",
+      "audit-logging"
+    ]
+  },
+  "gbessoni/seobuild-onpage": {
+    "zh_desc": "基于实时竞品SERP自动生成可排名SEO页面的内容写作工具",
+    "auto_tags": [
+      "aeo",
+      "agent-skills",
+      "ahrefs",
+      "ai-agent",
+      "claude-code"
+    ]
+  },
+  "VoltAgent/awesome-codex-subagents": {
+    "zh_desc": "收录136余个Codex开发子代理的精选仓库，覆盖10类专用编程任务",
+    "auto_tags": [
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents"
+    ]
+  },
+  "hubeiqiao/apple-bento-grid": {
+    "zh_desc": "为AI编程代理生成苹果风便当网格展示卡的HTML技能",
+    "auto_tags": [
+      "agent-skills",
+      "apple-design",
+      "bento-grid",
+      "claude-code",
+      "codex"
+    ]
+  },
+  "HKUDS/ClawTeam": {
+    "zh_desc": "面向CLI代理的智能体集群框架，可编排分工协作、自动执行研发与实验任务",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "ai-agent",
+      "cli",
+      "python"
+    ]
+  },
+  "pasky/chrome-cdp-skill": {
+    "zh_desc": "连接现有Chrome会话的CDP技能，让AI直接读取并操作已登录标签页",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "ai-agent",
+      "automation"
+    ]
+  },
+  "lxf746/any-auto-register": {
+    "zh_desc": "多平台账号自动注册管理系统，支持插件扩展、代理池与验证码接入",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "automation",
+      "browser-automation",
+      "api-gateway"
+    ]
+  },
+  "cnlimiter/codex-manager": {
+    "zh_desc": "OpenAI账号管理Web系统，支持批量注册、代理配置与订阅导出",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "codex",
+      "api-gateway",
+      "python"
+    ]
+  },
+  "deemoartisan/gateway-notify": {
+    "zh_desc": "Gateway Notify可在OpenClaw网关重启时自动推送启动信息到五种消息渠道",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "discord",
+      "discord-bot",
+      "openclaw"
+    ]
+  },
+  "JenkinWoo/CardVerse": {
+    "zh_desc": "CardVerse是数字商品与卡密发货系统，支持商城下单、后台管库存订单及自动发货",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "cardverse"
+    ]
+  },
+  "linzixuanzz/daidai-panel": {
+    "zh_desc": "轻量级定时任务管理面板，定位类似青龙面板，适合脚本调度与任务编排",
+    "auto_tags": [
+      "scheduler",
+      "task-panel",
+      "automation",
+      "docker",
+      "golang"
+    ]
+  },
+  "0x5uo2hen/codex_register": {
+    "zh_desc": "OpenAI全自动注册脚本，支持临时邮箱接码与OAuth令牌提取",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "codex",
+      "api-gateway",
+      "python"
+    ]
+  },
+  "tibbar213/team-manage": {
+    "zh_desc": "基于FastAPI的ChatGPT Team账号与兑换码自动邀请管理系统",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "python",
+      "javascript"
+    ]
+  },
+  "wzxklm/rss-aggregator": {
+    "zh_desc": "面向AI代理的RSS聚合器，支持摘要翻译、Web界面与本地SQLite JSON CLI",
+    "auto_tags": [
+      "ai-agent",
+      "docker",
+      "api-gateway",
+      "cli",
+      "ssh"
+    ]
+  },
+  "golutra/golutra": {
+    "zh_desc": "golutra是把Claude Code等CLI编排成多智能体协作工作台的桌面应用",
+    "auto_tags": [
+      "agent",
+      "automation",
+      "claude-code",
+      "codex",
+      "codex-cli"
+    ]
+  },
+  "linuxhsj/openclaw-zero-token": {
+    "zh_desc": "基于浏览器登录的多模型免费统一调用网关",
+    "auto_tags": [
+      "openclaw",
+      "claude-code",
+      "knowledge-management",
+      "zero",
+      "token"
+    ]
+  },
+  "ZhangWY0724/apitest": {
+    "zh_desc": "基于FastAPI与React的API账号测活去重批量管理工具",
+    "auto_tags": [
+      "api-gateway",
+      "cli",
+      "python",
+      "apitest"
+    ]
+  },
+  "jikssha/openclaw-dae-skills": {
+    "zh_desc": "面向OpenClaw的搜索技能集，提供源头文档检索与实时舆情综述能力",
+    "auto_tags": [
+      "openclaw",
+      "seo",
+      "ssh"
+    ]
+  },
+  "jihe520/social-push": {
+    "zh_desc": "面向AI编程助手的社交平台发布技能，基于agent browser自动发稿并自我修复",
+    "auto_tags": [
+      "agent",
+      "claude-code",
+      "skill",
+      "social-media",
+      "wechat"
+    ]
+  },
+  "caiwuu/web2api": {
+    "zh_desc": "Web2API将Claude网页端封装为兼容OpenAI与Anthropic的标准接口",
+    "auto_tags": [
+      "claude-code",
+      "docker",
+      "api-gateway",
+      "cli",
+      "python"
+    ]
+  },
+  "SonicBotMan/lobster-press": {
+    "zh_desc": "LobsterPress是为AI Agent提供无损压缩、语义提取与智能遗忘的长期记忆引擎",
+    "auto_tags": [
+      "ai",
+      "bash",
+      "chatgpt",
+      "claude",
+      "context-compression"
+    ]
+  },
+  "amchii/tg-signer": {
+    "zh_desc": "Telegram自动签到与消息监控回复机器人，支持AI识图点键盘",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "automation",
+      "browser-automation",
+      "docker"
+    ]
+  },
+  "cita-777/metapi": {
+    "zh_desc": "聚合New API等AI中转站的统一网关，支持模型发现、智能路由与故障切换",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "metapi"
+    ]
+  },
+  "KUN1007/kun-touchgal-next": {
+    "zh_desc": "TouchGal是一站式Galgame文化社区，提供论坛交流与游戏下载服务",
+    "auto_tags": [
+      "argon2",
+      "aws-s3",
+      "cloudflare-workers",
+      "eslint",
+      "jwt"
+    ]
+  },
+  "EchoHS/GeekezBrowser": {
+    "zh_desc": "GeekEZ指纹浏览器，集成Xray代理与深度伪装防多账号关联",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "automation",
+      "browser-automation",
+      "api-gateway"
+    ]
+  },
+  "ChanceYu/front-end-rss": {
+    "zh_desc": "每日汇总推送前端技术文章的GitHub订阅仓库",
+    "auto_tags": [
+      "rss",
+      "feed",
+      "front-end",
+      "blog",
+      "latest"
+    ]
+  },
+  "cmliu/SubsCheck-Win-GUI": {
+    "zh_desc": "面向Windows的SubsCheck图形工具，批量测速代理节点并支持结果保存到R2、Gist和WebDAV",
+    "auto_tags": [
+      "proxypool",
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "huliyoudiangou/TG_Chat_Bot-D1": {
+    "zh_desc": "基于Cloudflare Worker与D1的Telegram双向私聊托管风控机器人，含三模态验证与CRM协管",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "chat"
+    ]
+  },
+  "beck-8/subs-check": {
+    "zh_desc": "订阅检测转换工具，支持节点测速测活、去重重命名与多格式订阅导出",
+    "auto_tags": [
+      "clash",
+      "mihomo",
+      "v2ray",
+      "docker",
+      "subs"
+    ]
+  },
+  "Finsys/dockhand": {
+    "zh_desc": "Dockhand是轻量隐私优先的Docker管理工具，支持容器实时运维与Compose编排",
+    "auto_tags": [
+      "docker",
+      "docker-compose",
+      "dockerfile",
+      "docker-management",
+      "docker-management-tool"
+    ]
+  },
+  "akasls/TG-SignPulse": {
+    "zh_desc": "Telegram多账号自动化面板，支持签到定时任务与AI识图算题",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "signpulse"
+    ]
+  },
+  "volcengine/OpenViking": {
+    "zh_desc": "OpenViking是面向AI Agent的上下文数据库，统一管理记忆、资源与技能",
+    "auto_tags": [
+      "context-engineering",
+      "filesystem",
+      "rag",
+      "memory",
+      "skill"
+    ]
+  },
+  "hmjz100/LinkSwift": {
+    "zh_desc": "LinkSwift网盘脚本，获取八大云盘直链并支持IDM与Aria2下载",
+    "auto_tags": [
+      "aliyun-drive",
+      "baidu",
+      "baidu-netdisk",
+      "quark-netdisk",
+      "tianyi-netdisk"
+    ]
+  },
+  "longyq20/rikkahub": {
+    "zh_desc": "RikkaHub是支持多LLM提供商的安卓应用与可移植Kotlin/Ktor网页后端源码",
+    "auto_tags": [
+      "docker",
+      "rag",
+      "rikkahub"
+    ]
+  },
+  "NeekChaw/awesome-prompt": {
+    "zh_desc": "收录小红书、公众号、PPT等场景高质量AI提示词合集",
+    "auto_tags": [
+      "wechat",
+      "claude-code",
+      "prompt"
+    ]
+  },
+  "Menghuan1918/drawio2go": {
+    "zh_desc": "面向人机协作建模的AI增强DrawIO编辑器，支持版本管理与精准修改",
+    "auto_tags": [
+      "ai",
+      "ai-agents",
+      "drawio",
+      "mcp",
+      "mcp-server"
+    ]
+  },
+  "hect0x7/JMComic-Crawler-Python": {
+    "zh_desc": "提供禁漫天堂访问、搜索与多线程下载解码的Python爬虫API",
+    "auto_tags": [
+      "18comic",
+      "crawler",
+      "github-actions",
+      "pypi",
+      "python"
+    ]
+  },
+  "samqin123/MoonTV": {
+    "zh_desc": "MoonTV是跨平台影视聚合播放器，支持多源搜索在线播放与多端同步",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "typescript",
+      "moontv"
+    ]
+  },
+  "chenyme/grok2api": {
+    "zh_desc": "基于FastAPI的Grok网关，提供OpenAI兼容对话、图像与视频API",
+    "auto_tags": [
+      "grok",
+      "grok-imagine",
+      "grok-4-20",
+      "grok-4-3",
+      "api-gateway"
+    ]
+  },
+  "snakeying/Synapse": {
+    "zh_desc": "面向生产开发的多模型编程工作流，Claude和Gemini起草，Codex审核改写并安全落盘",
+    "auto_tags": [
+      "claude-code",
+      "codex-cli",
+      "codex-skills",
+      "gemini-cli",
+      "codex"
+    ]
+  },
+  "VoltAgent/awesome-openclaw-skills": {
+    "zh_desc": "汇总5200多种社区OpenClaw技能的分类清单，便于发现、安装与启发自动化用例",
+    "auto_tags": [
+      "agent-skills",
+      "awesome-list",
+      "clawdbot",
+      "clawdbot-skill",
+      "clawd"
+    ]
+  },
+  "clash-verge-rev/clash-verge-rev": {
+    "zh_desc": "基于 Tauri 的 Clash.Meta 图形客户端，支持多平台代理配置、规则编辑与内核切换",
+    "auto_tags": [
+      "clash",
+      "clash-meta",
+      "clash-verge",
+      "linux",
+      "mac"
+    ]
+  },
+  "syy1212/GeminiBusiness-auto-free": {
+    "zh_desc": "基于Python与DrissionPage的Gemini Enterprise自动注册与邮箱验证码获取工具",
+    "auto_tags": [
+      "python",
+      "geminibusiness",
+      "auto",
+      "free"
+    ]
+  },
+  "WordPress/agent-skills": {
+    "zh_desc": "面向AI编程助手的WordPress技能包，覆盖区块、插件、REST API与安全规范",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "ai-agent",
+      "plugin",
+      "workflow-automation"
+    ]
+  },
+  "lza6/NooMiNav-optimization": {
+    "zh_desc": "基于Cloudflare的云服务导航门户，支持D1统计与环境变量隐私配置",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "javascript",
+      "noominav",
+      "optimization"
+    ]
+  },
+  "lza6/Cloudflare-Navihive-optimization": {
+    "zh_desc": "基于Cloudflare Workers、D1与React的网址导航站，支持智能搜索、分组拖拽和权限安全管理",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "typescript",
+      "navihive",
+      "optimization"
+    ]
+  },
+  "dyndynjyxa/aio-coding-hub": {
+    "zh_desc": "AIO Coding Hub是统一Claude Code等CLI的本地AI网关工具",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "mcp",
+      "automation",
+      "browser-automation"
+    ]
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "zh_desc": "面向多平台与框架的AI设计系统生成UI/UX技能库",
+    "auto_tags": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "command-line"
+    ]
+  },
+  "lingfengQAQ/webnovel-writer": {
+    "zh_desc": "基于Claude Code的长篇网文创作系统，支持RAG与连载防遗忘防幻觉",
+    "auto_tags": [
+      "claude-code",
+      "plugin",
+      "rag",
+      "python",
+      "webnovel"
+    ]
+  },
+  "LigphiDonk/team-project": {
+    "zh_desc": "基于 Next.js 的 ChatGPT 工作空间多账号统一管理与自动邀人成员系统",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "typescript",
+      "team",
+      "project"
+    ]
+  },
+  "AnkRoot/Augment-BYOK": {
+    "zh_desc": "将 Augment 11 个模型端点路由到自备 API 的单文件 VS Code 插件",
+    "auto_tags": [
+      "api-gateway",
+      "rust",
+      "version-control",
+      "augment",
+      "byok"
+    ]
+  },
+  "yuudi/rclone-webui-angular": {
+    "zh_desc": "Rclone 的 Angular 网页管理界面，支持远程存储配置、浏览与挂载",
+    "auto_tags": [
+      "rclone",
+      "rclone-gui",
+      "automation",
+      "browser-automation",
+      "webui"
+    ]
+  },
+  "nguyenphutrong/quotio": {
+    "zh_desc": "Quotio 是管理 CLIProxyAPI 的 macOS 控制台，支持多账号配额监控与 AI 编码工具一键配置",
+    "auto_tags": [
+      "ai-tools",
+      "developer-tools",
+      "proxy",
+      "quota-monitor",
+      "discord"
+    ]
+  },
+  "ztx888/HaloWebUI": {
+    "zh_desc": "HaloWebUI是基于Open WebUI的自托管AI平台，支持多模型路由与知识检索增强",
+    "auto_tags": [
+      "claude-code",
+      "api-gateway",
+      "typescript",
+      "halowebui"
+    ]
+  },
+  "chatgptuk/ldc-shop": {
+    "zh_desc": "基于Next.js与Cloudflare Workers的无服务器虚拟商品商店系统",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "typescript",
+      "shop"
+    ]
+  },
+  "ZeroDeng01/sublinkPro": {
+    "zh_desc": "基于Go的代理订阅管理转换平台，支持智能标签、测速筛选、机场与分享管理",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "golang",
+      "sublinkpro"
+    ]
+  },
+  "BeCrafter/PromptCraft": {
+    "zh_desc": "PromptCraft是基于Next.js的AI提示词库平台，支持模糊搜索、Markdown与静态部署",
+    "auto_tags": [
+      "prompts",
+      "cloudflare",
+      "workers",
+      "typescript",
+      "promptcraft"
+    ]
+  },
+  "qicfan/qmediasync": {
+    "zh_desc": "QMediaSync基于115开放平台同步生成STRM并联动Emby刮削入库刷新",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "golang",
+      "qmediasync"
+    ]
+  },
+  "teng-lin/notebooklm-py": {
+    "zh_desc": "NotebookLM非官方Python接口，支持研究自动化与多格式内容生成",
+    "auto_tags": [
+      "api",
+      "claude",
+      "python",
+      "sdk",
+      "skills"
+    ]
+  },
+  "donbarbos/telegram-bot-template": {
+    "zh_desc": "面向可扩展运营的Telegram机器人模板，集成管理后台、分析监控与PostgreSQL/Redis支持",
+    "auto_tags": [
+      "telegram-bot",
+      "python",
+      "aiogram-bot-template",
+      "docker-compose",
+      "postgresql"
+    ]
+  },
+  "Swiftgram/Telegram-iOS": {
+    "zh_desc": "Swiftgram是Telegram iOS增强分支，支持TestFlight、本地聊天与多语言翻译",
+    "auto_tags": [
+      "ios",
+      "swift",
+      "telegram",
+      "telegram-ios",
+      "telegram-mod"
+    ]
+  },
+  "sky22333/epay-bot": {
+    "zh_desc": "易支付订单通知Telegram机器人，支持多商户轮询推送与订单结算查询",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "cli",
+      "golang"
+    ]
+  },
+  "AIDC-AI/Pixelle-Video": {
+    "zh_desc": "Pixelle Video是输入主题即可自动写文案、配图配音并合成短视频的AI引擎",
+    "auto_tags": [
+      "aigc",
+      "comfyui",
+      "image-generation",
+      "tts",
+      "video-generation"
+    ]
+  },
+  "huangzijian888/GeekFaka": {
+    "zh_desc": "面向独立开发者的数字商品自动发卡系统，支持支付对接、自动发货与Docker部署",
+    "auto_tags": [
+      "wechat",
+      "docker",
+      "api-gateway",
+      "geekfaka"
+    ]
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "zh_desc": "基于大模型的多市场自选股智能分析与多渠道决策推送系统",
+    "auto_tags": [
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant"
+    ]
+  },
+  "james-6-23/team-invite-kfc": {
+    "zh_desc": "面向Linux.do社区的ChatGPT Team自动邀请系统，集成OAuth、Cloud Mail与验证码提取",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "python",
+      "team"
+    ]
+  },
+  "engigu/baihu-panel": {
+    "zh_desc": "白虎面板是基于Go+Vue3的轻量任务调度平台，支持Mise多语言运行时管理与脚本托管",
+    "auto_tags": [
+      "cron",
+      "cron-jobs",
+      "cronjob",
+      "baihu",
+      "crontab"
+    ]
+  },
+  "hj01857655/kiro-account-manager": {
+    "zh_desc": "Kiro IDE账号管理桌面工具，支持一键切换、配额监控与OAuth登录",
+    "auto_tags": [
+      "rust",
+      "tauri",
+      "kiro",
+      "account",
+      "manager"
+    ]
+  },
+  "hank9999/kiro.rs": {
+    "zh_desc": "用Rust编写的Claude兼容代理，将Anthropic请求转换为Kiro API并支持流式、多凭据与自动刷新",
+    "auto_tags": [
+      "claude-code",
+      "api-gateway",
+      "cli",
+      "rust",
+      "kiro"
+    ]
+  },
+  "caidaoli/kiro2api": {
+    "zh_desc": "kiro2api是统一Claude、OpenAI与CodeWhisperer的高性能API代理网关",
+    "auto_tags": [
+      "claude-code",
+      "docker",
+      "api-gateway",
+      "cli",
+      "golang"
+    ]
+  },
+  "Wei-Shaw/sub2api": {
+    "zh_desc": "面向订阅额度分发的AI网关，提供鉴权计费、密钥分发与负载调度",
+    "auto_tags": [
+      "2api",
+      "antigravity2api",
+      "claude",
+      "claude-code",
+      "codex"
+    ]
+  },
+  "Haleclipse/Claudix": {
+    "zh_desc": "将Claude Code接入VSCode的扩展，支持对话编程、文件分析与终端执行",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "cli",
+      "typescript",
+      "terminal"
+    ]
+  },
+  "zhukunpenglinyutong/jetbrains-cc-gui": {
+    "zh_desc": "面向Claude Code与OpenAI Codex的IntelliJ可视化双AI编程插件",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "plugin",
+      "jetbrains"
+    ]
+  },
+  "shellus/mj-studio": {
+    "zh_desc": "MJ Studio 是集成多模型绘图、视频生成与对话的轻量 AI 工作台",
+    "auto_tags": [
+      "ai-art",
+      "ai-image-generator",
+      "dalle",
+      "flux",
+      "gemini"
+    ]
+  },
+  "dyyz1993/script-gateway": {
+    "zh_desc": "ScriptGateway是面向n8n的脚本托管网关，可将Python和JavaScript脚本自动注册为REST API",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "docker",
+      "api-gateway",
+      "workflow-automation"
+    ]
+  },
+  "tdlib/telegram-bot-api": {
+    "zh_desc": "Telegram Bot API服务端，提供HTTP接口创建机器人并支持本地部署大文件传输",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "czlonkowski/n8n-skills": {
+    "zh_desc": "面向Claude的n8n工作流技能集，强化MCP调用与校验修复",
+    "auto_tags": [
+      "ai-agents",
+      "n8n",
+      "workflow-automation",
+      "claude-code",
+      "mcp"
+    ]
+  },
+  "czlonkowski/n8n-mcp": {
+    "zh_desc": "面向Claude等助手的n8n MCP服务器，提供1396个工作流节点文档与操作访问",
+    "auto_tags": [
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows",
+      "claude-code"
+    ]
+  },
+  "lesnolie/movecar": {
+    "zh_desc": "基于Cloudflare Workers的扫码挪车通知系统，Bark推送联系车主并双向共享位置保护隐私",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "movecar"
+    ]
+  },
+  "HisMax/RedInk": {
+    "zh_desc": "RedInk 是将一句话批量生成统一风格图文封面的 AI 工具",
+    "auto_tags": [
+      "ai",
+      "aigc",
+      "content-generator",
+      "social-media",
+      "xiaohongshu"
+    ]
+  },
+  "obra/superpowers": {
+    "zh_desc": "Superpowers为编码代理提供技能驱动的规格澄清、TDD规划与子代理开发工作流",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "workflow-automation",
+      "golang",
+      "superpowers"
+    ]
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "zh_desc": "收录实用Claude Skills清单，覆盖文档处理、代码工具与Composio多应用自动化",
+    "auto_tags": [
+      "claude",
+      "claude-code",
+      "agent-skills",
+      "ai-agents",
+      "antigravity"
+    ]
+  },
+  "copialot/auto-phone-scheduler": {
+    "zh_desc": "基于Open AutoGLM的安卓手机定时自动化系统，支持多设备调度与任务录屏通知",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "python",
+      "auto"
+    ]
+  },
+  "lbjlaq/Antigravity-Manager": {
+    "zh_desc": "Antigravity 账号管理与切换工具，支持一键无缝切换账号",
+    "auto_tags": [
+      "account-manager",
+      "antigravity",
+      "tauri",
+      "rust",
+      "cli"
+    ]
+  },
+  "zai-org/Open-AutoGLM": {
+    "zh_desc": "Open AutoGLM是基于ADB与视觉语言模型的手机多模态自动操作框架",
+    "auto_tags": [
+      "agent",
+      "phone-use-agent",
+      "wechat",
+      "claude-code",
+      "ai-agent"
+    ]
+  },
+  "GuDaStudio/skills": {
+    "zh_desc": "GudaStudio 的 Agent Skills 集合让 Claude 按需调用 Codex、Gemini 与工具协作开发",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "codex",
+      "claude-code",
+      "ai-agent"
+    ]
+  },
+  "router-for-me/CLIProxyAPI": {
+    "zh_desc": "为OpenAI、Gemini、Claude等CLI提供兼容代理接口与OAuth多账号接入",
+    "auto_tags": [
+      "claude-code",
+      "cluade",
+      "gemini",
+      "openai",
+      "codex"
+    ]
+  },
+  "mangguo02/domain-check": {
+    "zh_desc": "基于Cloudflare Workers与KV的域名到期监控仪表盘，支持WHOIS查询、分组管理和Telegram提醒",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "domain"
+    ]
+  },
+  "TheSmallHanCat/flow2api": {
+    "zh_desc": "Flow2API是为Flow提供文图与视频生成的OpenAI兼容API服务",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "python",
+      "flow2api"
+    ]
+  },
+  "lfnovo/open-notebook": {
+    "zh_desc": "Open Notebook是私有本地多模型研究笔记与播客生成平台",
+    "auto_tags": [
+      "assistant",
+      "learning",
+      "note-taking",
+      "notebook",
+      "notes-app"
+    ]
+  },
+  "YYsuni/2025-blog-public": {
+    "zh_desc": "基于 GitHub App 的博客前端，可部署到 Vercel 并在线编辑发布内容",
+    "auto_tags": [
+      "blog",
+      "github-app",
+      "2025",
+      "public"
+    ]
+  },
+  "Minerchu/dongguaTV": {
+    "zh_desc": "基于Node.js的影视聚合平台，整合30+资源站点并支持智能搜索测速播放",
+    "auto_tags": [
+      "docker",
+      "dongguatv"
+    ]
+  },
+  "bestruirui/octopus": {
+    "zh_desc": "Octopus 是聚合多家大模型渠道并提供负载均衡与协议转换的 API 服务",
+    "auto_tags": [
+      "ai",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code"
+    ]
+  },
+  "firecrawl/open-scouts": {
+    "zh_desc": "Open Scouts是持续搜网并通知结果的AI监控平台",
+    "auto_tags": [
+      "ai-agents",
+      "alerts",
+      "automation",
+      "email-notifications",
+      "firecrawl"
+    ]
+  },
+  "tukuaiai/vibe-coding-cn": {
+    "zh_desc": "面向开发者的AI结对编程指南，涵盖构思规划、调试扩展与多智能体协作",
+    "auto_tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "prompts"
+    ]
+  },
+  "Tansuo2021/OCRPDF-TO-PPT": {
+    "zh_desc": "将图片与PDF页转成含OCR可编辑文本框的PPT桌面工具",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "workflow-automation",
+      "cli",
+      "python"
+    ]
+  },
+  "fawney19/Aether": {
+    "zh_desc": "Aether是自托管AI网关，统一接入Claude、OpenAI、Gemini并做多租户与负载均衡",
+    "auto_tags": [
+      "claude-code",
+      "docker",
+      "api-gateway",
+      "cli",
+      "python"
+    ]
+  },
+  "sunjackson/claude-code-proxy": {
+    "zh_desc": "Claude Code本地代理管理桌面应用，支持智能路由与故障切换",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "api-gateway",
+      "workflow-automation",
+      "cli"
+    ]
+  },
+  "sansan0/TrendRadar": {
+    "zh_desc": "AI 驱动的多平台舆情与热点监控工具，支持 RSS 聚合、关键词筛选、智能分析与多渠道推送",
+    "auto_tags": [
+      "data-analysis",
+      "trending-topics",
+      "rss",
+      "ai",
+      "mcp"
+    ]
+  },
+  "ginobefun/BestBlogs": {
+    "zh_desc": "BestBlogs.dev聚合技术与AI等精选内容，并用大模型做评分摘要翻译",
+    "auto_tags": [
+      "ai",
+      "business",
+      "product",
+      "programming",
+      "bestblogs"
+    ]
+  },
+  "justlovemaki/CloudFlare-AI-Insight-Daily": {
+    "zh_desc": "基于Cloudflare Workers的AI资讯日报平台，聚合Folo信源并用Gemini生成摘要与播客稿",
+    "auto_tags": [
+      "aicoding",
+      "cloudflare",
+      "workers",
+      "docker",
+      "insight"
+    ]
+  },
+  "shuguangnet/docker_backup_script": {
+    "zh_desc": "面向Linux的Docker容器备份恢复脚本，支持配置卷数据备份与新机一键还原",
+    "auto_tags": [
+      "docker",
+      "backup",
+      "script"
+    ]
+  },
+  "lza6/horde-2api-cfwork": {
+    "zh_desc": "将AI Horde封装为OpenAI兼容接口的Cloudflare Worker免费算力网关",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "api-gateway",
+      "horde",
+      "2api"
+    ]
+  },
+  "KuekHaoYang/KVideo": {
+    "zh_desc": "基于 Next.js 16 的视频聚合播放平台，支持多源搜索与 HLS 投屏",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "workflow-automation",
+      "typescript",
+      "kvideo"
+    ]
+  },
+  "IPADS-SAI/MobiAgent": {
+    "zh_desc": "MobiAgent是可定制手机智能体框架，集成MobiMind、AgentRR、MobiFlow与ADB执行能力",
+    "auto_tags": [
+      "ai-agent",
+      "cli",
+      "mobiagent"
+    ]
+  },
+  "lx969788249/docker_migrate": {
+    "zh_desc": "一键备份传输并恢复 Docker 容器镜像网络配置的迁移脚本",
+    "auto_tags": [
+      "docker",
+      "migrate"
+    ]
+  },
+  "ling-drag0n/CloudPaste": {
+    "zh_desc": "基于Cloudflare的多存储聚合文件管理与Markdown分享平台",
+    "auto_tags": [
+      "markdown",
+      "webdav",
+      "docker",
+      "cloudflare",
+      "cloudflare-workers"
+    ]
+  },
+  "HG-ha/ICP_Query": {
+    "zh_desc": "基于Python的高性能ICP备案查询与验证码识别本地化接口工具",
+    "auto_tags": [
+      "domain",
+      "icp",
+      "docker",
+      "python",
+      "query"
+    ]
+  },
+  "HG-ha/itdog_mcp": {
+    "zh_desc": "基于itdog.cn的MCP网络测试服务器，支持Ping、TCPing、Web测速与路由追踪",
+    "auto_tags": [
+      "mcp",
+      "automation",
+      "browser-automation",
+      "docker",
+      "python"
+    ]
+  },
+  "HG-ha/termux-virts": {
+    "zh_desc": "Termux下一键部署管理QEMU虚拟机并支持快照与自定义启动参数",
+    "auto_tags": [
+      "termux",
+      "virts"
+    ]
+  },
+  "HG-ha/Parrot": {
+    "zh_desc": "Parrot是基于CosyVoice2的多角色语音克隆工具，支持短音频一键换声与历史复用",
+    "auto_tags": [
+      "onedrive",
+      "parrot"
+    ]
+  },
+  "pptt121212/content-auto-manager": {
+    "zh_desc": "鸭梨AI文章智能写手插件可批量生成SEO文章并自动配图定时发布",
+    "auto_tags": [
+      "seo",
+      "content",
+      "auto",
+      "manager"
+    ]
+  },
+  "HG-ha/nsfwpy": {
+    "zh_desc": "nsfwpy是跨平台NSFW检测库，支持图片GIF视频识别与多种推理加速",
+    "auto_tags": [
+      "nsfw",
+      "python",
+      "docker",
+      "nsfwpy"
+    ]
+  },
+  "kuafuai/aipexbase": {
+    "zh_desc": "AIPEXBASE是面向AI应用的后端即服务平台，提供MCP兼容存储鉴权与上下文管理",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "aipexbase"
+    ]
+  },
+  "AIPexStudio/AIPex": {
+    "zh_desc": "AIPex是驻留现有浏览器的开源自动化代理，支持MCP直控网页",
+    "auto_tags": [
+      "chrome-extension",
+      "tab-management",
+      "browser-use",
+      "mcp",
+      "browser-automation"
+    ]
+  },
+  "oiov/wr.do": {
+    "zh_desc": "WR.DO是集短链临时邮箱子域名与文件存储的域名服务平台",
+    "auto_tags": [
+      "email-receiver",
+      "email-sender",
+      "nextjs",
+      "short-link",
+      "subdomain-managment"
+    ]
+  },
+  "TangSY/edge-next-starter": {
+    "zh_desc": "基于vinext的Next.js与Cloudflare Workers全栈边缘应用脚手架",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "rag",
+      "typescript",
+      "edge"
+    ]
+  },
+  "looplj/axonhub": {
+    "zh_desc": "AxonHub是零改代码切换OpenAI、Claude、Gemini等模型的统一AI网关平台",
+    "auto_tags": [
+      "ai",
+      "anthropic",
+      "openai",
+      "agent",
+      "agents"
+    ]
+  },
+  "bmad-code-org/BMAD-METHOD": {
+    "zh_desc": "BMad Method 是面向敏捷开发的开源 AI 多代理协作与全流程交付框架",
+    "auto_tags": [
+      "discord",
+      "discord-bot",
+      "ai-agent",
+      "workflow-automation",
+      "rag"
+    ]
+  },
+  "ch3nnn/webstack-go": {
+    "zh_desc": "基于Go的开源网址导航后台系统，支持网站管理、批量采集与一键同步导出",
+    "auto_tags": [
+      "gin",
+      "website",
+      "bookmark",
+      "go",
+      "navigation"
+    ]
+  },
+  "zywe03/astro-xwnav": {
+    "zh_desc": "Astro xwnav是零后端静态导航站，支持智能搜索与自动图标分类生成",
+    "auto_tags": [
+      "astro",
+      "navigation",
+      "nodejs",
+      "react",
+      "theme"
+    ]
+  },
+  "radishzzz/astro-theme-retypeset": {
+    "zh_desc": "基于 Astro 的静态博客主题，支持 MDX、LaTeX、多语言与书籍式排版体验",
+    "auto_tags": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "minimalist",
+      "static-site"
+    ]
+  },
+  "ptbsare/mcp-proxy-server": {
+    "zh_desc": "面向MCP的代理聚合服务器，统一管理多后端并提供Web控制与鉴权会话支持",
+    "auto_tags": [
+      "http",
+      "mcp-management",
+      "mcp-manager",
+      "mcp-proxy",
+      "mcp-proxy-server"
+    ]
+  },
+  "Shannon-x/sufe-shop-bot": {
+    "zh_desc": "面向数字商品自动售卖的Telegram商城机器人，支持多语言支付、自动发卡与后台管理",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "workflow-automation",
+      "golang"
+    ]
+  },
+  "qy527145/acemcp": {
+    "zh_desc": "Acemcp 是支持增量索引与语义搜索的代码库 MCP 服务器",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "acemcp"
+    ]
+  },
+  "yincongcyincong/MuseBot": {
+    "zh_desc": "MuseBot是一分钟接入多平台的LLM聊天机器人，支持流式回复、语音识图与RAG",
+    "auto_tags": [
+      "deepseek",
+      "telegram",
+      "ai-bot",
+      "gemini",
+      "openai"
+    ]
+  },
+  "apify/crawlee": {
+    "zh_desc": "Crawlee 是 Node.js 网页抓取与浏览器自动化库，支持反爬采集和数据存储",
+    "auto_tags": [
+      "web-scraping",
+      "web-crawling",
+      "npm",
+      "headless-chrome",
+      "puppeteer"
+    ]
+  },
+  "dext7r/ZtoApi": {
+    "zh_desc": "为Z.ai GLM4.6提供OpenAI兼容接口的代理，支持流式响应、鉴权与监控面板",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "golang",
+      "python",
+      "javascript"
+    ]
+  },
+  "maillab/cloud-mail": {
+    "zh_desc": "基于Cloudflare Workers的低成本响应式邮箱服务，支持发信、附件与邮件管理",
+    "auto_tags": [
+      "email",
+      "cloudflare-email",
+      "cloudflare",
+      "mail",
+      "workers"
+    ]
+  },
+  "lza6/2api-to-CFwork": {
+    "zh_desc": "将任意后端API转换为自包含Cloudflare Worker，内置交互测试面板与流式响应",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "api-gateway",
+      "python"
+    ]
+  },
+  "yonggekkk/argosbx": {
+    "zh_desc": "Argosbx是一键部署多协议代理与Argo隧道的轻量VPS脚本",
+    "auto_tags": [
+      "argo",
+      "cloudflared",
+      "singbox",
+      "vmess-ws",
+      "tuic"
+    ]
+  },
+  "NoFxAiOS/nofx": {
+    "zh_desc": "NOFX是用USDC钱包驱动的全自动多市场AI交易助手",
+    "auto_tags": [
+      "ai-trading",
+      "agentictrading",
+      "ai",
+      "trading",
+      "arbitrage"
+    ]
+  },
+  "cworld1/astro-theme-pure": {
+    "zh_desc": "基于 Astro 的博客与文档主题，支持全文搜索、SEO、RSS 与动态 Open Graph",
+    "auto_tags": [
+      "astro",
+      "astrojs",
+      "blog",
+      "blog-theme",
+      "cloudflare"
+    ]
+  },
+  "lu0b0/cloudflare-manager": {
+    "zh_desc": "Cloudflare多账号Workers批量管理系统，支持任务并发、实时监控与脚本维护",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "typescript",
+      "manager"
+    ]
+  },
+  "catlog22/Claude-Code-Workflow": {
+    "zh_desc": "面向Claude Code的多CLI技能化编排与多角色代理工作流框架",
+    "auto_tags": [
+      "claude",
+      "claude-code",
+      "cli-tools",
+      "codex",
+      "context-management"
+    ]
+  },
+  "xiamuceer-j/MuMuAINovel": {
+    "zh_desc": "MuMuAINovel是支持多模型生成大纲角色章节的AI小说创作助手",
+    "auto_tags": [
+      "claude-code",
+      "docker",
+      "python",
+      "mumuainovel"
+    ]
+  },
+  "lza6/Prompt-APP-optimization": {
+    "zh_desc": "面向Prompt优化项目的分阶段规划与迭代升级改进指南生成方案",
+    "auto_tags": [
+      "prompt",
+      "optimization"
+    ]
+  },
+  "nexmoe/VidBee": {
+    "zh_desc": "VidBee是基于Electron与yt-dlp的多站视频音频下载器，支持RSS自动订阅下载",
+    "auto_tags": [
+      "downloader",
+      "facebook",
+      "tiktok",
+      "twitter",
+      "youtube"
+    ]
+  },
+  "aisuyi065/alpha-okx-deepseek-qwen": {
+    "zh_desc": "基于OKX与DeepSeek、Qwen的加密交易AI量化项目",
+    "auto_tags": [
+      "alpha",
+      "deepseek",
+      "qwen"
+    ]
+  },
+  "wb-hwang/AIAnswerer-Android": {
+    "zh_desc": "安卓答题助手，基于OCR截图识题并调用DeepSeek等模型生成答案解析",
+    "auto_tags": [
+      "ai-assistant",
+      "android",
+      "jetpack-compose",
+      "kotlin",
+      "mlkit"
+    ]
+  },
+  "lza6/googletranslate-2api": {
+    "zh_desc": "基于FastAPI的谷歌翻译代理，兼容OpenAI接口并支持流式响应",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "python",
+      "googletranslate",
+      "2api"
+    ]
+  },
+  "YaoFANGUK/video-subtitle-remover": {
+    "zh_desc": "Video Subtitle Remover用AI去除视频硬字幕并智能修复画面区域",
+    "auto_tags": [
+      "ai",
+      "deepleanring",
+      "vsr",
+      "sub-remove",
+      "subtile"
+    ]
+  },
+  "PanHywel/TidyMark": {
+    "zh_desc": "TidyMark是可自动分类、查死链并云备份的浏览器书签整理扩展",
+    "auto_tags": [
+      "bookmarks",
+      "chrome-extension",
+      "edge-extension",
+      "new-tab",
+      "productivity"
+    ]
+  },
+  "3ixi/ReedFlow": {
+    "zh_desc": "ReedFlow是基于FastAPI的拖拽式自动化工作流与定时任务管理系统",
+    "auto_tags": [
+      "python",
+      "javascript",
+      "reedflow"
+    ]
+  },
+  "imzyb/MiSub": {
+    "zh_desc": "MiSub是管理机场订阅与手动节点并生成多客户端订阅模板的工具",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "ai-agent",
+      "api-gateway",
+      "misub"
+    ]
+  },
+  "wzdnzd/aggregator": {
+    "zh_desc": "免费代理池构建工具，爬取多平台节点并自动验证转换为Clash等订阅格式",
+    "auto_tags": [
+      "proxypool",
+      "telegram",
+      "telegram-bot",
+      "scraping",
+      "crawler"
+    ]
+  },
+  "xgzlucario/githubhunt": {
+    "zh_desc": "基于AI Agent的GitHub仓库搜索工具，支持自然语言检索、视觉分析与星标筛选",
+    "auto_tags": [
+      "ai",
+      "github",
+      "repository",
+      "search-engine",
+      "meilisearch"
+    ]
+  },
+  "lc2panda/AITradingSimulator": {
+    "zh_desc": "基于大模型决策的加密货币交易模拟平台，支持策略自定义与实时绩效分析",
+    "auto_tags": [
+      "python",
+      "aitradingsimulator"
+    ]
+  },
+  "ChinaSiro/open-prompt-manager-for-prompub": {
+    "zh_desc": "基于本地存储的 PromPub 提示词管理器，支持分类搜索筛选与实时对话调试",
+    "auto_tags": [
+      "claude-code",
+      "api-gateway",
+      "rag",
+      "typescript",
+      "open"
+    ]
+  },
+  "liangdabiao/claude-data-analysis": {
+    "zh_desc": "基于Claude子代理与斜杠命令的数据分析助手，可做统计探索、可视化与报告生成",
+    "auto_tags": [
+      "agent",
+      "agentic-ai",
+      "claude-code",
+      "ai-agent",
+      "workflow-automation"
+    ]
+  },
+  "ding113/claude-code-hub": {
+    "zh_desc": "Claude Code Hub是面向团队的多供应商AI接口代理与调度运营平台",
+    "auto_tags": [
+      "claude-api",
+      "claude-code",
+      "telegram",
+      "telegram-bot",
+      "codex"
+    ]
+  },
+  "aahl/mcp-aktools": {
+    "zh_desc": "基于AkShare的MCP服务器，提供股票与加密货币查询分析工具",
+    "auto_tags": [
+      "akshare",
+      "aktools",
+      "llm",
+      "mcp",
+      "mcp-server"
+    ]
+  },
+  "su-kaka/gcli2api": {
+    "zh_desc": "将 GeminiCLI 与 Antigravity 转成兼容 OpenAI、Gemini、Claude 的多格式接口服务",
+    "auto_tags": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-pro",
+      "antigravity-ide"
+    ]
+  },
+  "OVINC-CN/OpenWebUI": {
+    "zh_desc": "面向中小团队的Open WebUI增强版，集成计费支付与企业级用户管理",
+    "auto_tags": [
+      "openwebui"
+    ]
+  },
+  "lza6/novaapp-2api": {
+    "zh_desc": "将NovaApp转换为OpenAI兼容接口的多账号轮询图像生成代理服务",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "scraping",
+      "crawler",
+      "docker"
+    ]
+  },
+  "chadyi/AITradeGame": {
+    "zh_desc": "基于大模型的本地与在线AI交易模拟器，支持多模型策略、排行榜和隐私存储",
+    "auto_tags": [
+      "claude-code",
+      "cli",
+      "rag",
+      "python",
+      "aitradegame"
+    ]
+  },
+  "MindMobius/navo": {
+    "zh_desc": "基于用户评价与搜索的Cloudflare导航站，支持API动态更新网站链接",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "javascript",
+      "navo"
+    ]
+  },
+  "1420970597/fucto": {
+    "zh_desc": "提供OpenAI兼容FastAPI中转服务，支持多Cookie轮询与WebSocket实时测试",
+    "auto_tags": [
+      "api-gateway",
+      "cli",
+      "python",
+      "fucto"
+    ]
+  },
+  "iluobei/miaomiaowu": {
+    "zh_desc": "妙妙屋是轻量级Clash订阅管理系统，支持探针流量聚合、节点导入与订阅生成",
+    "auto_tags": [
+      "docker",
+      "miaomiaowu"
+    ]
+  },
+  "XUANXUQAQ/gpt-api-sync": {
+    "zh_desc": "用于同步两个GPT渠道管理平台配置的Web服务，支持状态监控与模型重定向",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "sync"
+    ]
+  },
+  "TIANQIAN1238/VibeClip-Pro": {
+    "zh_desc": "VibeClip Pro是跨平台AI剪贴板工具，支持历史管理、OCR翻译与多模型处理",
+    "auto_tags": [
+      "cli",
+      "tauri",
+      "vibeclip"
+    ]
+  },
+  "dreammis/airProxyPool": {
+    "zh_desc": "将机场订阅转换并聚合为 SOCKS 节点池的代理工具",
+    "auto_tags": [
+      "proxy",
+      "socks5",
+      "subscription",
+      "network",
+      "pool"
+    ]
+  },
+  "open-webui/open-webui": {
+    "zh_desc": "Open WebUI 是可离线自托管AI平台，支持 Ollama、OpenAI API 与内置RAG推理",
+    "auto_tags": [
+      "ollama",
+      "ollama-webui",
+      "llm",
+      "webui",
+      "self-hosted"
+    ]
+  },
+  "soluckysummer/n8n_workflows": {
+    "zh_desc": "soluckysummer的n8n工作流仓库，提供可下载导入的AI自动化JSON模板与教程",
+    "auto_tags": [
+      "mcp",
+      "workflow-automation",
+      "rag",
+      "workflows"
+    ]
+  },
+  "firecrawl/open-agent-builder": {
+    "zh_desc": "Firecrawl驱动的可视化无代码AI代理工作流构建与实时执行平台",
+    "auto_tags": [
+      "mcp",
+      "ai-agent",
+      "scraping",
+      "crawler",
+      "workflow-automation"
+    ]
+  },
+  "TonnyWong1052/temp-email": {
+    "zh_desc": "基于 Cloudflare 的临时邮箱服务，可生成邮箱并智能提取邮件验证码",
+    "auto_tags": [
+      "cloudflare",
+      "temp-email",
+      "custom-domain-temp-email",
+      "verification-code",
+      "workers"
+    ]
+  },
+  "benborla/mcp-server-mysql": {
+    "zh_desc": "面向Claude Code的MySQL MCP服务器，支持SSH隧道安全查库与执行SQL",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "cli",
+      "rust",
+      "ssh"
+    ]
+  },
+  "UfoMiao/zcf": {
+    "zh_desc": "ZCF是Claude Code与Codex一键零配置双语智能代理工具",
+    "auto_tags": [
+      "ai",
+      "ccr",
+      "claude",
+      "claude-ai",
+      "claude-code"
+    ]
+  },
+  "AMEINEKO/Auto-Brute-Force-Tool": {
+    "zh_desc": "基于Go与Python的多模式面板和SSH爆破工具，支持多线程与依赖自动安装",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "golang",
+      "python",
+      "ssh"
+    ]
+  },
+  "tingxifa/okx-grid-bot": {
+    "zh_desc": "面向OKX的Python网格交易机器人，支持动态调网格、风控与Web监控",
+    "auto_tags": [
+      "python",
+      "grid"
+    ]
+  },
+  "EBOLABOY/GridBNB-USDT": {
+    "zh_desc": "基于Python的币安多币种自动化网格交易机器人，含动态风控与Web监控",
+    "auto_tags": [
+      "docker",
+      "cli",
+      "python",
+      "gridbnb",
+      "usdt"
+    ]
+  },
+  "alhza/GPT-Load": {
+    "zh_desc": "面向企业的AI API透明代理，支持模型聚合、智能路由与加权负载均衡",
+    "auto_tags": [
+      "api-gateway",
+      "cli",
+      "golang",
+      "version-control",
+      "load"
+    ]
+  },
+  "YILING0013/AI_NovelGenerator": {
+    "zh_desc": "基于大语言模型的长篇小说生成器，支持设定构建、章节生成与状态校对",
+    "auto_tags": [
+      "novelgenerator"
+    ]
+  },
+  "nullskymc/tavernTranslator": {
+    "zh_desc": "SillyTavern角色卡翻译工具，支持PNG提取与中英互译导出",
+    "auto_tags": [
+      "codex",
+      "ai-agent",
+      "docker",
+      "python",
+      "taverntranslator"
+    ]
+  },
+  "Xinrea/bili-shadowreplay": {
+    "zh_desc": "B站抖音直播缓存回放、实时切片并快速投稿工具",
+    "auto_tags": [
+      "bilibili",
+      "rust",
+      "tauri",
+      "svelte",
+      "docker"
+    ]
+  },
+  "Nicolana/generate-cover": {
+    "zh_desc": "基于OpenRouter与即梦AI的WordPress文章封面自动生成插件",
+    "auto_tags": [
+      "plugin",
+      "seo",
+      "generate",
+      "cover"
+    ]
+  },
+  "zhuchenyu2008/RSS-AI": {
+    "zh_desc": "基于OpenAI兼容接口的RSS抓取摘要与Telegram推送助手",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "python"
+    ]
+  },
+  "BHznJNs/auto-discourse": {
+    "zh_desc": "基于OpenAI筛选兴趣话题并自动浏览Discourse站点的脚本工具",
+    "auto_tags": [
+      "python",
+      "auto",
+      "discourse"
+    ]
+  },
+  "aizhimou/pigeon-pod": {
+    "zh_desc": "PigeonPod将YouTube和B站频道转成可订阅RSS播客并自动同步下载",
+    "auto_tags": [
+      "mantine-v8",
+      "podcast",
+      "react",
+      "self-hosted",
+      "springboot3"
+    ]
+  },
+  "666ghj/BettaFish": {
+    "zh_desc": "BettaFish是多智能体舆情分析系统，监控社媒评论并生成预测报告",
+    "auto_tags": [
+      "agent-framework",
+      "data-analysis",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis"
+    ]
+  },
+  "Feather-2/Burner-X": {
+    "zh_desc": "Burner X是浏览器端AI文献工作站，支持多格式OCR翻译与长文智能分析",
+    "auto_tags": [
+      "ai-agent",
+      "docker",
+      "rag",
+      "javascript",
+      "burner"
+    ]
+  },
+  "hyb-oyqq/hajimi-king-pro": {
+    "zh_desc": "GitHub代码搜钥工具，支持Gemini Key扫描、代理轮换与数据库同步",
+    "auto_tags": [
+      "docker",
+      "hajimi",
+      "king"
+    ]
+  },
+  "guangxiangdebizi/MySQL_MCP": {
+    "zh_desc": "面向AI助手的MySQL MCP服务器，支持安全连接管理、多库切换与SQL增删改查",
+    "auto_tags": [
+      "llm2sql",
+      "mcp",
+      "mysql",
+      "txt2sql",
+      "database"
+    ]
+  },
+  "oop7/YTSage": {
+    "zh_desc": "基于PySide6的YouTube下载器，支持多清晰度视频、音频提取与字幕合并",
+    "auto_tags": [
+      "python",
+      "youtube-dl",
+      "youtube-downloader",
+      "yt-dlp",
+      "pyside6"
+    ]
+  },
+  "zhaoxiaozhao07/k2think2api": {
+    "zh_desc": "基于FastAPI的K2Think模型代理，提供OpenAI兼容接口与智能Token池自愈轮询",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "python",
+      "k2think2api"
+    ]
+  },
+  "VoAPI/VoAPI": {
+    "zh_desc": "VoAPI是高颜值高性能的AI大模型API聚合分发与计费管理系统",
+    "auto_tags": [
+      "chatgpt",
+      "openai",
+      "voapi",
+      "ai",
+      "ai-agents"
+    ]
+  },
+  "wuqi-y/auto-cursor-releases": {
+    "zh_desc": "Auto Cursor是管理Cursor账号、Token与Machine ID的跨平台桌面工具",
+    "auto_tags": [
+      "codex",
+      "rust",
+      "python",
+      "typescript",
+      "tauri"
+    ]
+  },
+  "dataease/SQLBot": {
+    "zh_desc": "SQLBot是基于大模型与RAG的智能问数系统，支持对话式分析与Text to SQL生成",
+    "auto_tags": [
+      "deepseek",
+      "llm",
+      "rag",
+      "sqlbot",
+      "text-to-sql"
+    ]
+  },
+  "CCRSRG/TG_ZF": {
+    "zh_desc": "Telegram多账号转发与对话导出工具，支持智能过滤去重和断点续传",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "api-gateway",
+      "python"
+    ]
+  },
+  "Riniba/TelegramMonitor": {
+    "zh_desc": "TelegramMonitor监听Telegram消息并按关键词转发到指定群组频道",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "telegram-bot-api",
+      "telegrammonitor"
+    ]
+  },
+  "yan5xu/ququ": {
+    "zh_desc": "蛐蛐是面向中文的开源桌面语音输入工具，支持本地FunASR识别与LLM智能润色",
+    "auto_tags": [
+      "chinese-speech-recognition",
+      "electron-app",
+      "funasr",
+      "local-processing",
+      "open-source"
+    ]
+  },
+  "Zie619/n8n-workflows": {
+    "zh_desc": "面向n8n的自动化工作流合集与AI安全风险扫描工具",
+    "auto_tags": [
+      "workflow-automation",
+      "workflows"
+    ]
+  },
+  "li88iioo/Photonix": {
+    "zh_desc": "Photonix是支持AI对话与多源订阅的极简智能相册画廊",
+    "auto_tags": [
+      "claude-code",
+      "docker",
+      "photonix"
+    ]
+  },
+  "DemoJ/memos-ai": {
+    "zh_desc": "基于 Memos 笔记的智能问答助手，支持语义检索、Webhook 实时同步与 Docker 部署",
+    "auto_tags": [
+      "docker",
+      "python",
+      "memos"
+    ]
+  },
+  "rwv/chinese-dos-games": {
+    "zh_desc": "中文 DOS 游戏合集仓库，收录1898款游戏并提供下载与网站源码",
+    "auto_tags": [
+      "dos",
+      "game",
+      "python",
+      "chinese",
+      "games"
+    ]
+  },
+  "LiveContainer/LiveContainer": {
+    "zh_desc": "LiveContainer是可在容器内运行IPA的iOS应用启动器",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "livecontainer"
+    ]
+  },
+  "hanshuaikang/AI-Media2Doc": {
+    "zh_desc": "开源AI视频图文助手，可将音视频转小红书笔记、字幕并智能插图",
+    "auto_tags": [
+      "ai",
+      "python",
+      "vue",
+      "bilibili",
+      "chatgpt"
+    ]
+  },
+  "Usagi-org/ai-goofish-monitor": {
+    "zh_desc": "基于Playwright与AI的闲鱼多任务实时监控机器人，带Web管理界面",
+    "auto_tags": [
+      "ai",
+      "playwright",
+      "automation",
+      "gemini",
+      "goofish"
+    ]
+  },
+  "zhinianboke/xianyu-auto-reply": {
+    "zh_desc": "闲鱼自动回复项目被曝可窃取Cookie与聊天交易数据",
+    "auto_tags": [
+      "wechat",
+      "python",
+      "xianyu",
+      "auto",
+      "reply"
+    ]
+  },
+  "ihmily/StreamCap": {
+    "zh_desc": "基于FFmpeg的多平台直播录制客户端，支持批量监控、定时录制与自动转码",
+    "auto_tags": [
+      "douyin",
+      "ffmpeg",
+      "live-streaming",
+      "tiktok",
+      "twitch"
+    ]
+  },
+  "hangwin/mcp-chrome": {
+    "zh_desc": "将 Chrome 变成可被 Claude 等模型操控的本地浏览器自动化与语义搜索助手",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "automation",
+      "browser-automation",
+      "rag"
+    ]
+  },
+  "vikiboss/60s": {
+    "zh_desc": "vikiboss/60s是提供每日60秒精选新闻与开放数据接口的全球CDN加速API平台",
+    "auto_tags": [
+      "60s",
+      "bilibili",
+      "weibo",
+      "api",
+      "deno"
+    ]
+  },
+  "yangsoon/funny-bot": {
+    "zh_desc": "基于aiotg与aiohttp的Telegram图片爬虫机器人，支持异步请求与内联键盘翻页",
+    "auto_tags": [
+      "asyncio",
+      "aiohttp",
+      "aiotg",
+      "telegram-bot",
+      "telegram"
+    ]
+  },
+  "xiamuceer-j/AI-Gamble": {
+    "zh_desc": "基于大语言模型的互动小说游戏，可实时生成分支剧情与可视化故事线路图",
+    "auto_tags": [
+      "python",
+      "javascript",
+      "gamble"
+    ]
+  },
+  "ikaijua/Awesome-AITools": {
+    "zh_desc": "汇总ChatGPT、Claude、Gemini等多类别AI工具与应用的精选导航仓库",
+    "auto_tags": [
+      "ai",
+      "chatgpt",
+      "awesome",
+      "llm",
+      "tools"
+    ]
+  },
+  "tianyaxiang/NavSphere": {
+    "zh_desc": "基于Next.js与GitHub仓库的书签导航管理平台，支持OAuth登录、拖拽整理与插件一键收藏",
+    "auto_tags": [
+      "cloudflare",
+      "cloudflare-pages",
+      "github",
+      "github-api",
+      "navigation"
+    ]
+  },
+  "airob0t/idcardgenerator": {
+    "zh_desc": "可填信息并自动抠图生成黑白和彩色身份证图片的工具",
+    "auto_tags": [
+      "python",
+      "opencv",
+      "idcard",
+      "idcardgenerator"
+    ]
+  },
+  "blinkospace/blinko": {
+    "zh_desc": "Blinko 是支持 AI 检索与自托管的卡片笔记应用",
+    "auto_tags": [
+      "markdown",
+      "memos",
+      "nextjs",
+      "notebook",
+      "openai"
+    ]
+  },
+  "beilunyang/moemail": {
+    "zh_desc": "基于Next.js与Cloudflare的临时邮箱服务，支持收发邮件、Webhook和OpenAPI",
+    "auto_tags": [
+      "cloudflare",
+      "cloudflare-workers",
+      "email",
+      "temp-email",
+      "workers"
+    ]
+  },
+  "Alibaba-NLP/DeepResearch": {
+    "zh_desc": "通义DeepResearch是面向长程信息检索的智能体大语言模型",
+    "auto_tags": [
+      "agent",
+      "llm",
+      "artificial-intelligence",
+      "information-seeking",
+      "alibaba"
+    ]
+  },
+  "naigoucn/ngdown": {
+    "zh_desc": "面向WordPress的附件密码下载插件，支持公众号、QQ/TG机器人与AI生成密码",
+    "auto_tags": [
+      "wechat",
+      "ngdown"
+    ]
+  },
+  "eooce/Sing-box": {
+    "zh_desc": "Sing-box多协议代理一键脚本，集成哪吒探针与Argo保活部署",
+    "auto_tags": [
+      "oneclick",
+      "serv00",
+      "sing-box",
+      "hysteria2",
+      "reality"
+    ]
+  },
+  "OpenListTeam/OpenList": {
+    "zh_desc": "OpenList是社区驱动的AList分叉版，主打开源治理与透明可改造",
+    "auto_tags": [
+      "alist",
+      "aliyunpan",
+      "baidupan",
+      "openlist",
+      "workflow-automation"
+    ]
+  },
+  "rikkahub/rikkahub": {
+    "zh_desc": "RikkaHub是支持多模型切换与多模态输入的原生安卓LLM聊天客户端",
+    "auto_tags": [
+      "android",
+      "jetpack-compose",
+      "chatgpt",
+      "deepseek",
+      "llm-ui"
+    ]
+  },
+  "leonardsellem/n8n-mcp-server": {
+    "zh_desc": "连接AI助手与n8n的MCP服务器，支持自然语言管理工作流与执行",
+    "auto_tags": [
+      "mcp",
+      "docker",
+      "workflow-automation",
+      "server"
+    ]
+  },
+  "Authenticator-Extension/Authenticator": {
+    "zh_desc": "Authenticator浏览器扩展，可在Chrome、Firefox和Edge生成两步验证码",
+    "auto_tags": [
+      "authenticator",
+      "2fa",
+      "chrome-extension",
+      "firefox-addon",
+      "otp"
+    ]
+  },
+  "Bubka/2FAuth": {
+    "zh_desc": "2FAuth是自托管双重认证管理器，可分组保存账户并生成TOTP/HOTP与Steam验证码",
+    "auto_tags": [
+      "otp",
+      "2fa",
+      "2factor",
+      "totp",
+      "hotp"
+    ]
+  },
+  "k4yt3x/video2x": {
+    "zh_desc": "Video2X是跨平台视频超分与补帧工具，集成RealESRGAN、RIFE等模型",
+    "auto_tags": [
+      "machine-learning",
+      "anime4k",
+      "vulkan",
+      "realesrgan",
+      "neural-networks"
+    ]
+  },
+  "Minidoracat/mcp-feedback-enhanced": {
+    "zh_desc": "面向MCP的反馈增强服务器，提供Web界面与Tauri桌面双端交互",
+    "auto_tags": [
+      "mcp",
+      "workflow-automation",
+      "ssh",
+      "feedback",
+      "enhanced"
+    ]
+  },
+  "DavidHDev/react-bits": {
+    "zh_desc": "React Bits是含110多种可定制动画与背景的React组件库",
+    "auto_tags": [
+      "animations",
+      "components",
+      "components-library",
+      "components-react",
+      "javascript"
+    ]
+  },
+  "sanshao85/mcp-feedback-collector-web": {
+    "zh_desc": "基于Node.js的MCP反馈收集器，支持AI汇报、用户反馈与图文对话",
+    "auto_tags": [
+      "mcp",
+      "api-gateway",
+      "python",
+      "feedback",
+      "collector"
+    ]
+  },
+  "GLips/Figma-Context-MCP": {
+    "zh_desc": "这是让Cursor读取Figma文件并一键还原界面的MCP服务器",
+    "auto_tags": [
+      "ai",
+      "cursor",
+      "figma",
+      "mcp",
+      "typescript"
+    ]
+  },
+  "antvis/mcp-server-chart": {
+    "zh_desc": "基于 AntV 的 MCP 图表服务器，支持 26+ 图表生成与数据分析",
+    "auto_tags": [
+      "antv",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "visualization"
+    ]
+  },
+  "svcvit/dify-plugin-artifacts": {
+    "zh_desc": "Dify插件Artifacts用于在网页聊天界面自动渲染LLM生成的HTML代码",
+    "auto_tags": [
+      "plugin",
+      "docker",
+      "knowledge-management",
+      "dify",
+      "artifacts"
+    ]
+  },
+  "wwwzhouhui/dify-for-dsl": {
+    "zh_desc": "面向 Dify 的 DSL 工作流脚本合集，覆盖绘图、OCR、视频、TTS 等场景",
+    "auto_tags": [
+      "dify"
+    ]
+  },
+  "langgenius/dify": {
+    "zh_desc": "Dify是开源LLM应用开发平台，集成工作流、RAG、Agent与模型管理",
+    "auto_tags": [
+      "ai",
+      "gpt",
+      "llm",
+      "openai",
+      "python"
+    ]
+  },
+  "svcvit/Awesome-Dify-Workflow": {
+    "zh_desc": "面向 Dify 的精选工作流合集，支持并行任务、会话变量与表单导入",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "workflow-automation",
+      "rag",
+      "dify"
+    ]
+  },
+  "baranwang/mcp-trends-hub": {
+    "zh_desc": "基于MCP的全网热点聚合服务，汇集20多源并可扩展RSS",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "trends"
+    ]
+  },
+  "EvoAgentX/EvoAgentX": {
+    "zh_desc": "EvoAgentX是可自动构建、评测与自进化多智能体工作流的开源框架",
+    "auto_tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "llms",
+      "multi-agent-systems"
+    ]
+  },
+  "3ixi/BeeLine": {
+    "zh_desc": "BeeLine是基于FastAPI的Python脚本调度控制台，支持执行、定时任务与日志监控",
+    "auto_tags": [
+      "docker",
+      "python",
+      "beeline"
+    ]
+  },
+  "dreammis/social-auto-upload": {
+    "zh_desc": "面向创作者的多平台视频一键上传与定时发布自动化工具",
+    "auto_tags": [
+      "bilibili",
+      "douyin",
+      "tiktok",
+      "xiaohongshu",
+      "youtube"
+    ]
+  },
+  "Jici-Zeroten/XiaoFeiShu": {
+    "zh_desc": "小飞薯RPA是小红书自动化运营工具，支持养号发笔记、热点分析与舆情监控",
+    "auto_tags": [
+      "rpa",
+      "rpa-robots",
+      "tools",
+      "ai",
+      "ipa"
+    ]
+  },
+  "sjzar/chatlog": {
+    "zh_desc": "微信聊天记录工具，原可便捷使用自有聊天数据，现因合规风险已下线",
+    "auto_tags": [
+      "chat",
+      "chatlog",
+      "database",
+      "key",
+      "wechat"
+    ]
+  },
+  "btahir/next-shopify-starter": {
+    "zh_desc": "基于Next.js与Shopify API的电商商城前端模板，支持GraphQL查询与购物车持久化",
+    "auto_tags": [
+      "nextjs-starter",
+      "nextjs",
+      "nextjs-template",
+      "tailwindcss",
+      "shopify"
+    ]
+  },
+  "obiwan90/n8n_guide": {
+    "zh_desc": "解析四个n8n工作流与RAG架构的实战指南",
+    "auto_tags": [
+      "scraping",
+      "crawler",
+      "rag",
+      "guide"
+    ]
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "zh_desc": "MoneyPrinterTurbo是输入主题即可自动生成短视频的AI工具",
+    "auto_tags": [
+      "shortvideo",
+      "automation",
+      "chatgpt",
+      "moviepy",
+      "python"
+    ]
+  },
+  "codexu/note-gen": {
+    "zh_desc": "NoteGen是跨平台AI笔记应用，支持RAG、MCP与智能体整理碎片记录为Markdown笔记",
+    "auto_tags": [
+      "markdown",
+      "tauri",
+      "nextjs",
+      "chatbot",
+      "llm"
+    ]
+  },
+  "freqtrade/freqtrade": {
+    "zh_desc": "Freqtrade是支持主流交易所并含回测优化的Python加密交易机器人",
+    "auto_tags": [
+      "python",
+      "cryptocurrencies",
+      "trading-bot",
+      "telegram-bot",
+      "bitcoin"
+    ]
+  },
+  "n8n-io/n8n": {
+    "zh_desc": "n8n是面向技术团队的工作流自动化平台，支持400+集成与原生AI编排",
+    "auto_tags": [
+      "automation",
+      "ipaas",
+      "n8n",
+      "workflow",
+      "typescript"
+    ]
+  },
+  "TheCaduceus/FileStreamBot": {
+    "zh_desc": "开源Python Telegram文件流转机器人，可将聊天文件经HTTP直链分享访问",
+    "auto_tags": [
+      "bot",
+      "http",
+      "mtproto",
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "dryeab/mcp-telegram": {
+    "zh_desc": "基于 Telethon 的 Telegram MCP 服务器，让 LLM 通过 MTProto 收发改删消息、搜聊天和处理媒体",
+    "auto_tags": [
+      "claude",
+      "llm",
+      "mcp",
+      "telegram",
+      "ai"
+    ]
+  },
+  "Skyvern-AI/skyvern": {
+    "zh_desc": "Skyvern 是结合视觉LLM与Playwright的浏览器工作流自动化平台",
+    "auto_tags": [
+      "api",
+      "automation",
+      "browser",
+      "computer",
+      "gpt"
+    ]
+  },
+  "ZubeidHendricks/youtube-mcp-server": {
+    "zh_desc": "这是面向YouTube的MCP服务器，提供视频搜索、字幕获取、频道与播放列表信息查询",
+    "auto_tags": [
+      "mcp",
+      "youtube",
+      "server"
+    ]
+  },
+  "RVC-Project/Retrieval-based-Voice-Conversion-WebUI": {
+    "zh_desc": "基于VITS的RVC变声框架，支持低延迟实时变声、快速训练与人声分离",
+    "auto_tags": [
+      "change",
+      "sovits",
+      "vits",
+      "voice",
+      "voice-conversion"
+    ]
+  },
+  "HuiResearch/FlashTTS": {
+    "zh_desc": "FlashTTS是支持零样本声音克隆的中文语音合成平台",
+    "auto_tags": [
+      "llamacpp-python",
+      "sglang",
+      "vllm",
+      "sparktts",
+      "orpheus-tts"
+    ]
+  },
+  "anaisbetts/mcp-installer": {
+    "zh_desc": "一个帮 Claude 安装 npm 或 PyPI 托管 MCP 服务器的安装器服务",
+    "auto_tags": [
+      "claude-code",
+      "mcp",
+      "python",
+      "installer"
+    ]
+  },
+  "liuyoshio/mcp-compass": {
+    "zh_desc": "MCP Compass 是面向 AI 助手的 MCP 服务器发现与智能推荐服务",
+    "auto_tags": [
+      "mcp",
+      "compass"
+    ]
+  },
+  "ZShijun/BeaconNav": {
+    "zh_desc": "BeaconNav是Typecho工具箱导航主题，支持响应式展示、点赞统计与无刷新加载",
+    "auto_tags": [
+      "typecho",
+      "theme",
+      "beaconnav"
+    ]
+  },
+  "jina-ai/reader": {
+    "zh_desc": "Jina Reader可将网址转为适合LLM的内容并实时搜索网页知识",
+    "auto_tags": [
+      "llm",
+      "proxy",
+      "ai-agent",
+      "rag",
+      "reader"
+    ]
+  },
+  "someu/aigotools": {
+    "zh_desc": "AigoTools是可自动收录站点的导航网站搭建与管理系统",
+    "auto_tags": [
+      "ai",
+      "directory",
+      "nestjs",
+      "nextjs",
+      "openai"
+    ]
+  },
+  "timerring/bilive": {
+    "zh_desc": "bilive是B站直播录播工具，可自动录制弹幕字幕切片并投稿上传",
+    "auto_tags": [
+      "bilibili",
+      "bilive",
+      "live-recording",
+      "ass",
+      "bili"
+    ]
+  },
+  "FoundationAgents/OpenManus": {
+    "zh_desc": "OpenManus是免邀请码的开源智能体框架，支持终端运行、多代理与数据分析",
+    "auto_tags": [
+      "discord",
+      "discord-bot",
+      "ai-agent",
+      "openmanus"
+    ]
+  },
+  "3269571135/tg_faka_bot": {
+    "zh_desc": "基于Python与易支付的Telegram自动发卡机器人，支持商品售卖与轮询判单",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "python",
+      "faka"
+    ]
+  },
+  "levywang/random_web_player": {
+    "zh_desc": "基于接口与爬虫源的抖音式随机在线视频播放器",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "random",
+      "player"
+    ]
+  },
+  "levywang/avhub": {
+    "zh_desc": "AvHub 是按番号检索磁链并管理成人视频资源的 FastAPI 平台",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "avhub"
+    ]
+  },
+  "Heavrnl/TelegramForwarder": {
+    "zh_desc": "Telegram消息转发工具，支持关键词过滤、正则改写与多平台推送",
+    "auto_tags": [
+      "telegram",
+      "telethon",
+      "fliter",
+      "python",
+      "apprise"
+    ]
+  },
+  "Gentlesprite/Telegram_Restricted_Media_Downloader": {
+    "zh_desc": "基于Python的Telegram受限媒体下载工具，支持Windows、Linux和Docker部署",
+    "auto_tags": [
+      "pyrogram",
+      "python",
+      "restricted",
+      "rich",
+      "telegram"
+    ]
+  },
+  "woniu336/vps-date": {
+    "zh_desc": "用于追踪 VPS 订阅到期时间与续费周期的管理工具",
+    "auto_tags": [
+      "vps",
+      "subscription",
+      "tracking",
+      "ops",
+      "reminder"
+    ]
+  },
+  "miantiao-me/BroadcastChannel": {
+    "zh_desc": "将 Telegram 频道转成支持 RSS 与 SEO 的 Astro 微博客系统",
+    "auto_tags": [
+      "astro",
+      "microblog",
+      "telegram",
+      "telegram-channel",
+      "blog"
+    ]
+  },
+  "MarSeventh/CloudFlare-ImgBed": {
+    "zh_desc": "CloudFlare-ImgBed是支持多存储与WebDAV/API的开源图床系统",
+    "auto_tags": [
+      "cloudflare-pages",
+      "cloudflare-r2",
+      "imgbed",
+      "netdisk",
+      "s3"
+    ]
+  },
+  "xiaomaoJT/TgBot": {
+    "zh_desc": "基于Google Apps Script的Telegram群管机器人，支持敏感词过滤、自动回复与消息存储",
+    "auto_tags": [
+      "bot",
+      "googleappsscript",
+      "telegram",
+      "telegram-bot",
+      "telegrambot"
+    ]
+  },
+  "ddean2009/MoneyPrinterPlus": {
+    "zh_desc": "MoneyPrinterPlus可批量生成混剪短视频并自动发布到抖音快手小红书视频号",
+    "auto_tags": [
+      "cli",
+      "moneyprinterplus"
+    ]
+  },
+  "chaitin/SafeLine": {
+    "zh_desc": "SafeLine 是自托管 Web 应用防火墙，防御攻击、限流并拦截恶意机器人",
+    "auto_tags": [
+      "firewall",
+      "http-flood",
+      "security",
+      "sql-injection",
+      "waf"
+    ]
+  },
+  "samwafgo/SamWaf": {
+    "zh_desc": "SamWaf是轻量级私有化网站与API防火墙，支持规则防护、日志加密和SSL证书管理",
+    "auto_tags": [
+      "docker",
+      "samwaf"
+    ]
+  },
+  "surprise-tech/huoxing-links": {
+    "zh_desc": "火星快链是开源抖音外链系统，支持跳转微信企微小程序获客",
+    "auto_tags": [
+      "wechat",
+      "cli",
+      "typescript",
+      "huoxing",
+      "links"
+    ]
+  },
+  "cmliu/WorkerVless2sub": {
+    "zh_desc": "基于Cloudflare Workers批量生成优选VMess/VLESS/Trojan订阅的工具",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "workervless2sub"
+    ]
+  },
+  "KoriIku/luxirty-search": {
+    "zh_desc": "基于Google CSE的无广告搜索引擎，屏蔽内容农场并提升GitHub等优质站点权重",
+    "auto_tags": [
+      "seo",
+      "luxirty",
+      "search"
+    ]
+  },
+  "xjh22222228/nav": {
+    "zh_desc": "发现导航是支持SEO与在线编辑的纯静态导航网站书签管理系统",
+    "auto_tags": [
+      "nav",
+      "navigation",
+      "angular",
+      "ng-zorro-antd",
+      "netlify"
+    ]
+  },
+  "eibols/ffmpeg_batch": {
+    "zh_desc": "FFmpeg Batch是支持批量转码、字幕封装剪辑的FFmpeg图形前端",
+    "auto_tags": [
+      "video",
+      "audio",
+      "encode",
+      "encoder",
+      "ffmpeg"
+    ]
+  },
+  "ellermister/mtproxy": {
+    "zh_desc": "Telegram MTProxy一键安装脚本，支持Fake TLS、AdTag与Nginx白名单伪装转发",
+    "auto_tags": [
+      "mtproxy",
+      "mtproto",
+      "mtproto-proxy",
+      "tls",
+      "telegram"
+    ]
+  },
+  "Mereithhh/vanblog": {
+    "zh_desc": "VanBlog是支持自动HTTPS、图床评论与Markdown编辑的个人博客系统",
+    "auto_tags": [
+      "blog",
+      "nextjs",
+      "nodejs",
+      "typescript",
+      "docker"
+    ]
+  },
+  "v03413/BEpusdt": {
+    "zh_desc": "BEpusdt是个人USDT收款网关，支持多链监控、Epusdt兼容与Docker部署",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "bepusdt"
+    ]
+  },
+  "bin456789/reinstall": {
+    "zh_desc": "reinstall是一键VPS重装脚本，支持19种Linux与官方ISO安装Windows",
+    "auto_tags": [
+      "reinstall",
+      "vps",
+      "netboot",
+      "netinstall",
+      "boot"
+    ]
+  },
+  "RuriOSS/rurima": {
+    "zh_desc": "rurima是面向安卓与多架构环境的轻量容器工具，支持拉取镜像、解析Docker配置与内置OTA升级",
+    "auto_tags": [
+      "container",
+      "container-image",
+      "docker",
+      "docker-image",
+      "linux"
+    ]
+  },
+  "screego/server": {
+    "zh_desc": "面向开发者的低延迟高画质 WebRTC 多人屏幕共享服务器 screego",
+    "auto_tags": [
+      "webrtc",
+      "screensharing-tool",
+      "privacy",
+      "selfhosted",
+      "docker"
+    ]
+  },
+  "likeflyme/cloudbak": {
+    "zh_desc": "已停更下线的微信云备份工具，曾支持服务器Docker和NAS网页访问备份",
+    "auto_tags": [
+      "wechat",
+      "wechat-backup",
+      "docker",
+      "cloudbak"
+    ]
+  },
+  "2418676646/duanju-api": {
+    "zh_desc": "短剧搜索服务API，支持夸克网盘资源存储与前端查询页面对接",
+    "auto_tags": [
+      "duanju"
+    ]
+  },
+  "iAJue/Articlesync": {
+    "zh_desc": "ArticleSync浏览器扩展可将本地草稿同步发布到知乎、B站和WordPress等平台",
+    "auto_tags": [
+      "articlesync"
+    ]
+  },
+  "Xwudao/lzpan_search": {
+    "zh_desc": "懒盘搜索是网盘搜索导航源码，支持分类展示与多网盘资源检索",
+    "auto_tags": [
+      "seo",
+      "golang",
+      "lzpan",
+      "search"
+    ]
+  },
+  "675061370/xinyue-search": {
+    "zh_desc": "心悦搜索是支持夸克百度阿里UC迅雷的网盘转存分享与索引管理系统",
+    "auto_tags": [
+      "wechat",
+      "seo",
+      "xinyue",
+      "search"
+    ]
+  },
+  "f4team-cn/f4pan": {
+    "zh_desc": "F4Pan是需账号登录的网盘直链解析与下载链接获取工具",
+    "auto_tags": [
+      "cli",
+      "f4pan"
+    ]
+  },
+  "thinkoaa/Deadpool": {
+    "zh_desc": "Deadpool代理池可聚合Hunter、Quake、Fofa高质量Socks5并轮询转发",
+    "auto_tags": [
+      "deadpool"
+    ]
+  },
+  "jianjianai/FList": {
+    "zh_desc": "FList将GitHub Releases等资源渲染为可预览下载的网盘式文件列表",
+    "auto_tags": [
+      "vuepress",
+      "vuepress-blog",
+      "vuepress-theme",
+      "file-server",
+      "cloudflare"
+    ]
+  },
+  "caolvchong-top/twitter_download": {
+    "zh_desc": "按用户名抓取推特图片视频文本的多条件下载爬虫工具",
+    "auto_tags": [
+      "scraping",
+      "crawler",
+      "cli",
+      "twitter",
+      "download"
+    ]
+  },
+  "Qexo/Qexo": {
+    "zh_desc": "Qexo是支持Hexo与Hugo的在线静态博客编辑器，含文章管理与多图床推送能力",
+    "auto_tags": [
+      "hexo",
+      "vercel",
+      "blog",
+      "docker",
+      "qexo"
+    ]
+  },
+  "renzhezhilu/webp2jpg-online": {
+    "zh_desc": "纯前端多语言图片转换与字幕拼图离线工具箱",
+    "auto_tags": [
+      "picture-converter",
+      "browser-picture-converter",
+      "image-converter",
+      "conversionem-image",
+      "to-jpeg"
+    ]
+  },
+  "Xposed-Modules-Repo/com.wye4.hookforvip": {
+    "zh_desc": "Xposed模块Hook for VIP，适配多款App会员解锁与广告弹窗去除",
+    "auto_tags": [
+      "android",
+      "xposed",
+      "xposed-module",
+      "hook",
+      "kotlin"
+    ]
+  },
+  "woaiqjj/FileWorker": {
+    "zh_desc": "基于 Cloudflare Pages 与 R2 的轻量文件管理和在线剪贴板工具",
+    "auto_tags": [
+      "cloudflare",
+      "cloudflare-pages",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "workers"
+    ]
+  },
+  "srcrs/rss-reader": {
+    "zh_desc": "支持多源订阅与自动刷新的极简RSS在线阅读器，支持Docker一键部署",
+    "auto_tags": [
+      "docker",
+      "seo",
+      "golang",
+      "reader"
+    ]
+  },
+  "ihmily/QuarkPanTool": {
+    "zh_desc": "QuarkPanTool是支持批量转存分享下载夸克网盘文件的命令行工具",
+    "auto_tags": [
+      "python",
+      "quark",
+      "tools",
+      "yunpan",
+      "kuake"
+    ]
+  },
+  "hamster1963/nezha-dash": {
+    "zh_desc": "基于Next.js的哪吒监控仪表盘，兼容Komari与MyNodeQuery数据源",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "nezha",
+      "dash"
+    ]
+  },
+  "traceless/alist-encrypt": {
+    "zh_desc": "Alist 加密代理为 AList 提供 WebDAV 透明加解密与加密视频在线播放",
+    "auto_tags": [
+      "docker",
+      "webdav",
+      "alist",
+      "encrypt"
+    ]
+  },
+  "posir/daohang-templates": {
+    "zh_desc": "这是一个收录导航页、跳转页和APP下载页的纯HTML模板合集",
+    "auto_tags": [
+      "daohang",
+      "templates"
+    ]
+  },
+  "setube/vue-xiuxiangame": {
+    "zh_desc": "基于Vue与Element Plus的文字修仙游戏项目，支持Pinia状态管理与Docker部署",
+    "auto_tags": [
+      "game",
+      "javascript",
+      "vue",
+      "xiuxian",
+      "docker"
+    ]
+  },
+  "OriX6/liveRecordAuto": {
+    "zh_desc": "基于Electron的抖音快手多链接直播自动录制工具",
+    "auto_tags": [
+      "liverecordauto"
+    ]
+  },
+  "cv-cat/DouYin_Spider": {
+    "zh_desc": "抖音数据采集与交互框架，支持直播监听、私信收发和评论点赞",
+    "auto_tags": [
+      "ai-agent",
+      "api-gateway",
+      "golang",
+      "python",
+      "douyin"
+    ]
+  },
+  "hacksider/Deep-Live-Cam": {
+    "zh_desc": "Deep Live Cam可用单张人脸图实时换脸并生成视频换脸内容",
+    "auto_tags": [
+      "ai-face",
+      "deepfake",
+      "video-deepfake",
+      "deepfake-webcam",
+      "fake-webcam"
+    ]
+  },
+  "Tai7sy/card-system": {
+    "zh_desc": "CardSystem卡密商城系统，支持支付宝微信等多渠道在线发卡收款",
+    "auto_tags": [
+      "wechat",
+      "card",
+      "system"
+    ]
+  },
+  "lixiaofei123/image-hosting-cfworkers": {
+    "zh_desc": "基于Cloudflare R2与Workers的免费图床，支持密码鉴权及多方式批量上传",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "rag",
+      "image"
+    ]
+  },
+  "Cp0204/quark-auto-save": {
+    "zh_desc": "夸克网盘自动转存工具，支持签到、重命名整理、推送提醒与Emby刷新",
+    "auto_tags": [
+      "quark",
+      "auto",
+      "save"
+    ]
+  },
+  "ypq123456789/TrafficCop": {
+    "zh_desc": "TrafficCop是基于vnStat的VPS流量监控限速脚本，支持端口限额与Telegram通知",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "ssh",
+      "trafficcop"
+    ]
+  },
+  "jxxghp/MoviePilot": {
+    "zh_desc": "基于FastAPI与Vue3的NAS媒体库自动化管理工具，支持前后端分离与CLI运维",
+    "auto_tags": [
+      "mcp",
+      "ai-agent",
+      "docker",
+      "cli",
+      "moviepilot"
+    ]
+  },
+  "yuimoi/tg_faka": {
+    "zh_desc": "基于易支付回调自动发货的Telegram发卡机器人",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "api-gateway",
+      "faka"
+    ]
+  },
+  "YouROK/TorrServer": {
+    "zh_desc": "TorrServer是支持缓存加速与HTTP串流的在线种子播放服务器",
+    "auto_tags": [
+      "docker",
+      "workflow-automation",
+      "golang",
+      "torrserver"
+    ]
+  },
+  "kingwrcy/moments": {
+    "zh_desc": "Moments 是支持多用户、Markdown与媒体上传的极简朋友圈系统",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "workflow-automation",
+      "golang"
+    ]
+  },
+  "yuimoi/tg_pay_gate": {
+    "zh_desc": "基于易支付的Telegram付费进群机器人，支付后发邀请并踢未付费成员",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "api-gateway",
+      "gate"
+    ]
+  },
+  "Meekdai/Gmeek": {
+    "zh_desc": "Gmeek是基于GitHub Pages、Issues和Actions的超轻量博客框架",
+    "auto_tags": [
+      "blog",
+      "github-actions",
+      "github-issues",
+      "github-pages",
+      "issues-blog"
+    ]
+  },
+  "sub-store-org/Sub-Store": {
+    "zh_desc": "Sub-Store是多平台代理订阅转换聚合与托管管理工具",
+    "auto_tags": [
+      "loon",
+      "surge4",
+      "quantumultx",
+      "clash",
+      "shadowsocks"
+    ]
+  },
+  "acepanel/panel": {
+    "zh_desc": "AcePanel是轻量全开源服务器运维面板，支持离线运行与高效应用部署",
+    "auto_tags": [
+      "linux",
+      "nginx",
+      "panel",
+      "mysql",
+      "openresty"
+    ]
+  },
+  "jaaksii/sublink": {
+    "zh_desc": "基于 Python 与 Vue2 的节点订阅转换管理系统，支持 V2Ray、Clash、Surge 持久存储与 Docker 部署",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "python",
+      "sublink"
+    ]
+  },
+  "jhao104/proxy_pool": {
+    "zh_desc": "基于 Redis 的 Python 代理池，定时抓取并校验免费代理，提供 API 与 CLI 调用",
+    "auto_tags": [
+      "crawler",
+      "proxy",
+      "spider",
+      "redis",
+      "http"
+    ]
+  },
+  "wyx2685/v2board": {
+    "zh_desc": "V2Board多协议代理管理面板，支持V2bX后端与Redis缓存配置",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "api-gateway",
+      "cli",
+      "v2board"
+    ]
+  },
+  "ikxin/f5-bench": {
+    "zh_desc": "F5 Bench是基于Fetch API的网站高频请求压测工具，支持并发配置与实时统计",
+    "auto_tags": [
+      "benchmark",
+      "fetch",
+      "fetch-api",
+      "website",
+      "browser"
+    ]
+  },
+  "LC044/WeChatMsg": {
+    "zh_desc": "WeChatMsg聚焦微信聊天数据留存与个体AI记忆构建",
+    "auto_tags": [
+      "wechat",
+      "pyqt",
+      "chatgpt",
+      "llms",
+      "wechatmsg"
+    ]
+  },
+  "synctv-org/synctv": {
+    "zh_desc": "SyncTV是支持同步观影、直播共看与聊天的远程影音同看程序",
+    "auto_tags": [
+      "docker",
+      "workflow-automation",
+      "synctv"
+    ]
+  },
+  "Jrohy/webssh": {
+    "zh_desc": "提供浏览器内 SSH 与 SFTP 访问的轻量化 Web 终端工具",
+    "auto_tags": [
+      "ssh",
+      "sftp",
+      "terminal",
+      "web",
+      "golang"
+    ]
+  },
+  "rockbenben/LearnData": {
+    "zh_desc": "基于VuePress的个人知识库与博客模板，支持自动部署与全文搜索",
+    "auto_tags": [
+      "blog",
+      "vuepress",
+      "digital-garden",
+      "knowledge-base",
+      "knowledge-management"
+    ]
+  },
+  "ellite/Wallos": {
+    "zh_desc": "开源自托管订阅管理应用，跟踪周期扣费并统计多币种支出",
+    "auto_tags": [
+      "budgeting",
+      "docker",
+      "finance",
+      "php",
+      "self-hosted"
+    ]
+  },
+  "kangvcar/InfoSpider": {
+    "zh_desc": "InfoSpider是聚合多平台个人数据抓取与可视化分析工具箱",
+    "auto_tags": [
+      "python3",
+      "crawl",
+      "spider",
+      "selenium",
+      "wxpython"
+    ]
+  },
+  "zerotier/ZeroTierOne": {
+    "zh_desc": "ZeroTierOne是加密点对点虚拟以太网与SDN组网引擎",
+    "auto_tags": [
+      "decentralization",
+      "networking",
+      "peer-to-peer",
+      "sd-wan",
+      "sdn"
+    ]
+  },
+  "HsukqiLee/Typecho-Theme-Kylin": {
+    "zh_desc": "Kylin是基于Bulma的Typecho主题，支持多栏布局与侧边栏组件自定义",
+    "auto_tags": [
+      "typecho",
+      "theme",
+      "kylin"
+    ]
+  },
+  "hiddify/hiddify-app": {
+    "zh_desc": "基于Sing-box的多平台代理客户端，支持自动选节点、TUN与远程订阅",
+    "auto_tags": [
+      "proxy",
+      "singbox",
+      "v2ray",
+      "xray",
+      "clash"
+    ]
+  },
+  "openRin/Rin": {
+    "zh_desc": "基于Cloudflare Pages与Workers的无服务器博客平台，支持GitHub登录与图文写作",
+    "auto_tags": [
+      "blog",
+      "bun",
+      "bunjs",
+      "framework",
+      "web"
+    ]
+  },
+  "MHSanaei/3x-ui": {
+    "zh_desc": "3X-UI是管理Xray核心的多协议VPN代理可视化控制面板",
+    "auto_tags": [
+      "trojan",
+      "vless",
+      "vmess",
+      "shadowsocks2022",
+      "reality"
+    ]
+  },
+  "LeoHaoVIP/AListLiteAndroid": {
+    "zh_desc": "AListLite是可在安卓一键启动OpenList服务的AList服务端应用",
+    "auto_tags": [
+      "golang",
+      "alistliteandroid"
+    ]
+  },
+  "pppscn/SmsForwarder": {
+    "zh_desc": "安卓短信转发器，监控短信来电和通知并按规则转发至钉钉飞书Webhook等",
+    "auto_tags": [
+      "sms",
+      "dingding",
+      "bark",
+      "webhook",
+      "smtp"
+    ]
+  },
+  "besscroft/PicImpact": {
+    "zh_desc": "PicImpact是支持Live Photos与WebGL看图的自部署摄影作品展示站",
+    "auto_tags": [
+      "photo-gallery",
+      "exif",
+      "gallery",
+      "image",
+      "image-gallery"
+    ]
+  },
+  "fscarmen/unlock_warp": {
+    "zh_desc": "用于刷WARP解锁IP并自动切换流媒体解锁模式的脚本工具",
+    "auto_tags": [
+      "disney",
+      "media",
+      "netflix",
+      "unlock",
+      "warp"
+    ]
+  },
+  "zhuima/awesome-cloudflare": {
+    "zh_desc": "收录基于Cloudflare的开源工具集，涵盖图床、临时邮箱、隧道与监控等场景",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "automation",
+      "browser-automation"
+    ]
+  },
+  "yonggekkk/warp-yg": {
+    "zh_desc": "这是用于VPS部署和管理Cloudflare WARP的多功能一键脚本，支持wgcf切换、配置生成与解锁检测",
+    "auto_tags": [
+      "netflix",
+      "warp",
+      "warp-go",
+      "wgcf",
+      "cloudflare"
+    ]
+  },
+  "MaZhaolin/Next-theme-for-WordPress": {
+    "zh_desc": "WordPress版NexT主题，支持三种模式、图片懒加载与图片查看器",
+    "auto_tags": [
+      "wordpress",
+      "theme",
+      "next"
+    ]
+  },
+  "qd-today/templates": {
+    "zh_desc": "QD框架公共模板库，提供HAR模板发布更新与第三方库接入示例",
+    "auto_tags": [
+      "qiandao",
+      "template",
+      "har",
+      "templates"
+    ]
+  },
+  "EzXxY/CF-IP": {
+    "zh_desc": "基于masscan与Cloudflare接口筛选并测速优选CF反代IP端口工具",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "python"
+    ]
+  },
+  "MetaCubeX/ClashMetaForAndroid": {
+    "zh_desc": "面向安卓的Clash.Meta图形客户端，支持规则隧道与配置一键导入控制",
+    "auto_tags": [
+      "golang",
+      "clashmetaforandroid"
+    ]
+  },
+  "cmliu/CF-Workers-SUB": {
+    "zh_desc": "基于 Cloudflare Workers 的订阅聚合工具，可合并多节点多订阅并自动转换分流",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "fscarmen/sing-box": {
+    "zh_desc": "sing-box全家桶脚本，支持VPS一键安装、Argo隧道与CDN回源配置",
+    "auto_tags": [
+      "hysteria2",
+      "reality",
+      "shadowsocks",
+      "shadowtls",
+      "sing-box"
+    ]
+  },
+  "x-dr/short": {
+    "zh_desc": "基于Cloudflare Pages与D1数据库部署的短链接生成演示项目",
+    "auto_tags": [
+      "short",
+      "short-link",
+      "short-url",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "bigfa/Farallon": {
+    "zh_desc": "Farallon是简洁优雅的单栏WordPress主题，支持阅读时间、图片缩放与多语言优化",
+    "auto_tags": [
+      "wordpress-theme",
+      "farallon"
+    ]
+  },
+  "Frost-ZX/frost-navigation": {
+    "zh_desc": "基于Vue3的网站导航与工具箱，主打绿色无广告",
+    "auto_tags": [
+      "navigation",
+      "tool",
+      "toolbox",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "auwen/moon-web-start": {
+    "zh_desc": "Moon Web Start是支持favicon抓取与多引擎搜索的网址导航页",
+    "auto_tags": [
+      "homepage",
+      "vue",
+      "web-navigation",
+      "moon",
+      "start"
+    ]
+  },
+  "spiritLHLS/ecs": {
+    "zh_desc": "融合怪服务器测评脚本，支持多系统多架构非root网络与硬件检测",
+    "auto_tags": [
+      "vps",
+      "centos",
+      "debian",
+      "ubuntu",
+      "fedora"
+    ]
+  },
+  "heyform/heyform": {
+    "zh_desc": "HeyForm是面向中小企业的开源表单构建器，支持逻辑跳转、品牌定制与数据分析",
+    "auto_tags": [
+      "form",
+      "quiz",
+      "survey",
+      "heyform"
+    ]
+  },
+  "jinghang/port_scan": {
+    "zh_desc": "Python端口扫描工具，支持超时参数调节提升端口探测成功率",
+    "auto_tags": [
+      "python",
+      "port-scan",
+      "port",
+      "scan"
+    ]
+  },
+  "shadow1ng/fscan": {
+    "zh_desc": "fscan是集主机探测、端口爆破与漏洞利用的内网综合扫描工具",
+    "auto_tags": [
+      "fscan",
+      "scanner",
+      "scanning",
+      "sec",
+      "security-tools"
+    ]
+  },
+  "MiningCattiva/x-spider": {
+    "zh_desc": "X Spider是可筛选下载推特图片视频的媒体下载器，支持代理与Cookie登录",
+    "auto_tags": [
+      "spider"
+    ]
+  },
+  "xs25cn/scanPort": {
+    "zh_desc": "scanPort是可扫描服务器与IP段端口开放情况并保存结果的Go工具",
+    "auto_tags": [
+      "scanport",
+      "scan",
+      "port",
+      "golang",
+      "cloudflare"
+    ]
+  },
+  "Nekmo/telegram-upload": {
+    "zh_desc": "基于个人 Telegram 账号上传下载最高4GiB文件的命令行工具",
+    "auto_tags": [
+      "telegram",
+      "upload",
+      "file-upload",
+      "files",
+      "downloader"
+    ]
+  },
+  "0-RTT/telegraph": {
+    "zh_desc": "基于Cloudflare与Telegram Bot的多格式文件图床视频床服务",
+    "auto_tags": [
+      "telegraph",
+      "cloudflare",
+      "cloudflare-workers",
+      "image",
+      "serverless"
+    ]
+  },
+  "tgscan/tgscan": {
+    "zh_desc": "Telegram 搜索引擎，支持检索频道群组机器人及聊天历史并近实时索引",
+    "auto_tags": [
+      "elasticsearch",
+      "saerch",
+      "search-engine",
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "shenweiyan/WebStack-Hugo": {
+    "zh_desc": "基于Hugo的静态网址导航主题，支持一键配置、自适应、搜索与夜间模式",
+    "auto_tags": [
+      "webstack",
+      "hugo",
+      "navigation",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "Momo707577045/m3u8-downloader": {
+    "zh_desc": "浏览器端m3u8视频提取工具，支持跨域注入、分片重试与在线合并下载",
+    "auto_tags": [
+      "m3u8",
+      "blob",
+      "downloader"
+    ]
+  },
+  "chengzhongxue/halo-theme-hao": {
+    "zh_desc": "适用于Halo2.x的博客主题，提供评论搜索友链图库等多插件扩展能力",
+    "auto_tags": [
+      "plugin",
+      "halo",
+      "theme"
+    ]
+  },
+  "P3TERX/warp.sh": {
+    "zh_desc": "用于 Linux 的 Cloudflare WARP 安装配置脚本，支持官方客户端与 WireGuard 组网",
+    "auto_tags": [
+      "warp",
+      "cloudflare-warp",
+      "wireguard",
+      "ipv6",
+      "ipv6-support"
+    ]
+  },
+  "dockur/windows": {
+    "zh_desc": "可在Docker容器中自动安装多版本Windows并提供网页远程桌面访问",
+    "auto_tags": [
+      "docker",
+      "docker-container",
+      "windows",
+      "windows-virtual-machines",
+      "windows-virtual-desktop"
+    ]
+  },
+  "Mereithhh/van-nav": {
+    "zh_desc": "轻量导航站Van Nav，支持搜索引擎集成、浏览器插件与API扩展",
+    "auto_tags": [
+      "docker"
+    ]
+  },
+  "leptonai/search_with_lepton": {
+    "zh_desc": "基于 Lepton AI 的对话式搜索引擎示例，500 行内集成 LLM、Bing/Google 搜索与可分享结果",
+    "auto_tags": [
+      "ai",
+      "ai-applications",
+      "leptonai",
+      "llm",
+      "search"
+    ]
+  },
+  "ihmily/DouyinLiveRecorder": {
+    "zh_desc": "基于FFmpeg的多平台直播录制工具，支持循环监测、画质配置与开播推送",
+    "auto_tags": [
+      "douyin-live",
+      "douyin-api",
+      "douyulive",
+      "live-recorder",
+      "spider"
+    ]
+  },
+  "podipod/TimThumb": {
+    "zh_desc": "TimThumb TimThumb是一个简单、灵活的PHP脚本，可以调整图像的大小。也是Wordpress优秀的文章列表缩略图TimThumb工具",
+    "auto_tags": [
+      "timthumb"
+    ]
+  },
+  "rejetto/hfs": {
+    "zh_desc": "HFS是自建HTTP文件服务器，直接共享磁盘文件并支持权限与限速",
+    "auto_tags": [
+      "file-sharing",
+      "file-server",
+      "http-server",
+      "nodejs",
+      "typescript"
+    ]
+  },
+  "YAWAsau/backup_script": {
+    "zh_desc": "这是面向Root安卓的应用数据备份恢复脚本，支持SSAID与权限完整迁移",
+    "auto_tags": [
+      "backup-data",
+      "telegram",
+      "telegram-bot",
+      "backup",
+      "script"
+    ]
+  },
+  "thshu/onelist": {
+    "zh_desc": "面向Alist聚合网盘的影视媒体库刮削与海报墙管理程序",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "docker",
+      "webdav",
+      "onelist"
+    ]
+  },
+  "tsxcw/mtab": {
+    "zh_desc": "mTab是支持多端同步、私有部署的浏览器书签导航与笔记工具",
+    "auto_tags": [
+      "docker",
+      "mtab"
+    ]
+  },
+  "deanxv/telegram-dice-bot": {
+    "zh_desc": "开源Telegram骰子娱乐机器人，支持多游戏、积分系统与Docker部署",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "dice"
+    ]
+  },
+  "huiyadanli/RevokeMsgPatcher": {
+    "zh_desc": "用于 PC 版微信 / QQ / TIM 的防撤回补丁工具",
+    "auto_tags": [
+      "wechat",
+      "qq",
+      "tim",
+      "patch",
+      "windows"
+    ]
+  },
+  "codehub666/94list": {
+    "zh_desc": "百度网盘分享链接解析渲染与辅助下载的PHP开源程序",
+    "auto_tags": [
+      "filelist",
+      "netdisk",
+      "php",
+      "vue",
+      "94list"
+    ]
+  },
+  "timvisee/send": {
+    "zh_desc": "Mozilla Firefox Send社区续作，支持自托管端到端文件分享并兼容ffsend客户端",
+    "auto_tags": [
+      "firefox-send",
+      "file-sharing",
+      "file-upload",
+      "encryption",
+      "send"
+    ]
+  },
+  "shiikoe/ServerHappyShell": {
+    "zh_desc": "面向服务器初始化、优化与常用维护操作的综合脚本工具箱",
+    "auto_tags": [
+      "shell",
+      "server",
+      "ops",
+      "automation",
+      "linux"
+    ]
+  },
+  "XayahSuSuSu/Android-DataBackup": {
+    "zh_desc": "面向Android 7.0+的开源Root数据备份应用，支持云端与多用户完整备份",
+    "auto_tags": [
+      "backup",
+      "root",
+      "android",
+      "zstd",
+      "compose"
+    ]
+  },
+  "masonr/yet-another-bench-script": {
+    "zh_desc": "YABS 是免依赖 Linux 服务器跑分脚本，集成 fio、iperf3、Geekbench 测磁盘网络与 CPU 内存性能",
+    "auto_tags": [
+      "bench-script",
+      "geekbench",
+      "fio",
+      "iperf3",
+      "bash"
+    ]
+  },
+  "zdz/ServerStatus-Rust": {
+    "zh_desc": "Rust版ServerStatus云探针，监控多系统主机状态并支持告警与月流量统计",
+    "auto_tags": [
+      "rust",
+      "serverstatus",
+      "serverstatus-rust",
+      "railway",
+      "vnstat"
+    ]
+  },
+  "JoeanAmier/TikTokDownloader": {
+    "zh_desc": "DouK Downloader是抖音与TikTok数据采集及批量下载工具，支持直播评论合集抓取",
+    "auto_tags": [
+      "douyin",
+      "python",
+      "tiktok",
+      "api",
+      "csv"
+    ]
+  },
+  "Tokinx/Adams": {
+    "zh_desc": "Adams 是适用于 WordPress 的简洁轻量主题，支持后台自定义配置与稳定版发布下载",
+    "auto_tags": [
+      "wordpress",
+      "wordpress-theme",
+      "adams"
+    ]
+  },
+  "px-org/PanIndex": {
+    "zh_desc": "PanIndex是多网盘目录索引程序，支持预览分享与WebDAV等多存储接入",
+    "auto_tags": [
+      "docker",
+      "webdav",
+      "workflow-automation",
+      "rag",
+      "golang"
+    ]
+  },
+  "bebound/pixivd": {
+    "zh_desc": "Pixiv 插画批量下载工具，支持按用户ID与排行榜抓取作品",
+    "auto_tags": [
+      "pixiv",
+      "pixiv-downloader",
+      "python3",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "xuejianxianzun/PixivBatchDownloader": {
+    "zh_desc": "批量下载Pixiv插画小说的浏览器扩展，支持筛选重命名与动图转换",
+    "auto_tags": [
+      "pixiv",
+      "chrome-extension",
+      "chrome",
+      "downloader",
+      "pixiv-downloader"
+    ]
+  },
+  "Mapaler/PixivUserBatchDownload": {
+    "zh_desc": "集成网页的Pixiv画师作品批量下载脚本，支持Aria2远程投递与自定义命名",
+    "auto_tags": [
+      "pixiv-downloader",
+      "pixiv",
+      "illust",
+      "aria2",
+      "userscript"
+    ]
+  },
+  "moyada/stealer": {
+    "zh_desc": "面向抖音快手B站等平台的视频去水印下载程序",
+    "auto_tags": [
+      "douyin",
+      "douyin-download",
+      "pipixia",
+      "scrapy",
+      "kuaishou"
+    ]
+  },
+  "Johnserf-Seed/TikTokDownload": {
+    "zh_desc": "抖音与TikTok无水印下载工具，支持作品采集、直播弹幕与批量异步下载",
+    "auto_tags": [
+      "douyin",
+      "tiktok",
+      "api",
+      "python",
+      "utools"
+    ]
+  },
+  "Johnserf-Seed/TikTokWeb": {
+    "zh_desc": "TikTok 网页下载工具，支持 dycookie 配置、视频原声与图集打包下载",
+    "auto_tags": [
+      "docker",
+      "tiktokweb"
+    ]
+  },
+  "laurent22/joplin": {
+    "zh_desc": "Joplin 是离线优先的 Markdown 笔记待办应用，支持加密同步与 Evernote 导入",
+    "auto_tags": [
+      "react-native",
+      "nodejs",
+      "onedrive",
+      "android",
+      "synchronisation"
+    ]
+  },
+  "CalmXin/xin-whois": {
+    "zh_desc": "SkyQianWhois是支持多域名后缀的无广告Whois查询工具",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "whois"
+    ]
+  },
+  "scanfsec/penetration": {
+    "zh_desc": "面向渗透测试的漏洞利用资料库，收录Discuz、phpwind等CMS论坛EXP工具",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "penetration"
+    ]
+  },
+  "shwchsh/sp": {
+    "zh_desc": "用于测试 VPS 三网带宽与网络质量的测速脚本",
+    "auto_tags": [
+      "benchmark",
+      "network",
+      "vps",
+      "speedtest",
+      "shell"
+    ]
+  },
+  "maysrp/yunBT": {
+    "zh_desc": "基于ThinkCMS的多用户下载系统，支持磁力HTTP下载与FFmpeg视频转码分享",
+    "auto_tags": [
+      "offline",
+      "ffmpeg",
+      "python",
+      "yunbt"
+    ]
+  },
+  "MinaMichita/AntiAntiDefraud": {
+    "zh_desc": "用于阻止MIUI反诈组件上传已装应用列表的LSPosed模块",
+    "auto_tags": [
+      "antiantidefraud"
+    ]
+  },
+  "csznet/tgState": {
+    "zh_desc": "基于Telegram存储的文件外链网盘系统，支持网页与机器人上传",
+    "auto_tags": [
+      "go",
+      "golang",
+      "telegram",
+      "telegram-bot",
+      "file"
+    ]
+  },
+  "suofiya/url_Shortny": {
+    "zh_desc": "基于 PHP 的短链接系统，支持防红跳转、加密短链、二维码与自定义后缀 API",
+    "auto_tags": [
+      "wechat",
+      "shortny"
+    ]
+  },
+  "NiuXiangQian/u": {
+    "zh_desc": "基于Spring Boot与Redis的短网址平台，支持Web和API生成解析短链接",
+    "auto_tags": [
+      "shorturl"
+    ]
+  },
+  "imsyy/DailyHotApi": {
+    "zh_desc": "DailyHotApi聚合微博知乎抖音等热榜并提供RSS与JSON接口",
+    "auto_tags": [
+      "api",
+      "list",
+      "rss",
+      "vercel",
+      "daily-hot"
+    ]
+  },
+  "fscarmen2/Argo-Nezha-Service-Container": {
+    "zh_desc": "基于Cloudflare Argo隧道部署哪吒服务端，支持多协议分流与自动备份更新",
+    "auto_tags": [
+      "nezha",
+      "probe",
+      "argo",
+      "cloudflared",
+      "paas"
+    ]
+  },
+  "snokin/tgposter": {
+    "zh_desc": "面向频道群组的视频目录定时自动发稿Telegram机器人",
+    "auto_tags": [
+      "shell-script",
+      "telegram",
+      "telegrambot",
+      "shell",
+      "linux"
+    ]
+  },
+  "chr233/XinjingdailyBot": {
+    "zh_desc": "面向心惊报的Telegram投稿机器人，支持多媒体匿名投稿与标签审核权限管理",
+    "auto_tags": [
+      "csharp",
+      "telegram",
+      "telegram-api",
+      "telegram-bot",
+      "workflow-automation"
+    ]
+  },
+  "assimon/captcha-bot": {
+    "zh_desc": "基于Go的Telegram加群验证机器人，支持私有化部署与反垃圾敏感词过滤",
+    "auto_tags": [
+      "telegram",
+      "bot",
+      "telegram-bot",
+      "captcha-bot",
+      "telegram-captcha"
+    ]
+  },
+  "eastarpen/ping-charts": {
+    "zh_desc": "将 VPS 延迟监控结果可视化展示为图表的网络探针工具",
+    "auto_tags": [
+      "latency",
+      "monitoring",
+      "charts",
+      "vps",
+      "network"
+    ]
+  },
+  "allinurl/goaccess": {
+    "zh_desc": "GoAccess是实时Web日志分析器，可在终端或浏览器生成HTTP统计与监控报表",
+    "auto_tags": [
+      "goaccess",
+      "c",
+      "real-time",
+      "data-analysis",
+      "analytics"
+    ]
+  },
+  "wanghongenpin/proxypin": {
+    "zh_desc": "ProxyPin是全平台HTTP(S)抓包与改写调试工具，支持Flutter流量拦截",
+    "auto_tags": [
+      "proxy",
+      "zhuabao",
+      "proxypin",
+      "capture-traffic",
+      "charles"
+    ]
+  },
+  "aahnik/tgcf": {
+    "zh_desc": "tgcf 是可插件化的 Telegram 消息转发自动化工具，支持历史/实时同步与过滤改写",
+    "auto_tags": [
+      "telegram-bot",
+      "telethon",
+      "user-bot",
+      "telegram-userbot",
+      "telegram"
+    ]
+  },
+  "ikuaitu/vue-fabric-editor": {
+    "zh_desc": "基于 Vue 和 fabric.js 的插件化图片编辑器，支持 PSD 解析与拖拽设计",
+    "auto_tags": [
+      "svg-editor",
+      "fabricjs",
+      "editor",
+      "vue-fabric",
+      "design"
+    ]
+  },
+  "x-dr/tts": {
+    "zh_desc": "基于微软Azure接口的文本转语音与音频下载部署项目",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "javascript"
+    ]
+  },
+  "rust-net/remote-bind": {
+    "zh_desc": "remote-bind 是支持服务器中继与 QUIC P2P 直连的内网穿透工具",
+    "auto_tags": [
+      "ipv4",
+      "nat",
+      "p2p",
+      "quic",
+      "relay"
+    ]
+  },
+  "dreamhunter2333/cloudflare_temp_email": {
+    "zh_desc": "基于 Cloudflare 的临时邮箱服务，支持邮件解析、AI提取验证码与多方式收发",
+    "auto_tags": [
+      "cloudflare-email",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "email",
+      "free"
+    ]
+  },
+  "tangyoha/telegram_media_downloader": {
+    "zh_desc": "Telegram 媒体下载器，支持机器人或网页批量下载音频视频图片文档",
+    "auto_tags": [
+      "media-downloader",
+      "flask",
+      "cross-platform",
+      "downloader",
+      "telegram-bot"
+    ]
+  },
+  "liaocp666/Jasmine": {
+    "zh_desc": "Jasmine是精致的Typecho博客主题，支持响应式、夜间模式与代码高亮",
+    "auto_tags": [
+      "typecho",
+      "typecho-theme",
+      "blog",
+      "cms",
+      "theme"
+    ]
+  },
+  "GMWalletApp/epusdt": {
+    "zh_desc": "Epusdt是Go编写的多链多币种加密支付网关，支持HTTP API直连钱包收款",
+    "auto_tags": [
+      "payment",
+      "payments",
+      "web3",
+      "newapi",
+      "dujiaoka"
+    ]
+  },
+  "deep-project/moss": {
+    "zh_desc": "Moss是轻量级CMS，支持多数据库、12种后台语言与Docker部署",
+    "auto_tags": [
+      "cms",
+      "golang",
+      "docker",
+      "rag",
+      "moss"
+    ]
+  },
+  "cinit/TMoe": {
+    "zh_desc": "TMoe 是兼容多款第三方 Telegram 客户端的 Xposed 模块，提供去限制复制保存、隐藏赞助消息等增强功能",
+    "auto_tags": [
+      "telegram",
+      "xposed",
+      "xposed-module",
+      "android",
+      "telegram-bot"
+    ]
+  },
+  "enweny/My-IP-Information": {
+    "zh_desc": "基于Cloudflare查询本机IP信息并支持中英文切换与百度地图展示",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "information"
+    ]
+  },
+  "Dylanchouxd/Autojs_Douyin": {
+    "zh_desc": "基于AutoX的抖音快手自动互动脚本，支持点赞关注评论与打招呼",
+    "auto_tags": [
+      "autojs",
+      "douyin"
+    ]
+  },
+  "ruanun/simple-server-status": {
+    "zh_desc": "基于Go与Vue的极简多服务器状态监控探针面板系统",
+    "auto_tags": [
+      "docker",
+      "workflow-automation",
+      "golang",
+      "simple",
+      "server"
+    ]
+  },
+  "luodaoyi/DomainScan": {
+    "zh_desc": "用C编写的批量域名扫描工具，支持200多个顶级域名与字典枚举查询",
+    "auto_tags": [
+      "domainscan"
+    ]
+  },
+  "rust-net/tcp2ws": {
+    "zh_desc": "将TCP流量转成WebSocket的Rust代理工具，含客户端与Web界面",
+    "auto_tags": [
+      "network",
+      "tcp2ws",
+      "cdn-support",
+      "cli",
+      "rust"
+    ]
+  },
+  "oneclickvirt/lxd": {
+    "zh_desc": "LXD一键批量或单独开设NAT服务器脚本，现仅有限维护并推荐转用Incus",
+    "auto_tags": [
+      "lxc",
+      "nat",
+      "linux",
+      "virtual",
+      "vps"
+    ]
+  },
+  "BililiveRecorder/BililiveRecorder": {
+    "zh_desc": "BililiveRecorder是哔哩哔哩直播录制工具，支持开播自录与断流修复",
+    "auto_tags": [
+      "bilibili",
+      "bilibili-live",
+      "stream",
+      "flv",
+      "dotnet-core"
+    ]
+  },
+  "tindy2013/stairspeedtest-reborn": {
+    "zh_desc": "基于SSR/SS/V2Ray/Trojan的跨平台代理节点批量测速与结果出图工具",
+    "auto_tags": [
+      "v2ray",
+      "shadowsocks",
+      "shadowsocksr",
+      "speedtest",
+      "web-gui"
+    ]
+  },
+  "mulingyuer/Typecho_Theme_JJ": {
+    "zh_desc": "高仿掘金风格的Typecho主题，支持响应式阅读、代码高亮与文章目录树",
+    "auto_tags": [
+      "plugin",
+      "seo",
+      "typescript",
+      "typecho",
+      "theme"
+    ]
+  },
+  "LyLme/lylme_spage": {
+    "zh_desc": "六零导航页是支持后台管理与自定义搜索的无广告网址导航系统",
+    "auto_tags": [
+      "php",
+      "wechat",
+      "docker",
+      "lylme",
+      "spage"
+    ]
+  },
+  "zh66y/vmqpc": {
+    "zh_desc": "智慧云端免签PC监控软件，支持支付宝微信收款监控与秒级回调防掉单",
+    "auto_tags": [
+      "wechat",
+      "vmqpc"
+    ]
+  },
+  "adamlui/chatgpt-auto-refresh": {
+    "zh_desc": "这是给 ChatGPT 用的自动刷新脚本，持续保活会话并减少断线与 Cloudflare 校验",
+    "auto_tags": [
+      "ai",
+      "artificial-intelligence",
+      "chat",
+      "chatbot",
+      "chatgpt"
+    ]
+  },
+  "webp-sh/webp_server_go": {
+    "zh_desc": "基于 Golang 的 WebP Server Go，可将 JPEG、PNG、HEIC 等图片无改址动态转为 WebP/AVIF",
+    "auto_tags": [
+      "webp-server",
+      "serving-images",
+      "webp",
+      "pagespeed",
+      "image-optimization"
+    ]
+  },
+  "Tokinx/Wing": {
+    "zh_desc": "Wing是一款无jQuery、Vue驱动的响应式WordPress主题",
+    "auto_tags": [
+      "wordpress",
+      "wordpress-theme",
+      "wing"
+    ]
+  },
+  "XPoet/picx": {
+    "zh_desc": "基于 GitHub API 的图床工具，支持上传托管、链接生成与图片处理",
+    "auto_tags": [
+      "github-api",
+      "image-hosting",
+      "jsdelivr",
+      "cdn",
+      "picx"
+    ]
+  },
+  "maintell/webBenchmark": {
+    "zh_desc": "webBenchmark是可自定义并发头信息的HTTP网页服务器压测工具",
+    "auto_tags": [
+      "ai-agent",
+      "webbenchmark"
+    ]
+  },
+  "vastsa/FileCodeBox": {
+    "zh_desc": "FileCodeBox是基于FastAPI和Vue3的匿名文件口令分享快递柜",
+    "auto_tags": [
+      "python",
+      "anonymous",
+      "fastapi",
+      "tool",
+      "filecodebox"
+    ]
+  },
+  "typecho-fans/plugins": {
+    "zh_desc": "Typecho Fans社区维护的Typecho插件目录，支持索引下载、TeStore一键安装与社区协作更新",
+    "auto_tags": [
+      "typecho",
+      "typecho-plugin",
+      "php",
+      "javascript",
+      "plugin"
+    ]
+  },
+  "8838/btpanel-v7.7.0": {
+    "zh_desc": "宝塔面板v7.7.0官方备份，提供多系统安装包与付费插件解锁",
+    "auto_tags": [
+      "plugin",
+      "btpanel"
+    ]
+  },
+  "ehang-io/nps": {
+    "zh_desc": "NPS是轻量高性能内网穿透代理服务器，支持多协议与Web管理",
+    "auto_tags": [
+      "socks",
+      "tcp",
+      "gzip",
+      "udp",
+      "snnapy"
+    ]
+  },
+  "tsymq-live/web-stream-media": {
+    "zh_desc": "基于PHP与Go的视频上传自动转码切片流媒体点播服务",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "stream",
+      "media"
+    ]
+  },
+  "likeyun/liKeYun_ylb": {
+    "zh_desc": "私域引流宝是微信私域推广工具，支持活码短链与外链营销",
+    "auto_tags": [
+      "wechat",
+      "likeyun"
+    ]
+  },
+  "tjsky/pikpak": {
+    "zh_desc": "PikPak个人网页版，支持IDM引导、下载反代与aria2多线程提速",
+    "auto_tags": [
+      "pikpak"
+    ]
+  },
+  "jbt/markdown-editor": {
+    "zh_desc": "提供 GitHub 风格语法的实时 Markdown 编辑与预览工具",
+    "auto_tags": [
+      "markdown",
+      "editor"
+    ]
+  },
+  "qier222/YesPlayMusic": {
+    "zh_desc": "YesPlayMusic是第三方网易云播放器，支持登录、MV歌词与灰歌解锁",
+    "auto_tags": [
+      "vue",
+      "vuex",
+      "vue-router",
+      "vue-cli",
+      "music"
+    ]
+  },
+  "joyqi/sfz": {
+    "zh_desc": "基于浏览器本地API的身份证等敏感证件图片水印打码工具",
+    "auto_tags": []
+  },
+  "missuo/Telegraph-Image-Hosting": {
+    "zh_desc": "基于Telegraph的免费图床方案，支持任意文件上传与HTTPS部署",
+    "auto_tags": [
+      "php",
+      "http",
+      "https",
+      "nginx",
+      "ssl"
+    ]
+  },
+  "cf-pages/Telegraph-Image": {
+    "zh_desc": "基于Cloudflare Pages与Telegram频道的免费图床，可替代Flickr和Imgur上传存图",
+    "auto_tags": [
+      "cloudflare",
+      "cloudflare-pages",
+      "flickr",
+      "image",
+      "image-host"
+    ]
+  },
+  "eehhh/naviii": {
+    "zh_desc": "基于Vue与Vite的响应式导航页，支持书签编辑、搜索引擎切换与Favicon获取",
+    "auto_tags": [
+      "typescript",
+      "vue3",
+      "naviii"
+    ]
+  },
+  "mmmdbybyd/CNS": {
+    "zh_desc": "面向多节点场景的可视化云服务器管理与运维面板",
+    "auto_tags": [
+      "server-management",
+      "ops",
+      "panel",
+      "monitoring",
+      "golang"
+    ]
+  },
+  "greycodee/wechat-backup": {
+    "zh_desc": "微信聊天记录持久化备份到本地硬盘，释放手机存储空间",
+    "auto_tags": [
+      "wechat",
+      "backup"
+    ]
+  },
+  "lizhipay/acg-faka": {
+    "zh_desc": "基于PHP8的二次元发卡商城系统，支持多渠道支付、分站分销与插件扩展",
+    "auto_tags": [
+      "faka"
+    ]
+  },
+  "EverythingSuckz/TG-FileStreamBot": {
+    "zh_desc": "Telegram机器人，可为Telegram文件生成免下载直链与即时流媒体链接",
+    "auto_tags": [
+      "pyrogram",
+      "streaming",
+      "telegram-bot",
+      "aiohttp",
+      "tgcrypto"
+    ]
+  },
+  "2dust/v2rayNG": {
+    "zh_desc": "面向Android的v2rayNG客户端，支持Xray与v2fly内核代理连接",
+    "auto_tags": [
+      "android",
+      "proxy",
+      "socks5",
+      "shadowsocks",
+      "trojan"
+    ]
+  },
+  "selierlin/Share-SSR-V2ray": {
+    "zh_desc": "汇总SSR/V2ray与Clash教程、机场推荐、镜像直连及插件资源",
+    "auto_tags": [
+      "shadowsocks",
+      "ssr",
+      "v2ray",
+      "freess",
+      "google"
+    ]
+  },
+  "cppla/ServerStatus": {
+    "zh_desc": "ServerStatus中文版是多服务器云监控探针，支持服务端网页展示与跨平台客户端上报",
+    "auto_tags": [
+      "docker",
+      "cli",
+      "python",
+      "serverstatus"
+    ]
+  },
+  "P3TERX/aria2.sh": {
+    "zh_desc": "Aria2增强版一键脚本，安装管理离线下载并优化BT与网盘联动",
+    "auto_tags": [
+      "aria2",
+      "aria2-config",
+      "aria2c",
+      "aria2-cli",
+      "magnet"
+    ]
+  },
+  "vasusen-code/SaveRestrictedContentBot": {
+    "zh_desc": "Telegram受限内容保存机器人，支持公私聊消息抓取、自定义缩略图与批量转存",
+    "auto_tags": [
+      "telegram",
+      "bot",
+      "telegram-bot",
+      "save",
+      "restricted"
+    ]
+  },
+  "qkqpttgf/OneManager-php": {
+    "zh_desc": "OneManager-php 是部署于Vercel等平台的 OneDrive 网盘目录索引程序",
+    "auto_tags": [
+      "onedrive",
+      "onemanager",
+      "scf",
+      "heroku",
+      "sharepoint"
+    ]
+  },
+  "xyTom/cf-page-func-proxy": {
+    "zh_desc": "基于Cloudflare Pages Functions的自定义域名反向代理方案",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "api-gateway",
+      "page",
+      "func"
+    ]
+  },
+  "zhenxun-org/zhenxun_bot-deploy": {
+    "zh_desc": "真寻Bot一键部署脚本，支持虚拟环境、换源、卸载与端口配置",
+    "auto_tags": [
+      "zhenxun",
+      "deploy"
+    ]
+  },
+  "wangxinleo/wechat-public-account-push": {
+    "zh_desc": "已重构为青龙脚本的微信公众号消息推送项目，聚焦免费渠道与可视化配置",
+    "auto_tags": [
+      "wechat",
+      "public",
+      "account",
+      "push"
+    ]
+  },
+  "vaxilu/x-ui": {
+    "zh_desc": "x-ui是支持VMess等多协议多用户的Xray可视化管理面板",
+    "auto_tags": [
+      "xray",
+      "xray-core",
+      "x-ui",
+      "v2-ui",
+      "xray-panel"
+    ]
+  },
+  "v2board/v2board": {
+    "zh_desc": "基于Laravel的多协议代理机场管理面板，支持PHP、MySQL与Redis部署",
+    "auto_tags": [
+      "v2board",
+      "v2ray",
+      "v2panel",
+      "panel",
+      "sspanel"
+    ]
+  },
+  "bililive-go/bililive-go": {
+    "zh_desc": "bililive-go是支持哔哩哔哩抖音斗鱼等多平台的直播录制工具",
+    "auto_tags": [
+      "golang",
+      "ffmpeg",
+      "douyu",
+      "bilibili",
+      "longzhu"
+    ]
+  },
+  "KANIKIG/Multi-EasyGost": {
+    "zh_desc": "Multi EasyGost是管理gost多规则转发与代理落地的一键脚本",
+    "auto_tags": [
+      "api-gateway",
+      "multi",
+      "easygost"
+    ]
+  },
+  "88250/pipe": {
+    "zh_desc": "面向程序员的开源博客平台，支持Markdown写作与社区评论联动",
+    "auto_tags": [
+      "b3log",
+      "blog",
+      "pipe",
+      "markdown",
+      "vditor"
+    ]
+  },
+  "iyear/tdl": {
+    "zh_desc": "用Go编写的Telegram工具箱，支持高速下载、转发上传与成员消息导出",
+    "auto_tags": [
+      "telegram",
+      "downloader",
+      "telegram-api",
+      "download",
+      "bash"
+    ]
+  },
+  "Netflixxp/jcnfbesttrace": {
+    "zh_desc": "用于测试 VPS 国内多线路回程质量的网络探测脚本",
+    "auto_tags": [
+      "network",
+      "trace",
+      "benchmark",
+      "vps",
+      "routing"
+    ]
+  },
+  "wexuo/home": {
+    "zh_desc": "一个集成打字机音乐播放器等特效的个人主页博客模板源码",
+    "auto_tags": [
+      "home"
+    ]
+  },
+  "jinwyp/one_click_script": {
+    "zh_desc": "Linux一键脚本，安装内核并启用BBR、Xray及WARP等服务",
+    "auto_tags": [
+      "trojan",
+      "v2ray",
+      "v2ray-ws-tls",
+      "trojan-go",
+      "xray"
+    ]
+  },
+  "mvscode/frps-onekey": {
+    "zh_desc": "用于一键安装配置 frps 服务端并自动获取最新版的内网穿透脚本",
+    "auto_tags": [
+      "frp",
+      "frps",
+      "nat",
+      "linux",
+      "shell"
+    ]
+  },
+  "xsidc/dnsmasq": {
+    "zh_desc": "基于Dnsmasq与SNIProxy的一键流媒体解锁代理安装脚本",
+    "auto_tags": [
+      "api-gateway",
+      "cli",
+      "dnsmasq"
+    ]
+  },
+  "clover1420/AutoSign": {
+    "zh_desc": "AutoSign是支持小黑盒、天翼云盘等多平台自动签到与消息推送的脚本工具",
+    "auto_tags": [
+      "wechat",
+      "python",
+      "autosign"
+    ]
+  },
+  "Sitoi/dailycheckin": {
+    "zh_desc": "基于Docker与青龙面板的多平台每日签到和通知脚本集",
+    "auto_tags": [
+      "python",
+      "docker",
+      "qinglong",
+      "pypi",
+      "bilibili"
+    ]
+  },
+  "alittletry/alittlepay": {
+    "zh_desc": "基于ThinkPHP与Bootstrap的个人挂机支付监控系统，支持APP多设备轮训收款",
+    "auto_tags": [
+      "wechat",
+      "alittlepay"
+    ]
+  },
+  "gavin66/reader-web": {
+    "zh_desc": "Reader阅读器Web版，支持小说漫画搜索、收藏与横向翻页续读",
+    "auto_tags": [
+      "reader"
+    ]
+  },
+  "arloor/iptablesUtils": {
+    "zh_desc": "用于iptables端口转发的Shell脚本，支持DDNS域名变更后自动更新规则",
+    "auto_tags": [
+      "api-gateway",
+      "iptablesutils"
+    ]
+  },
+  "LoveesYe/cdnflydadao": {
+    "zh_desc": "围绕 CDNFly 生态的运维增强与辅助管理工具",
+    "auto_tags": [
+      "cdn",
+      "ops",
+      "panel",
+      "automation",
+      "linux"
+    ]
+  },
+  "Aranxu/NodePanels": {
+    "zh_desc": "NodePanels是多服务器监控面板，支持告警、SSH与文件管理",
+    "auto_tags": [
+      "wechat",
+      "nodepanels"
+    ]
+  },
+  "OsBelief/Cocos2d-JS-Game": {
+    "zh_desc": "基于Cocos2d-JS实现企鹅击打、三消等多款HTML5小游戏示例集",
+    "auto_tags": [
+      "cocos2d",
+      "game"
+    ]
+  },
+  "Xxtyme/EatCxk": {
+    "zh_desc": "吃掉小鹿乃的 GitHub Pages 网页小游戏，支持简易日周月排行榜与二次改写部署",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "eatcxk"
+    ]
+  },
+  "yuantuo666/baiduwp-php": {
+    "zh_desc": "基于百度网盘API和SVIP账号解析分享链接下载地址的PHP工具",
+    "auto_tags": [
+      "baidunetdisk",
+      "baiduyun",
+      "php",
+      "telegram",
+      "telegram-bot"
+    ]
+  },
+  "flucont/btcloud": {
+    "zh_desc": "基于PHP的宝塔面板第三方云端，可私有化部署并同步官方插件更新",
+    "auto_tags": [
+      "btcloud"
+    ]
+  },
+  "midoks/mdserver-web": {
+    "zh_desc": "mdserver-web是支持SSH终端、网站备份与插件管理的Linux服务器面板",
+    "auto_tags": [
+      "linux",
+      "mysql",
+      "python",
+      "php",
+      "php74"
+    ]
+  },
+  "chaos-zhu/easynode": {
+    "zh_desc": "EasyNode是集WebSSH、SFTP、RDP与批量运维于一体的Linux服务器管理面板",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "workflow-automation",
+      "ssh"
+    ]
+  },
+  "ikxin/kms-tools": {
+    "zh_desc": "基于Nuxt 4的KMS工具箱，支持激活脚本生成与服务器检测监控",
+    "auto_tags": [
+      "kms",
+      "kms-server",
+      "office",
+      "windows",
+      "kms-activator"
+    ]
+  },
+  "sy-records/ty-baidu-textcensor": {
+    "zh_desc": "Typecho百度文本审核插件，自动拦截评论涉黄涉政辱骂广告灌水内容",
+    "auto_tags": [
+      "typecho",
+      "baidu",
+      "textcensor",
+      "wechat",
+      "plugin"
+    ]
+  },
+  "Lymoo/H5-Mobile-Demo": {
+    "zh_desc": "纯原生JS与CSS开发的古风横版RPG H5小游戏雍正去哪了",
+    "auto_tags": [
+      "mobile",
+      "demo"
+    ]
+  },
+  "rocboss/paopao-ce": {
+    "zh_desc": "基于Go与Vue的开源微社区平台，支持自托管与模块化部署",
+    "auto_tags": [
+      "forum",
+      "go",
+      "vue3",
+      "bbs",
+      "gin"
+    ]
+  },
+  "xfcf1/kunai": {
+    "zh_desc": "基于 Egret 的旋转飞刀与口红机在线 H5 小游戏仓库",
+    "auto_tags": [
+      "kunai"
+    ]
+  },
+  "AlistGo/alist": {
+    "zh_desc": "AList是基于Gin与SolidJS的多存储聚合文件列表程序，支持预览上传下载与WebDAV",
+    "auto_tags": [
+      "golang",
+      "gin",
+      "webdav",
+      "solidjs",
+      "file-server"
+    ]
+  },
+  "newcastlecy/proxypool-1": {
+    "zh_desc": "自动抓取TG频道与订阅源并检测去重",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "api-gateway",
+      "workflow-automation"
+    ]
+  },
+  "zu1k/proxypool": {
+    "zh_desc": "自动抓取并检测SS/SSR/Vmess/Trojan节点可用性的代理池工具",
+    "auto_tags": [
+      "crawler",
+      "proxypool",
+      "telegram",
+      "telegram-bot",
+      "scraping"
+    ]
+  },
+  "sunpma/mtp": {
+    "zh_desc": "提供 MTProxy TLS 绿色版一键安装与服务启停卸载脚本",
+    "auto_tags": [
+      "api-gateway"
+    ]
+  },
+  "zwying0814/Brave": {
+    "zh_desc": "Typecho情侣主题Brave，提供恋爱风博客页面样式与展示布局",
+    "auto_tags": [
+      "brave"
+    ]
+  },
+  "gogobody/onecircle": {
+    "zh_desc": "OneCircle是仿推特的Typecho社交圈主题，支持前台发帖、关注、私聊与图床",
+    "auto_tags": [
+      "plugin",
+      "onecircle"
+    ]
+  },
+  "Pan-O/LOVE": {
+    "zh_desc": "面向情侣的响应式单页网站，支持恋爱计时、QQ头像留言与音乐播放",
+    "auto_tags": [
+      "love"
+    ]
+  },
+  "Har-Kuun/OneClickCDN": {
+    "zh_desc": "OneClickCDN是一键部署网站CDN节点并管理SSL缓存的脚本",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "knowledge-management",
+      "oneclickcdn"
+    ]
+  },
+  "wuruiwm/msautocreate": {
+    "zh_desc": "PHP重写的微软全局管理自助申请系统，支持A1、A3、E3、E5订阅开通",
+    "auto_tags": [
+      "msautocreate"
+    ]
+  },
+  "Rudloff/alltube": {
+    "zh_desc": "AllTube是基于youtube-dl的视频下载网页界面，支持部署与JSON API",
+    "auto_tags": [
+      "php",
+      "youtube-dl",
+      "youtube",
+      "video",
+      "download"
+    ]
+  },
+  "realByg/office-user-auto-create": {
+    "zh_desc": "基于Cloudflare Worker自助创建Office账号并生成激活码的部署系统",
+    "auto_tags": [
+      "cloudflare-worker",
+      "office-365",
+      "cloudflare",
+      "workers",
+      "cli"
+    ]
+  },
+  "BYR-Navi/BYR-Navi": {
+    "zh_desc": "BYR Navi 是基于 Jekyll 与 Fomantic UI 的轻量可配置导航网站框架",
+    "auto_tags": [
+      "byr",
+      "byr-navi",
+      "navigation-website",
+      "irockbunny",
+      "website"
+    ]
+  },
+  "zfile-dev/zfile": {
+    "zh_desc": "面向个人和小团队的多存储统一管理在线网盘程序",
+    "auto_tags": [
+      "h5ai",
+      "clouddisk",
+      "spring-boot",
+      "vue",
+      "mysql"
+    ]
+  },
+  "kun775/douyinhelper": {
+    "zh_desc": "抖音批量下载助手，按用户主页链接单线程去重抓取视频",
+    "auto_tags": [
+      "python",
+      "douyinhelper"
+    ]
+  },
+  "twikoojs/twikoo": {
+    "zh_desc": "Twikoo是支持回复审核提醒的静态网站评论系统",
+    "auto_tags": [
+      "cloudbase",
+      "hexo",
+      "comment-system",
+      "vue",
+      "twikoojs"
+    ]
+  },
+  "assimon/dujiaoka": {
+    "zh_desc": "独角数卡是站长自动化售货系统，支持多币种支付与商品发卡",
+    "auto_tags": [
+      "faka",
+      "dujiaoka",
+      "dujiaofaka"
+    ]
+  },
+  "imhanjie/gridea-theme-pure": {
+    "zh_desc": "Gridea 博客主题 Pure，提供四色配色、搜索、友链与关于页等功能",
+    "auto_tags": [
+      "gridea",
+      "gridea-theme",
+      "cloudflare",
+      "workers",
+      "theme"
+    ]
+  },
+  "850552586/gridea-theme-fog": {
+    "zh_desc": "Gridea 的 Fog 静态博客主题，提供使用文档、更新日志和交流群",
+    "auto_tags": [
+      "gridea",
+      "theme"
+    ]
+  },
+  "hsxyhao/gridea-theme-next": {
+    "zh_desc": "将 Hexo NexT 移植到 Gridea 的主题，支持搜索评论CDN与看板娘等配置",
+    "auto_tags": [
+      "theme",
+      "gridea",
+      "next",
+      "gridea-theme"
+    ]
+  },
+  "liumingye/quarkHomePage": {
+    "zh_desc": "仿夸克浏览器主页的H5页面，支持搜索历史、壁纸库、夜间模式和预设书签",
+    "auto_tags": [
+      "quarkhomepage"
+    ]
+  },
+  "kallydev/privacy": {
+    "zh_desc": "个人隐私泄露检测工具，现已按腾讯要求永久删库停运",
+    "auto_tags": [
+      "privacy"
+    ]
+  },
+  "ddgth/cf2dns": {
+    "zh_desc": "通过优选Cloudflare节点并自动更新DNS解析，加速海外建站访问",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "workflow-automation",
+      "cf2dns"
+    ]
+  },
+  "lovezzzxxx/liverecord": {
+    "zh_desc": "自动录制多平台直播并上传网盘的 Linux 录播脚本集",
+    "auto_tags": [
+      "onedrive",
+      "python",
+      "liverecord"
+    ]
+  },
+  "zdhxiong/mdclub": {
+    "zh_desc": "MDClub是轻量开源社区系统后端，支持Material Design、SEO、暗色模式与Restful API",
+    "auto_tags": [
+      "seo",
+      "javascript",
+      "mdclub"
+    ]
+  },
+  "HoYuenhang/aNavigation": {
+    "zh_desc": "基于 Bootstrap 的响应式纯净导航页，支持桌面与移动端展示",
+    "auto_tags": [
+      "jquery",
+      "bootstrap",
+      "anavigation"
+    ]
+  },
+  "EYHN/hexo-theme-one": {
+    "zh_desc": "基于React的Material Design风格Hexo单页主题，支持分类标签评论与移动端首页",
+    "auto_tags": [
+      "hexo",
+      "material-ui",
+      "react",
+      "material-design",
+      "typescript"
+    ]
+  },
+  "yumusb/autoPicCdn": {
+    "zh_desc": "autoPicCdn是基于GitHub/Gitee存储与jsDelivr加速的图床系统",
+    "auto_tags": [
+      "jsdelivr",
+      "jsdelivr-cdn",
+      "gitee",
+      "pic",
+      "autopiccdn"
+    ]
+  },
+  "theme-nexmoe/hexo-theme-nexmoe": {
+    "zh_desc": "Nexmoe是聚焦图片展示与故事感表达的Hexo博客主题",
+    "auto_tags": [
+      "hexo",
+      "theme",
+      "language",
+      "blog",
+      "hexo-theme"
+    ]
+  },
+  "insdram/gridea-theme-vant": {
+    "zh_desc": "Gridea博客Vant主题，支持全局搜索、黑暗模式与文章交互优化",
+    "auto_tags": [
+      "gridea",
+      "gridea-theme",
+      "theme",
+      "vant"
+    ]
+  },
+  "polyrabbit/WeCron": {
+    "zh_desc": "WeCron是基于微信公众号的本地运行定时提醒服务",
+    "auto_tags": [
+      "weixin",
+      "crontab",
+      "wechat",
+      "timer",
+      "python"
+    ]
+  },
+  "Strrationalism/GiteeFS": {
+    "zh_desc": "GiteeFS将Gitee仓库转换为免费网盘式文件系统的C#库，现已停更",
+    "auto_tags": [
+      "cli",
+      "giteefs"
+    ]
+  },
+  "AlanDecode/Maverick": {
+    "zh_desc": "Maverick 是用 Python 构建的静态博客生成器，可将 Markdown 转成带搜索订阅与站点地图的网站页面",
+    "auto_tags": [
+      "maverick",
+      "python",
+      "blog",
+      "blog-generator",
+      "cloudflare"
+    ]
+  },
+  "getgridea/gridea": {
+    "zh_desc": "Gridea 是支持 Markdown 写作、主题定制与 Pages 发布的静态博客客户端",
+    "auto_tags": [
+      "electron",
+      "vue",
+      "static-blog",
+      "typescript",
+      "static-site"
+    ]
+  },
+  "unix/unix.bio": {
+    "zh_desc": "基于 Next.js 的中英双语 MDX 静态博客模板，支持 SEO、暗色模式与 Vercel 部署",
+    "auto_tags": [
+      "seo",
+      "unix"
+    ]
+  },
+  "idealclover/UniTypecho": {
+    "zh_desc": "UniTypecho将Typecho打包为小程序、H5和安卓应用，支持评论通知与内链跳转",
+    "auto_tags": [
+      "wechat",
+      "unitypecho"
+    ]
+  },
+  "dchijack/Travel-Mini-Program": {
+    "zh_desc": "基于WordPress接口的旅游博客多端小程序主题模板",
+    "auto_tags": [
+      "wechat",
+      "travel",
+      "mini",
+      "program"
+    ]
+  },
+  "dataabc/weibo-crawler": {
+    "zh_desc": "微博爬虫，可连续增量抓取用户资料、博文及图片视频评论并导出多种存储格式",
+    "auto_tags": [
+      "weibo",
+      "crawler",
+      "weibo-spider",
+      "scraping",
+      "docker"
+    ]
+  },
+  "yyuueexxiinngg/some-scripts": {
+    "zh_desc": "收录若干随机实用脚本的小型代码仓库",
+    "auto_tags": [
+      "some",
+      "scripts"
+    ]
+  },
+  "lzx8589561/oneindex2-in": {
+    "zh_desc": "OneDrive目录索引程序，支持直链下载、缓存刷新与后台管理",
+    "auto_tags": [
+      "onedrive",
+      "cli",
+      "oneindex2"
+    ]
+  },
+  "wistbean/learn_python3_spider": {
+    "zh_desc": "这是一个从抓包到Scrapy、Selenium与反反爬的Python爬虫实战教程仓库",
+    "auto_tags": [
+      "python3",
+      "python-script",
+      "python-spider",
+      "wechat",
+      "scraping"
+    ]
+  },
+  "kunpehx/halo-theme-fantastic": {
+    "zh_desc": "Halo博客Fantastic主题，支持文章目录、相册与暗黑模式",
+    "auto_tags": [
+      "halo",
+      "halo-theme",
+      "blog",
+      "theme",
+      "fantastic"
+    ]
+  },
+  "halo-dev/halo-theme-icarus": {
+    "zh_desc": "适配Halo 2.0的Icarus主题，提供评论与搜索等插件适配能力",
+    "auto_tags": [
+      "halo",
+      "halo-theme",
+      "plugin",
+      "theme",
+      "icarus"
+    ]
+  },
+  "sav7ng/WeHalo": {
+    "zh_desc": "WeHalo是适配Halo博客的简约微信小程序，支持文章评论搜索与图库展示",
+    "auto_tags": [
+      "wehalo",
+      "iview-weapp",
+      "halo",
+      "javascript",
+      "wechat-mini-program"
+    ]
+  },
+  "xyou365/AutoRclone": {
+    "zh_desc": "AutoRclone可批量创建谷歌云服务账号并为rclone传输自动切换账号",
+    "auto_tags": [
+      "rclone",
+      "service-accounts",
+      "google-drive",
+      "google-cloud-apis",
+      "team-drive"
+    ]
+  },
+  "Rhilip/AutoRclone": {
+    "zh_desc": "基于Rclone的谷歌云盘批量上传脚本，用Service Account绕过单账号750G日限额",
+    "auto_tags": [
+      "cli",
+      "python",
+      "autorclone"
+    ]
+  },
+  "cong-min/resume": {
+    "zh_desc": "自设计开发的在线简历模板，支持编辑构建并导出PDF",
+    "auto_tags": [
+      "resume",
+      "cv"
+    ]
+  },
+  "Tai7sy/OneDriveFly": {
+    "zh_desc": "OneDriveFly可将OneDrive索引部署到云函数与Workers平台",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "onedrive",
+      "onedrivefly"
+    ]
+  },
+  "Xmader/aria-ng-gui-android": {
+    "zh_desc": "AriaNg安卓客户端，集成aria2c并支持多RPC与PT/BT下载",
+    "auto_tags": [
+      "aria2",
+      "aria2-gui",
+      "aria2-app",
+      "ariang",
+      "android"
+    ]
+  },
+  "jiaopianjun/wepython": {
+    "zh_desc": "基于Python与wxpy的微信机器人，支持天气推送、防撤回与自动加群",
+    "auto_tags": [
+      "python",
+      "wxpy",
+      "wechat",
+      "weixin",
+      "wepython"
+    ]
+  },
+  "xiandanin/magnetW": {
+    "zh_desc": "magnetW是已归档的磁力搜索工具，聚合源站结果供爬虫学习交流",
+    "auto_tags": [
+      "electron",
+      "vue",
+      "electron-vue",
+      "magnetw"
+    ]
+  },
+  "owen0o0/WebStack": {
+    "zh_desc": "面向WordPress网址导航站的WebStack主题，支持自动抓取favicon与菜单图标配置",
+    "auto_tags": [
+      "webstack",
+      "wordpress",
+      "wordpress-theme",
+      "wordpress-webstack",
+      "nav"
+    ]
+  },
+  "dollarshaveclub/cloudworker": {
+    "zh_desc": "Cloudworker可在本地运行Cloudflare Worker脚本并兼容KV与WebAssembly",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "cli",
+      "cloudworker"
+    ]
+  },
+  "maple3142/GDIndex": {
+    "zh_desc": "GDIndex是部署于Cloudflare Workers的Google Drive索引器，支持多盘与在线预览",
+    "auto_tags": [
+      "google-drive",
+      "cloudflare-workers",
+      "vue",
+      "spa",
+      "cloudflare"
+    ]
+  },
+  "vcheckzen/FODI": {
+    "zh_desc": "FODI是免服务器部署的OneDrive目录索引与文件预览程序",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "webdav",
+      "onedrive",
+      "fodi"
+    ]
+  },
+  "WebStackPage/WebStackPage.github.io": {
+    "zh_desc": "WebStack是基于Bootstrap的开源网址导航网站模板与多后台方案合集",
+    "auto_tags": [
+      "webstack",
+      "bookmark",
+      "tags",
+      "website",
+      "navigation"
+    ]
+  },
+  "Ice-Hazymoon/idcard_generator": {
+    "zh_desc": "基于 Node.js 的身份证生成器，可按 PSD 模板调整字体与版式生成证件图",
+    "auto_tags": [
+      "javascript",
+      "idcard",
+      "generator"
+    ]
+  },
+  "Ice-Hazymoon/MikuTools": {
+    "zh_desc": "MikuTools是基于Vue与Nuxt.js的轻量前端工具集合开源版",
+    "auto_tags": [
+      "mikutools",
+      "tools",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "veip007/Linux-to-Google-Drive": {
+    "zh_desc": "基于gdrive的Linux命令行工具，可同步谷歌网盘并定时备份VPS文件",
+    "auto_tags": [
+      "cli",
+      "ssh",
+      "linux",
+      "google",
+      "drive"
+    ]
+  },
+  "ngosang/trackerslist": {
+    "zh_desc": "这是一个每日自动更新的公共BitTorrent追踪器列表仓库，提供多协议与IP版可用节点清单",
+    "auto_tags": [
+      "trackers",
+      "bittorrent-trackers",
+      "trackerslist",
+      "bittorrent",
+      "bittorrent-tracker"
+    ]
+  },
+  "EtherDream/jsproxy": {
+    "zh_desc": "基于 Service Worker 的在线代理，低开销转发网页并虚拟化 URL 相关 API",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "api-gateway",
+      "jsproxy"
+    ]
+  },
+  "0xDkd/auxpi": {
+    "zh_desc": "AUXPI是聚合多家API并支持分发上传的可视化Go图床系统",
+    "auto_tags": [
+      "golang",
+      "image-store",
+      "cdnjs",
+      "weibo-image",
+      "baidu-image"
+    ]
+  },
+  "zaxtyson/LanZouCloud-CMD": {
+    "zh_desc": "基于蓝奏云API的跨平台命令行网盘工具，支持登录上传下载与分享管理",
+    "auto_tags": [
+      "lanzou",
+      "cmd",
+      "lanzoucloud",
+      "python"
+    ]
+  },
+  "Wildwizard404/qqzhpt-spider": {
+    "zh_desc": "用于批量下载qqzhpt写真图集的Python美图爬虫脚本",
+    "auto_tags": [
+      "python",
+      "qqzhpt",
+      "spider"
+    ]
+  },
+  "chenjiandongx/mmjpg": {
+    "zh_desc": "一个抓取 mmjpg 美女写真套图并多进程批量下载全站图片的 Python 爬虫",
+    "auto_tags": [
+      "meinv",
+      "crawler",
+      "mmjpg"
+    ]
+  },
+  "TechnicalMujeeb/Termux-Login-v1.2": {
+    "zh_desc": "为 Termux 添加用户名密码登录锁的 Python 脚本",
+    "auto_tags": [
+      "python",
+      "termux",
+      "login"
+    ]
+  },
+  "Bhai4You/Termux-Sudo": {
+    "zh_desc": "Termux Sudo 是为 Termux 一键安装 sudo 的脚本工具",
+    "auto_tags": [
+      "termux",
+      "sudo"
+    ]
+  },
+  "reruin/sharelist": {
+    "zh_desc": "ShareList 是可挂载 GoogleDrive、OneDrive 并支持 WebDAV与插件扩展的网盘工具",
+    "auto_tags": [
+      "docker",
+      "webdav",
+      "onedrive",
+      "workflow-automation",
+      "sharelist"
+    ]
+  },
+  "piyushgarg/rclone-mount": {
+    "zh_desc": "安卓端rclone云盘本地挂载工具，支持多云直读与大媒体流播",
+    "auto_tags": [
+      "rag",
+      "python",
+      "terminal",
+      "rclone",
+      "mount"
+    ]
+  },
+  "0oVicero0/OneDrive": {
+    "zh_desc": "Linux 下管理 OneDrive for Business 的纯 Shell 上传直链工具",
+    "auto_tags": [
+      "onedrive"
+    ]
+  },
+  "KitePig/FatRat-Collect": {
+    "zh_desc": "胖鼠采集是WordPress开源采集插件，支持公众号历史文章与登录站点内容抓取发布",
+    "auto_tags": [
+      "wechat",
+      "plugin",
+      "seo",
+      "fatrat",
+      "collect"
+    ]
+  },
+  "junchou9463/beautyimgdownload": {
+    "zh_desc": "基于BeautifulSoup的妹子图多线程图片下载爬虫",
+    "auto_tags": [
+      "python",
+      "beautyimgdownload"
+    ]
+  },
+  "dataabc/weiboSpider": {
+    "zh_desc": "可连续爬取新浪微博用户与微博数据并导出多种文件数据库",
+    "auto_tags": [
+      "weibo",
+      "weibospider",
+      "python",
+      "python3",
+      "help-wanted"
+    ]
+  },
+  "shadowsocks/shadowsocks-android": {
+    "zh_desc": "面向 Android 与 Chrome OS 的 Shadowsocks 代理客户端，支持系统代理与隧道转发",
+    "auto_tags": [
+      "shadowsocks",
+      "android",
+      "cli"
+    ]
+  },
+  "open-android/Android": {
+    "zh_desc": "汇总热门Android开源项目，提供可运行配置步骤与配套Kotlin教学视频",
+    "auto_tags": [
+      "android",
+      "java",
+      "wechat"
+    ]
+  },
+  "beatleuk/gdfl": {
+    "zh_desc": "gdfl可读取Google Drive文件夹ID并生成带折叠链接的HTML目录树",
+    "auto_tags": [
+      "cli",
+      "golang",
+      "python",
+      "gdfl"
+    ]
+  },
+  "Hackxiaoya/CuteOne": {
+    "zh_desc": "CuteOne是OneDrive多网盘挂载与同步分享建站程序",
+    "auto_tags": [
+      "onedrive",
+      "cuteone"
+    ]
+  },
+  "joelewis/hexopress": {
+    "zh_desc": "HexoPress将Google Docs与Google Drive博客生成并托管为静态站点",
+    "auto_tags": [
+      "python",
+      "django",
+      "react",
+      "blog-engine",
+      "google-docs"
+    ]
+  },
+  "P3TERX/aria2.conf": {
+    "zh_desc": "Aria2增强配置与脚本集，支持BT加速、任务续传和网盘自动上传",
+    "auto_tags": [
+      "aria2",
+      "aria2-config",
+      "rclone",
+      "onedrive",
+      "google-drive"
+    ]
+  },
+  "googlearchive/drive-music-player": {
+    "zh_desc": "已弃维护的Google Drive纯前端音乐播放器，支持多格式音频与ID3封面展示",
+    "auto_tags": [
+      "gsuite",
+      "google-drive",
+      "music-player",
+      "cli",
+      "drive"
+    ]
+  },
+  "ArdiArtani/Google-Drive-Player-Script": {
+    "zh_desc": "这是一个用PHP抓取Google Drive视频直链并接入JWPlayer等播放器的脚本",
+    "auto_tags": [
+      "php",
+      "video-streaming",
+      "google-drive",
+      "streaming-api",
+      "video-playback"
+    ]
+  },
+  "googlearchive/drive-zipextractor": {
+    "zh_desc": "已弃维护的纯JavaScript工具，用Google Drive API解压ZIP到云端硬盘",
+    "auto_tags": [
+      "gsuite",
+      "google-drive",
+      "cli",
+      "javascript",
+      "drive"
+    ]
+  },
+  "rclone/rclone": {
+    "zh_desc": "rclone是同步百度网盘等多云存储文件与目录的命令行工具",
+    "auto_tags": [
+      "golang",
+      "go",
+      "cloud-storage",
+      "s3",
+      "openstack-swift"
+    ]
+  },
+  "adi1090x/termux-omz": {
+    "zh_desc": "为Termux安装oh-my-zsh的脚本，内置Agnoster主题与Material配色",
+    "auto_tags": [
+      "termux",
+      "oh-my-zsh",
+      "termux-omz",
+      "zsh",
+      "color-schemes"
+    ]
+  },
+  "loadchange/amemv-crawler": {
+    "zh_desc": "Python脚本批量下载指定抖音用户、挑战或音乐下的全部视频",
+    "auto_tags": [
+      "wechat",
+      "scraping",
+      "crawler",
+      "cli",
+      "python"
+    ]
+  },
+  "MoePlayer/hexo-tag-aplayer": {
+    "zh_desc": "Hexo 博客音频标签插件，嵌入 APlayer 并支持歌词与歌单",
+    "auto_tags": [
+      "hexo",
+      "plugin",
+      "player",
+      "music",
+      "cloudflare"
+    ]
+  },
+  "Magisk-Modules-Repo/com.piyushgarg.rclone": {
+    "zh_desc": "面向安卓的 Magisk rclone 云盘开机本地挂载模块，支持多云扩容与媒体直读",
+    "auto_tags": [
+      "onedrive",
+      "rag",
+      "ssh",
+      "piyushgarg",
+      "rclone"
+    ]
+  },
+  "codefine/hexo-theme-mellow": {
+    "zh_desc": "Material Design风格Hexo主题，支持响应式布局、Valine评论与静态站内搜索",
+    "auto_tags": [
+      "hexo-theme",
+      "material-design",
+      "wave",
+      "hexo",
+      "theme"
+    ]
   }
 }
