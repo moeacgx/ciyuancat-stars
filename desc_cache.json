@@ -5867,5 +5867,23 @@
       "hexo",
       "theme"
     ]
+  },
+  "zzsting88/relayAPI": {
+    "zh_desc": "评测并推荐国内AI API中转站，比较GPT5.4与Claude价格、稳定性和模型覆盖",
+    "auto_tags": [
+      "claude-code",
+      "api-gateway",
+      "cli",
+      "relayapi"
+    ]
+  },
+  "basketikun/chatgpt2api": {
+    "zh_desc": "基于ChatGPT官网逆向的OpenAI兼容图片API与号池管理平台",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "rag",
+      "chatgpt2api"
+    ]
   }
 }
