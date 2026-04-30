@@ -5885,5 +5885,14 @@
       "rag",
       "chatgpt2api"
     ]
+  },
+  "assast/outlookEmail": {
+    "zh_desc": "面向多邮箱场景的邮件管理工具，统一读取转发Outlook与IMAP邮件",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "outlookemail"
+    ]
   }
 }
