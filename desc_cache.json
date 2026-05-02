@@ -5894,5 +5894,12 @@
       "docker",
       "outlookemail"
     ]
+  },
+  "LMRouter/lmrouter": {
+    "zh_desc": "LMRouter是统一接入多模型与多模态服务的开源AI API路由器",
+    "auto_tags": [
+      "rag",
+      "lmrouter"
+    ]
   }
 }
