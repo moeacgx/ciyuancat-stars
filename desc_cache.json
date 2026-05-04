@@ -5901,5 +5901,15 @@
       "rag",
       "lmrouter"
     ]
+  },
+  "TGlimmer/sxbot": {
+    "zh_desc": "基于 Cloudflare Workers 与 Turnstile 的 Telegram 双向验证转发机器人源码",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "sxbot"
+    ]
   }
 }
