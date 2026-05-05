@@ -5911,5 +5911,15 @@
       "telegram-bot",
       "sxbot"
     ]
+  },
+  "lxzagent/auto-phone-scheduler": {
+    "zh_desc": "基于Open AutoGLM的安卓多设备定时自动化与任务调度系统",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "docker",
+      "python",
+      "auto"
+    ]
   }
 }
