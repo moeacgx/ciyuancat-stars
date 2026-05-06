@@ -5921,5 +5921,32 @@
       "python",
       "auto"
     ]
+  },
+  "BuluBulugege/Free-BAI": {
+    "zh_desc": "BankOfAI逆向注册与API密钥池管理的OpenAI兼容代理工具",
+    "auto_tags": [
+      "api-gateway",
+      "free"
+    ]
+  },
+  "cloveric/cc-telegram-bridge": {
+    "zh_desc": "把真实Claude Code与Codex CLI接入Telegram，支持会话续接、文件工具、多机器人协作与定时任务",
+    "auto_tags": [
+      "ai",
+      "automation",
+      "cli",
+      "codex",
+      "developer-tools"
+    ]
+  },
+  "hicccc77/WeFlow": {
+    "zh_desc": "WeFlow是本地微信聊天记录查看分析导出与HTTP接口工具",
+    "auto_tags": [
+      "annual-report",
+      "data-analysis",
+      "data-visualization",
+      "message",
+      "wechat"
+    ]
   }
 }
