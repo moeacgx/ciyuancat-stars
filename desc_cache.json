@@ -5948,5 +5948,25 @@
       "message",
       "wechat"
     ]
+  },
+  "Esonhugh/Marketplace": {
+    "zh_desc": "这是聚合安全情报、金融分析与浏览器自动化的Claude插件市场",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "plugin",
+      "automation"
+    ]
+  },
+  "Esonhugh/pydoll-cf-waf-bypasser-skills": {
+    "zh_desc": "Claude插件，教Pydoll实现隐身浏览器自动化与CF绕过",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "plugin",
+      "automation"
+    ]
   }
 }
