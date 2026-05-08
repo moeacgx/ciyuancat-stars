@@ -5968,5 +5968,44 @@
       "plugin",
       "automation"
     ]
+  },
+  "oiov/vmail": {
+    "zh_desc": "基于Cloudflare Email Worker的临时邮箱服务，支持收发邮件、多域名和RESTful API",
+    "auto_tags": [
+      "cloudflare-workers",
+      "email",
+      "email-sender",
+      "temporary-email",
+      "d1-database"
+    ]
+  },
+  "margbug01/ManyMail": {
+    "zh_desc": "ManyMail是支持SMTP接收、REST API、网页收信与IMAP桥接的轻量自托管邮件服务",
+    "auto_tags": [
+      "docker",
+      "cli",
+      "python",
+      "manymail"
+    ]
+  },
+  "LingyiChen-AI/comfyui-workflow-skill": {
+    "zh_desc": "Claude Code 技能，用自然语言生成可导入 ComfyUI 的工作流 JSON",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "claude-code",
+      "ai-agent",
+      "workflow-automation"
+    ]
+  },
+  "siteboon/claudecodeui": {
+    "zh_desc": "Cloud CLI是支持Claude Code等多CLI的跨端项目会话管理界面",
+    "auto_tags": [
+      "claude",
+      "claude-api",
+      "claude-code",
+      "gui",
+      "ui"
+    ]
   }
 }
