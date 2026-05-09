@@ -6007,5 +6007,15 @@
       "gui",
       "ui"
     ]
+  },
+  "chaogei/windsurf-account-manager-simple": {
+    "zh_desc": "Windsurf多账号桌面管理器，支持积分重置、账单查询、一键换号与订阅支付",
+    "auto_tags": [
+      "wechat",
+      "rust",
+      "typescript",
+      "tauri",
+      "windsurf"
+    ]
   }
 }
