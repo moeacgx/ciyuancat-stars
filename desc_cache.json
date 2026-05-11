@@ -6017,5 +6017,55 @@
       "tauri",
       "windsurf"
     ]
+  },
+  "setube/stackprism": {
+    "zh_desc": "StackPrism是检测网页技术栈线索并分类展示结果的浏览器扩展",
+    "auto_tags": [
+      "advertising-detection",
+      "browser-extension",
+      "cdn-detection",
+      "chrome-extension",
+      "cms-detection"
+    ]
+  },
+  "Lzh-xbccz/hermes-roleplay-engine": {
+    "zh_desc": "基于Hermes Agent的角色扮演引擎，支持五维心理建模与角色蒸馏",
+    "auto_tags": [
+      "ai-agent",
+      "automation",
+      "browser-automation",
+      "python",
+      "hermes"
+    ]
+  },
+  "getpaseo/paseo": {
+    "zh_desc": "Paseo 是统一管理 Claude Code、Codex 与 OpenCode 的自托管多端并行代理平台",
+    "auto_tags": [
+      "agents",
+      "claude-code",
+      "codex",
+      "opencode",
+      "ade"
+    ]
+  },
+  "b-nnett/codex-plusplus": {
+    "zh_desc": "Codex++是Codex桌面版补丁系统，可注入自定义功能、修复UI并内置插件管理器",
+    "auto_tags": [
+      "discord",
+      "discord-bot",
+      "codex",
+      "ai-agent",
+      "plusplus"
+    ]
+  },
+  "oil-oil/draw-ui": {
+    "zh_desc": "面向AI代理的UI设计技能，可生成界面稿并将截图重建为HTML/CSS",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "automation",
+      "browser-automation",
+      "python"
+    ]
   }
 }
