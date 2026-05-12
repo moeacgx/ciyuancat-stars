@@ -6067,5 +6067,35 @@
       "browser-automation",
       "python"
     ]
+  },
+  "nodeauth/2fauth-worker": {
+    "zh_desc": "支持 Cloudflare 与 Docker 部署的 2FA/TOTP 密钥管理与多通道备份系统",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "telegram",
+      "telegram-bot",
+      "docker"
+    ]
+  },
+  "agi-bar/neuDrive": {
+    "zh_desc": "neuDrive是让Claude和ChatGPT共享身份记忆与权限的个人AI中枢",
+    "auto_tags": [
+      "codex",
+      "claude-code",
+      "mcp",
+      "ai-agent",
+      "cli"
+    ]
+  },
+  "decolua/9router": {
+    "zh_desc": "9Router是连接40多家AI提供商并自动省Token切换模型的免费路由器",
+    "auto_tags": [
+      "claude-code",
+      "cursor",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic"
+    ]
   }
 }
