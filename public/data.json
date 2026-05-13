@@ -1,6 +1,6 @@
 {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-05-13T05:07:25",
+  "generatedAt": "2026-05-14T05:04:41",
   "total": 654,
   "categories": {
     "AI/Agents/Skills": 113,
@@ -26,7 +26,7 @@
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 187893,
+      "stars": 189383,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -53,7 +53,7 @@
         "openclaw"
       ],
       "language": "Python",
-      "stars": 146723,
+      "stars": 148506,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -84,7 +84,7 @@
         "agentic-workflow"
       ],
       "language": "TypeScript",
-      "stars": 141116,
+      "stars": 141267,
       "starredAt": "2025-06-01T17:17:47Z"
     },
     {
@@ -110,7 +110,7 @@
         "openapi"
       ],
       "language": "Python",
-      "stars": 136789,
+      "stars": 136924,
       "starredAt": "2025-10-19T05:08:22Z"
     },
     {
@@ -139,7 +139,7 @@
         "realtime"
       ],
       "language": "Python",
-      "stars": 92941,
+      "stars": 92966,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -169,7 +169,7 @@
         "trae"
       ],
       "language": "Python",
-      "stars": 77502,
+      "stars": 78013,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -189,7 +189,7 @@
         "vibe-design"
       ],
       "language": "",
-      "stars": 76468,
+      "stars": 77698,
       "starredAt": "2026-04-24T17:10:38Z"
     },
     {
@@ -217,7 +217,7 @@
         "openai-codex"
       ],
       "language": "Python",
-      "stars": 59432,
+      "stars": 59633,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -235,7 +235,7 @@
         "ai"
       ],
       "language": "Python",
-      "stars": 57105,
+      "stars": 57155,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -250,7 +250,7 @@
         "openmanus"
       ],
       "language": "Python",
-      "stars": 56216,
+      "stars": 56243,
       "starredAt": "2025-03-18T17:11:58Z"
     },
     {
@@ -273,7 +273,7 @@
         "awesome-lists"
       ],
       "language": "",
-      "stars": 48529,
+      "stars": 48593,
       "starredAt": "2026-02-07T16:03:07Z"
     },
     {
@@ -289,7 +289,7 @@
         "rag"
       ],
       "language": "JavaScript",
-      "stars": 46989,
+      "stars": 47071,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
@@ -310,7 +310,7 @@
         "deep-search"
       ],
       "language": "Python",
-      "stars": 40878,
+      "stars": 40898,
       "starredAt": "2025-10-06T03:38:34Z"
     },
     {
@@ -328,7 +328,7 @@
         "quantitative-finance"
       ],
       "language": "Python",
-      "stars": 35586,
+      "stars": 35769,
       "starredAt": "2026-01-11T11:53:18Z"
     },
     {
@@ -355,7 +355,7 @@
         "voiceconversion"
       ],
       "language": "Python",
-      "stars": 35576,
+      "stars": 35593,
       "starredAt": "2025-04-13T10:29:19Z"
     },
     {
@@ -371,7 +371,7 @@
         "cli"
       ],
       "language": "TypeScript",
-      "stars": 28388,
+      "stars": 28506,
       "starredAt": "2026-04-10T07:19:41Z"
     },
     {
@@ -384,7 +384,7 @@
         "phone-use-agent"
       ],
       "language": "Python",
-      "stars": 25251,
+      "stars": 25270,
       "starredAt": "2025-12-25T02:21:54Z"
     },
     {
@@ -408,7 +408,7 @@
         "opencode"
       ],
       "language": "Python",
-      "stars": 23827,
+      "stars": 23868,
       "starredAt": "2026-02-19T09:50:24Z"
     },
     {
@@ -425,7 +425,7 @@
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 23338,
+      "stars": 23375,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -452,7 +452,7 @@
         "selenium"
       ],
       "language": "Python",
-      "stars": 21587,
+      "stars": 21600,
       "starredAt": "2025-04-19T19:37:34Z"
     },
     {
@@ -467,7 +467,7 @@
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 20613,
+      "stars": 20653,
       "starredAt": "2026-01-01T11:55:23Z"
     },
     {
@@ -484,8 +484,21 @@
         "claude-mobile"
       ],
       "language": "TypeScript",
-      "stars": 20588,
+      "stars": 20645,
       "starredAt": "2026-04-12T13:00:20Z"
+    },
+    {
+      "repo": "alchaincyf/nuwa-skill",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "description": "女娲.skill可自动蒸馏名人认知框架并生成可调用技能",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "nuwa"
+      ],
+      "language": "Python",
+      "stars": 18987,
+      "starredAt": "2026-04-09T11:42:42Z"
     },
     {
       "repo": "Alibaba-NLP/DeepResearch",
@@ -504,21 +517,8 @@
         "deep-research"
       ],
       "language": "Python",
-      "stars": 18851,
+      "stars": 18855,
       "starredAt": "2025-07-18T16:27:18Z"
-    },
-    {
-      "repo": "alchaincyf/nuwa-skill",
-      "url": "https://github.com/alchaincyf/nuwa-skill",
-      "description": "女娲.skill可自动蒸馏名人认知框架并生成可调用技能",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "claude-code",
-        "nuwa"
-      ],
-      "language": "Python",
-      "stars": 18792,
-      "starredAt": "2026-04-09T11:42:42Z"
     },
     {
       "repo": "vxcontrol/pentagi",
@@ -546,7 +546,7 @@
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 16806,
+      "stars": 16838,
       "starredAt": "2026-04-15T04:37:17Z"
     },
     {
@@ -562,7 +562,7 @@
         "video-generation"
       ],
       "language": "Python",
-      "stars": 15586,
+      "stars": 16128,
       "starredAt": "2026-01-13T16:45:45Z"
     },
     {
@@ -578,7 +578,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 14724,
+      "stars": 14741,
       "starredAt": "2025-06-03T12:04:09Z"
     },
     {
@@ -603,7 +603,7 @@
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 13080,
+      "stars": 13158,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
@@ -632,7 +632,7 @@
         "tutorial"
       ],
       "language": "Python",
-      "stars": 12701,
+      "stars": 12725,
       "starredAt": "2025-12-17T18:43:42Z"
     },
     {
@@ -661,7 +661,7 @@
         "x402-agent"
       ],
       "language": "Go",
-      "stars": 12390,
+      "stars": 12398,
       "starredAt": "2025-11-02T21:43:46Z"
     },
     {
@@ -683,7 +683,7 @@
         "agent"
       ],
       "language": "TypeScript",
-      "stars": 11829,
+      "stars": 11835,
       "starredAt": "2025-04-29T09:46:24Z"
     },
     {
@@ -699,7 +699,7 @@
         "rag"
       ],
       "language": "TypeScript",
-      "stars": 11600,
+      "stars": 11612,
       "starredAt": "2025-08-05T11:09:33Z"
     },
     {
@@ -716,7 +716,7 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 11034,
+      "stars": 11127,
       "starredAt": "2026-04-14T02:14:34Z"
     },
     {
@@ -739,7 +739,7 @@
         "claude-code-ui"
       ],
       "language": "TypeScript",
-      "stars": 10845,
+      "stars": 10884,
       "starredAt": "2026-05-08T06:39:30Z"
     },
     {
@@ -752,7 +752,7 @@
         "proxy"
       ],
       "language": "TypeScript",
-      "stars": 10798,
+      "stars": 10804,
       "starredAt": "2025-03-22T07:20:15Z"
     },
     {
@@ -768,7 +768,7 @@
         "dify"
       ],
       "language": "",
-      "stars": 10482,
+      "stars": 10486,
       "starredAt": "2025-06-01T13:23:10Z"
     },
     {
@@ -799,7 +799,7 @@
         "hexstrike"
       ],
       "language": "Python",
-      "stars": 8694,
+      "stars": 8717,
       "starredAt": "2026-04-14T16:01:03Z"
     },
     {
@@ -814,7 +814,7 @@
         "llm"
       ],
       "language": "TypeScript",
-      "stars": 8097,
+      "stars": 8096,
       "starredAt": "2024-01-30T00:24:41Z"
     },
     {
@@ -829,7 +829,7 @@
         "access"
       ],
       "language": "JavaScript",
-      "stars": 6320,
+      "stars": 6352,
       "starredAt": "2026-04-11T10:17:22Z"
     },
     {
@@ -848,7 +848,7 @@
         "text2sql"
       ],
       "language": "JavaScript",
-      "stars": 6076,
+      "stars": 6083,
       "starredAt": "2025-10-01T10:36:52Z"
     },
     {
@@ -870,7 +870,7 @@
         "pi"
       ],
       "language": "TypeScript",
-      "stars": 5989,
+      "stars": 6055,
       "starredAt": "2026-05-10T14:32:59Z"
     },
     {
@@ -901,7 +901,7 @@
         "openai"
       ],
       "language": "TypeScript",
-      "stars": 5979,
+      "stars": 5983,
       "starredAt": "2025-10-15T12:14:58Z"
     },
     {
@@ -940,7 +940,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 5165,
+      "stars": 5175,
       "starredAt": "2026-03-20T03:29:26Z"
     },
     {
@@ -954,7 +954,7 @@
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 4939,
+      "stars": 4960,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
@@ -966,7 +966,7 @@
         "novelgenerator"
       ],
       "language": "Python",
-      "stars": 4903,
+      "stars": 4930,
       "starredAt": "2025-10-10T12:30:32Z"
     },
     {
@@ -984,7 +984,7 @@
         "ai-agents"
       ],
       "language": "",
-      "stars": 4587,
+      "stars": 4628,
       "starredAt": "2026-03-20T11:31:54Z"
     },
     {
@@ -1008,7 +1008,7 @@
         "web-ui"
       ],
       "language": "Kotlin",
-      "stars": 4500,
+      "stars": 4529,
       "starredAt": "2025-07-06T17:27:22Z"
     },
     {
@@ -1025,7 +1025,7 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 4059,
+      "stars": 4062,
       "starredAt": "2025-06-03T15:50:29Z"
     },
     {
@@ -1041,7 +1041,7 @@
         "webnovel"
       ],
       "language": "Python",
-      "stars": 3789,
+      "stars": 3854,
       "starredAt": "2026-01-18T11:02:32Z"
     },
     {
@@ -1057,7 +1057,7 @@
         "enhanced"
       ],
       "language": "JavaScript",
-      "stars": 3784,
+      "stars": 3782,
       "starredAt": "2025-06-08T08:09:31Z"
     },
     {
@@ -1069,7 +1069,7 @@
         "dify"
       ],
       "language": "Python",
-      "stars": 3722,
+      "stars": 3727,
       "starredAt": "2025-06-02T07:50:32Z"
     },
     {
@@ -1100,7 +1100,7 @@
         "developer-tools"
       ],
       "language": "Rust",
-      "stars": 3446,
+      "stars": 3461,
       "starredAt": "2026-03-15T08:44:20Z"
     },
     {
@@ -1113,7 +1113,7 @@
         "short-drama"
       ],
       "language": "Python",
-      "stars": 3269,
+      "stars": 3275,
       "starredAt": "2026-03-24T00:14:40Z"
     },
     {
@@ -1129,7 +1129,7 @@
         "automation"
       ],
       "language": "JavaScript",
-      "stars": 3022,
+      "stars": 3024,
       "starredAt": "2026-03-20T01:59:56Z"
     },
     {
@@ -1151,23 +1151,8 @@
         "tools"
       ],
       "language": "Python",
-      "stars": 2988,
+      "stars": 2998,
       "starredAt": "2025-05-21T06:31:35Z"
-    },
-    {
-      "repo": "xiamuceer-j/MuMuAINovel",
-      "url": "https://github.com/xiamuceer-j/MuMuAINovel",
-      "description": "MuMuAINovel是支持多模型生成大纲角色章节的AI小说创作助手",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "claude-code",
-        "docker",
-        "python",
-        "mumuainovel"
-      ],
-      "language": "Python",
-      "stars": 2376,
-      "starredAt": "2025-10-30T10:49:33Z"
     },
     {
       "repo": "alchaincyf/darwin-skill",
@@ -1182,8 +1167,23 @@
         "automation"
       ],
       "language": "HTML",
-      "stars": 2371,
+      "stars": 2410,
       "starredAt": "2026-04-15T12:01:22Z"
+    },
+    {
+      "repo": "xiamuceer-j/MuMuAINovel",
+      "url": "https://github.com/xiamuceer-j/MuMuAINovel",
+      "description": "MuMuAINovel是支持多模型生成大纲角色章节的AI小说创作助手",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "claude-code",
+        "docker",
+        "python",
+        "mumuainovel"
+      ],
+      "language": "Python",
+      "stars": 2386,
+      "starredAt": "2025-10-30T10:49:33Z"
     },
     {
       "repo": "firecrawl/open-agent-builder",
@@ -1198,7 +1198,7 @@
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 2218,
+      "stars": 2219,
       "starredAt": "2025-10-18T10:19:53Z"
     },
     {
@@ -1228,7 +1228,7 @@
         "ai-scientist"
       ],
       "language": "Python",
-      "stars": 2073,
+      "stars": 2082,
       "starredAt": "2026-04-07T20:34:08Z"
     },
     {
@@ -1244,7 +1244,7 @@
         "ai-agent"
       ],
       "language": "PowerShell",
-      "stars": 2004,
+      "stars": 2005,
       "starredAt": "2025-12-23T02:27:03Z"
     },
     {
@@ -1265,7 +1265,7 @@
         "workflow-automation"
       ],
       "language": "TypeScript",
-      "stars": 1994,
+      "stars": 1996,
       "starredAt": "2025-11-01T06:00:35Z"
     },
     {
@@ -1279,7 +1279,7 @@
         "mobiagent"
       ],
       "language": "Python",
-      "stars": 1821,
+      "stars": 1823,
       "starredAt": "2025-11-23T05:39:24Z"
     },
     {
@@ -1295,7 +1295,7 @@
         "burner"
       ],
       "language": "JavaScript",
-      "stars": 1686,
+      "stars": 1689,
       "starredAt": "2025-10-05T02:25:52Z"
     },
     {
@@ -1325,7 +1325,7 @@
         "skillsmp"
       ],
       "language": "Go",
-      "stars": 1647,
+      "stars": 1662,
       "starredAt": "2026-03-23T00:56:44Z"
     },
     {
@@ -1341,7 +1341,7 @@
         "ssh"
       ],
       "language": "JavaScript",
-      "stars": 1638,
+      "stars": 1643,
       "starredAt": "2025-10-15T12:40:32Z"
     },
     {
@@ -1387,7 +1387,7 @@
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 1464,
+      "stars": 1469,
       "starredAt": "2026-02-06T03:07:35Z"
     },
     {
@@ -1410,7 +1410,7 @@
         "canvas"
       ],
       "language": "TypeScript",
-      "stars": 1332,
+      "stars": 1335,
       "starredAt": "2026-03-31T05:48:45Z"
     },
     {
@@ -1424,7 +1424,7 @@
         "prompt"
       ],
       "language": "GCC Machine Description",
-      "stars": 1285,
+      "stars": 1288,
       "starredAt": "2026-02-12T15:59:56Z"
     },
     {
@@ -1494,7 +1494,7 @@
         "aitradegame"
       ],
       "language": "Python",
-      "stars": 910,
+      "stars": 909,
       "starredAt": "2025-10-22T15:05:53Z"
     },
     {
@@ -1508,7 +1508,7 @@
         "acemcp"
       ],
       "language": "Python",
-      "stars": 804,
+      "stars": 803,
       "starredAt": "2025-11-06T17:13:01Z"
     },
     {
@@ -1524,8 +1524,21 @@
         "wechat"
       ],
       "language": "Kotlin",
-      "stars": 768,
+      "stars": 767,
       "starredAt": "2026-04-12T09:54:05Z"
+    },
+    {
+      "repo": "yaklang/hack-skills",
+      "url": "https://github.com/yaklang/hack-skills",
+      "description": "面向渗透测试与CTF的安全技能库，覆盖Web/API、提权、逆向等14域攻击知识",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "ai-agent",
+        "hack"
+      ],
+      "language": "CSS",
+      "stars": 607,
+      "starredAt": "2026-04-14T02:26:06Z"
     },
     {
       "repo": "HuiResearch/FlashTTS",
@@ -1558,21 +1571,8 @@
         "helloagents"
       ],
       "language": "JavaScript",
-      "stars": 597,
-      "starredAt": "2026-04-22T14:21:53Z"
-    },
-    {
-      "repo": "yaklang/hack-skills",
-      "url": "https://github.com/yaklang/hack-skills",
-      "description": "面向渗透测试与CTF的安全技能库，覆盖Web/API、提权、逆向等14域攻击知识",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "ai-agent",
-        "hack"
-      ],
-      "language": "CSS",
       "stars": 596,
-      "starredAt": "2026-04-14T02:26:06Z"
+      "starredAt": "2026-04-22T14:21:53Z"
     },
     {
       "repo": "ZubeidHendricks/youtube-mcp-server",
@@ -1615,7 +1615,7 @@
         "openclaw"
       ],
       "language": "TypeScript",
-      "stars": 459,
+      "stars": 460,
       "starredAt": "2026-03-21T06:16:34Z"
     },
     {
@@ -1630,7 +1630,7 @@
         "social-media"
       ],
       "language": "Shell",
-      "stars": 419,
+      "stars": 420,
       "starredAt": "2026-03-11T05:23:55Z"
     },
     {
@@ -1663,7 +1663,7 @@
         "crypto"
       ],
       "language": "Python",
-      "stars": 378,
+      "stars": 380,
       "starredAt": "2025-10-23T12:53:16Z"
     },
     {
@@ -1708,7 +1708,7 @@
         "trends"
       ],
       "language": "TypeScript",
-      "stars": 244,
+      "stars": 245,
       "starredAt": "2025-05-23T20:04:32Z"
     },
     {
@@ -1724,7 +1724,7 @@
         "workflow-automation"
       ],
       "language": "",
-      "stars": 233,
+      "stars": 235,
       "starredAt": "2026-04-15T07:31:03Z"
     },
     {
@@ -1787,7 +1787,7 @@
         "two-phase-invocation"
       ],
       "language": "Python",
-      "stars": 206,
+      "stars": 207,
       "starredAt": "2026-04-10T07:15:13Z"
     },
     {
@@ -1825,7 +1825,7 @@
         "cli"
       ],
       "language": "Go",
-      "stars": 181,
+      "stars": 185,
       "starredAt": "2026-05-12T17:18:46Z"
     },
     {
@@ -1890,6 +1890,24 @@
       "starredAt": "2026-03-11T07:44:01Z"
     },
     {
+      "repo": "wb-hwang/AIAnswerer-Android",
+      "url": "https://github.com/wb-hwang/AIAnswerer-Android",
+      "description": "安卓答题助手，基于OCR截图识题并调用DeepSeek等模型生成答案解析",
+      "category": "AI/Agents/Skills",
+      "topics": [
+        "ai-assistant",
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "mlkit",
+        "answerer",
+        "ai"
+      ],
+      "language": "Kotlin",
+      "stars": 94,
+      "starredAt": "2025-10-29T07:36:58Z"
+    },
+    {
       "repo": "svcvit/dify-plugin-artifacts",
       "url": "https://github.com/svcvit/dify-plugin-artifacts",
       "description": "Dify插件Artifacts用于在网页聊天界面自动渲染LLM生成的HTML代码",
@@ -1906,24 +1924,6 @@
       "starredAt": "2025-06-01T22:24:52Z"
     },
     {
-      "repo": "wb-hwang/AIAnswerer-Android",
-      "url": "https://github.com/wb-hwang/AIAnswerer-Android",
-      "description": "安卓答题助手，基于OCR截图识题并调用DeepSeek等模型生成答案解析",
-      "category": "AI/Agents/Skills",
-      "topics": [
-        "ai-assistant",
-        "android",
-        "jetpack-compose",
-        "kotlin",
-        "mlkit",
-        "answerer",
-        "ai"
-      ],
-      "language": "Kotlin",
-      "stars": 93,
-      "starredAt": "2025-10-29T07:36:58Z"
-    },
-    {
       "repo": "oil-oil/draw-ui",
       "url": "https://github.com/oil-oil/draw-ui",
       "description": "面向AI代理的UI设计技能，可生成界面稿并将截图重建为HTML/CSS",
@@ -1936,7 +1936,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 88,
+      "stars": 92,
       "starredAt": "2026-05-10T02:38:00Z"
     },
     {
@@ -2131,7 +2131,7 @@
         "hermes"
       ],
       "language": "Python",
-      "stars": 15,
+      "stars": 16,
       "starredAt": "2026-05-11T02:53:59Z"
     },
     {
@@ -2172,7 +2172,7 @@
         "llm"
       ],
       "language": "Python",
-      "stars": 57404,
+      "stars": 57476,
       "starredAt": "2025-12-03T17:41:12Z"
     },
     {
@@ -2200,7 +2200,7 @@
         "mqtt"
       ],
       "language": "Kotlin",
-      "stars": 25598,
+      "stars": 25614,
       "starredAt": "2024-06-03T02:57:49Z"
     },
     {
@@ -2216,7 +2216,7 @@
         "wechat"
       ],
       "language": "Go",
-      "stars": 8843,
+      "stars": 9044,
       "starredAt": "2026-04-08T15:32:16Z"
     },
     {
@@ -2236,7 +2236,7 @@
         "telegram-channel"
       ],
       "language": "Go",
-      "stars": 7489,
+      "stars": 7488,
       "starredAt": "2022-09-17T14:37:35Z"
     },
     {
@@ -2252,7 +2252,7 @@
         "reply"
       ],
       "language": "TypeScript",
-      "stars": 4524,
+      "stars": 4532,
       "starredAt": "2025-09-01T11:17:30Z"
     },
     {
@@ -2265,7 +2265,7 @@
         "telegram-bot"
       ],
       "language": "C++",
-      "stars": 4209,
+      "stars": 4213,
       "starredAt": "2026-01-01T20:38:14Z"
     },
     {
@@ -2284,7 +2284,7 @@
         "clone"
       ],
       "language": "Python",
-      "stars": 1871,
+      "stars": 1870,
       "starredAt": "2022-09-24T22:59:51Z"
     },
     {
@@ -2330,7 +2330,7 @@
         "hacktoberfest2023"
       ],
       "language": "Go",
-      "stars": 1791,
+      "stars": 1793,
       "starredAt": "2022-10-15T03:53:15Z"
     },
     {
@@ -2395,7 +2395,7 @@
         "bepusdt"
       ],
       "language": "Vue",
-      "stars": 1511,
+      "stars": 1517,
       "starredAt": "2024-11-29T05:56:41Z"
     },
     {
@@ -2427,7 +2427,7 @@
         "movecar"
       ],
       "language": "JavaScript",
-      "stars": 1126,
+      "stars": 1128,
       "starredAt": "2025-12-31T16:15:54Z"
     },
     {
@@ -2443,7 +2443,7 @@
         "apprise"
       ],
       "language": "Python",
-      "stars": 1102,
+      "stars": 1103,
       "starredAt": "2025-03-07T11:30:16Z"
     },
     {
@@ -2456,7 +2456,7 @@
         "telegram-bot"
       ],
       "language": "Python",
-      "stars": 891,
+      "stars": 893,
       "starredAt": "2026-03-09T13:33:53Z"
     },
     {
@@ -2552,7 +2552,7 @@
         "telegrambot"
       ],
       "language": "Python",
-      "stars": 308,
+      "stars": 309,
       "starredAt": "2025-03-03T18:31:08Z"
     },
     {
@@ -2570,7 +2570,7 @@
         "gas"
       ],
       "language": "JavaScript",
-      "stars": 299,
+      "stars": 300,
       "starredAt": "2025-01-01T12:44:03Z"
     },
     {
@@ -2942,7 +2942,7 @@
         "walletbot"
       ],
       "language": "Go",
-      "stars": 36,
+      "stars": 37,
       "starredAt": "2026-04-16T16:15:46Z"
     },
     {
@@ -3124,7 +3124,7 @@
         "browser-automation"
       ],
       "language": "",
-      "stars": 13802,
+      "stars": 13814,
       "starredAt": "2024-05-26T02:31:31Z"
     },
     {
@@ -3162,7 +3162,7 @@
         "v2ray"
       ],
       "language": "Shell",
-      "stars": 3943,
+      "stars": 3944,
       "starredAt": "2024-03-17T23:39:27Z"
     },
     {
@@ -3190,7 +3190,7 @@
         "password"
       ],
       "language": "TypeScript",
-      "stars": 1951,
+      "stars": 1965,
       "starredAt": "2026-04-01T19:58:38Z"
     },
     {
@@ -3316,7 +3316,7 @@
         "azure-files"
       ],
       "language": "Go",
-      "stars": 57150,
+      "stars": 57169,
       "starredAt": "2019-08-02T04:28:26Z"
     },
     {
@@ -3342,7 +3342,7 @@
         "ws"
       ],
       "language": "",
-      "stars": 53814,
+      "stars": 53823,
       "starredAt": "2019-09-08T01:59:53Z"
     },
     {
@@ -3359,7 +3359,7 @@
         "onedrive"
       ],
       "language": "Go",
-      "stars": 49460,
+      "stars": 49463,
       "starredAt": "2022-05-10T13:10:25Z"
     },
     {
@@ -3388,7 +3388,7 @@
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 32859,
+      "stars": 32864,
       "starredAt": "2022-11-03T03:31:56Z"
     },
     {
@@ -3403,7 +3403,7 @@
         "openlist"
       ],
       "language": "Go",
-      "stars": 22463,
+      "stars": 22478,
       "starredAt": "2025-07-08T22:21:14Z"
     },
     {
@@ -3424,7 +3424,7 @@
         "realcugan"
       ],
       "language": "C++",
-      "stars": 19865,
+      "stars": 19881,
       "starredAt": "2025-06-09T09:41:59Z"
     },
     {
@@ -3455,7 +3455,7 @@
         "guangya-netdisk"
       ],
       "language": "JavaScript",
-      "stars": 14993,
+      "stars": 15016,
       "starredAt": "2026-02-18T07:56:58Z"
     },
     {
@@ -3486,7 +3486,7 @@
         "rich"
       ],
       "language": "Python",
-      "stars": 14394,
+      "stars": 14402,
       "starredAt": "2023-11-16T09:19:13Z"
     },
     {
@@ -3500,7 +3500,7 @@
         "electron-vue"
       ],
       "language": "JavaScript",
-      "stars": 11336,
+      "stars": 11335,
       "starredAt": "2019-10-11T07:57:48Z"
     },
     {
@@ -3516,7 +3516,7 @@
         "moviepilot"
       ],
       "language": "Python",
-      "stars": 11026,
+      "stars": 11034,
       "starredAt": "2024-07-03T10:09:59Z"
     },
     {
@@ -3532,7 +3532,7 @@
         "subtile"
       ],
       "language": "Python",
-      "stars": 10841,
+      "stars": 10864,
       "starredAt": "2025-10-29T01:03:22Z"
     },
     {
@@ -3562,7 +3562,7 @@
         "youtube"
       ],
       "language": "Python",
-      "stars": 9962,
+      "stars": 9963,
       "starredAt": "2024-01-30T01:20:00Z"
     },
     {
@@ -3578,7 +3578,7 @@
         "youtube"
       ],
       "language": "TypeScript",
-      "stars": 8992,
+      "stars": 9006,
       "starredAt": "2025-10-29T15:41:48Z"
     },
     {
@@ -3628,7 +3628,7 @@
         "jmcomic"
       ],
       "language": "Python",
-      "stars": 5760,
+      "stars": 5764,
       "starredAt": "2026-02-12T03:07:53Z"
     },
     {
@@ -3646,7 +3646,7 @@
         "twitchtv"
       ],
       "language": "Go",
-      "stars": 5540,
+      "stars": 5543,
       "starredAt": "2022-09-20T05:49:04Z"
     },
     {
@@ -3666,7 +3666,7 @@
         "firefox-extension"
       ],
       "language": "TypeScript",
-      "stars": 5235,
+      "stars": 5237,
       "starredAt": "2023-10-30T21:36:44Z"
     },
     {
@@ -3683,7 +3683,7 @@
         "cosplatfrom"
       ],
       "language": "JavaScript",
-      "stars": 5201,
+      "stars": 5205,
       "starredAt": "2023-08-11T19:10:23Z"
     },
     {
@@ -3700,7 +3700,7 @@
         "wpf"
       ],
       "language": "C#",
-      "stars": 4643,
+      "stars": 4644,
       "starredAt": "2023-04-18T16:35:01Z"
     },
     {
@@ -3717,7 +3717,7 @@
         "yt-dlp-gui"
       ],
       "language": "Python",
-      "stars": 3666,
+      "stars": 3667,
       "starredAt": "2025-10-03T12:19:00Z"
     },
     {
@@ -3742,7 +3742,7 @@
         "cross-platform"
       ],
       "language": "Python",
-      "stars": 3610,
+      "stars": 3618,
       "starredAt": "2025-08-31T17:07:59Z"
     },
     {
@@ -3755,7 +3755,7 @@
         "backup"
       ],
       "language": "Go",
-      "stars": 3427,
+      "stars": 3426,
       "starredAt": "2022-10-29T02:15:23Z"
     },
     {
@@ -3774,7 +3774,7 @@
         "xml"
       ],
       "language": "Python",
-      "stars": 3210,
+      "stars": 3209,
       "starredAt": "2025-03-21T09:32:19Z"
     },
     {
@@ -3806,7 +3806,7 @@
         "save"
       ],
       "language": "Python",
-      "stars": 2814,
+      "stars": 2816,
       "starredAt": "2024-07-04T10:43:50Z"
     },
     {
@@ -3837,7 +3837,7 @@
         "torrserver"
       ],
       "language": "Go",
-      "stars": 2640,
+      "stars": 2642,
       "starredAt": "2024-07-03T09:40:17Z"
     },
     {
@@ -3899,7 +3899,7 @@
         "quakepan"
       ],
       "language": "Python",
-      "stars": 1250,
+      "stars": 1251,
       "starredAt": "2024-10-14T10:28:26Z"
     },
     {
@@ -4095,6 +4095,19 @@
       "starredAt": "2019-09-05T11:32:41Z"
     },
     {
+      "repo": "yuudi/rclone-webui-angular",
+      "url": "https://github.com/yuudi/rclone-webui-angular",
+      "description": "Rclone 的 Angular 网页管理界面，支持远程存储配置、浏览与挂载",
+      "category": "媒体下载/存储",
+      "topics": [
+        "rclone",
+        "rclone-gui"
+      ],
+      "language": "TypeScript",
+      "stars": 360,
+      "starredAt": "2026-01-18T01:56:53Z"
+    },
+    {
       "repo": "kun775/douyinhelper",
       "url": "https://github.com/kun775/douyinhelper",
       "description": "抖音批量下载助手，按用户主页链接单线程去重抓取视频",
@@ -4106,19 +4119,6 @@
       "language": "Python",
       "stars": 359,
       "starredAt": "2021-02-01T11:42:13Z"
-    },
-    {
-      "repo": "yuudi/rclone-webui-angular",
-      "url": "https://github.com/yuudi/rclone-webui-angular",
-      "description": "Rclone 的 Angular 网页管理界面，支持远程存储配置、浏览与挂载",
-      "category": "媒体下载/存储",
-      "topics": [
-        "rclone",
-        "rclone-gui"
-      ],
-      "language": "TypeScript",
-      "stars": 359,
-      "starredAt": "2026-01-18T01:56:53Z"
     },
     {
       "repo": "yumusb/autoPicCdn",
@@ -4307,7 +4307,7 @@
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 187598,
+      "stars": 187714,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -4336,7 +4336,7 @@
         "standardnotes"
       ],
       "language": "TypeScript",
-      "stars": 54774,
+      "stars": 54791,
       "starredAt": "2023-10-24T02:04:22Z"
     },
     {
@@ -4349,7 +4349,7 @@
         "workflows"
       ],
       "language": "Python",
-      "stars": 54317,
+      "stars": 54361,
       "starredAt": "2025-09-25T10:29:06Z"
     },
     {
@@ -4369,7 +4369,7 @@
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 50259,
+      "stars": 50301,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
@@ -4400,7 +4400,7 @@
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 49108,
+      "stars": 49303,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -4415,7 +4415,7 @@
         "llms"
       ],
       "language": "",
-      "stars": 41402,
+      "stars": 41413,
       "starredAt": "2024-06-14T02:30:08Z"
     },
     {
@@ -4442,7 +4442,7 @@
         "react-components"
       ],
       "language": "JavaScript",
-      "stars": 39099,
+      "stars": 39195,
       "starredAt": "2025-06-04T08:48:34Z"
     },
     {
@@ -4463,7 +4463,7 @@
         "revokemsg"
       ],
       "language": "C#",
-      "stars": 37578,
+      "stars": 37587,
       "starredAt": "2023-12-28T02:04:27Z"
     },
     {
@@ -4491,7 +4491,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 23239,
+      "stars": 23252,
       "starredAt": "2025-11-05T21:05:44Z"
     },
     {
@@ -4505,7 +4505,7 @@
         "python-spider"
       ],
       "language": "Python",
-      "stars": 21652,
+      "stars": 21649,
       "starredAt": "2019-11-14T19:17:13Z"
     },
     {
@@ -4521,7 +4521,7 @@
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 18327,
+      "stars": 18453,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -4545,7 +4545,7 @@
         "openai"
       ],
       "language": "Python",
-      "stars": 11676,
+      "stars": 11695,
       "starredAt": "2025-09-01T12:56:54Z"
     },
     {
@@ -4561,7 +4561,7 @@
         "youtube"
       ],
       "language": "Python",
-      "stars": 10989,
+      "stars": 11009,
       "starredAt": "2025-05-20T11:02:45Z"
     },
     {
@@ -4577,7 +4577,7 @@
         "automation"
       ],
       "language": "TypeScript",
-      "stars": 10271,
+      "stars": 10309,
       "starredAt": "2026-04-15T12:19:14Z"
     },
     {
@@ -4593,7 +4593,7 @@
         "wechat"
       ],
       "language": "TypeScript",
-      "stars": 9731,
+      "stars": 9828,
       "starredAt": "2026-05-06T03:47:31Z"
     },
     {
@@ -4609,7 +4609,7 @@
         "help-wanted"
       ],
       "language": "Python",
-      "stars": 9591,
+      "stars": 9590,
       "starredAt": "2019-08-02T10:17:28Z"
     },
     {
@@ -4626,7 +4626,7 @@
         "redteam"
       ],
       "language": "",
-      "stars": 9189,
+      "stars": 9190,
       "starredAt": "2025-05-19T03:35:04Z"
     },
     {
@@ -4657,7 +4657,7 @@
         "chatgpt"
       ],
       "language": "Python",
-      "stars": 8616,
+      "stars": 8615,
       "starredAt": "2022-08-05T04:23:37Z"
     },
     {
@@ -4679,7 +4679,7 @@
         "outlook"
       ],
       "language": "Python",
-      "stars": 8213,
+      "stars": 8212,
       "starredAt": "2024-06-09T12:02:26Z"
     },
     {
@@ -4693,7 +4693,7 @@
         "livecontainer"
       ],
       "language": "Swift",
-      "stars": 8104,
+      "stars": 8111,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
@@ -4713,7 +4713,7 @@
         "image-editor"
       ],
       "language": "Vue",
-      "stars": 7859,
+      "stars": 7862,
       "starredAt": "2023-09-01T22:15:22Z"
     },
     {
@@ -4733,7 +4733,7 @@
         "codebuddy"
       ],
       "language": "Rust",
-      "stars": 7473,
+      "stars": 7613,
       "starredAt": "2026-04-19T10:12:39Z"
     },
     {
@@ -4749,7 +4749,7 @@
         "compose"
       ],
       "language": "Kotlin",
-      "stars": 6670,
+      "stars": 6677,
       "starredAt": "2023-12-06T07:09:16Z"
     },
     {
@@ -4762,7 +4762,7 @@
         "moneyprinterplus"
       ],
       "language": "Python",
-      "stars": 6287,
+      "stars": 6297,
       "starredAt": "2025-02-03T06:09:04Z"
     },
     {
@@ -4788,7 +4788,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 5291,
+      "stars": 5300,
       "starredAt": "2025-08-31T17:07:45Z"
     },
     {
@@ -4802,7 +4802,7 @@
         "weibo-spider"
       ],
       "language": "Python",
-      "stars": 4479,
+      "stars": 4480,
       "starredAt": "2019-11-19T17:06:24Z"
     },
     {
@@ -4820,7 +4820,7 @@
         "edge-extension"
       ],
       "language": "TypeScript",
-      "stars": 4460,
+      "stars": 4461,
       "starredAt": "2025-06-28T23:17:49Z"
     },
     {
@@ -4836,7 +4836,7 @@
         "daily-hot"
       ],
       "language": "TypeScript",
-      "stars": 3796,
+      "stars": 3798,
       "starredAt": "2023-09-22T13:08:34Z"
     },
     {
@@ -4852,7 +4852,7 @@
         "automation"
       ],
       "language": "JavaScript",
-      "stars": 3483,
+      "stars": 3527,
       "starredAt": "2026-04-16T07:19:14Z"
     },
     {
@@ -4877,7 +4877,7 @@
         "crypto"
       ],
       "language": "Go",
-      "stars": 3431,
+      "stars": 3439,
       "starredAt": "2023-08-03T22:47:04Z"
     },
     {
@@ -4892,7 +4892,7 @@
         "jetbrains"
       ],
       "language": "TypeScript",
-      "stars": 3412,
+      "stars": 3431,
       "starredAt": "2026-01-05T10:00:51Z"
     },
     {
@@ -4906,7 +4906,7 @@
         "register"
       ],
       "language": "Python",
-      "stars": 3316,
+      "stars": 3329,
       "starredAt": "2026-03-29T15:22:03Z"
     },
     {
@@ -4940,7 +4940,7 @@
         "wispr-flow-alternative"
       ],
       "language": "JavaScript",
-      "stars": 2161,
+      "stars": 2163,
       "starredAt": "2025-09-25T10:17:16Z"
     },
     {
@@ -4956,7 +4956,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 1966,
+      "stars": 1971,
       "starredAt": "2026-03-19T17:18:28Z"
     },
     {
@@ -4972,7 +4972,7 @@
         "douyin"
       ],
       "language": "JavaScript",
-      "stars": 1791,
+      "stars": 1802,
       "starredAt": "2024-09-25T15:19:59Z"
     },
     {
@@ -4988,7 +4988,7 @@
         "script"
       ],
       "language": "Shell",
-      "stars": 1717,
+      "stars": 1715,
       "starredAt": "2024-01-19T11:20:31Z"
     },
     {
@@ -5004,7 +5004,7 @@
         "manager"
       ],
       "language": "Rust",
-      "stars": 1567,
+      "stars": 1604,
       "starredAt": "2026-01-06T12:55:30Z"
     },
     {
@@ -5018,7 +5018,7 @@
         "har"
       ],
       "language": "",
-      "stars": 1556,
+      "stars": 1557,
       "starredAt": "2024-05-13T11:20:56Z"
     },
     {
@@ -5048,7 +5048,7 @@
         "plusplus"
       ],
       "language": "TypeScript",
-      "stars": 1444,
+      "stars": 1481,
       "starredAt": "2026-05-10T12:23:16Z"
     },
     {
@@ -5063,7 +5063,7 @@
         "workflows"
       ],
       "language": "",
-      "stars": 1414,
+      "stars": 1417,
       "starredAt": "2025-10-17T09:55:39Z"
     },
     {
@@ -5078,7 +5078,7 @@
         "android"
       ],
       "language": "Java",
-      "stars": 1406,
+      "stars": 1405,
       "starredAt": "2023-06-15T00:09:07Z"
     },
     {
@@ -5116,7 +5116,7 @@
         "outlookemailplus"
       ],
       "language": "Python",
-      "stars": 1166,
+      "stars": 1181,
       "starredAt": "2026-04-13T07:56:25Z"
     },
     {
@@ -5154,28 +5154,28 @@
       "category": "开发工具/自动化",
       "topics": [
         "filemanager",
-        "launchpad",
-        "react",
-        "redb",
         "rust",
         "sftp",
         "ssh-client",
         "tauri",
         "terminal",
-        "typescript",
         "wslg",
         "xterm-js",
         "russh",
         "terminal-emulator",
-        "terminal-emulators",
         "mcp",
         "tool-calling",
         "agent",
         "bring-your-own-key",
-        "rag"
+        "rag",
+        "ai-terminal",
+        "devtools",
+        "local-first",
+        "port-forwarding",
+        "remote-development"
       ],
       "language": "Rust",
-      "stars": 676,
+      "stars": 681,
       "starredAt": "2026-04-07T17:36:00Z"
     },
     {
@@ -5234,7 +5234,7 @@
         "ipa-robots"
       ],
       "language": "",
-      "stars": 478,
+      "stars": 479,
       "starredAt": "2025-05-20T11:00:36Z"
     },
     {
@@ -5280,21 +5280,8 @@
         "windsurf"
       ],
       "language": "Rust",
-      "stars": 448,
+      "stars": 454,
       "starredAt": "2026-05-09T14:01:23Z"
-    },
-    {
-      "repo": "googlearchive/drive-zipextractor",
-      "url": "https://github.com/googlearchive/drive-zipextractor",
-      "description": "已弃维护的纯JavaScript工具，用Google Drive API解压ZIP到云端硬盘",
-      "category": "开发工具/自动化",
-      "topics": [
-        "gsuite",
-        "google-drive"
-      ],
-      "language": "JavaScript",
-      "stars": 442,
-      "starredAt": "2019-08-02T04:35:42Z"
     },
     {
       "repo": "setube/stackprism",
@@ -5319,8 +5306,21 @@
         "stackprism"
       ],
       "language": "TypeScript",
-      "stars": 403,
+      "stars": 454,
       "starredAt": "2026-05-11T00:48:38Z"
+    },
+    {
+      "repo": "googlearchive/drive-zipextractor",
+      "url": "https://github.com/googlearchive/drive-zipextractor",
+      "description": "已弃维护的纯JavaScript工具，用Google Drive API解压ZIP到云端硬盘",
+      "category": "开发工具/自动化",
+      "topics": [
+        "gsuite",
+        "google-drive"
+      ],
+      "language": "JavaScript",
+      "stars": 442,
+      "starredAt": "2019-08-02T04:35:42Z"
     },
     {
       "repo": "remorses/usecomputer",
@@ -5335,7 +5335,7 @@
         "workflow-automation"
       ],
       "language": "Zig",
-      "stars": 282,
+      "stars": 281,
       "starredAt": "2026-03-25T02:01:31Z"
     },
     {
@@ -5398,7 +5398,7 @@
         "productivity"
       ],
       "language": "JavaScript",
-      "stars": 207,
+      "stars": 208,
       "starredAt": "2025-10-29T01:03:06Z"
     },
     {
@@ -5493,7 +5493,7 @@
         "manager"
       ],
       "language": "Python",
-      "stars": 112,
+      "stars": 115,
       "starredAt": "2026-04-26T00:55:35Z"
     },
     {
@@ -5521,7 +5521,7 @@
         "king"
       ],
       "language": "Python",
-      "stars": 88,
+      "stars": 87,
       "starredAt": "2025-10-04T12:47:27Z"
     },
     {
@@ -5550,7 +5550,7 @@
         "fetcher"
       ],
       "language": "Vue",
-      "stars": 59,
+      "stars": 60,
       "starredAt": "2026-04-03T13:26:10Z"
     },
     {
@@ -5594,7 +5594,7 @@
         "apitest"
       ],
       "language": "Python",
-      "stars": 26,
+      "stars": 25,
       "starredAt": "2026-03-13T11:28:02Z"
     },
     {
@@ -5738,7 +5738,7 @@
         "java"
       ],
       "language": "",
-      "stars": 15230,
+      "stars": 15234,
       "starredAt": "2019-08-02T07:21:48Z"
     },
     {
@@ -5752,7 +5752,7 @@
         "dujiaofaka"
       ],
       "language": "PHP",
-      "stars": 12043,
+      "stars": 12046,
       "starredAt": "2021-01-09T18:20:22Z"
     },
     {
@@ -5788,7 +5788,7 @@
         "react"
       ],
       "language": "TypeScript",
-      "stars": 10368,
+      "stars": 10371,
       "starredAt": "2025-07-25T02:43:54Z"
     },
     {
@@ -5816,7 +5816,7 @@
         "jamstack"
       ],
       "language": "TypeScript",
-      "stars": 10280,
+      "stars": 10277,
       "starredAt": "2020-03-23T16:16:27Z"
     },
     {
@@ -5829,7 +5829,7 @@
         "game"
       ],
       "language": "Python",
-      "stars": 10167,
+      "stars": 10169,
       "starredAt": "2025-09-12T09:33:50Z"
     },
     {
@@ -5845,7 +5845,7 @@
         "free"
       ],
       "language": "TypeScript",
-      "stars": 9266,
+      "stars": 9300,
       "starredAt": "2023-08-25T20:39:39Z"
     },
     {
@@ -5860,7 +5860,7 @@
         "mail"
       ],
       "language": "JavaScript",
-      "stars": 8995,
+      "stars": 9032,
       "starredAt": "2025-11-05T11:10:45Z"
     },
     {
@@ -5874,7 +5874,7 @@
         "survey"
       ],
       "language": "TypeScript",
-      "stars": 8757,
+      "stars": 8758,
       "starredAt": "2024-04-13T23:39:07Z"
     },
     {
@@ -5891,7 +5891,7 @@
         "vue"
       ],
       "language": "Python",
-      "stars": 8257,
+      "stars": 8263,
       "starredAt": "2022-12-14T02:47:10Z"
     },
     {
@@ -5908,7 +5908,7 @@
         "subscription-tracker"
       ],
       "language": "PHP",
-      "stars": 7884,
+      "stars": 7889,
       "starredAt": "2024-06-13T08:51:23Z"
     },
     {
@@ -5926,7 +5926,7 @@
         "dao-hang"
       ],
       "language": "CSS",
-      "stars": 7266,
+      "stars": 7268,
       "starredAt": "2019-09-22T10:31:02Z"
     },
     {
@@ -5970,7 +5970,7 @@
         "claudecode"
       ],
       "language": "Python",
-      "stars": 5921,
+      "stars": 5925,
       "starredAt": "2025-07-31T22:45:54Z"
     },
     {
@@ -5987,7 +5987,7 @@
         "hacktoberfest"
       ],
       "language": "JavaScript",
-      "stars": 5727,
+      "stars": 5724,
       "starredAt": "2023-12-09T09:37:15Z"
     },
     {
@@ -6007,7 +6007,7 @@
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 5087,
+      "stars": 5092,
       "starredAt": "2025-02-11T05:11:41Z"
     },
     {
@@ -6038,7 +6038,7 @@
         "faka"
       ],
       "language": "PHP",
-      "stars": 4939,
+      "stars": 4945,
       "starredAt": "2022-10-25T10:10:50Z"
     },
     {
@@ -6063,7 +6063,7 @@
         "hermes-web-ui"
       ],
       "language": "TypeScript",
-      "stars": 4564,
+      "stars": 4707,
       "starredAt": "2026-04-18T04:50:25Z"
     },
     {
@@ -6085,7 +6085,7 @@
         "upload-images"
       ],
       "language": "HTML",
-      "stars": 4537,
+      "stars": 4539,
       "starredAt": "2022-11-01T07:56:28Z"
     },
     {
@@ -6104,7 +6104,7 @@
         "twitter"
       ],
       "language": "Go",
-      "stars": 4495,
+      "stars": 4490,
       "starredAt": "2022-05-28T11:54:22Z"
     },
     {
@@ -6138,7 +6138,7 @@
         "two-factor"
       ],
       "language": "PHP",
-      "stars": 3932,
+      "stars": 3934,
       "starredAt": "2025-06-28T23:08:11Z"
     },
     {
@@ -6183,7 +6183,7 @@
         "xiaohongshu"
       ],
       "language": "Vue",
-      "stars": 3763,
+      "stars": 3768,
       "starredAt": "2025-09-01T12:45:26Z"
     },
     {
@@ -6198,7 +6198,7 @@
         "programming"
       ],
       "language": "TypeScript",
-      "stars": 3609,
+      "stars": 3613,
       "starredAt": "2025-12-03T17:32:17Z"
     },
     {
@@ -6213,7 +6213,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 3561,
+      "stars": 3560,
       "starredAt": "2024-12-04T11:48:34Z"
     },
     {
@@ -6229,7 +6229,7 @@
         "kvideo"
       ],
       "language": "TypeScript",
-      "stars": 3440,
+      "stars": 3449,
       "starredAt": "2025-11-24T08:59:40Z"
     },
     {
@@ -6248,7 +6248,7 @@
         "ai-awesome"
       ],
       "language": "TypeScript",
-      "stars": 3245,
+      "stars": 3246,
       "starredAt": "2024-12-14T17:03:14Z"
     },
     {
@@ -6262,7 +6262,7 @@
         "system"
       ],
       "language": "PHP",
-      "stars": 3009,
+      "stars": 3008,
       "starredAt": "2024-07-16T08:26:10Z"
     },
     {
@@ -6327,7 +6327,7 @@
         "react"
       ],
       "language": "TypeScript",
-      "stars": 2692,
+      "stars": 2694,
       "starredAt": "2024-06-07T04:54:36Z"
     },
     {
@@ -6357,7 +6357,7 @@
         "temp-email"
       ],
       "language": "TypeScript",
-      "stars": 2527,
+      "stars": 2531,
       "starredAt": "2025-07-24T06:32:09Z"
     },
     {
@@ -6371,7 +6371,7 @@
         "synctv"
       ],
       "language": "Go",
-      "stars": 2431,
+      "stars": 2433,
       "starredAt": "2024-06-15T07:16:05Z"
     },
     {
@@ -6392,7 +6392,7 @@
         "php"
       ],
       "language": "PHP",
-      "stars": 2388,
+      "stars": 2387,
       "starredAt": "2019-10-08T16:11:46Z"
     },
     {
@@ -6414,7 +6414,7 @@
         "huggingface"
       ],
       "language": "JavaScript",
-      "stars": 2371,
+      "stars": 2377,
       "starredAt": "2025-11-19T13:23:07Z"
     },
     {
@@ -6430,7 +6430,7 @@
         "issues-blog"
       ],
       "language": "Python",
-      "stars": 2329,
+      "stars": 2330,
       "starredAt": "2024-06-25T03:46:16Z"
     },
     {
@@ -6450,7 +6450,7 @@
         "all-in-one"
       ],
       "language": "TypeScript",
-      "stars": 2238,
+      "stars": 2240,
       "starredAt": "2025-11-11T14:07:40Z"
     },
     {
@@ -6484,7 +6484,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 2099,
+      "stars": 2103,
       "starredAt": "2026-03-22T07:16:24Z"
     },
     {
@@ -6555,7 +6555,7 @@
         "blog"
       ],
       "language": "Python",
-      "stars": 1948,
+      "stars": 1947,
       "starredAt": "2024-10-14T10:53:11Z"
     },
     {
@@ -6571,7 +6571,7 @@
         "moontv"
       ],
       "language": "TypeScript",
-      "stars": 1940,
+      "stars": 1941,
       "starredAt": "2026-02-07T21:45:49Z"
     },
     {
@@ -6584,7 +6584,7 @@
         "likeyun"
       ],
       "language": "JavaScript",
-      "stars": 1933,
+      "stars": 1934,
       "starredAt": "2022-11-06T09:18:13Z"
     },
     {
@@ -6599,7 +6599,7 @@
         "javascript"
       ],
       "language": "PHP",
-      "stars": 1889,
+      "stars": 1891,
       "starredAt": "2022-12-17T01:10:58Z"
     },
     {
@@ -6645,7 +6645,7 @@
         "vue"
       ],
       "language": "PHP",
-      "stars": 1805,
+      "stars": 1803,
       "starredAt": "2024-01-08T06:20:36Z"
     },
     {
@@ -6664,7 +6664,7 @@
         "gallery"
       ],
       "language": "CSS",
-      "stars": 1749,
+      "stars": 1748,
       "starredAt": "2020-05-25T23:32:26Z"
     },
     {
@@ -6679,7 +6679,7 @@
         "xiuxian"
       ],
       "language": "JavaScript",
-      "stars": 1725,
+      "stars": 1726,
       "starredAt": "2024-10-02T00:17:17Z"
     },
     {
@@ -6709,7 +6709,7 @@
         "insight"
       ],
       "language": "JavaScript",
-      "stars": 1607,
+      "stars": 1612,
       "starredAt": "2025-12-03T17:41:50Z"
     },
     {
@@ -6722,7 +6722,7 @@
         "github-app"
       ],
       "language": "TypeScript",
-      "stars": 1500,
+      "stars": 1502,
       "starredAt": "2025-12-20T06:40:24Z"
     },
     {
@@ -6736,7 +6736,7 @@
         "navigation"
       ],
       "language": "Go",
-      "stars": 1445,
+      "stars": 1446,
       "starredAt": "2024-03-18T12:13:52Z"
     },
     {
@@ -6809,7 +6809,7 @@
         "web-scraping"
       ],
       "language": "TypeScript",
-      "stars": 1280,
+      "stars": 1279,
       "starredAt": "2025-12-17T18:50:33Z"
     },
     {
@@ -6845,7 +6845,7 @@
         "docker"
       ],
       "language": "TypeScript",
-      "stars": 1242,
+      "stars": 1243,
       "starredAt": "2024-03-12T07:25:24Z"
     },
     {
@@ -6860,7 +6860,7 @@
         "relayapi"
       ],
       "language": "TypeScript",
-      "stars": 1132,
+      "stars": 1177,
       "starredAt": "2026-04-29T19:04:37Z"
     },
     {
@@ -6879,7 +6879,7 @@
         "listenbox"
       ],
       "language": "Java",
-      "stars": 1091,
+      "stars": 1092,
       "starredAt": "2025-10-05T11:17:00Z"
     },
     {
@@ -6924,7 +6924,7 @@
         "workers"
       ],
       "language": "JavaScript",
-      "stars": 1040,
+      "stars": 1039,
       "starredAt": "2024-03-24T09:32:25Z"
     },
     {
@@ -6953,7 +6953,7 @@
         "halowebui"
       ],
       "language": "Python",
-      "stars": 941,
+      "stars": 954,
       "starredAt": "2026-01-16T10:33:57Z"
     },
     {
@@ -6968,7 +6968,7 @@
         "blog-theme"
       ],
       "language": "Astro",
-      "stars": 931,
+      "stars": 936,
       "starredAt": "2025-11-02T15:12:20Z"
     },
     {
@@ -7018,7 +7018,7 @@
         "theme"
       ],
       "language": "CSS",
-      "stars": 827,
+      "stars": 825,
       "starredAt": "2024-03-12T09:32:36Z"
     },
     {
@@ -7077,7 +7077,7 @@
         "vercel"
       ],
       "language": "TypeScript",
-      "stars": 782,
+      "stars": 784,
       "starredAt": "2025-07-26T17:55:51Z"
     },
     {
@@ -7105,7 +7105,7 @@
         "outlookemail"
       ],
       "language": "Python",
-      "stars": 760,
+      "stars": 770,
       "starredAt": "2026-04-30T02:20:30Z"
     },
     {
@@ -7222,7 +7222,7 @@
         "kmspico"
       ],
       "language": "TypeScript",
-      "stars": 643,
+      "stars": 644,
       "starredAt": "2022-06-05T13:18:26Z"
     },
     {
@@ -7251,7 +7251,7 @@
         "discord"
       ],
       "language": "JavaScript",
-      "stars": 619,
+      "stars": 621,
       "starredAt": "2026-04-13T07:45:44Z"
     },
     {
@@ -7266,7 +7266,7 @@
         "search"
       ],
       "language": "JavaScript",
-      "stars": 604,
+      "stars": 603,
       "starredAt": "2024-10-18T05:06:29Z"
     },
     {
@@ -7296,7 +7296,7 @@
         "zustand"
       ],
       "language": "TypeScript",
-      "stars": 595,
+      "stars": 596,
       "starredAt": "2026-03-04T10:51:08Z"
     },
     {
@@ -7355,7 +7355,7 @@
         "search"
       ],
       "language": "JavaScript",
-      "stars": 527,
+      "stars": 529,
       "starredAt": "2024-10-19T14:36:27Z"
     },
     {
@@ -7509,7 +7509,7 @@
         "shop"
       ],
       "language": "TypeScript",
-      "stars": 444,
+      "stars": 443,
       "starredAt": "2026-01-16T17:13:47Z"
     },
     {
@@ -7570,7 +7570,7 @@
         "cli"
       ],
       "language": "JavaScript",
-      "stars": 421,
+      "stars": 420,
       "starredAt": "2026-04-09T15:52:29Z"
     },
     {
@@ -7665,7 +7665,7 @@
         "aitradingsimulator"
       ],
       "language": "Python",
-      "stars": 321,
+      "stars": 320,
       "starredAt": "2025-10-27T01:28:58Z"
     },
     {
@@ -7713,7 +7713,7 @@
         "gridea-theme"
       ],
       "language": "CSS",
-      "stars": 309,
+      "stars": 308,
       "starredAt": "2020-12-03T03:23:39Z"
     },
     {
@@ -7782,7 +7782,7 @@
         "golang"
       ],
       "language": "Go",
-      "stars": 265,
+      "stars": 266,
       "starredAt": "2023-07-17T14:10:01Z"
     },
     {
@@ -8015,6 +8015,20 @@
       "starredAt": "2024-12-25T21:20:21Z"
     },
     {
+      "repo": "li88iioo/Photonix",
+      "url": "https://github.com/li88iioo/Photonix",
+      "description": "Photonix是支持AI对话与多源订阅的极简智能相册画廊",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "claude-code",
+        "docker",
+        "photonix"
+      ],
+      "language": "JavaScript",
+      "stars": 112,
+      "starredAt": "2025-09-14T05:20:03Z"
+    },
+    {
       "repo": "zywe03/astro-xwnav",
       "url": "https://github.com/zywe03/astro-xwnav",
       "description": "Astro xwnav是零后端静态导航站，支持智能搜索与自动图标分类生成",
@@ -8029,20 +8043,6 @@
       "language": "Astro",
       "stars": 110,
       "starredAt": "2025-11-08T06:26:41Z"
-    },
-    {
-      "repo": "li88iioo/Photonix",
-      "url": "https://github.com/li88iioo/Photonix",
-      "description": "Photonix是支持AI对话与多源订阅的极简智能相册画廊",
-      "category": "网站/CMS/博客",
-      "topics": [
-        "claude-code",
-        "docker",
-        "photonix"
-      ],
-      "language": "JavaScript",
-      "stars": 108,
-      "starredAt": "2025-09-14T05:20:03Z"
     },
     {
       "repo": "CalmXin/xin-whois",
@@ -8265,19 +8265,6 @@
       "starredAt": "2026-01-18T03:49:45Z"
     },
     {
-      "repo": "posir/daohang-templates",
-      "url": "https://github.com/posir/daohang-templates",
-      "description": "这是一个收录导航页、跳转页和APP下载页的纯HTML模板合集",
-      "category": "网站/CMS/博客",
-      "topics": [
-        "daohang",
-        "templates"
-      ],
-      "language": "CSS",
-      "stars": 47,
-      "starredAt": "2024-10-13T01:03:03Z"
-    },
-    {
       "repo": "nodeauth/2fauth-worker",
       "url": "https://github.com/nodeauth/2fauth-worker",
       "description": "支持 Cloudflare 与 Docker 部署的 2FA/TOTP 密钥管理与多通道备份系统",
@@ -8290,8 +8277,21 @@
         "docker"
       ],
       "language": "TypeScript",
-      "stars": 46,
+      "stars": 48,
       "starredAt": "2026-05-12T13:37:34Z"
+    },
+    {
+      "repo": "posir/daohang-templates",
+      "url": "https://github.com/posir/daohang-templates",
+      "description": "这是一个收录导航页、跳转页和APP下载页的纯HTML模板合集",
+      "category": "网站/CMS/博客",
+      "topics": [
+        "daohang",
+        "templates"
+      ],
+      "language": "CSS",
+      "stars": 47,
+      "starredAt": "2024-10-13T01:03:03Z"
     },
     {
       "repo": "MaZhaolin/Next-theme-for-WordPress",
@@ -8622,7 +8622,7 @@
         "newapi"
       ],
       "language": "Go",
-      "stars": 32826,
+      "stars": 33115,
       "starredAt": "2026-04-20T07:21:26Z"
     },
     {
@@ -8639,7 +8639,7 @@
         "antigravity"
       ],
       "language": "Go",
-      "stars": 32314,
+      "stars": 32520,
       "starredAt": "2025-12-20T21:11:13Z"
     },
     {
@@ -8652,7 +8652,7 @@
         "antigravity"
       ],
       "language": "Rust",
-      "stars": 29010,
+      "stars": 29033,
       "starredAt": "2025-12-23T02:32:14Z"
     },
     {
@@ -8672,7 +8672,7 @@
         "crs2"
       ],
       "language": "Go",
-      "stars": 20263,
+      "stars": 20573,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
@@ -8703,7 +8703,7 @@
         "token-saver"
       ],
       "language": "JavaScript",
-      "stars": 9284,
+      "stars": 9834,
       "starredAt": "2026-05-12T11:43:12Z"
     },
     {
@@ -8718,7 +8718,7 @@
         "grok-4-3"
       ],
       "language": "Python",
-      "stars": 4819,
+      "stars": 4834,
       "starredAt": "2026-02-07T22:43:06Z"
     },
     {
@@ -8734,7 +8734,7 @@
         "token"
       ],
       "language": "TypeScript",
-      "stars": 4788,
+      "stars": 4794,
       "starredAt": "2026-03-14T23:54:12Z"
     },
     {
@@ -8754,7 +8754,7 @@
         "claude-code"
       ],
       "language": "Python",
-      "stars": 4742,
+      "stars": 4751,
       "starredAt": "2025-10-23T00:53:15Z"
     },
     {
@@ -8769,7 +8769,7 @@
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4389,
+      "stars": 4393,
       "starredAt": "2026-01-16T18:26:07Z"
     },
     {
@@ -8794,7 +8794,7 @@
         "openai-api"
       ],
       "language": "Go",
-      "stars": 4236,
+      "stars": 4349,
       "starredAt": "2026-03-29T15:25:23Z"
     },
     {
@@ -8820,7 +8820,7 @@
         "deepseek"
       ],
       "language": "Go",
-      "stars": 3718,
+      "stars": 3733,
       "starredAt": "2025-11-11T13:50:07Z"
     },
     {
@@ -8833,7 +8833,7 @@
         "claude-code"
       ],
       "language": "TypeScript",
-      "stars": 2810,
+      "stars": 2820,
       "starredAt": "2025-10-24T12:01:49Z"
     },
     {
@@ -8847,7 +8847,7 @@
         "metapi"
       ],
       "language": "TypeScript",
-      "stars": 2483,
+      "stars": 2503,
       "starredAt": "2026-03-07T11:40:53Z"
     },
     {
@@ -8862,23 +8862,8 @@
         "chatgpt2api"
       ],
       "language": "TypeScript",
-      "stars": 2363,
+      "stars": 2416,
       "starredAt": "2026-04-29T19:22:26Z"
-    },
-    {
-      "repo": "TheSmallHanCat/flow2api",
-      "url": "https://github.com/TheSmallHanCat/flow2api",
-      "description": "Flow2API是为Flow提供文图与视频生成的OpenAI兼容API服务",
-      "category": "逆向2API/AI网关",
-      "topics": [
-        "docker",
-        "api-gateway",
-        "python",
-        "flow2api"
-      ],
-      "language": "Python",
-      "stars": 2302,
-      "starredAt": "2025-12-20T06:43:29Z"
     },
     {
       "repo": "dwgx/WindsurfAPI",
@@ -8893,8 +8878,23 @@
         "windsurf"
       ],
       "language": "JavaScript",
-      "stars": 2290,
+      "stars": 2328,
       "starredAt": "2026-04-26T00:56:35Z"
+    },
+    {
+      "repo": "TheSmallHanCat/flow2api",
+      "url": "https://github.com/TheSmallHanCat/flow2api",
+      "description": "Flow2API是为Flow提供文图与视频生成的OpenAI兼容API服务",
+      "category": "逆向2API/AI网关",
+      "topics": [
+        "docker",
+        "api-gateway",
+        "python",
+        "flow2api"
+      ],
+      "language": "Python",
+      "stars": 2311,
+      "starredAt": "2025-12-20T06:43:29Z"
     },
     {
       "repo": "bestruirui/octopus",
@@ -8913,7 +8913,7 @@
         "llm-gateway"
       ],
       "language": "TypeScript",
-      "stars": 2119,
+      "stars": 2124,
       "starredAt": "2025-12-19T18:52:59Z"
     },
     {
@@ -8929,7 +8929,7 @@
         "cursor"
       ],
       "language": "TypeScript",
-      "stars": 1792,
+      "stars": 1796,
       "starredAt": "2026-03-29T16:58:51Z"
     },
     {
@@ -8945,7 +8945,7 @@
         "kiro"
       ],
       "language": "Rust",
-      "stars": 1288,
+      "stars": 1316,
       "starredAt": "2026-01-06T12:49:36Z"
     },
     {
@@ -8961,7 +8961,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 1124,
+      "stars": 1130,
       "starredAt": "2025-12-13T04:11:30Z"
     },
     {
@@ -8979,7 +8979,7 @@
         "claude-code"
       ],
       "language": "Go",
-      "stars": 1019,
+      "stars": 1020,
       "starredAt": "2025-10-03T08:25:42Z"
     },
     {
@@ -8995,7 +8995,7 @@
         "golang"
       ],
       "language": "Go",
-      "stars": 596,
+      "stars": 600,
       "starredAt": "2026-01-06T03:46:03Z"
     },
     {
@@ -9011,7 +9011,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 588,
+      "stars": 594,
       "starredAt": "2026-03-18T01:19:34Z"
     },
     {
@@ -9027,7 +9027,7 @@
         "python"
       ],
       "language": "Python",
-      "stars": 567,
+      "stars": 569,
       "starredAt": "2026-03-09T15:39:21Z"
     },
     {
@@ -9043,7 +9043,7 @@
         "browser-automation"
       ],
       "language": "TypeScript",
-      "stars": 476,
+      "stars": 483,
       "starredAt": "2026-01-20T17:20:50Z"
     },
     {
@@ -9101,7 +9101,7 @@
         "ccload"
       ],
       "language": "Go",
-      "stars": 293,
+      "stars": 296,
       "starredAt": "2026-04-13T05:53:37Z"
     },
     {
@@ -9188,7 +9188,7 @@
         "cli"
       ],
       "language": "JavaScript",
-      "stars": 44,
+      "stars": 46,
       "starredAt": "2026-04-20T07:23:17Z"
     },
     {
@@ -9222,7 +9222,7 @@
         "openai-2api"
       ],
       "language": "Go",
-      "stars": 28,
+      "stars": 29,
       "starredAt": "2026-04-22T10:52:16Z"
     },
     {
@@ -9305,7 +9305,7 @@
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 117643,
+      "stars": 117873,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -9328,7 +9328,7 @@
         "vpn"
       ],
       "language": "Kotlin",
-      "stars": 55961,
+      "stars": 56014,
       "starredAt": "2022-10-11T09:41:36Z"
     },
     {
@@ -9347,7 +9347,7 @@
         "virtualization"
       ],
       "language": "Shell",
-      "stars": 51331,
+      "stars": 51337,
       "starredAt": "2024-03-12T01:34:33Z"
     },
     {
@@ -9360,7 +9360,7 @@
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 39306,
+      "stars": 39362,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
@@ -9390,7 +9390,7 @@
         "nodes"
       ],
       "language": "Go",
-      "stars": 36898,
+      "stars": 37023,
       "starredAt": "2024-06-05T23:32:13Z"
     },
     {
@@ -9403,7 +9403,7 @@
         "android"
       ],
       "language": "Kotlin",
-      "stars": 36641,
+      "stars": 36638,
       "starredAt": "2019-08-02T07:26:09Z"
     },
     {
@@ -9429,7 +9429,7 @@
         "nps"
       ],
       "language": "Go",
-      "stars": 34057,
+      "stars": 34055,
       "starredAt": "2022-11-07T09:53:39Z"
     },
     {
@@ -9458,7 +9458,7 @@
         "wireguard"
       ],
       "language": "Dart",
-      "stars": 29555,
+      "stars": 29594,
       "starredAt": "2024-06-06T12:15:59Z"
     },
     {
@@ -9474,7 +9474,7 @@
         "http"
       ],
       "language": "Python",
-      "stars": 23340,
+      "stars": 23341,
       "starredAt": "2024-06-23T09:19:02Z"
     },
     {
@@ -9505,7 +9505,7 @@
         "self-hosted"
       ],
       "language": "Go",
-      "stars": 21274,
+      "stars": 21279,
       "starredAt": "2025-01-01T12:19:08Z"
     },
     {
@@ -9536,7 +9536,7 @@
         "caddy"
       ],
       "language": "C",
-      "stars": 20525,
+      "stars": 20526,
       "starredAt": "2023-09-14T16:55:29Z"
     },
     {
@@ -9552,7 +9552,7 @@
         "xray-panel"
       ],
       "language": "JavaScript",
-      "stars": 18971,
+      "stars": 18975,
       "starredAt": "2022-09-21T04:13:44Z"
     },
     {
@@ -9570,7 +9570,7 @@
         "vpn"
       ],
       "language": "C++",
-      "stars": 16730,
+      "stars": 16731,
       "starredAt": "2024-06-07T05:28:15Z"
     },
     {
@@ -9587,7 +9587,7 @@
         "security"
       ],
       "language": "Go",
-      "stars": 13757,
+      "stars": 13768,
       "starredAt": "2024-04-07T03:11:42Z"
     },
     {
@@ -9604,7 +9604,7 @@
         "fiddler"
       ],
       "language": "Dart",
-      "stars": 13092,
+      "stars": 13097,
       "starredAt": "2023-09-06T23:19:32Z"
     },
     {
@@ -9620,7 +9620,7 @@
         "cli"
       ],
       "language": "",
-      "stars": 12944,
+      "stars": 12953,
       "starredAt": "2026-04-11T06:37:37Z"
     },
     {
@@ -9638,7 +9638,7 @@
         "gfw"
       ],
       "language": "",
-      "stars": 12089,
+      "stars": 12090,
       "starredAt": "2022-10-08T01:13:29Z"
     },
     {
@@ -9665,7 +9665,7 @@
         "linux-distribution"
       ],
       "language": "Shell",
-      "stars": 11825,
+      "stars": 11839,
       "starredAt": "2024-11-27T04:34:01Z"
     },
     {
@@ -9705,7 +9705,7 @@
         "ssr"
       ],
       "language": "JavaScript",
-      "stars": 9535,
+      "stars": 9542,
       "starredAt": "2024-06-23T12:36:40Z"
     },
     {
@@ -9720,7 +9720,7 @@
         "jsproxy"
       ],
       "language": "Shell",
-      "stars": 9347,
+      "stars": 9346,
       "starredAt": "2019-09-06T04:20:53Z"
     },
     {
@@ -9735,7 +9735,7 @@
         "telegram-bot"
       ],
       "language": "JavaScript",
-      "stars": 7385,
+      "stars": 7386,
       "starredAt": "2024-05-11T06:27:48Z"
     },
     {
@@ -9766,7 +9766,7 @@
         "goecs"
       ],
       "language": "Shell",
-      "stars": 6801,
+      "stars": 6803,
       "starredAt": "2024-04-20T04:45:18Z"
     },
     {
@@ -9782,7 +9782,7 @@
         "crawler"
       ],
       "language": "Python",
-      "stars": 6647,
+      "stars": 6648,
       "starredAt": "2025-10-27T09:59:25Z"
     },
     {
@@ -9804,7 +9804,7 @@
         "performance"
       ],
       "language": "Shell",
-      "stars": 6404,
+      "stars": 6403,
       "starredAt": "2023-11-25T03:14:04Z"
     },
     {
@@ -9871,7 +9871,7 @@
         "vless"
       ],
       "language": "PHP",
-      "stars": 5007,
+      "stars": 5008,
       "starredAt": "2022-09-20T09:06:48Z"
     },
     {
@@ -9885,7 +9885,7 @@
         "v2ray"
       ],
       "language": "Go",
-      "stars": 4860,
+      "stars": 4861,
       "starredAt": "2026-02-27T08:05:28Z"
     },
     {
@@ -9916,7 +9916,7 @@
         "sap"
       ],
       "language": "Shell",
-      "stars": 4855,
+      "stars": 4860,
       "starredAt": "2025-11-05T09:21:40Z"
     },
     {
@@ -9951,7 +9951,7 @@
         "tunnel"
       ],
       "language": "Shell",
-      "stars": 4588,
+      "stars": 4591,
       "starredAt": "2025-07-08T22:31:17Z"
     },
     {
@@ -9982,7 +9982,7 @@
         "throne"
       ],
       "language": "Shell",
-      "stars": 4534,
+      "stars": 4545,
       "starredAt": "2024-05-10T17:02:51Z"
     },
     {
@@ -10006,7 +10006,7 @@
         "wireguard"
       ],
       "language": "Shell",
-      "stars": 4513,
+      "stars": 4514,
       "starredAt": "2024-05-28T05:52:34Z"
     },
     {
@@ -10050,7 +10050,7 @@
         "telegram-bot"
       ],
       "language": "C#",
-      "stars": 4452,
+      "stars": 4453,
       "starredAt": "2026-03-02T12:18:52Z"
     },
     {
@@ -10067,7 +10067,7 @@
         "dockerfiles"
       ],
       "language": "Svelte",
-      "stars": 4222,
+      "stars": 4246,
       "starredAt": "2026-02-25T03:51:13Z"
     },
     {
@@ -10114,7 +10114,7 @@
         "web"
       ],
       "language": "TypeScript",
-      "stars": 3705,
+      "stars": 3709,
       "starredAt": "2024-01-22T10:16:48Z"
     },
     {
@@ -10133,7 +10133,7 @@
         "ubuntu"
       ],
       "language": "Shell",
-      "stars": 3493,
+      "stars": 3494,
       "starredAt": "2022-08-12T10:36:46Z"
     },
     {
@@ -10150,7 +10150,7 @@
         "aria2c"
       ],
       "language": "Shell",
-      "stars": 3441,
+      "stars": 3440,
       "starredAt": "2019-08-02T05:12:53Z"
     },
     {
@@ -10201,7 +10201,7 @@
         "gitea"
       ],
       "language": "Go",
-      "stars": 2748,
+      "stars": 2750,
       "starredAt": "2024-06-23T12:20:48Z"
     },
     {
@@ -10248,7 +10248,7 @@
         "windsurf"
       ],
       "language": "Python",
-      "stars": 2134,
+      "stars": 2152,
       "starredAt": "2026-03-20T01:30:21Z"
     },
     {
@@ -10293,7 +10293,7 @@
         "ssh"
       ],
       "language": "Vue",
-      "stars": 1961,
+      "stars": 1962,
       "starredAt": "2022-06-09T08:23:40Z"
     },
     {
@@ -10323,7 +10323,7 @@
         "misub"
       ],
       "language": "JavaScript",
-      "stars": 1849,
+      "stars": 1854,
       "starredAt": "2025-10-27T13:51:41Z"
     },
     {
@@ -10339,7 +10339,7 @@
         "vue3"
       ],
       "language": "TypeScript",
-      "stars": 1769,
+      "stars": 1775,
       "starredAt": "2026-04-09T19:37:22Z"
     },
     {
@@ -10355,7 +10355,7 @@
         "dash"
       ],
       "language": "TypeScript",
-      "stars": 1681,
+      "stars": 1682,
       "starredAt": "2024-10-13T04:10:40Z"
     },
     {
@@ -10372,7 +10372,7 @@
         "mtp"
       ],
       "language": "Shell",
-      "stars": 1624,
+      "stars": 1622,
       "starredAt": "2024-12-14T09:09:14Z"
     },
     {
@@ -10413,7 +10413,7 @@
         "samwaf"
       ],
       "language": "Go",
-      "stars": 1407,
+      "stars": 1409,
       "starredAt": "2025-01-01T08:10:24Z"
     },
     {
@@ -10426,7 +10426,7 @@
         "wechat-backup"
       ],
       "language": "",
-      "stars": 1332,
+      "stars": 1331,
       "starredAt": "2024-11-26T07:57:04Z"
     },
     {
@@ -10439,7 +10439,7 @@
         "alistliteandroid"
       ],
       "language": "JavaScript",
-      "stars": 1238,
+      "stars": 1240,
       "starredAt": "2024-06-04T09:32:20Z"
     },
     {
@@ -10454,7 +10454,7 @@
         "sublinkpro"
       ],
       "language": "Go",
-      "stars": 1201,
+      "stars": 1198,
       "starredAt": "2026-01-15T12:35:01Z"
     },
     {
@@ -10476,7 +10476,7 @@
         "zero-trust"
       ],
       "language": "Shell",
-      "stars": 1121,
+      "stars": 1133,
       "starredAt": "2026-03-23T05:00:33Z"
     },
     {
@@ -10492,7 +10492,7 @@
         "v2board"
       ],
       "language": "PHP",
-      "stars": 1105,
+      "stars": 1107,
       "starredAt": "2024-06-23T06:09:02Z"
     },
     {
@@ -10552,7 +10552,7 @@
         "api-gateway"
       ],
       "language": "JavaScript",
-      "stars": 790,
+      "stars": 793,
       "starredAt": "2026-03-04T09:32:34Z"
     },
     {
@@ -10565,7 +10565,7 @@
         "miaomiaowu"
       ],
       "language": "TypeScript",
-      "stars": 748,
+      "stars": 752,
       "starredAt": "2025-10-21T12:51:54Z"
     },
     {
@@ -10578,7 +10578,7 @@
         "btpanel"
       ],
       "language": "Shell",
-      "stars": 743,
+      "stars": 744,
       "starredAt": "2022-11-12T09:15:53Z"
     },
     {
@@ -10590,7 +10590,7 @@
         "deadpool"
       ],
       "language": "Go",
-      "stars": 675,
+      "stars": 677,
       "starredAt": "2024-10-16T08:49:24Z"
     },
     {
@@ -10780,7 +10780,7 @@
         "linux"
       ],
       "language": "Shell",
-      "stars": 315,
+      "stars": 316,
       "starredAt": "2022-07-26T22:38:48Z"
     },
     {
@@ -10857,7 +10857,7 @@
         "termux"
       ],
       "language": "C",
-      "stars": 210,
+      "stars": 217,
       "starredAt": "2024-11-27T04:29:36Z"
     },
     {
@@ -10916,7 +10916,7 @@
         "automation"
       ],
       "language": "Python",
-      "stars": 164,
+      "stars": 167,
       "starredAt": "2026-05-07T18:43:58Z"
     },
     {
@@ -10932,7 +10932,7 @@
         "golang"
       ],
       "language": "Go",
-      "stars": 122,
+      "stars": 123,
       "starredAt": "2026-03-16T12:17:05Z"
     },
     {
