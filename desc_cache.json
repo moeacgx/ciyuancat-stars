@@ -6097,5 +6097,15 @@
       "ai-gateway",
       "anthropic"
     ]
+  },
+  "liuzi6612/nav": {
+    "zh_desc": "纯静态SEO导航站，集成800+网址、书签导入导出、AI翻译和后台管理",
+    "auto_tags": [
+      "nav",
+      "navigation",
+      "angular",
+      "ng-zorro-antd",
+      "netlify"
+    ]
   }
 }
