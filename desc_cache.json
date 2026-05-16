@@ -6107,5 +6107,22 @@
       "ng-zorro-antd",
       "netlify"
     ]
+  },
+  "TeleBoxOrg/TeleBox": {
+    "zh_desc": "TeleBox是基于Node.js与TypeScript的Telegram UserBot插件开发框架，支持热重载与命令管理",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "plugin",
+      "typescript",
+      "telebox"
+    ]
+  },
+  "QLHazyCoder/FlowPilot": {
+    "zh_desc": "FlowPilot是批量跑通ChatGPT OAuth注册登录与验证码收取的Chrome扩展",
+    "auto_tags": [
+      "codex",
+      "flowpilot"
+    ]
   }
 }
