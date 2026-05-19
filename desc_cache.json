@@ -6124,5 +6124,25 @@
       "codex",
       "flowpilot"
     ]
+  },
+  "chaitin/MonkeyCode": {
+    "zh_desc": "MonkeyCode是云端AI开发平台，可写代码跑命令并接入Git协作",
+    "auto_tags": [
+      "ai",
+      "coding",
+      "aicodeassistant",
+      "aicoding",
+      "ai-coding"
+    ]
+  },
+  "Ray-D-Song/mico": {
+    "zh_desc": "Mico是跨服务器迁移Docker容器并一键备份恢复的CLI工具",
+    "auto_tags": [
+      "docker",
+      "cli",
+      "rag",
+      "golang",
+      "mico"
+    ]
   }
 }
