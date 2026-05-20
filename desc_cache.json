@@ -6144,5 +6144,15 @@
       "golang",
       "mico"
     ]
+  },
+  "AQBot-Desktop/AQBot": {
+    "zh_desc": "AQBot是集多模型对话、代理执行和本地API网关于一体的桌面端",
+    "auto_tags": [
+      "ai",
+      "ai-client",
+      "ai-desktop",
+      "ai-platform",
+      "openclaw"
+    ]
   }
 }
