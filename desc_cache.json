@@ -6154,5 +6154,25 @@
       "ai-platform",
       "openclaw"
     ]
+  },
+  "mrslimslim/gpt-image-canvas": {
+    "zh_desc": "本地GPT图像画布：支持提示词生成、参考图多步Agent规划与本地项目管理",
+    "auto_tags": [
+      "ai",
+      "ai-tools",
+      "aiimagegenerator",
+      "cloudflare",
+      "workers"
+    ]
+  },
+  "Wangzx233/Meridian": {
+    "zh_desc": "Meridian是管理多设备Codex CLI任务的Web控制台，支持项目切换与会话续跑",
+    "auto_tags": [
+      "openclaw",
+      "codex",
+      "ai-agent",
+      "cli",
+      "golang"
+    ]
   }
 }
