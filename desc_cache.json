@@ -6174,5 +6174,25 @@
       "cli",
       "golang"
     ]
+  },
+  "RoseKhlifa/Image-Studio": {
+    "zh_desc": "Image Studio桌面端支持SSE保活与图像生成编辑，含Konva画板和双API切换",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "api-gateway",
+      "golang",
+      "image"
+    ]
+  },
+  "hloolx/HloolMail": {
+    "zh_desc": "HLOOLMail是自托管临时邮箱与私有域名收信平台，支持SMTP catch-all、Webhook、API Key和CLI自动化收信",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "docker",
+      "cli",
+      "rag"
+    ]
   }
 }
