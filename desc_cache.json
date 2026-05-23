@@ -6194,5 +6194,15 @@
       "cli",
       "rag"
     ]
+  },
+  "Rain-kl/OpenFlare": {
+    "zh_desc": "OpenFlare是自托管OpenResty控制面，管理反代发布、节点同步与TLS证书",
+    "auto_tags": [
+      "cdn",
+      "distributed-systems",
+      "golang",
+      "network",
+      "nextjs"
+    ]
   }
 }
