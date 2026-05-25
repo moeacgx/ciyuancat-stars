@@ -6204,5 +6204,33 @@
       "network",
       "nextjs"
     ]
+  },
+  "imw61/tokennote": {
+    "zh_desc": "TokenNote桌面应用集中监控NewAPI等多站点余额消耗趋势与悬浮窗告警",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "api-gateway",
+      "rust",
+      "typescript"
+    ]
+  },
+  "FakeOAI/tokens": {
+    "zh_desc": "Tokens号池管理平台，统一转OpenAI、Anthropic、Gemini接口并支持Claude Code等终端调用",
+    "auto_tags": [
+      "grok2api",
+      "claude2api",
+      "cursor2api",
+      "gemini2api",
+      "codex2api"
+    ]
+  },
+  "FoundZiGu/GuJumpgate": {
+    "zh_desc": "GuJumpgate浏览器扩展可自动注册GPT Plus并完成PayPal激活与OAuth回调导出JSON",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "gujumpgate"
+    ]
   }
 }
