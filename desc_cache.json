@@ -6232,5 +6232,24 @@
       "workers",
       "gujumpgate"
     ]
+  },
+  "BigPizzaV3/CodexPlusPlus": {
+    "zh_desc": "CodexPlusPlus是Codex App外部增强启动器，支持脚本注入与管理面板",
+    "auto_tags": [
+      "codex",
+      "api-gateway",
+      "rust",
+      "tauri",
+      "codexplusplus"
+    ]
+  },
+  "jiujiu532/grok2api": {
+    "zh_desc": "基于FastAPI的Grok网关，提供OpenAI兼容接口、多账号池与文图视频生成能力",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "python",
+      "grok2api"
+    ]
   }
 }
