@@ -6251,5 +6251,11 @@
       "python",
       "grok2api"
     ]
+  },
+  "lshl-520/RuoBai": {
+    "zh_desc": "RuoBai RuoBai 是一个私人 AI 伴侣项目，重点不是做一个万能聊天框，而是做一个能长期陪伴、能记住你、能按角色关系慢慢相处的小型网站",
+    "auto_tags": [
+      "ruobai"
+    ]
   }
 }
