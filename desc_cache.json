@@ -6257,5 +6257,15 @@
     "auto_tags": [
       "ruobai"
     ]
+  },
+  "cloveric/tarocub": {
+    "zh_desc": "TaroCub将本地Codex等CLI代理接入Telegram和飞书做持久远控",
+    "auto_tags": [
+      "ai",
+      "automation",
+      "cli",
+      "codex",
+      "developer-tools"
+    ]
   }
 }
