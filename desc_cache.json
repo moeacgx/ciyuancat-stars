@@ -6267,5 +6267,15 @@
       "codex",
       "developer-tools"
     ]
+  },
+  "tradecatlabs/vibe-coding-cn": {
+    "zh_desc": "中文AI结对编程教程，教你用提示词、技能和质量门禁跑通产品闭环",
+    "auto_tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "prompts"
+    ]
   }
 }
