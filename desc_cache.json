@@ -6277,5 +6277,15 @@
       "codex",
       "prompts"
     ]
+  },
+  "hwttop5/api-relay-rank": {
+    "zh_desc": "中文AI中转站监视站，提供排名倍率公告与安全审计结果",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "python",
+      "knowledge-management",
+      "relay"
+    ]
   }
 }
