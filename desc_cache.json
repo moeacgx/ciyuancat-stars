@@ -6287,5 +6287,15 @@
       "knowledge-management",
       "relay"
     ]
+  },
+  "FuKun0113/shenghui-ai-voice-studio": {
+    "zh_desc": "Flutter语音工作室，支持文本转语音、音色设计与声音克隆",
+    "auto_tags": [
+      "ai-voice",
+      "android",
+      "dart",
+      "flutter",
+      "mimo"
+    ]
   }
 }
