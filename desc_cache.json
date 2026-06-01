@@ -6297,5 +6297,13 @@
       "flutter",
       "mimo"
     ]
+  },
+  "happy-loki/codex-remote": {
+    "zh_desc": "本地桥接 Codex App 与飞书，支持线程同步和审批控制",
+    "auto_tags": [
+      "codex",
+      "cli",
+      "remote"
+    ]
   }
 }
