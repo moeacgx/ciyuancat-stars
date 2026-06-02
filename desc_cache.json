@@ -6305,5 +6305,15 @@
       "cli",
       "remote"
     ]
+  },
+  "basketikun/infinite-canvas": {
+    "zh_desc": "面向AI图片创作的开源无限画布，集成生图、参考图编辑与提示词库",
+    "auto_tags": [
+      "docker",
+      "api-gateway",
+      "golang",
+      "knowledge-management",
+      "infinite"
+    ]
   }
 }
