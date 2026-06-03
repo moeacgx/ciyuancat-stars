@@ -6315,5 +6315,15 @@
       "knowledge-management",
       "infinite"
     ]
+  },
+  "baoweise-bot/aimili-vpngate": {
+    "zh_desc": "AimiliVPN是基于VPNGate协议的纯Python代理网关，支持并发测速与智能切换",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "api-gateway",
+      "python",
+      "aimili"
+    ]
   }
 }
