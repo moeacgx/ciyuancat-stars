@@ -6325,5 +6325,15 @@
       "python",
       "aimili"
     ]
+  },
+  "KunMoe/kun-touchgal-next": {
+    "zh_desc": "TouchGal是集Galgame论坛交流与游戏下载于一体的社区",
+    "auto_tags": [
+      "argon2",
+      "aws-s3",
+      "cloudflare-workers",
+      "eslint",
+      "jwt"
+    ]
   }
 }
