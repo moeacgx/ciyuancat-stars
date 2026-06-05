@@ -6335,5 +6335,15 @@
       "eslint",
       "jwt"
     ]
+  },
+  "waooAI/waoowaoo": {
+    "zh_desc": "短剧漫画影视制作工具，可将小说自动生成分镜角色场景与配音视频",
+    "auto_tags": [
+      "ai-agent",
+      "ai-agents",
+      "film-production",
+      "generative-ai",
+      "short-drama"
+    ]
   }
 }
