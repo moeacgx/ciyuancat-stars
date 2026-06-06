@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-06-07T05:04:40",
+  "generatedAt": "2026-06-07T05:07:44",
   "total": 673,
   "categories": {
     "AI/Agents/Skills": 119,
@@ -26,7 +26,7 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 219585,
+      "stars": 219583,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -53,7 +53,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 184664,
+      "stars": 184663,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -139,7 +139,7 @@ window.__STAR_PAGE_DATA__ = {
         "realtime"
       ],
       "language": "Python",
-      "stars": 93644,
+      "stars": 93643,
       "starredAt": "2024-08-22T03:00:40Z"
     },
     {
@@ -208,7 +208,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 80428,
+      "stars": 80429,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -498,7 +498,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 21582,
+      "stars": 21581,
       "starredAt": "2026-01-01T11:55:23Z"
     },
     {
@@ -934,7 +934,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 5322,
+      "stars": 5323,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
@@ -3742,7 +3742,7 @@ window.__STAR_PAGE_DATA__ = {
         "jmcomic"
       ],
       "language": "Python",
-      "stars": 5946,
+      "stars": 5947,
       "starredAt": "2026-02-12T03:07:53Z"
     },
     {
@@ -4452,7 +4452,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "Python",
-      "stars": 61565,
+      "stars": 61566,
       "starredAt": "2026-03-24T11:23:56Z"
     },
     {
@@ -8929,7 +8929,7 @@ window.__STAR_PAGE_DATA__ = {
         "crs2"
       ],
       "language": "Go",
-      "stars": 25715,
+      "stars": 25716,
       "starredAt": "2026-01-05T19:59:49Z"
     },
     {
@@ -8960,7 +8960,7 @@ window.__STAR_PAGE_DATA__ = {
         "token-saver"
       ],
       "language": "JavaScript",
-      "stars": 16603,
+      "stars": 16602,
       "starredAt": "2026-05-12T11:43:12Z"
     },
     {
