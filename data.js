@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-06-08T05:04:24",
+  "generatedAt": "2026-06-08T05:07:36",
   "total": 673,
   "categories": {
     "AI/Agents/Skills": 119,
@@ -53,7 +53,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 185793,
+      "stars": 185798,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -169,7 +169,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 88481,
+      "stars": 88482,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -236,7 +236,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai-codex"
       ],
       "language": "Python",
-      "stars": 63607,
+      "stars": 63608,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -372,7 +372,7 @@ window.__STAR_PAGE_DATA__ = {
         "cli"
       ],
       "language": "TypeScript",
-      "stars": 30533,
+      "stars": 30535,
       "starredAt": "2026-04-10T07:19:41Z"
     },
     {
@@ -389,7 +389,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 27135,
+      "stars": 27139,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -4421,7 +4421,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 191496,
+      "stars": 191498,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
@@ -4635,7 +4635,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 20394,
+      "stars": 20396,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -4651,7 +4651,7 @@ window.__STAR_PAGE_DATA__ = {
         "codexplusplus"
       ],
       "language": "Rust",
-      "stars": 15164,
+      "stars": 15165,
       "starredAt": "2026-05-26T05:25:17Z"
     },
     {
@@ -9599,7 +9599,7 @@ window.__STAR_PAGE_DATA__ = {
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 123880,
+      "stars": 123881,
       "starredAt": "2026-02-07T07:48:00Z"
     },
     {
@@ -9654,7 +9654,7 @@ window.__STAR_PAGE_DATA__ = {
         "clashmetaforandroid"
       ],
       "language": "Kotlin",
-      "stars": 40869,
+      "stars": 40870,
       "starredAt": "2024-05-12T02:46:45Z"
     },
     {
