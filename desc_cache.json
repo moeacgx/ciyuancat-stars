@@ -6345,5 +6345,15 @@
       "generative-ai",
       "short-drama"
     ]
+  },
+  "SaladDay/cc-switch-cli": {
+    "zh_desc": "CC Switch CLI TUI + CLI dual mode manager for Claude Code, Codex, Gemini, OpenCo",
+    "auto_tags": [
+      "openclaw",
+      "codex",
+      "claude-code",
+      "mcp",
+      "webdav"
+    ]
   }
 }
