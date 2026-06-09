@@ -6347,7 +6347,7 @@
     ]
   },
   "SaladDay/cc-switch-cli": {
-    "zh_desc": "CC Switch CLI TUI + CLI dual mode manager for Claude Code, Codex, Gemini, OpenCo",
+    "zh_desc": "面向Claude Code等助手的TUI与CLI双模切换管理器",
     "auto_tags": [
       "openclaw",
       "codex",
