@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-06-10T05:04:28",
+  "generatedAt": "2026-06-10T05:08:25",
   "total": 674,
   "categories": {
     "开发工具/自动化": 90,
@@ -26,7 +26,7 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 222340,
+      "stars": 222342,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -53,7 +53,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 188700,
+      "stars": 188704,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -110,7 +110,7 @@ window.__STAR_PAGE_DATA__ = {
         "openapi"
       ],
       "language": "Python",
-      "stars": 140840,
+      "stars": 140841,
       "starredAt": "2025-10-19T05:08:22Z"
     },
     {
@@ -190,7 +190,7 @@ window.__STAR_PAGE_DATA__ = {
         "vibecoding"
       ],
       "language": "",
-      "stars": 88794,
+      "stars": 88795,
       "starredAt": "2026-04-24T17:10:38Z"
     },
     {
@@ -208,7 +208,7 @@ window.__STAR_PAGE_DATA__ = {
         "ai"
       ],
       "language": "Python",
-      "stars": 83568,
+      "stars": 83569,
       "starredAt": "2025-05-15T23:03:44Z"
     },
     {
@@ -290,7 +290,7 @@ window.__STAR_PAGE_DATA__ = {
         "rag"
       ],
       "language": "JavaScript",
-      "stars": 48845,
+      "stars": 48846,
       "starredAt": "2025-11-09T15:05:40Z"
     },
     {
@@ -588,7 +588,7 @@ window.__STAR_PAGE_DATA__ = {
         "notebooklm-skill"
       ],
       "language": "Python",
-      "stars": 16178,
+      "stars": 16179,
       "starredAt": "2026-01-15T02:26:13Z"
     },
     {
@@ -3304,7 +3304,7 @@ window.__STAR_PAGE_DATA__ = {
         "password"
       ],
       "language": "TypeScript",
-      "stars": 2587,
+      "stars": 2588,
       "starredAt": "2026-04-01T19:58:38Z"
     },
     {
@@ -4421,7 +4421,7 @@ window.__STAR_PAGE_DATA__ = {
         "mcp-server"
       ],
       "language": "TypeScript",
-      "stars": 191792,
+      "stars": 191791,
       "starredAt": "2025-04-23T05:20:57Z"
     },
     {
