@@ -6355,5 +6355,14 @@
       "mcp",
       "webdav"
     ]
+  },
+  "LearnPrompt/luban-skill": {
+    "zh_desc": "鲁班Luban是将Skill打磨为可安装可验证公共资产的工坊助手",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "plugin",
+      "luban"
+    ]
   }
 }
