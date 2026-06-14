@@ -6364,5 +6364,15 @@
       "plugin",
       "luban"
     ]
+  },
+  "EKKOLearnAI/hermes-studio": {
+    "zh_desc": "Hermes Studio 中文 A desktop app, local runtime, and web console for Hermes Agent",
+    "auto_tags": [
+      "ai-agent",
+      "chat-ui",
+      "dashboard",
+      "hermes-agent",
+      "llm"
+    ]
   }
 }
