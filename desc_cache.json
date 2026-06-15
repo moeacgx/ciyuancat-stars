@@ -6374,5 +6374,15 @@
       "hermes-agent",
       "llm"
     ]
+  },
+  "Anil-matcha/Seedance-2-API": {
+    "zh_desc": "Seedance2视频API封装，支持文生视频和图生高保真短片",
+    "auto_tags": [
+      "ai-video-generation",
+      "muapi",
+      "python-api-wrapper",
+      "seedance-2-api",
+      "seedance-api"
+    ]
   }
 }
