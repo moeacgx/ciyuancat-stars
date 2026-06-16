@@ -6384,5 +6384,13 @@
       "seedance-2-api",
       "seedance-api"
     ]
+  },
+  "Lzh-xbccz/hermes-finance": {
+    "zh_desc": "Hermes Finance是融合缠论的五大市场多维分析框架",
+    "auto_tags": [
+      "python",
+      "hermes",
+      "finance"
+    ]
   }
 }
