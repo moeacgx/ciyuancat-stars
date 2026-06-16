@@ -1,6 +1,6 @@
 window.__STAR_PAGE_DATA__ = {
   "title": "次元猫的 GitHub Star 收藏",
-  "generatedAt": "2026-06-17T05:10:10",
+  "generatedAt": "2026-06-17T05:13:44",
   "total": 676,
   "categories": {
     "开发工具/自动化": 91,
@@ -26,7 +26,7 @@ window.__STAR_PAGE_DATA__ = {
         "superpowers"
       ],
       "language": "Shell",
-      "stars": 229787,
+      "stars": 229790,
       "starredAt": "2025-12-26T01:25:17Z"
     },
     {
@@ -53,7 +53,7 @@ window.__STAR_PAGE_DATA__ = {
         "openclaw"
       ],
       "language": "Python",
-      "stars": 195274,
+      "stars": 195276,
       "starredAt": "2026-04-12T05:31:37Z"
     },
     {
@@ -169,7 +169,7 @@ window.__STAR_PAGE_DATA__ = {
         "trae"
       ],
       "language": "Python",
-      "stars": 92548,
+      "stars": 92550,
       "starredAt": "2026-01-20T14:40:48Z"
     },
     {
@@ -190,7 +190,7 @@ window.__STAR_PAGE_DATA__ = {
         "vibecoding"
       ],
       "language": "",
-      "stars": 90715,
+      "stars": 90716,
       "starredAt": "2026-04-24T17:10:38Z"
     },
     {
@@ -236,7 +236,7 @@ window.__STAR_PAGE_DATA__ = {
         "openai-codex"
       ],
       "language": "Python",
-      "stars": 64851,
+      "stars": 64852,
       "starredAt": "2025-12-25T13:59:48Z"
     },
     {
@@ -373,7 +373,7 @@ window.__STAR_PAGE_DATA__ = {
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 31088,
+      "stars": 31089,
       "starredAt": "2025-12-20T06:42:18Z"
     },
     {
@@ -472,7 +472,7 @@ window.__STAR_PAGE_DATA__ = {
         "claude-mobile"
       ],
       "language": "TypeScript",
-      "stars": 21990,
+      "stars": 21991,
       "starredAt": "2026-04-12T13:00:20Z"
     },
     {
@@ -514,7 +514,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflows"
       ],
       "language": "TypeScript",
-      "stars": 21790,
+      "stars": 21791,
       "starredAt": "2026-01-01T11:55:23Z"
     },
     {
@@ -959,7 +959,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "Shell",
-      "stars": 5440,
+      "stars": 5441,
       "starredAt": "2026-01-01T12:16:10Z"
     },
     {
@@ -4556,7 +4556,7 @@ window.__STAR_PAGE_DATA__ = {
         "freqtrade"
       ],
       "language": "Python",
-      "stars": 51540,
+      "stars": 51541,
       "starredAt": "2025-04-26T12:37:41Z"
     },
     {
@@ -4677,7 +4677,7 @@ window.__STAR_PAGE_DATA__ = {
         "workflow-automation"
       ],
       "language": "JavaScript",
-      "stars": 21108,
+      "stars": 21109,
       "starredAt": "2026-03-31T05:53:42Z"
     },
     {
@@ -4832,7 +4832,7 @@ window.__STAR_PAGE_DATA__ = {
         "livecontainer"
       ],
       "language": "Swift",
-      "stars": 8856,
+      "stars": 8857,
       "starredAt": "2025-09-01T12:59:30Z"
     },
     {
@@ -8932,7 +8932,7 @@ window.__STAR_PAGE_DATA__ = {
         "newapi"
       ],
       "language": "Go",
-      "stars": 39064,
+      "stars": 39065,
       "starredAt": "2026-04-20T07:21:26Z"
     },
     {
