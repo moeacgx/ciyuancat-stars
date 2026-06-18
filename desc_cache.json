@@ -6392,5 +6392,12 @@
       "hermes",
       "finance"
     ]
+  },
+  "HsukqiLee/Tsinbei-Blog": {
+    "zh_desc": "Typecho博客主题Kylin，支持响应式三栏和侧栏布局自定义",
+    "auto_tags": [
+      "tsinbei",
+      "blog"
+    ]
   }
 }
