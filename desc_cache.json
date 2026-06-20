@@ -6399,5 +6399,25 @@
       "tsinbei",
       "blog"
     ]
+  },
+  "logto-io/logto": {
+    "zh_desc": "Logto是开源认证平台，支持多租户、企业单点登录与权限管理",
+    "auto_tags": [
+      "authentication",
+      "authorization",
+      "identity",
+      "openid-connect",
+      "passwordless"
+    ]
+  },
+  "vibe-coding-labs/JoyCodeProxy": {
+    "zh_desc": "前端打包进 Go 二进制，丢一个文件就能跑，也支持 Docker 怎么跑起来 构建 需要 Go 1.22+ 和 Node.js 18+",
+    "auto_tags": [
+      "anthropic-api",
+      "api-gateway",
+      "claude-code",
+      "fastapi",
+      "llm"
+    ]
   }
 }
