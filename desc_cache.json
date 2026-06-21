@@ -6419,5 +6419,14 @@
       "fastapi",
       "llm"
     ]
+  },
+  "huilang-me/CF-Server-Monitor": {
+    "zh_desc": "CF多服务器监控探针，支持实时监测、历史图表、地图追踪与告警",
+    "auto_tags": [
+      "cloudflare",
+      "workers",
+      "server",
+      "monitor"
+    ]
   }
 }
