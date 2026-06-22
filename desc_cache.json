@@ -6428,5 +6428,14 @@
       "server",
       "monitor"
     ]
+  },
+  "yegou18/WC2026": {
+    "zh_desc": "世界杯AI投注决策系统，融合球队球员教练战术数据推演策略",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "python",
+      "wc2026"
+    ]
   }
 }
