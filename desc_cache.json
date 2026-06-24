@@ -6437,5 +6437,25 @@
       "python",
       "wc2026"
     ]
+  },
+  "zhaoxuya520/reverse-skill": {
+    "zh_desc": "面向逆向工程、安全分析与CTF的AI代理路由编排工具包",
+    "auto_tags": [
+      "claude-code",
+      "ai-agent",
+      "workflow-automation",
+      "cli",
+      "reverse"
+    ]
+  },
+  "happy-loki/codexhub": {
+    "zh_desc": "CodexHub让Codex接入多模型并支持飞书微信电报远控",
+    "auto_tags": [
+      "telegram",
+      "telegram-bot",
+      "wechat",
+      "codex",
+      "claude-code"
+    ]
   }
 }
