@@ -6457,5 +6457,25 @@
       "codex",
       "claude-code"
     ]
+  },
+  "ShadowHackrs/gmail-account-creator": {
+    "zh_desc": "自动创建Gmail账号的Python工具，含反检测与手机号验证绕过",
+    "auto_tags": [
+      "automation",
+      "browser-automation",
+      "python",
+      "gmail",
+      "account"
+    ]
+  },
+  "vibe-coding-labs/JoyCode2Api": {
+    "zh_desc": "JoyCode协议翻译器，打通Claude Code和Cursor接入多模型",
+    "auto_tags": [
+      "anthropic-api",
+      "api-gateway",
+      "claude-code",
+      "fastapi",
+      "llm"
+    ]
   }
 }
